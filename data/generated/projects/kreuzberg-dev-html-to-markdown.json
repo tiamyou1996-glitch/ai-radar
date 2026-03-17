@@ -1,0 +1,38 @@
+{
+  "slug": "kreuzberg-dev-html-to-markdown",
+  "featuredDate": "2026-03-17",
+  "fullName": "kreuzberg-dev/html-to-markdown",
+  "name": "html-to-markdown",
+  "owner": "kreuzberg-dev",
+  "repoUrl": "https://github.com/kreuzberg-dev/html-to-markdown",
+  "homepage": null,
+  "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR.",
+  "language": "HTML",
+  "stars": 575,
+  "forks": 50,
+  "openIssues": 5,
+  "createdAt": "2025-02-03T16:18:12Z",
+  "updatedAt": "2026-03-17T04:41:38Z",
+  "pushedAt": "2026-03-17T04:34:53Z",
+  "topics": [
+    "hocr",
+    "html",
+    "html-converter",
+    "markdown",
+    "markdown-converter",
+    "rag",
+    "text-extraction",
+    "text-processing"
+  ],
+  "summaryZh": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structured data from 56+ document formats using streaming parsers and built-in OCR. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 55,
+  "totalScore": 82
+}

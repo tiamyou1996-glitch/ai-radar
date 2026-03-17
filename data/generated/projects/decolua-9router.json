@@ -8,11 +8,11 @@
   "homepage": "https://9router.com",
   "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
   "language": "JavaScript",
-  "stars": 999,
+  "stars": 1003,
   "forks": 284,
   "openIssues": 116,
   "createdAt": "2026-01-05T02:59:30Z",
-  "updatedAt": "2026-03-17T03:46:06Z",
+  "updatedAt": "2026-03-17T04:37:35Z",
   "pushedAt": "2026-03-17T03:14:48Z",
   "topics": [
     "9router",

@@ -1,0 +1,39 @@
+{
+  "slug": "poco-ai-poco-claw",
+  "featuredDate": "2026-03-17",
+  "fullName": "poco-ai/poco-claw",
+  "name": "poco-claw",
+  "owner": "poco-ai",
+  "repoUrl": "https://github.com/poco-ai/poco-claw",
+  "homepage": "https://poco-ai.com",
+  "description": "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.",
+  "language": "TypeScript",
+  "stars": 1172,
+  "forks": 108,
+  "openIssues": 1,
+  "createdAt": "2026-01-08T10:48:17Z",
+  "updatedAt": "2026-03-17T04:35:57Z",
+  "pushedAt": "2026-03-17T04:35:53Z",
+  "topics": [
+    "agent",
+    "ai",
+    "chatbot",
+    "claude-code",
+    "clawdbot",
+    "manus",
+    "openclaw"
+  ],
+  "summaryZh": "A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 73,
+  "totalScore": 91
+}

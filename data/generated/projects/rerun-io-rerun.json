@@ -8,11 +8,11 @@
   "homepage": "https://rerun.io/",
   "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
   "language": "Rust",
-  "stars": 10361,
+  "stars": 10362,
   "forks": 690,
   "openIssues": 1341,
   "createdAt": "2022-04-08T07:30:05Z",
-  "updatedAt": "2026-03-17T03:04:52Z",
+  "updatedAt": "2026-03-17T04:25:41Z",
   "pushedAt": "2026-03-17T00:47:02Z",
   "topics": [
     "computer-vision",
