@@ -1,0 +1,38 @@
+{
+  "slug": "cortexreach-memory-lancedb-pro",
+  "featuredDate": "2026-03-17",
+  "fullName": "CortexReach/memory-lancedb-pro",
+  "name": "memory-lancedb-pro",
+  "owner": "CortexReach",
+  "repoUrl": "https://github.com/CortexReach/memory-lancedb-pro",
+  "homepage": "https://youtu.be/bhuGrjuCM_g",
+  "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+  "language": "TypeScript",
+  "stars": 2804,
+  "forks": 468,
+  "openIssues": 46,
+  "createdAt": "2026-02-24T08:38:15Z",
+  "updatedAt": "2026-03-17T02:56:53Z",
+  "pushedAt": "2026-03-17T02:56:23Z",
+  "topics": [
+    "lancedb",
+    "memory",
+    "openclaw",
+    "openclaw-agent",
+    "openclaw-plugin",
+    "rag"
+  ],
+  "summaryZh": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 74,
+  "totalScore": 93
+}

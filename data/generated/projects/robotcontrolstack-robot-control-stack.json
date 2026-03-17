@@ -1,0 +1,41 @@
+{
+  "slug": "robotcontrolstack-robot-control-stack",
+  "featuredDate": "2026-03-17",
+  "fullName": "RobotControlStack/robot-control-stack",
+  "name": "robot-control-stack",
+  "owner": "RobotControlStack",
+  "repoUrl": "https://github.com/RobotControlStack/robot-control-stack",
+  "homepage": "http://robotcontrolstack.org/",
+  "description": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101.",
+  "language": "Python",
+  "stars": 65,
+  "forks": 3,
+  "openIssues": 17,
+  "createdAt": "2024-02-29T12:40:59Z",
+  "updatedAt": "2026-03-16T21:32:37Z",
+  "pushedAt": "2026-03-16T20:58:38Z",
+  "topics": [
+    "franka",
+    "gymnasium",
+    "mujoco",
+    "reinforcement-learning",
+    "robot-learning",
+    "robot-manipulation",
+    "sim-to-real",
+    "vision-language-actions-models",
+    "vla-models"
+  ],
+  "summaryZh": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm, and SO101. 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 81,
+  "relevanceScore": 74,
+  "totalScore": 86
+}

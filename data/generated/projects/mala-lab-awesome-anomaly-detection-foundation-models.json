@@ -1,0 +1,39 @@
+{
+  "slug": "mala-lab-awesome-anomaly-detection-foundation-models",
+  "featuredDate": "2026-03-17",
+  "fullName": "mala-lab/Awesome-Anomaly-Detection-Foundation-Models",
+  "name": "Awesome-Anomaly-Detection-Foundation-Models",
+  "owner": "mala-lab",
+  "repoUrl": "https://github.com/mala-lab/Awesome-Anomaly-Detection-Foundation-Models",
+  "homepage": "",
+  "description": "A curated list of papers & resources on anomaly detection foundation models using large language model, vision-language model, graph foundation model, time series foundation model, etc",
+  "language": null,
+  "stars": 163,
+  "forks": 9,
+  "openIssues": 0,
+  "createdAt": "2025-03-13T08:16:37Z",
+  "updatedAt": "2026-03-17T02:39:34Z",
+  "pushedAt": "2026-03-17T02:39:31Z",
+  "topics": [
+    "anomaly-detection",
+    "foundation-models",
+    "large-language-models",
+    "multimodal-foundation-models",
+    "multimodal-large-language-models",
+    "time-series-foundation-models",
+    "vision-language-models"
+  ],
+  "summaryZh": "A curated list of papers & resources on anomaly detection foundation models using large language model, vision-language model, graph foundation model, time series foundation model, etc 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 82,
+  "relevanceScore": 66,
+  "totalScore": 85
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ericlbuehler-candle-vllm",
+  "featuredDate": "2026-03-17",
+  "fullName": "EricLBuehler/candle-vllm",
+  "name": "candle-vllm",
+  "owner": "EricLBuehler",
+  "repoUrl": "https://github.com/EricLBuehler/candle-vllm",
+  "homepage": null,
+  "description": "Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.",
+  "language": "Rust",
+  "stars": 611,
+  "forks": 70,
+  "openIssues": 38,
+  "createdAt": "2023-10-29T11:21:48Z",
+  "updatedAt": "2026-03-16T11:35:32Z",
+  "pushedAt": "2026-03-16T11:35:28Z",
+  "topics": [],
+  "summaryZh": "Efficent platform for inference and serving local LLMs including an OpenAI compatible API server. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 88,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 82
+}

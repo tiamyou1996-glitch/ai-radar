@@ -1,0 +1,43 @@
+{
+  "slug": "iaar-shanghai-awesome-ai-memory",
+  "featuredDate": "2026-03-17",
+  "fullName": "IAAR-Shanghai/Awesome-AI-Memory",
+  "name": "Awesome-AI-Memory",
+  "owner": "IAAR-Shanghai",
+  "repoUrl": "https://github.com/IAAR-Shanghai/Awesome-AI-Memory",
+  "homepage": "",
+  "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。",
+  "language": "Python",
+  "stars": 517,
+  "forks": 41,
+  "openIssues": 0,
+  "createdAt": "2025-12-01T14:23:20Z",
+  "updatedAt": "2026-03-17T03:00:04Z",
+  "pushedAt": "2026-03-17T02:59:59Z",
+  "topics": [
+    "agent-memory",
+    "ai-memory",
+    "ai-memory-system",
+    "awesome-ai-memory",
+    "continual-learning",
+    "llm-memory",
+    "long-term-memory",
+    "memory-augmented-models",
+    "memory-systems",
+    "rag",
+    "reasoning-over-time"
+  ],
+  "summaryZh": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 74,
+  "totalScore": 90
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "modeltc-lightllm",
+  "featuredDate": "2026-03-17",
+  "fullName": "ModelTC/LightLLM",
+  "name": "LightLLM",
+  "owner": "ModelTC",
+  "repoUrl": "https://github.com/ModelTC/LightLLM",
+  "homepage": null,
+  "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+  "language": "Python",
+  "stars": 3950,
+  "forks": 310,
+  "openIssues": 122,
+  "createdAt": "2023-07-22T08:11:15Z",
+  "updatedAt": "2026-03-17T00:25:03Z",
+  "pushedAt": "2026-03-16T11:03:04Z",
+  "topics": [
+    "deep-learning",
+    "gpt",
+    "llama",
+    "llm",
+    "model-serving",
+    "nlp",
+    "openai-triton"
+  ],
+  "summaryZh": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 88,
+  "qualityScore": 97,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

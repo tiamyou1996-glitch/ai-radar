@@ -1,0 +1,37 @@
+{
+  "slug": "rerun-io-rerun",
+  "featuredDate": "2026-03-17",
+  "fullName": "rerun-io/rerun",
+  "name": "rerun",
+  "owner": "rerun-io",
+  "repoUrl": "https://github.com/rerun-io/rerun",
+  "homepage": "https://rerun.io/",
+  "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
+  "language": "Rust",
+  "stars": 10361,
+  "forks": 690,
+  "openIssues": 1341,
+  "createdAt": "2022-04-08T07:30:05Z",
+  "updatedAt": "2026-03-17T03:04:52Z",
+  "pushedAt": "2026-03-17T00:47:02Z",
+  "topics": [
+    "computer-vision",
+    "cpp",
+    "multimodal",
+    "python",
+    "robotics",
+    "rust",
+    "visualization"
+  ],
+  "summaryZh": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

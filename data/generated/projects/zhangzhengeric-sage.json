@@ -1,0 +1,37 @@
+{
+  "slug": "zhangzhengeric-sage",
+  "featuredDate": "2026-03-17",
+  "fullName": "ZHangZHengEric/Sage",
+  "name": "Sage",
+  "owner": "ZHangZHengEric",
+  "repoUrl": "https://github.com/ZHangZHengEric/Sage",
+  "homepage": "https://deepwiki.com/ZHangZHengEric/Sage",
+  "description": "Multi-Agent System Framework For Complex Tasks",
+  "language": "Python",
+  "stars": 835,
+  "forks": 64,
+  "openIssues": 2,
+  "createdAt": "2025-05-25T05:33:11Z",
+  "updatedAt": "2026-03-17T03:05:04Z",
+  "pushedAt": "2026-03-17T03:05:01Z",
+  "topics": [
+    "agents",
+    "ai",
+    "llm",
+    "manus",
+    "muilt-agents",
+    "workflow"
+  ],
+  "summaryZh": "Multi-Agent System Framework For Complex Tasks 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 94,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

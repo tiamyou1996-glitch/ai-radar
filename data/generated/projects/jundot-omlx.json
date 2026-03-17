@@ -1,0 +1,37 @@
+{
+  "slug": "jundot-omlx",
+  "featuredDate": "2026-03-17",
+  "fullName": "jundot/omlx",
+  "name": "omlx",
+  "owner": "jundot",
+  "repoUrl": "https://github.com/jundot/omlx",
+  "homepage": "https://omlx.ai",
+  "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+  "language": "Python",
+  "stars": 5369,
+  "forks": 421,
+  "openIssues": 21,
+  "createdAt": "2026-02-13T14:13:27Z",
+  "updatedAt": "2026-03-17T04:10:27Z",
+  "pushedAt": "2026-03-17T04:06:24Z",
+  "topics": [
+    "apple-silicon",
+    "inference-server",
+    "llm",
+    "macos",
+    "mlx",
+    "openai-api"
+  ],
+  "summaryZh": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 90
+}

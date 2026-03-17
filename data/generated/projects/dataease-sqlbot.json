@@ -1,0 +1,40 @@
+{
+  "slug": "dataease-sqlbot",
+  "featuredDate": "2026-03-17",
+  "fullName": "dataease/SQLBot",
+  "name": "SQLBot",
+  "owner": "dataease",
+  "repoUrl": "https://github.com/dataease/SQLBot",
+  "homepage": "https://sqlbot.org/",
+  "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+  "language": "JavaScript",
+  "stars": 5686,
+  "forks": 636,
+  "openIssues": 88,
+  "createdAt": "2025-04-21T05:33:53Z",
+  "updatedAt": "2026-03-17T02:57:06Z",
+  "pushedAt": "2026-03-17T02:57:04Z",
+  "topics": [
+    "chatbi",
+    "deepseek",
+    "llm",
+    "nl2sql",
+    "rag",
+    "sqlbot",
+    "text-to-sql",
+    "text2sql"
+  ],
+  "summaryZh": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 98,
+  "relevanceScore": 70,
+  "totalScore": 91
+}

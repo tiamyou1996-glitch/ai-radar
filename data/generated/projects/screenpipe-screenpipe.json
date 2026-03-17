@@ -1,0 +1,41 @@
+{
+  "slug": "screenpipe-screenpipe",
+  "featuredDate": "2026-03-17",
+  "fullName": "screenpipe/screenpipe",
+  "name": "screenpipe",
+  "owner": "screenpipe",
+  "repoUrl": "https://github.com/screenpipe/screenpipe",
+  "homepage": "https://screenpi.pe",
+  "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
+  "language": "Rust",
+  "stars": 17243,
+  "forks": 1461,
+  "openIssues": 98,
+  "createdAt": "2024-06-19T13:23:56Z",
+  "updatedAt": "2026-03-17T03:24:49Z",
+  "pushedAt": "2026-03-17T03:24:45Z",
+  "topics": [
+    "agents",
+    "agi",
+    "ai",
+    "computer-vision",
+    "llm",
+    "machine-learning",
+    "ml",
+    "multimodal",
+    "vision"
+  ],
+  "summaryZh": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

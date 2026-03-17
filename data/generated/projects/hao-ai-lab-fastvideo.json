@@ -1,0 +1,38 @@
+{
+  "slug": "hao-ai-lab-fastvideo",
+  "featuredDate": "2026-03-17",
+  "fullName": "hao-ai-lab/FastVideo",
+  "name": "FastVideo",
+  "owner": "hao-ai-lab",
+  "repoUrl": "https://github.com/hao-ai-lab/FastVideo",
+  "homepage": "https://hao-ai-lab.github.io/FastVideo",
+  "description": "A unified inference and post-training framework for accelerated video generation.",
+  "language": "Python",
+  "stars": 3191,
+  "forks": 282,
+  "openIssues": 97,
+  "createdAt": "2024-10-24T02:11:32Z",
+  "updatedAt": "2026-03-17T04:05:46Z",
+  "pushedAt": "2026-03-17T04:05:41Z",
+  "topics": [
+    "diffusers",
+    "diffusion-models",
+    "distillation",
+    "inference",
+    "post-training",
+    "video-generation"
+  ],
+  "summaryZh": "A unified inference and post-training framework for accelerated video generation. 这是偏视频理解或生成方向的项目，适合跟踪多模态内容处理能力。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Video",
+    "Image",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

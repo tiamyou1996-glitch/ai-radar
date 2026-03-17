@@ -1,0 +1,39 @@
+{
+  "slug": "tddworks-claudebar",
+  "featuredDate": "2026-03-17",
+  "fullName": "tddworks/ClaudeBar",
+  "name": "ClaudeBar",
+  "owner": "tddworks",
+  "repoUrl": "https://github.com/tddworks/ClaudeBar",
+  "homepage": "https://tddworks.github.io/ClaudeBar/",
+  "description": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
+  "language": "Swift",
+  "stars": 801,
+  "forks": 68,
+  "openIssues": 31,
+  "createdAt": "2025-12-20T13:58:06Z",
+  "updatedAt": "2026-03-17T04:08:30Z",
+  "pushedAt": "2026-03-17T04:08:27Z",
+  "topics": [
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "gemini",
+    "githubcopilot",
+    "glm5",
+    "kimi"
+  ],
+  "summaryZh": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

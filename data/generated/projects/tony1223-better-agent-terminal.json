@@ -1,0 +1,41 @@
+{
+  "slug": "tony1223-better-agent-terminal",
+  "featuredDate": "2026-03-17",
+  "fullName": "tony1223/better-agent-terminal",
+  "name": "better-agent-terminal",
+  "owner": "tony1223",
+  "repoUrl": "https://github.com/tony1223/better-agent-terminal",
+  "homepage": null,
+  "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+  "language": "TypeScript",
+  "stars": 112,
+  "forks": 24,
+  "openIssues": 0,
+  "createdAt": "2025-12-17T01:18:17Z",
+  "updatedAt": "2026-03-17T03:04:48Z",
+  "pushedAt": "2026-03-17T03:04:45Z",
+  "topics": [
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "electron",
+    "multi-terminal",
+    "terminal",
+    "terminal-emulator",
+    "workspace"
+  ],
+  "summaryZh": "Multi-workspace terminal aggregator with Claude Code AI integration 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 80,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

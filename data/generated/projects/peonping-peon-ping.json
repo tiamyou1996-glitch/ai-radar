@@ -1,0 +1,40 @@
+{
+  "slug": "peonping-peon-ping",
+  "featuredDate": "2026-03-17",
+  "fullName": "PeonPing/peon-ping",
+  "name": "peon-ping",
+  "owner": "PeonPing",
+  "repoUrl": "https://github.com/PeonPing/peon-ping",
+  "homepage": "https://www.peonping.com",
+  "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
+  "language": "Shell",
+  "stars": 3948,
+  "forks": 280,
+  "openIssues": 36,
+  "createdAt": "2026-02-09T23:12:48Z",
+  "updatedAt": "2026-03-17T04:07:56Z",
+  "pushedAt": "2026-03-16T17:33:12Z",
+  "topics": [
+    "ai",
+    "ai-engineering",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "opencode",
+    "terminal"
+  ],
+  "summaryZh": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Audio"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 92
+}

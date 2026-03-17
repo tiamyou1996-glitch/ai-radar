@@ -1,0 +1,35 @@
+{
+  "slug": "yishentu-claudian",
+  "featuredDate": "2026-03-17",
+  "fullName": "YishenTu/claudian",
+  "name": "claudian",
+  "owner": "YishenTu",
+  "repoUrl": "https://github.com/YishenTu/claudian",
+  "homepage": "",
+  "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+  "language": "TypeScript",
+  "stars": 4223,
+  "forks": 239,
+  "openIssues": 34,
+  "createdAt": "2025-12-05T17:58:26Z",
+  "updatedAt": "2026-03-17T03:04:27Z",
+  "pushedAt": "2026-03-17T02:58:53Z",
+  "topics": [
+    "claude-code",
+    "ide",
+    "obsidian",
+    "obsidian-plugin",
+    "productivity"
+  ],
+  "summaryZh": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 50,
+  "totalScore": 88
+}

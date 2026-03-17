@@ -1,0 +1,30 @@
+{
+  "slug": "huanchong-99-gitcortex",
+  "featuredDate": "2026-03-17",
+  "fullName": "huanchong-99/GitCortex",
+  "name": "GitCortex",
+  "owner": "huanchong-99",
+  "repoUrl": "https://github.com/huanchong-99/GitCortex",
+  "homepage": "",
+  "description": "GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks.",
+  "language": "Rust",
+  "stars": 125,
+  "forks": 9,
+  "openIssues": 0,
+  "createdAt": "2026-01-17T02:05:45Z",
+  "updatedAt": "2026-03-17T03:00:02Z",
+  "pushedAt": "2026-03-17T02:59:59Z",
+  "topics": [],
+  "summaryZh": "GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding agents (such as Claude Code, Gemini CLI, and Codex) to collaborate in parallel on complex software development tasks. 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 80,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

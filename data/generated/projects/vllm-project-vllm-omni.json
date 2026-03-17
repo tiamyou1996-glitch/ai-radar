@@ -1,0 +1,41 @@
+{
+  "slug": "vllm-project-vllm-omni",
+  "featuredDate": "2026-03-17",
+  "fullName": "vllm-project/vllm-omni",
+  "name": "vllm-omni",
+  "owner": "vllm-project",
+  "repoUrl": "https://github.com/vllm-project/vllm-omni",
+  "homepage": "https://docs.vllm.ai/projects/vllm-omni",
+  "description": "A framework for efficient model inference with omni-modality models",
+  "language": "Python",
+  "stars": 3189,
+  "forks": 540,
+  "openIssues": 481,
+  "createdAt": "2025-09-11T00:34:43Z",
+  "updatedAt": "2026-03-17T03:49:37Z",
+  "pushedAt": "2026-03-17T04:07:54Z",
+  "topics": [
+    "audio-generation",
+    "diffusion",
+    "image-generation",
+    "inference",
+    "model-serving",
+    "multimodal",
+    "pytorch",
+    "transformer",
+    "video-generation"
+  ],
+  "summaryZh": "A framework for efficient model inference with omni-modality models 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Audio",
+    "Video"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 65,
+  "totalScore": 88
+}

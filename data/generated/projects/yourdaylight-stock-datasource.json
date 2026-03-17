@@ -1,0 +1,29 @@
+{
+  "slug": "yourdaylight-stock-datasource",
+  "featuredDate": "2026-03-17",
+  "fullName": "Yourdaylight/stock_datasource",
+  "name": "stock_datasource",
+  "owner": "Yourdaylight",
+  "repoUrl": "https://github.com/Yourdaylight/stock_datasource",
+  "homepage": "",
+  "description": "基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接openclaw进行自主访问",
+  "language": "Python",
+  "stars": 67,
+  "forks": 17,
+  "openIssues": 0,
+  "createdAt": "2025-10-25T09:37:48Z",
+  "updatedAt": "2026-03-17T03:04:37Z",
+  "pushedAt": "2026-03-17T03:04:33Z",
+  "topics": [],
+  "summaryZh": "基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接openclaw进行自主访问 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，Agent 方向仍在快速演化，这类项目很容易成为上层产品的基建。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 77,
+  "relevanceScore": 54,
+  "totalScore": 81
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "zeroclaw-labs-zeroclaw",
+  "featuredDate": "2026-03-17",
+  "fullName": "zeroclaw-labs/zeroclaw",
+  "name": "zeroclaw",
+  "owner": "zeroclaw-labs",
+  "repoUrl": "https://github.com/zeroclaw-labs/zeroclaw",
+  "homepage": "https://www.zeroclawlabs.ai/",
+  "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+  "language": "Rust",
+  "stars": 27506,
+  "forks": 3667,
+  "openIssues": 372,
+  "createdAt": "2026-02-13T08:56:04Z",
+  "updatedAt": "2026-03-17T04:09:41Z",
+  "pushedAt": "2026-03-17T04:05:32Z",
+  "topics": [
+    "agent",
+    "agentic",
+    "ai",
+    "openclaw"
+  ],
+  "summaryZh": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 66,
+  "totalScore": 91
+}

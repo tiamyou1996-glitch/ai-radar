@@ -1,0 +1,29 @@
+{
+  "slug": "vox-deorum-vox-deorum",
+  "featuredDate": "2026-03-17",
+  "fullName": "vox-deorum/vox-deorum",
+  "name": "vox-deorum",
+  "owner": "vox-deorum",
+  "repoUrl": "https://github.com/vox-deorum/vox-deorum",
+  "homepage": "",
+  "description": "LLM-enhanced AI system for Civilization V upon the Community Patch + Vox Populi.",
+  "language": "TypeScript",
+  "stars": 61,
+  "forks": 10,
+  "openIssues": 3,
+  "createdAt": "2025-08-11T01:47:51Z",
+  "updatedAt": "2026-03-17T03:04:26Z",
+  "pushedAt": "2026-03-17T03:04:23Z",
+  "topics": [],
+  "summaryZh": "LLM-enhanced AI system for Civilization V upon the Community Patch + Vox Populi. 这是偏模型能力或模型封装的项目，适合作为能力底座关注。",
+  "whyItMatters": "最近活跃度很高。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 76,
+  "relevanceScore": 50,
+  "totalScore": 79
+}

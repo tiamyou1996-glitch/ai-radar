@@ -1,0 +1,32 @@
+{
+  "slug": "livekit-examples-agent-starter-react",
+  "featuredDate": "2026-03-17",
+  "fullName": "livekit-examples/agent-starter-react",
+  "name": "agent-starter-react",
+  "owner": "livekit-examples",
+  "repoUrl": "https://github.com/livekit-examples/agent-starter-react",
+  "homepage": "https://docs.livekit.io/agents/start/frontend",
+  "description": "A complete voice AI frontend app for LiveKit Agents with Next.js",
+  "language": "TypeScript",
+  "stars": 806,
+  "forks": 406,
+  "openIssues": 28,
+  "createdAt": "2024-09-11T14:06:32Z",
+  "updatedAt": "2026-03-17T02:44:45Z",
+  "pushedAt": "2026-03-17T01:53:40Z",
+  "topics": [
+    "sandbox"
+  ],
+  "summaryZh": "A complete voice AI frontend app for LiveKit Agents with Next.js 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Audio"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

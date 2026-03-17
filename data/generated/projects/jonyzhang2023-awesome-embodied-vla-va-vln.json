@@ -1,0 +1,31 @@
+{
+  "slug": "jonyzhang2023-awesome-embodied-vla-va-vln",
+  "featuredDate": "2026-03-17",
+  "fullName": "jonyzhang2023/awesome-embodied-vla-va-vln",
+  "name": "awesome-embodied-vla-va-vln",
+  "owner": "jonyzhang2023",
+  "repoUrl": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+  "homepage": "",
+  "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
+  "language": null,
+  "stars": 2741,
+  "forks": 120,
+  "openIssues": 0,
+  "createdAt": "2025-01-16T08:23:23Z",
+  "updatedAt": "2026-03-17T02:36:43Z",
+  "pushedAt": "2026-03-16T12:37:44Z",
+  "topics": [],
+  "summaryZh": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches.  这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 91,
+  "qualityScore": 96,
+  "relevanceScore": 66,
+  "totalScore": 88
+}

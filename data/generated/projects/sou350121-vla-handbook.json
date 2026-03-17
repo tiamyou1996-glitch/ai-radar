@@ -1,0 +1,39 @@
+{
+  "slug": "sou350121-vla-handbook",
+  "featuredDate": "2026-03-17",
+  "fullName": "sou350121/VLA-Handbook",
+  "name": "VLA-Handbook",
+  "owner": "sou350121",
+  "repoUrl": "https://github.com/sou350121/VLA-Handbook",
+  "homepage": "",
+  "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战",
+  "language": "HTML",
+  "stars": 81,
+  "forks": 5,
+  "openIssues": 1,
+  "createdAt": "2025-11-23T06:25:26Z",
+  "updatedAt": "2026-03-17T03:04:50Z",
+  "pushedAt": "2026-03-17T03:04:48Z",
+  "topics": [
+    "chinese",
+    "deep-learning",
+    "embodied-ai",
+    "llm",
+    "robot-learning",
+    "robotics",
+    "vision-language-action",
+    "vla"
+  ],
+  "summaryZh": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 78,
+  "relevanceScore": 58,
+  "totalScore": 83
+}

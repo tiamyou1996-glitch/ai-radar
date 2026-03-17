@@ -1,0 +1,43 @@
+{
+  "slug": "nvidia-nemo-datadesigner",
+  "featuredDate": "2026-03-17",
+  "fullName": "NVIDIA-NeMo/DataDesigner",
+  "name": "DataDesigner",
+  "owner": "NVIDIA-NeMo",
+  "repoUrl": "https://github.com/NVIDIA-NeMo/DataDesigner",
+  "homepage": "https://nvidia-nemo.github.io/DataDesigner/",
+  "description": "🎨 NeMo Data Designer: A general library for generating high-quality synthetic data from scratch or based on seed data.",
+  "language": "Python",
+  "stars": 823,
+  "forks": 70,
+  "openIssues": 48,
+  "createdAt": "2025-10-16T15:01:31Z",
+  "updatedAt": "2026-03-17T00:31:21Z",
+  "pushedAt": "2026-03-17T03:52:09Z",
+  "topics": [
+    "agentic-ai",
+    "data-augmentation",
+    "data-generation",
+    "llm",
+    "mcp",
+    "multimodal",
+    "nemo",
+    "nvidia",
+    "sdg",
+    "synthetic-data",
+    "tool-use"
+  ],
+  "summaryZh": "🎨 NeMo Data Designer: A general library for generating high-quality synthetic data from scratch or based on seed data. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

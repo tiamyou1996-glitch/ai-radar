@@ -1,0 +1,31 @@
+{
+  "slug": "intent-lab-visionclaw",
+  "featuredDate": "2026-03-17",
+  "fullName": "Intent-Lab/VisionClaw",
+  "name": "VisionClaw",
+  "owner": "Intent-Lab",
+  "repoUrl": "https://github.com/Intent-Lab/VisionClaw",
+  "homepage": null,
+  "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+  "language": null,
+  "stars": 1652,
+  "forks": 304,
+  "openIssues": 20,
+  "createdAt": "2026-02-06T04:54:31Z",
+  "updatedAt": "2026-03-17T03:33:21Z",
+  "pushedAt": "2026-03-16T21:43:02Z",
+  "topics": [],
+  "summaryZh": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Audio"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

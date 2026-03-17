@@ -1,0 +1,29 @@
+{
+  "slug": "netease-youdao-lobsterai",
+  "featuredDate": "2026-03-17",
+  "fullName": "netease-youdao/LobsterAI",
+  "name": "LobsterAI",
+  "owner": "netease-youdao",
+  "repoUrl": "https://github.com/netease-youdao/LobsterAI",
+  "homepage": "https://lobsterai.youdao.com",
+  "description": "Your 24/7 all-scenario AI agent that gets work done for you.",
+  "language": "TypeScript",
+  "stars": 4050,
+  "forks": 476,
+  "openIssues": 185,
+  "createdAt": "2026-02-12T09:56:20Z",
+  "updatedAt": "2026-03-17T03:05:17Z",
+  "pushedAt": "2026-03-17T03:02:56Z",
+  "topics": [],
+  "summaryZh": "Your 24/7 all-scenario AI agent that gets work done for you. 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 54,
+  "totalScore": 89
+}

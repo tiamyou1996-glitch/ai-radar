@@ -1,0 +1,37 @@
+{
+  "slug": "alibaba-opensandbox",
+  "featuredDate": "2026-03-17",
+  "fullName": "alibaba/OpenSandbox",
+  "name": "OpenSandbox",
+  "owner": "alibaba",
+  "repoUrl": "https://github.com/alibaba/OpenSandbox",
+  "homepage": "https://open-sandbox.ai",
+  "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+  "language": "Python",
+  "stars": 7973,
+  "forks": 595,
+  "openIssues": 56,
+  "createdAt": "2025-12-17T08:41:09Z",
+  "updatedAt": "2026-03-17T04:03:06Z",
+  "pushedAt": "2026-03-17T04:03:02Z",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-infra",
+    "kubernetes",
+    "sandbox"
+  ],
+  "summaryZh": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 93
+}

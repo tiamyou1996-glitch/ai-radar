@@ -1,0 +1,43 @@
+{
+  "slug": "asklokesh-loki-mode",
+  "featuredDate": "2026-03-17",
+  "fullName": "asklokesh/loki-mode",
+  "name": "loki-mode",
+  "owner": "asklokesh",
+  "repoUrl": "https://github.com/asklokesh/loki-mode",
+  "homepage": "https://www.autonomi.dev",
+  "description": "Multi-agent provider agnostic Autonomous system & framework that WORKS..!",
+  "language": "Python",
+  "stars": 735,
+  "forks": 147,
+  "openIssues": 0,
+  "createdAt": "2025-12-26T16:26:14Z",
+  "updatedAt": "2026-03-17T03:41:45Z",
+  "pushedAt": "2026-03-17T03:41:51Z",
+  "topics": [
+    "ai-agents",
+    "autonomous",
+    "ci-cd",
+    "claude",
+    "code-review",
+    "devops",
+    "gemini",
+    "github-action",
+    "loki-mode",
+    "multi-agent",
+    "openai-codex",
+    "pull-request-review"
+  ],
+  "summaryZh": "Multi-agent provider agnostic Autonomous system & framework that WORKS..! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 87
+}

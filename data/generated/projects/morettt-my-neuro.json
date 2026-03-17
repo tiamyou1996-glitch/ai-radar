@@ -1,0 +1,39 @@
+{
+  "slug": "morettt-my-neuro",
+  "featuredDate": "2026-03-17",
+  "fullName": "morettt/my-neuro",
+  "name": "my-neuro",
+  "owner": "morettt",
+  "repoUrl": "https://github.com/morettt/my-neuro",
+  "homepage": null,
+  "description": "This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations.",
+  "language": "Python",
+  "stars": 1075,
+  "forks": 127,
+  "openIssues": 26,
+  "createdAt": "2024-12-30T16:10:26Z",
+  "updatedAt": "2026-03-16T23:19:01Z",
+  "pushedAt": "2026-03-16T19:05:12Z",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-vtuber",
+    "chatbots",
+    "live2d",
+    "llm",
+    "python"
+  ],
+  "summaryZh": "This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Audio",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 89,
+  "relevanceScore": 69,
+  "totalScore": 86
+}

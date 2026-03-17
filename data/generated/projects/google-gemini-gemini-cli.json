@@ -1,0 +1,37 @@
+{
+  "slug": "google-gemini-gemini-cli",
+  "featuredDate": "2026-03-17",
+  "fullName": "google-gemini/gemini-cli",
+  "name": "gemini-cli",
+  "owner": "google-gemini",
+  "repoUrl": "https://github.com/google-gemini/gemini-cli",
+  "homepage": "https://geminicli.com",
+  "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "language": "TypeScript",
+  "stars": 98006,
+  "forks": 12324,
+  "openIssues": 2828,
+  "createdAt": "2025-04-17T17:04:31Z",
+  "updatedAt": "2026-03-17T03:04:30Z",
+  "pushedAt": "2026-03-17T03:03:43Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "gemini",
+    "gemini-api",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "summaryZh": "An open-source AI agent that brings the power of Gemini directly into your terminal. 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 98,
+  "relevanceScore": 54,
+  "totalScore": 88
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sgl-project-specforge",
+  "featuredDate": "2026-03-17",
+  "fullName": "sgl-project/SpecForge",
+  "name": "SpecForge",
+  "owner": "sgl-project",
+  "repoUrl": "https://github.com/sgl-project/SpecForge",
+  "homepage": "https://docs.sglang.ai/SpecForge/",
+  "description": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
+  "language": "Python",
+  "stars": 730,
+  "forks": 182,
+  "openIssues": 98,
+  "createdAt": "2025-06-09T05:28:34Z",
+  "updatedAt": "2026-03-16T15:01:58Z",
+  "pushedAt": "2026-03-16T15:01:37Z",
+  "topics": [
+    "eagle",
+    "eagle3",
+    "fsdp",
+    "llm",
+    "pytorch",
+    "sglang",
+    "training"
+  ],
+  "summaryZh": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving. 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Coding",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 88,
+  "qualityScore": 90,
+  "relevanceScore": 69,
+  "totalScore": 85
+}

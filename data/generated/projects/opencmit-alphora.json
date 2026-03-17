@@ -1,0 +1,35 @@
+{
+  "slug": "opencmit-alphora",
+  "featuredDate": "2026-03-17",
+  "fullName": "opencmit/alphora",
+  "name": "alphora",
+  "owner": "opencmit",
+  "repoUrl": "https://github.com/opencmit/alphora",
+  "homepage": "https://bigdata.10086.cn/",
+  "description": "A Production-Ready Framework for Building Composable AI Agents",
+  "language": "Python",
+  "stars": 345,
+  "forks": 33,
+  "openIssues": 1,
+  "createdAt": "2026-02-03T07:18:35Z",
+  "updatedAt": "2026-03-17T03:30:48Z",
+  "pushedAt": "2026-03-17T03:38:17Z",
+  "topics": [
+    "agent-framework",
+    "ai-agents",
+    "llm",
+    "multi-agent-systems"
+  ],
+  "summaryZh": "A Production-Ready Framework for Building Composable AI Agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

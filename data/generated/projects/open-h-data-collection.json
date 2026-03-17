@@ -1,0 +1,30 @@
+{
+  "slug": "open-h-data-collection",
+  "featuredDate": "2026-03-17",
+  "fullName": "open-h/data-collection",
+  "name": "data-collection",
+  "owner": "open-h",
+  "repoUrl": "https://github.com/open-h/data-collection",
+  "homepage": "",
+  "description": "Open-H-Embodiment is a community‑driven dataset initiative building the open, shared foundation needed to train and evaluate a generalist Vision‑Language‑Action (VLA) model for healthcare robotics",
+  "language": "Python",
+  "stars": 73,
+  "forks": 2,
+  "openIssues": 0,
+  "createdAt": "2025-08-28T17:32:52Z",
+  "updatedAt": "2026-03-17T00:22:45Z",
+  "pushedAt": "2026-03-16T19:58:20Z",
+  "topics": [],
+  "summaryZh": "Open-H-Embodiment is a community‑driven dataset initiative building the open, shared foundation needed to train and evaluate a generalist Vision‑Language‑Action (VLA) model for healthcare robotics 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近活跃度很高。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 95,
+  "qualityScore": 77,
+  "relevanceScore": 58,
+  "totalScore": 81
+}

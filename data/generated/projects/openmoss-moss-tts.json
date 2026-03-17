@@ -1,0 +1,38 @@
+{
+  "slug": "openmoss-moss-tts",
+  "featuredDate": "2026-03-17",
+  "fullName": "OpenMOSS/MOSS-TTS",
+  "name": "MOSS-TTS",
+  "owner": "OpenMOSS",
+  "repoUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+  "homepage": "https://mosi.cn/models/moss-tts",
+  "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+  "language": "Python",
+  "stars": 922,
+  "forks": 86,
+  "openIssues": 13,
+  "createdAt": "2026-02-07T14:05:49Z",
+  "updatedAt": "2026-03-17T03:08:02Z",
+  "pushedAt": "2026-03-16T12:22:57Z",
+  "topics": [
+    "audio",
+    "audio-tokenizer",
+    "llm",
+    "multimodal",
+    "text-to-speech",
+    "voice-cloning"
+  ],
+  "summaryZh": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Audio",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 94,
+  "qualityScore": 92,
+  "relevanceScore": 65,
+  "totalScore": 87
+}
