@@ -33,11 +33,14 @@ app/                 页面路由
 components/          站点 UI 组件
 lib/                 数据读取、类型、格式化工具
 scripts/             数据生成脚本
+deploy/              服务器更新脚本与定时任务安装脚本
 data/generated/      每日生成的数据与项目详情 JSON
-.github/workflows/   自动更新与部署
+.github/workflows/   GitHub Pages 自动更新与部署
 ```
 
-## 自动更新
+## 当前两种部署方式
+
+### 1. GitHub Pages
 
 仓库已经内置 GitHub Actions 工作流：
 
@@ -51,7 +54,55 @@ data/generated/      每日生成的数据与项目详情 JSON
 
 - [daily-update.yml](./.github/workflows/daily-update.yml)
 
+### 2. 阿里云服务器
+
+如果你希望网站跑在自己的服务器上，推荐流程是：
+
+1. 在本地开发和提交代码
+2. 服务器执行一次 `git pull`
+3. 服务器运行更新脚本完成：
+   - 拉最新代码
+   - 生成数据
+   - 构建静态站点
+   - 覆盖 Nginx 的站点目录
+
+相关脚本：
+
+- [server-update.sh](./deploy/server-update.sh)
+- [install-cron.sh](./deploy/install-cron.sh)
+
+## 服务器自动更新
+
+在服务器上执行一次：
+
+```bash
+cd /var/www/ai-radar
+chmod +x deploy/server-update.sh deploy/install-cron.sh
+./deploy/install-cron.sh
+```
+
+默认会安装一条定时任务：
+
+- 每天早上 `09:05`
+- 自动执行 `deploy/server-update.sh`
+- 日志写入 `/var/log/ai-radar-update.log`
+
+查看日志：
+
+```bash
+tail -n 50 /var/log/ai-radar-update.log
+```
+
+手动执行一次更新：
+
+```bash
+cd /var/www/ai-radar
+./deploy/server-update.sh
+```
+
 ## 上线步骤
+
+### GitHub Pages
 
 1. 新建一个 GitHub 仓库，把当前目录推上去。
 2. 在 GitHub 仓库里开启 `Actions`。
@@ -59,7 +110,13 @@ data/generated/      每日生成的数据与项目详情 JSON
 4. Pages Source 选择 `GitHub Actions`。
 5. 推送到默认分支后，工作流会自动部署。
 
-如果你的仓库不是用户主页仓库，比如不是 `xxx.github.io`，当前配置也会自动处理子路径部署。
+### 自己的服务器
+
+1. 在服务器安装 `nodejs`、`nginx`、`git`
+2. 把仓库克隆到 `/var/www/ai-radar`
+3. 执行一次 `npm ci && npm run generate:data && npm run build`
+4. 把 `out/` 复制到 `/var/www/html`
+5. 安装并验证定时更新脚本
 
 ## 当前技术栈
 
@@ -69,6 +126,7 @@ data/generated/      每日生成的数据与项目详情 JSON
 - Tailwind CSS 4
 - GitHub Actions
 - GitHub Pages
+- Nginx
 
 ## 备注
 
@@ -77,7 +135,8 @@ data/generated/      每日生成的数据与项目详情 JSON
 - 本地可以直接访问
 - 数据可以自动生成
 - 页面已经接入真实数据
-- 自动更新和自动部署流程已经准备好
+- GitHub Pages 可以自动部署
+- 阿里云服务器也可以独立托管并自动更新
 
 后续最值得继续做的是：
 
