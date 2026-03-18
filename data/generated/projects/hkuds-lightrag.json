@@ -1,0 +1,41 @@
+{
+  "slug": "hkuds-lightrag",
+  "featuredDate": "2026-03-18",
+  "fullName": "HKUDS/LightRAG",
+  "name": "LightRAG",
+  "owner": "HKUDS",
+  "repoUrl": "https://github.com/HKUDS/LightRAG",
+  "homepage": "https://arxiv.org/abs/2410.05779",
+  "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+  "language": "Python",
+  "stars": 29510,
+  "forks": 4228,
+  "openIssues": 195,
+  "createdAt": "2024-10-02T11:57:54Z",
+  "updatedAt": "2026-03-18T07:10:25Z",
+  "pushedAt": "2026-03-18T07:01:36Z",
+  "topics": [
+    "genai",
+    "gpt",
+    "gpt-4",
+    "graphrag",
+    "knowledge-graph",
+    "large-language-models",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "summaryZh": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\" 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

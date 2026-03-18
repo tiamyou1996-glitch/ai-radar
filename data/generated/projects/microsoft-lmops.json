@@ -1,0 +1,41 @@
+{
+  "slug": "microsoft-lmops",
+  "featuredDate": "2026-03-18",
+  "fullName": "microsoft/LMOps",
+  "name": "LMOps",
+  "owner": "microsoft",
+  "repoUrl": "https://github.com/microsoft/LMOps",
+  "homepage": "https://aka.ms/GeneralAI",
+  "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
+  "language": "Python",
+  "stars": 4292,
+  "forks": 368,
+  "openIssues": 67,
+  "createdAt": "2022-12-13T12:56:21Z",
+  "updatedAt": "2026-03-18T07:20:33Z",
+  "pushedAt": "2026-03-18T07:20:27Z",
+  "topics": [
+    "agi",
+    "gpt",
+    "language-model",
+    "llm",
+    "lm",
+    "lmops",
+    "nlp",
+    "pretraining",
+    "prompt",
+    "promptist",
+    "x-prompt"
+  ],
+  "summaryZh": "General technology for enabling AI capabilities w/ LLMs and MLLMs 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

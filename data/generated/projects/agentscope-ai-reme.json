@@ -1,0 +1,37 @@
+{
+  "slug": "agentscope-ai-reme",
+  "featuredDate": "2026-03-18",
+  "fullName": "agentscope-ai/ReMe",
+  "name": "ReMe",
+  "owner": "agentscope-ai",
+  "repoUrl": "https://github.com/agentscope-ai/ReMe",
+  "homepage": null,
+  "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "language": "Python",
+  "stars": 2255,
+  "forks": 176,
+  "openIssues": 9,
+  "createdAt": "2024-08-29T02:40:53Z",
+  "updatedAt": "2026-03-18T07:19:00Z",
+  "pushedAt": "2026-03-18T07:16:10Z",
+  "topics": [
+    "agent",
+    "ai-agents",
+    "memory",
+    "memoryscope",
+    "rag",
+    "reme"
+  ],
+  "summaryZh": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 66,
+  "totalScore": 87
+}

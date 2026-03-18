@@ -1,0 +1,36 @@
+{
+  "slug": "openagents-org-openagents",
+  "featuredDate": "2026-03-18",
+  "fullName": "openagents-org/openagents",
+  "name": "openagents",
+  "owner": "openagents-org",
+  "repoUrl": "https://github.com/openagents-org/openagents",
+  "homepage": "https://openagents.org",
+  "description": "OpenAgents - AI Agent Networks for Open Collaboration",
+  "language": "Python",
+  "stars": 1769,
+  "forks": 218,
+  "openIssues": 49,
+  "createdAt": "2025-03-10T22:27:52Z",
+  "updatedAt": "2026-03-18T07:18:00Z",
+  "pushedAt": "2026-03-18T07:17:57Z",
+  "topics": [
+    "agents",
+    "ai",
+    "collaboration",
+    "llm",
+    "network"
+  ],
+  "summaryZh": "OpenAgents - AI Agent Networks for Open Collaboration 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 95,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

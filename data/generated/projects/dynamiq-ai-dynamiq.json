@@ -1,0 +1,39 @@
+{
+  "slug": "dynamiq-ai-dynamiq",
+  "featuredDate": "2026-03-18",
+  "fullName": "dynamiq-ai/dynamiq",
+  "name": "dynamiq",
+  "owner": "dynamiq-ai",
+  "repoUrl": "https://github.com/dynamiq-ai/dynamiq",
+  "homepage": "https://getdynamiq.ai",
+  "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+  "language": "Python",
+  "stars": 1037,
+  "forks": 124,
+  "openIssues": 6,
+  "createdAt": "2024-09-26T10:20:26Z",
+  "updatedAt": "2026-03-18T07:12:47Z",
+  "pushedAt": "2026-03-18T07:05:20Z",
+  "topics": [
+    "agents",
+    "ai",
+    "generative-ai",
+    "gpt",
+    "llm",
+    "llmops",
+    "rag"
+  ],
+  "summaryZh": "Dynamiq is an orchestration framework for agentic AI and LLM applications 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 73,
+  "totalScore": 88
+}

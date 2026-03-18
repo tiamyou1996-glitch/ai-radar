@@ -1,0 +1,38 @@
+{
+  "slug": "jd-opensource-xllm",
+  "featuredDate": "2026-03-18",
+  "fullName": "jd-opensource/xllm",
+  "name": "xllm",
+  "owner": "jd-opensource",
+  "repoUrl": "https://github.com/jd-opensource/xllm",
+  "homepage": "https://xllm.readthedocs.io/en/latest/",
+  "description": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators.",
+  "language": "C++",
+  "stars": 1093,
+  "forks": 154,
+  "openIssues": 136,
+  "createdAt": "2025-08-12T13:16:07Z",
+  "updatedAt": "2026-03-18T06:16:38Z",
+  "pushedAt": "2026-03-18T06:16:11Z",
+  "topics": [
+    "deepseek",
+    "glm",
+    "inference",
+    "inference-engine",
+    "large-language-models",
+    "llm-inference",
+    "qwen"
+  ],
+  "summaryZh": "A high-performance inference engine for LLMs, optimized for diverse AI accelerators. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

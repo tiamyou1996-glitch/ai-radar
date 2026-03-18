@@ -1,0 +1,33 @@
+{
+  "slug": "memohai-memoh",
+  "featuredDate": "2026-03-18",
+  "fullName": "memohai/Memoh",
+  "name": "Memoh",
+  "owner": "memohai",
+  "repoUrl": "https://github.com/memohai/Memoh",
+  "homepage": "https://docs.memoh.ai",
+  "description": "Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨",
+  "language": "Go",
+  "stars": 1100,
+  "forks": 108,
+  "openIssues": 22,
+  "createdAt": "2026-01-12T09:27:39Z",
+  "updatedAt": "2026-03-18T07:20:56Z",
+  "pushedAt": "2026-03-18T07:20:51Z",
+  "topics": [
+    "agent",
+    "ai",
+    "asistant"
+  ],
+  "summaryZh": "Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨ 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 55,
+  "totalScore": 87
+}
