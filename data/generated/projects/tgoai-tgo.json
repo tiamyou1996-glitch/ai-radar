@@ -1,0 +1,39 @@
+{
+  "slug": "tgoai-tgo",
+  "featuredDate": "2026-03-18",
+  "fullName": "tgoai/tgo",
+  "name": "tgo",
+  "owner": "tgoai",
+  "repoUrl": "https://github.com/tgoai/tgo",
+  "homepage": "https://tgo.ai",
+  "description": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
+  "language": "Python",
+  "stars": 402,
+  "forks": 79,
+  "openIssues": 15,
+  "createdAt": "2025-11-18T08:47:29Z",
+  "updatedAt": "2026-03-18T03:42:08Z",
+  "pushedAt": "2026-03-18T03:42:05Z",
+  "topics": [
+    "ai-agent",
+    "artificial-intelligence",
+    "chatbot",
+    "customer-service",
+    "customer-support",
+    "llm",
+    "rag"
+  ],
+  "summaryZh": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 73,
+  "totalScore": 89
+}

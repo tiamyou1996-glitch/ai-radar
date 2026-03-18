@@ -1,0 +1,40 @@
+{
+  "slug": "alibaba-zvec",
+  "featuredDate": "2026-03-18",
+  "fullName": "alibaba/zvec",
+  "name": "zvec",
+  "owner": "alibaba",
+  "repoUrl": "https://github.com/alibaba/zvec",
+  "homepage": "https://zvec.org/en/",
+  "description": "A lightweight, lightning-fast, in-process vector database",
+  "language": "C++",
+  "stars": 9059,
+  "forks": 517,
+  "openIssues": 41,
+  "createdAt": "2025-12-05T07:45:38Z",
+  "updatedAt": "2026-03-18T03:29:05Z",
+  "pushedAt": "2026-03-18T03:41:10Z",
+  "topics": [
+    "agent-memory",
+    "ann-search",
+    "embedded-database",
+    "local",
+    "nodejs",
+    "python",
+    "rag",
+    "vector-search",
+    "vectordb"
+  ],
+  "summaryZh": "A lightweight, lightning-fast, in-process vector database 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 66,
+  "totalScore": 91
+}
