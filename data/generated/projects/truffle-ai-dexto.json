@@ -1,0 +1,43 @@
+{
+  "slug": "truffle-ai-dexto",
+  "featuredDate": "2026-03-18",
+  "fullName": "truffle-ai/dexto",
+  "name": "dexto",
+  "owner": "truffle-ai",
+  "repoUrl": "https://github.com/truffle-ai/dexto",
+  "homepage": "https://dexto.ai",
+  "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+  "language": "TypeScript",
+  "stars": 596,
+  "forks": 67,
+  "openIssues": 36,
+  "createdAt": "2025-03-24T22:49:13Z",
+  "updatedAt": "2026-03-18T08:21:33Z",
+  "pushedAt": "2026-03-18T08:22:06Z",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "contributions-welcome",
+    "function-calling",
+    "llm",
+    "mcp",
+    "mcp-client",
+    "modelcontextprotocol",
+    "typescript"
+  ],
+  "summaryZh": "A coding agent and general agent harness for building and orchestrating agentic applications. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 89,
+  "relevanceScore": 69,
+  "totalScore": 86
+}

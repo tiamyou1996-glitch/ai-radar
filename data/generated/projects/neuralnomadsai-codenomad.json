@@ -1,0 +1,29 @@
+{
+  "slug": "neuralnomadsai-codenomad",
+  "featuredDate": "2026-03-18",
+  "fullName": "NeuralNomadsAI/CodeNomad",
+  "name": "CodeNomad",
+  "owner": "NeuralNomadsAI",
+  "repoUrl": "https://github.com/NeuralNomadsAI/CodeNomad",
+  "homepage": null,
+  "description": "CodeNomad: The command center that puts AI coding on steroids.",
+  "language": "TypeScript",
+  "stars": 900,
+  "forks": 58,
+  "openIssues": 33,
+  "createdAt": "2025-11-01T23:29:24Z",
+  "updatedAt": "2026-03-18T08:16:16Z",
+  "pushedAt": "2026-03-18T07:29:41Z",
+  "topics": [],
+  "summaryZh": "CodeNomad: The command center that puts AI coding on steroids. 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 51,
+  "totalScore": 84
+}

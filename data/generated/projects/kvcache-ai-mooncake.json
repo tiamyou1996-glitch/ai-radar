@@ -10,10 +10,10 @@
   "language": "C++",
   "stars": 4939,
   "forks": 604,
-  "openIssues": 348,
+  "openIssues": 349,
   "createdAt": "2024-06-25T05:21:05Z",
-  "updatedAt": "2026-03-18T03:34:51Z",
-  "pushedAt": "2026-03-18T03:04:33Z",
+  "updatedAt": "2026-03-18T08:20:05Z",
+  "pushedAt": "2026-03-18T08:20:04Z",
   "topics": [
     "disaggregation",
     "inference",
