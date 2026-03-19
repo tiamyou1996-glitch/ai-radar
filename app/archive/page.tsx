@@ -26,7 +26,7 @@ export default async function ArchivePage() {
           {archive.days.map((day) => (
             <Link
               key={day.date}
-              href="/"
+              href={`/archive/${day.date}`}
               className="block rounded-3xl border border-[var(--border)] bg-white p-6 transition hover:border-slate-300 hover:shadow-[0_12px_30px_rgba(15,23,42,0.06)]"
             >
               <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
