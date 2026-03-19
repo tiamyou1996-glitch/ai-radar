@@ -1,0 +1,37 @@
+{
+  "slug": "microsoft-ufo",
+  "featuredDate": "2026-03-19",
+  "fullName": "microsoft/UFO",
+  "name": "UFO",
+  "owner": "microsoft",
+  "repoUrl": "https://github.com/microsoft/UFO",
+  "homepage": "https://microsoft.github.io/UFO/",
+  "description": "UFO³: Weaving the Digital Agent Galaxy",
+  "language": "Python",
+  "stars": 8159,
+  "forks": 1001,
+  "openIssues": 50,
+  "createdAt": "2024-01-08T05:07:52Z",
+  "updatedAt": "2026-03-19T03:45:51Z",
+  "pushedAt": "2026-03-19T03:45:46Z",
+  "topics": [
+    "agent",
+    "automation",
+    "copilot",
+    "gui",
+    "llm",
+    "windows"
+  ],
+  "summaryZh": "UFO³: Weaving the Digital Agent Galaxy 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

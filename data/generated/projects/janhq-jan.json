@@ -1,0 +1,38 @@
+{
+  "slug": "janhq-jan",
+  "featuredDate": "2026-03-19",
+  "fullName": "janhq/jan",
+  "name": "jan",
+  "owner": "janhq",
+  "repoUrl": "https://github.com/janhq/jan",
+  "homepage": "https://jan.ai/",
+  "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+  "language": "TypeScript",
+  "stars": 41146,
+  "forks": 2607,
+  "openIssues": 277,
+  "createdAt": "2023-08-17T02:17:10Z",
+  "updatedAt": "2026-03-19T03:45:24Z",
+  "pushedAt": "2026-03-19T03:45:21Z",
+  "topics": [
+    "chatgpt",
+    "gpt",
+    "llamacpp",
+    "llm",
+    "localai",
+    "open-source",
+    "self-hosted",
+    "tauri"
+  ],
+  "summaryZh": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

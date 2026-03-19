@@ -1,0 +1,40 @@
+{
+  "slug": "kodustech-kodus-ai",
+  "featuredDate": "2026-03-19",
+  "fullName": "kodustech/kodus-ai",
+  "name": "kodus-ai",
+  "owner": "kodustech",
+  "repoUrl": "https://github.com/kodustech/kodus-ai",
+  "homepage": "https://kodus.io",
+  "description": "AI Code Review with Full Control Over Model Choice and Costs.",
+  "language": "TypeScript",
+  "stars": 1007,
+  "forks": 89,
+  "openIssues": 41,
+  "createdAt": "2025-03-28T17:05:19Z",
+  "updatedAt": "2026-03-19T03:35:12Z",
+  "pushedAt": "2026-03-19T02:06:28Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-code-review",
+    "ai-coding-tools",
+    "code-review",
+    "coding-assistant",
+    "generative-ai",
+    "hacktoberfest"
+  ],
+  "summaryZh": "AI Code Review with Full Control Over Model Choice and Costs. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 69,
+  "totalScore": 87
+}

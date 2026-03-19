@@ -1,0 +1,36 @@
+{
+  "slug": "dicklesworthstone-mcp-agent-mail",
+  "featuredDate": "2026-03-19",
+  "fullName": "Dicklesworthstone/mcp_agent_mail",
+  "name": "mcp_agent_mail",
+  "owner": "Dicklesworthstone",
+  "repoUrl": "https://github.com/Dicklesworthstone/mcp_agent_mail",
+  "homepage": null,
+  "description": "Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite",
+  "language": "Python",
+  "stars": 1816,
+  "forks": 187,
+  "openIssues": 0,
+  "createdAt": "2025-10-23T03:42:36Z",
+  "updatedAt": "2026-03-19T03:18:15Z",
+  "pushedAt": "2026-03-19T03:01:05Z",
+  "topics": [
+    "ai-agents",
+    "coordination",
+    "fastmcp",
+    "mcp",
+    "python"
+  ],
+  "summaryZh": "Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

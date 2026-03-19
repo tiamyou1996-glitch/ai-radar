@@ -1,0 +1,42 @@
+{
+  "slug": "labring-fastgpt",
+  "featuredDate": "2026-03-19",
+  "fullName": "labring/FastGPT",
+  "name": "FastGPT",
+  "owner": "labring",
+  "repoUrl": "https://github.com/labring/FastGPT",
+  "homepage": "https://fastgpt.io",
+  "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+  "language": "TypeScript",
+  "stars": 27423,
+  "forks": 6976,
+  "openIssues": 183,
+  "createdAt": "2023-02-23T16:53:25Z",
+  "updatedAt": "2026-03-19T03:36:34Z",
+  "pushedAt": "2026-03-19T03:33:46Z",
+  "topics": [
+    "agent",
+    "claude",
+    "deepseek",
+    "llm",
+    "mcp",
+    "nextjs",
+    "openai",
+    "qwen",
+    "rag",
+    "workflow"
+  ],
+  "summaryZh": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}
