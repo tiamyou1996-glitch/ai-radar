@@ -1,6 +1,6 @@
 {
   "slug": "openhands-openhands",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-03-19",
   "fullName": "OpenHands/OpenHands",
   "name": "OpenHands",
   "owner": "OpenHands",
@@ -8,12 +8,12 @@
   "homepage": "https://openhands.dev",
   "description": "🙌 OpenHands: AI-Driven Development",
   "language": "Python",
-  "stars": 69242,
-  "forks": 8677,
-  "openIssues": 355,
+  "stars": 69369,
+  "forks": 8695,
+  "openIssues": 330,
   "createdAt": "2024-03-13T03:33:31Z",
-  "updatedAt": "2026-03-17T03:04:37Z",
-  "pushedAt": "2026-03-17T03:03:29Z",
+  "updatedAt": "2026-03-19T05:11:59Z",
+  "pushedAt": "2026-03-19T05:20:09Z",
   "topics": [
     "agent",
     "artificial-intelligence",
@@ -25,16 +25,17 @@
     "llm",
     "openai"
   ],
-  "summaryZh": "🙌 OpenHands: AI-Driven Development 这是一类偏执行和编排的 AI 项目，适合拿来搭自动化工作流或多代理系统。",
-  "whyItMatters": "最近活跃度很高，仓库成熟度和社区基础都不错。",
+  "summaryZh": "🙌 OpenHands: AI-Driven Development 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
+    "Coding",
     "Model"
   ],
   "source": "github",
-  "trendScore": 95,
+  "trendScore": 92,
   "qualityScore": 98,
-  "relevanceScore": 62,
+  "relevanceScore": 69,
   "totalScore": 89
 }

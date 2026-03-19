@@ -8,11 +8,11 @@
   "homepage": "https://seatunnel.apache.org/",
   "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
   "language": "Java",
-  "stars": 9181,
+  "stars": 9183,
   "forks": 2193,
   "openIssues": 440,
   "createdAt": "2017-08-05T09:14:47Z",
-  "updatedAt": "2026-03-19T01:51:38Z",
+  "updatedAt": "2026-03-19T05:02:56Z",
   "pushedAt": "2026-03-19T01:51:30Z",
   "topics": [
     "apache",

@@ -8,11 +8,11 @@
   "homepage": "https://swift.readthedocs.io/zh-cn/latest/",
   "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).",
   "language": "Python",
-  "stars": 13218,
+  "stars": 13219,
   "forks": 1278,
   "openIssues": 941,
   "createdAt": "2023-08-01T15:06:39Z",
-  "updatedAt": "2026-03-19T03:38:01Z",
+  "updatedAt": "2026-03-19T04:33:15Z",
   "pushedAt": "2026-03-19T03:13:49Z",
   "topics": [
     "deepseek-r1",

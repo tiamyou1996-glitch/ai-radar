@@ -1,6 +1,6 @@
 {
   "slug": "pytorch-ao",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-03-19",
   "fullName": "pytorch/ao",
   "name": "ao",
   "owner": "pytorch",
@@ -9,11 +9,11 @@
   "description": "PyTorch native quantization and sparsity for training and inference",
   "language": "Python",
   "stars": 2732,
-  "forks": 460,
-  "openIssues": 689,
+  "forks": 463,
+  "openIssues": 693,
   "createdAt": "2023-11-03T21:27:36Z",
-  "updatedAt": "2026-03-18T03:43:06Z",
-  "pushedAt": "2026-03-18T03:46:45Z",
+  "updatedAt": "2026-03-19T05:13:01Z",
+  "pushedAt": "2026-03-19T05:16:41Z",
   "topics": [
     "brrr",
     "cuda",

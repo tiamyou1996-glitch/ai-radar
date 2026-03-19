@@ -1,0 +1,39 @@
+{
+  "slug": "narcooo-inkos",
+  "featuredDate": "2026-03-19",
+  "fullName": "Narcooo/inkos",
+  "name": "inkos",
+  "owner": "Narcooo",
+  "repoUrl": "https://github.com/Narcooo/inkos",
+  "homepage": null,
+  "description": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates",
+  "language": "TypeScript",
+  "stars": 1683,
+  "forks": 348,
+  "openIssues": 37,
+  "createdAt": "2026-03-12T02:12:54Z",
+  "updatedAt": "2026-03-19T05:03:15Z",
+  "pushedAt": "2026-03-19T04:56:43Z",
+  "topics": [
+    "agent",
+    "ai-writing",
+    "aigc-detection",
+    "automated-storytelling",
+    "chinese-novel",
+    "cli-tool",
+    "creative-writing-ai",
+    "novel-generation"
+  ],
+  "summaryZh": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

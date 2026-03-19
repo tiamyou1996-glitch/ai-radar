@@ -8,11 +8,11 @@
   "homepage": "https://screenpi.pe",
   "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
   "language": "Rust",
-  "stars": 17281,
+  "stars": 17284,
   "forks": 1463,
   "openIssues": 103,
   "createdAt": "2024-06-19T13:23:56Z",
-  "updatedAt": "2026-03-19T03:31:49Z",
+  "updatedAt": "2026-03-19T05:17:40Z",
   "pushedAt": "2026-03-19T01:57:35Z",
   "topics": [
     "agents",

@@ -1,0 +1,32 @@
+{
+  "slug": "axolotl-ai-cloud-axolotl",
+  "featuredDate": "2026-03-19",
+  "fullName": "axolotl-ai-cloud/axolotl",
+  "name": "axolotl",
+  "owner": "axolotl-ai-cloud",
+  "repoUrl": "https://github.com/axolotl-ai-cloud/axolotl",
+  "homepage": "https://docs.axolotl.ai",
+  "description": "Go ahead and axolotl questions",
+  "language": "Python",
+  "stars": 11471,
+  "forks": 1277,
+  "openIssues": 222,
+  "createdAt": "2023-04-14T04:25:47Z",
+  "updatedAt": "2026-03-19T05:18:52Z",
+  "pushedAt": "2026-03-19T05:18:50Z",
+  "topics": [
+    "fine-tuning",
+    "llm"
+  ],
+  "summaryZh": "Go ahead and axolotl questions 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

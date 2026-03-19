@@ -1,6 +1,6 @@
 {
   "slug": "winstonkoh87-athena-public",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-03-19",
   "fullName": "winstonkoh87/Athena-Public",
   "name": "Athena-Public",
   "owner": "winstonkoh87",
@@ -8,12 +8,12 @@
   "homepage": "https://winstonkoh87.com/athena/",
   "description": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
   "language": "Python",
-  "stars": 432,
+  "stars": 433,
   "forks": 58,
   "openIssues": 0,
   "createdAt": "2025-12-18T19:47:38Z",
-  "updatedAt": "2026-03-18T07:00:12Z",
-  "pushedAt": "2026-03-18T07:00:08Z",
+  "updatedAt": "2026-03-19T05:08:54Z",
+  "pushedAt": "2026-03-19T05:08:51Z",
   "topics": [
     "ai",
     "ai-agents",
