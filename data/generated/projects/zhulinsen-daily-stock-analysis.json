@@ -1,0 +1,41 @@
+{
+  "slug": "zhulinsen-daily-stock-analysis",
+  "featuredDate": "2026-03-20",
+  "fullName": "ZhuLinsen/daily_stock_analysis",
+  "name": "daily_stock_analysis",
+  "owner": "ZhuLinsen",
+  "repoUrl": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "homepage": null,
+  "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+  "language": "Python",
+  "stars": 23404,
+  "forks": 24221,
+  "openIssues": 46,
+  "createdAt": "2026-01-10T06:43:20Z",
+  "updatedAt": "2026-03-20T03:35:47Z",
+  "pushedAt": "2026-03-20T03:35:00Z",
+  "topics": [
+    "agent",
+    "ai",
+    "aigc",
+    "gemini",
+    "llm",
+    "quant",
+    "quantitative-trading",
+    "rag",
+    "stock"
+  ],
+  "summaryZh": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 93
+}

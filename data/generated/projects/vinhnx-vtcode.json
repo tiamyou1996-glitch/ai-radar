@@ -1,0 +1,40 @@
+{
+  "slug": "vinhnx-vtcode",
+  "featuredDate": "2026-03-20",
+  "fullName": "vinhnx/VTCode",
+  "name": "VTCode",
+  "owner": "vinhnx",
+  "repoUrl": "https://github.com/vinhnx/VTCode",
+  "homepage": "https://vinhnx.github.io",
+  "description": "VT Code - semantic AI coding agent",
+  "language": "Rust",
+  "stars": 444,
+  "forks": 39,
+  "openIssues": 1,
+  "createdAt": "2025-08-29T09:01:48Z",
+  "updatedAt": "2026-03-20T02:58:57Z",
+  "pushedAt": "2026-03-20T02:58:48Z",
+  "topics": [
+    "agent",
+    "cargo",
+    "cli",
+    "codingagent",
+    "crossterm",
+    "ratatui",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "summaryZh": "VT Code - semantic AI coding agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 84
+}

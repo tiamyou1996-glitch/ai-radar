@@ -1,6 +1,6 @@
 {
   "slug": "mintplex-labs-anything-llm",
-  "featuredDate": "2026-03-19",
+  "featuredDate": "2026-03-20",
   "fullName": "Mintplex-Labs/anything-llm",
   "name": "anything-llm",
   "owner": "Mintplex-Labs",
@@ -8,12 +8,12 @@
   "homepage": "https://anythingllm.com",
   "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
   "language": "JavaScript",
-  "stars": 56437,
+  "stars": 56491,
   "forks": 6099,
   "openIssues": 305,
   "createdAt": "2023-06-04T02:29:14Z",
-  "updatedAt": "2026-03-19T04:38:25Z",
-  "pushedAt": "2026-03-19T02:56:49Z",
+  "updatedAt": "2026-03-20T03:10:07Z",
+  "pushedAt": "2026-03-20T03:31:15Z",
   "topics": [
     "ai-agents",
     "custom-ai-agents",

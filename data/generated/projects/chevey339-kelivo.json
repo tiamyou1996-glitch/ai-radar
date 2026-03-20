@@ -1,0 +1,41 @@
+{
+  "slug": "chevey339-kelivo",
+  "featuredDate": "2026-03-20",
+  "fullName": "Chevey339/kelivo",
+  "name": "kelivo",
+  "owner": "Chevey339",
+  "repoUrl": "https://github.com/Chevey339/kelivo",
+  "homepage": "https://kelivo.psycheas.top",
+  "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+  "language": "Dart",
+  "stars": 1882,
+  "forks": 189,
+  "openIssues": 216,
+  "createdAt": "2025-08-29T08:57:55Z",
+  "updatedAt": "2026-03-20T03:33:46Z",
+  "pushedAt": "2026-03-20T03:33:42Z",
+  "topics": [
+    "ai",
+    "android",
+    "chatbot",
+    "chatbox",
+    "flutter",
+    "flutter-apps",
+    "harmony",
+    "harmonyos",
+    "ios",
+    "llm",
+    "openharmony"
+  ],
+  "summaryZh": "A Flutter LLM Chat Client. Support Mobile & Desktop. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 51,
+  "totalScore": 84
+}

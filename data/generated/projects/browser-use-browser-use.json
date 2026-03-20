@@ -1,0 +1,38 @@
+{
+  "slug": "browser-use-browser-use",
+  "featuredDate": "2026-03-20",
+  "fullName": "browser-use/browser-use",
+  "name": "browser-use",
+  "owner": "browser-use",
+  "repoUrl": "https://github.com/browser-use/browser-use",
+  "homepage": "https://browser-use.com",
+  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "language": "Python",
+  "stars": 81341,
+  "forks": 9610,
+  "openIssues": 225,
+  "createdAt": "2024-10-31T16:00:56Z",
+  "updatedAt": "2026-03-20T03:35:37Z",
+  "pushedAt": "2026-03-20T03:35:34Z",
+  "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "summaryZh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
