@@ -1,0 +1,35 @@
+{
+  "slug": "chriswritescode-dev-opencode-manager",
+  "featuredDate": "2026-03-22",
+  "fullName": "chriswritescode-dev/opencode-manager",
+  "name": "opencode-manager",
+  "owner": "chriswritescode-dev",
+  "repoUrl": "https://github.com/chriswritescode-dev/opencode-manager",
+  "homepage": "https://chriswritescode-dev.github.io/opencode-manager/",
+  "description": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+  "language": "TypeScript",
+  "stars": 445,
+  "forks": 58,
+  "openIssues": 15,
+  "createdAt": "2025-11-24T03:17:21Z",
+  "updatedAt": "2026-03-22T03:38:14Z",
+  "pushedAt": "2026-03-22T03:38:10Z",
+  "topics": [
+    "agent",
+    "javascript",
+    "mobile",
+    "web"
+  ],
+  "summaryZh": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

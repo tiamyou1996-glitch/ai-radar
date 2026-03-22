@@ -1,0 +1,34 @@
+{
+  "slug": "mozilla-ai-any-llm",
+  "featuredDate": "2026-03-22",
+  "fullName": "mozilla-ai/any-llm",
+  "name": "any-llm",
+  "owner": "mozilla-ai",
+  "repoUrl": "https://github.com/mozilla-ai/any-llm",
+  "homepage": "https://any-llm.ai/docs/sdk/overview",
+  "description": "Communicate with an LLM provider using a single interface",
+  "language": "Python",
+  "stars": 1776,
+  "forks": 157,
+  "openIssues": 41,
+  "createdAt": "2025-07-14T15:38:20Z",
+  "updatedAt": "2026-03-22T00:28:03Z",
+  "pushedAt": "2026-03-22T01:53:01Z",
+  "topics": [
+    "inference",
+    "llm",
+    "text-completion"
+  ],
+  "summaryZh": "Communicate with an LLM provider using a single interface 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 95,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

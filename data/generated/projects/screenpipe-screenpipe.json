@@ -1,6 +1,6 @@
 {
   "slug": "screenpipe-screenpipe",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-03-22",
   "fullName": "screenpipe/screenpipe",
   "name": "screenpipe",
   "owner": "screenpipe",
@@ -8,12 +8,12 @@
   "homepage": "https://screenpi.pe",
   "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
   "language": "Rust",
-  "stars": 17348,
-  "forks": 1469,
-  "openIssues": 106,
+  "stars": 17379,
+  "forks": 1475,
+  "openIssues": 109,
   "createdAt": "2024-06-19T13:23:56Z",
-  "updatedAt": "2026-03-21T03:20:14Z",
-  "pushedAt": "2026-03-21T02:37:55Z",
+  "updatedAt": "2026-03-22T03:37:46Z",
+  "pushedAt": "2026-03-21T15:22:53Z",
   "topics": [
     "agents",
     "agi",
@@ -34,8 +34,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

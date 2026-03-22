@@ -1,6 +1,6 @@
 {
   "slug": "vllm-project-vllm-omni",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-03-22",
   "fullName": "vllm-project/vllm-omni",
   "name": "vllm-omni",
   "owner": "vllm-project",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.vllm.ai/projects/vllm-omni",
   "description": "A framework for efficient model inference with omni-modality models",
   "language": "Python",
-  "stars": 3357,
-  "forks": 576,
-  "openIssues": 512,
+  "stars": 3534,
+  "forks": 587,
+  "openIssues": 509,
   "createdAt": "2025-09-11T00:34:43Z",
-  "updatedAt": "2026-03-21T03:21:36Z",
-  "pushedAt": "2026-03-20T21:02:35Z",
+  "updatedAt": "2026-03-22T03:41:09Z",
+  "pushedAt": "2026-03-21T14:32:00Z",
   "topics": [
     "audio-generation",
     "diffusion",
@@ -34,8 +34,8 @@
     "Video"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 65,
-  "totalScore": 88
+  "totalScore": 87
 }

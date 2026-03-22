@@ -1,6 +1,6 @@
 {
   "slug": "rerun-io-rerun",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-03-22",
   "fullName": "rerun-io/rerun",
   "name": "rerun",
   "owner": "rerun-io",
@@ -8,12 +8,12 @@
   "homepage": "https://rerun.io/",
   "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
   "language": "Rust",
-  "stars": 10377,
-  "forks": 692,
-  "openIssues": 1344,
+  "stars": 10389,
+  "forks": 694,
+  "openIssues": 1346,
   "createdAt": "2022-04-08T07:30:05Z",
-  "updatedAt": "2026-03-18T08:20:55Z",
-  "pushedAt": "2026-03-18T05:34:13Z",
+  "updatedAt": "2026-03-21T17:17:55Z",
+  "pushedAt": "2026-03-21T05:31:17Z",
   "topics": [
     "computer-vision",
     "cpp",
@@ -30,8 +30,8 @@
     "Vision"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 85
+  "totalScore": 83
 }

@@ -1,0 +1,40 @@
+{
+  "slug": "blaizzy-mlx-audio",
+  "featuredDate": "2026-03-22",
+  "fullName": "Blaizzy/mlx-audio",
+  "name": "mlx-audio",
+  "owner": "Blaizzy",
+  "repoUrl": "https://github.com/Blaizzy/mlx-audio",
+  "homepage": null,
+  "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+  "language": "Python",
+  "stars": 6344,
+  "forks": 502,
+  "openIssues": 66,
+  "createdAt": "2024-11-27T21:14:34Z",
+  "updatedAt": "2026-03-22T01:33:56Z",
+  "pushedAt": "2026-03-21T21:20:57Z",
+  "topics": [
+    "apple-silicon",
+    "audio-processing",
+    "mlx",
+    "multimodal",
+    "speech-recognition",
+    "speech-synthesis",
+    "speech-to-text",
+    "text-to-speech",
+    "transformers"
+  ],
+  "summaryZh": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Audio"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 87
+}

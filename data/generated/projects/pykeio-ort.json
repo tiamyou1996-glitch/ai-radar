@@ -1,6 +1,6 @@
 {
   "slug": "pykeio-ort",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-03-22",
   "fullName": "pykeio/ort",
   "name": "ort",
   "owner": "pykeio",
@@ -8,12 +8,12 @@
   "homepage": "https://ort.pyke.io/",
   "description": "Fast ML inference & training for ONNX models in Rust",
   "language": "Rust",
-  "stars": 2095,
+  "stars": 2103,
   "forks": 225,
   "openIssues": 3,
   "createdAt": "2022-11-26T19:26:15Z",
-  "updatedAt": "2026-03-21T03:24:29Z",
-  "pushedAt": "2026-03-21T03:24:25Z",
+  "updatedAt": "2026-03-21T23:17:37Z",
+  "pushedAt": "2026-03-21T23:17:33Z",
   "topics": [
     "ai",
     "ai-training",

@@ -1,0 +1,42 @@
+{
+  "slug": "chaokunhong-metascreener",
+  "featuredDate": "2026-03-22",
+  "fullName": "ChaokunHong/MetaScreener",
+  "name": "MetaScreener",
+  "owner": "ChaokunHong",
+  "repoUrl": "https://github.com/ChaokunHong/MetaScreener",
+  "homepage": "https://www.metascreener.net/",
+  "description": "AI-powered tool for efficient abstract and PDF screening in systematic reviews.",
+  "language": "Python",
+  "stars": 1305,
+  "forks": 47,
+  "openIssues": 6,
+  "createdAt": "2025-05-08T08:47:55Z",
+  "updatedAt": "2026-03-22T03:42:12Z",
+  "pushedAt": "2026-03-22T03:42:09Z",
+  "topics": [
+    "deepseek",
+    "deepseek-llm",
+    "literature-screening",
+    "llama4scout",
+    "llm",
+    "metaanalysis",
+    "mistral",
+    "pdf-screening",
+    "qwen3",
+    "screening",
+    "screening-api",
+    "systematic-review"
+  ],
+  "summaryZh": "AI-powered tool for efficient abstract and PDF screening in systematic reviews. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 51,
+  "totalScore": 84
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "seanium-feedme",
+  "featuredDate": "2026-03-22",
+  "fullName": "Seanium/FeedMe",
+  "name": "FeedMe",
+  "owner": "Seanium",
+  "repoUrl": "https://github.com/Seanium/FeedMe",
+  "homepage": "https://feedme.icu",
+  "description": "😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker",
+  "language": "TypeScript",
+  "stars": 721,
+  "forks": 157,
+  "openIssues": 0,
+  "createdAt": "2025-04-24T14:31:50Z",
+  "updatedAt": "2026-03-22T03:28:22Z",
+  "pushedAt": "2026-03-22T03:29:50Z",
+  "topics": [
+    "ai",
+    "github-actions",
+    "github-pages",
+    "llm",
+    "rss",
+    "rss-reader",
+    "self-hosted"
+  ],
+  "summaryZh": "😋 AI-powered, Lightweight RSS Reader. Supports: GitHub Pages | Vercel | Alibaba Cloud ESA Pages | Docker 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 51,
+  "totalScore": 82
+}

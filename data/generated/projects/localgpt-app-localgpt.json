@@ -1,0 +1,35 @@
+{
+  "slug": "localgpt-app-localgpt",
+  "featuredDate": "2026-03-22",
+  "fullName": "localgpt-app/localgpt",
+  "name": "localgpt",
+  "owner": "localgpt-app",
+  "repoUrl": "https://github.com/localgpt-app/localgpt",
+  "homepage": "https://localgpt.app/",
+  "description": "Local AI assistant, dreaming explorable worlds.",
+  "language": "Rust",
+  "stars": 1024,
+  "forks": 75,
+  "openIssues": 6,
+  "createdAt": "2026-02-01T17:32:52Z",
+  "updatedAt": "2026-03-22T03:29:51Z",
+  "pushedAt": "2026-03-22T03:29:47Z",
+  "topics": [
+    "agent",
+    "ai",
+    "bevy",
+    "rust",
+    "world"
+  ],
+  "summaryZh": "Local AI assistant, dreaming explorable worlds. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

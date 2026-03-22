@@ -1,6 +1,6 @@
 {
   "slug": "theopenco-llmgateway",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-03-22",
   "fullName": "theopenco/llmgateway",
   "name": "llmgateway",
   "owner": "theopenco",
@@ -8,12 +8,12 @@
   "homepage": "https://llmgateway.io",
   "description": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
   "language": "TypeScript",
-  "stars": 999,
+  "stars": 1003,
   "forks": 108,
   "openIssues": 40,
   "createdAt": "2025-04-12T18:37:18Z",
-  "updatedAt": "2026-03-21T02:47:08Z",
-  "pushedAt": "2026-03-20T21:24:18Z",
+  "updatedAt": "2026-03-22T00:22:28Z",
+  "pushedAt": "2026-03-21T23:44:18Z",
   "topics": [
     "ai",
     "ai-gateway",
