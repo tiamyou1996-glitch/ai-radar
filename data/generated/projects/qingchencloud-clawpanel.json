@@ -1,6 +1,6 @@
 {
   "slug": "qingchencloud-clawpanel",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-03-23",
   "fullName": "qingchencloud/clawpanel",
   "name": "clawpanel",
   "owner": "qingchencloud",
@@ -8,12 +8,12 @@
   "homepage": "https://claw.qt.cool",
   "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
   "language": "JavaScript",
-  "stars": 1443,
-  "forks": 183,
-  "openIssues": 49,
+  "stars": 1512,
+  "forks": 186,
+  "openIssues": 56,
   "createdAt": "2026-02-26T13:37:07Z",
-  "updatedAt": "2026-03-21T03:22:05Z",
-  "pushedAt": "2026-03-20T20:20:48Z",
+  "updatedAt": "2026-03-23T02:41:12Z",
+  "pushedAt": "2026-03-22T12:56:16Z",
   "topics": [
     "admin-panel",
     "ai-agent",
@@ -42,8 +42,8 @@
     "Image"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 94,
   "qualityScore": 94,
   "relevanceScore": 69,
-  "totalScore": 90
+  "totalScore": 89
 }
