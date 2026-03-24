@@ -1,19 +1,19 @@
 {
   "slug": "suzuran0y-cctv-smartphone-ai-monitoring",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-03-24",
   "fullName": "suzuran0y/CCTV-Smartphone-AI-Monitoring",
   "name": "CCTV-Smartphone-AI-Monitoring",
   "owner": "suzuran0y",
   "repoUrl": "https://github.com/suzuran0y/CCTV-Smartphone-AI-Monitoring",
-  "homepage": "https://github.com/suzuran0y/Sentinel/releases",
-  "description": "LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis. （本地监控 + AI 部署）",
+  "homepage": null,
+  "description": "本地监控 + AI 视觉 — LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis.",
   "language": "Python",
-  "stars": 425,
-  "forks": 31,
-  "openIssues": 2,
+  "stars": 488,
+  "forks": 33,
+  "openIssues": 3,
   "createdAt": "2026-02-26T19:11:33Z",
-  "updatedAt": "2026-03-18T08:10:48Z",
-  "pushedAt": "2026-03-18T07:43:27Z",
+  "updatedAt": "2026-03-24T03:35:00Z",
+  "pushedAt": "2026-03-24T03:16:53Z",
   "topics": [
     "ai-monitoring",
     "computer-vision",
@@ -27,7 +27,7 @@
     "structured-output",
     "video-streaming"
   ],
-  "summaryZh": "LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis. （本地监控 + AI 部署） 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "summaryZh": "本地监控 + AI 视觉 — LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
   "tags": [
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 85,
   "relevanceScore": 65,
-  "totalScore": 87
+  "totalScore": 86
 }

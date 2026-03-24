@@ -1,6 +1,6 @@
 {
   "slug": "sgl-project-specforge",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-03-24",
   "fullName": "sgl-project/SpecForge",
   "name": "SpecForge",
   "owner": "sgl-project",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.sglang.ai/SpecForge/",
   "description": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
   "language": "Python",
-  "stars": 730,
-  "forks": 182,
-  "openIssues": 98,
+  "stars": 742,
+  "forks": 186,
+  "openIssues": 103,
   "createdAt": "2025-06-09T05:28:34Z",
-  "updatedAt": "2026-03-16T15:01:58Z",
-  "pushedAt": "2026-03-16T15:01:37Z",
+  "updatedAt": "2026-03-24T03:36:58Z",
+  "pushedAt": "2026-03-24T03:36:53Z",
   "topics": [
     "eagle",
     "eagle3",
@@ -32,8 +32,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 88,
+  "trendScore": 92,
   "qualityScore": 90,
   "relevanceScore": 69,
-  "totalScore": 85
+  "totalScore": 86
 }
