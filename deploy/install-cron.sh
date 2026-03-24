@@ -5,7 +5,7 @@ APP_DIR="/var/www/ai-radar"
 LOG_FILE="/var/log/ai-radar-update.log"
 CRON_EXPR="${CRON_EXPR:-5 9 * * *}"
 CRON_FILE="/etc/cron.d/ai-radar-update"
-CRON_LINE="$CRON_EXPR root $APP_DIR/deploy/server-update.sh >> $LOG_FILE 2>&1"
+CRON_LINE="$CRON_EXPR root /bin/bash $APP_DIR/deploy/server-update.sh >> $LOG_FILE 2>&1"
 
 mkdir -p "$APP_DIR"
 sudo touch "$LOG_FILE"
