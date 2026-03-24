@@ -1,0 +1,35 @@
+{
+  "slug": "upstash-context7",
+  "featuredDate": "2026-03-24",
+  "fullName": "upstash/context7",
+  "name": "context7",
+  "owner": "upstash",
+  "repoUrl": "https://github.com/upstash/context7",
+  "homepage": "https://context7.com",
+  "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+  "language": "TypeScript",
+  "stars": 50378,
+  "forks": 2381,
+  "openIssues": 170,
+  "createdAt": "2025-03-26T23:40:39Z",
+  "updatedAt": "2026-03-24T08:55:30Z",
+  "pushedAt": "2026-03-24T07:50:13Z",
+  "topics": [
+    "llm",
+    "mcp",
+    "mcp-server",
+    "vibe-coding"
+  ],
+  "summaryZh": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 87
+}

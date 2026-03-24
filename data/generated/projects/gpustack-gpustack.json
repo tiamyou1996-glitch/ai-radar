@@ -6,14 +6,14 @@
   "owner": "gpustack",
   "repoUrl": "https://github.com/gpustack/gpustack",
   "homepage": "https://gpustack.ai",
-  "description": "Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang.",
+  "description": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.",
   "language": "Python",
-  "stars": 4703,
+  "stars": 4708,
   "forks": 483,
-  "openIssues": 516,
+  "openIssues": 521,
   "createdAt": "2024-05-11T03:41:58Z",
-  "updatedAt": "2026-03-24T02:32:45Z",
-  "pushedAt": "2026-03-24T02:27:46Z",
+  "updatedAt": "2026-03-24T08:30:27Z",
+  "pushedAt": "2026-03-24T08:13:49Z",
   "topics": [
     "ascend",
     "cuda",
@@ -34,7 +34,7 @@
     "sglang",
     "vllm"
   ],
-  "summaryZh": "Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "summaryZh": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [

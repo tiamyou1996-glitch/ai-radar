@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
   "language": "Nix",
-  "stars": 851,
+  "stars": 852,
   "forks": 88,
-  "openIssues": 6,
+  "openIssues": 5,
   "createdAt": "2025-07-18T10:29:06Z",
-  "updatedAt": "2026-03-24T03:39:38Z",
-  "pushedAt": "2026-03-24T03:39:35Z",
+  "updatedAt": "2026-03-24T06:20:37Z",
+  "pushedAt": "2026-03-24T06:20:35Z",
   "topics": [
     "buildbot-numtide"
   ],
