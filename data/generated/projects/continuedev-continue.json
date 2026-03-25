@@ -1,0 +1,40 @@
+{
+  "slug": "continuedev-continue",
+  "featuredDate": "2026-03-25",
+  "fullName": "continuedev/continue",
+  "name": "continue",
+  "owner": "continuedev",
+  "repoUrl": "https://github.com/continuedev/continue",
+  "homepage": "https://docs.continue.dev",
+  "description": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI",
+  "language": "TypeScript",
+  "stars": 32042,
+  "forks": 4296,
+  "openIssues": 537,
+  "createdAt": "2023-05-24T03:39:39Z",
+  "updatedAt": "2026-03-25T03:33:09Z",
+  "pushedAt": "2026-03-25T03:33:05Z",
+  "topics": [
+    "agent",
+    "ai",
+    "cli",
+    "developer-tools",
+    "jetbrains-plugin",
+    "llm",
+    "open-source",
+    "vs-code-extenstion"
+  ],
+  "summaryZh": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}
