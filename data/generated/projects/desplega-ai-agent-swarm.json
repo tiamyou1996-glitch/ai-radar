@@ -1,0 +1,35 @@
+{
+  "slug": "desplega-ai-agent-swarm",
+  "featuredDate": "2026-03-26",
+  "fullName": "desplega-ai/agent-swarm",
+  "name": "agent-swarm",
+  "owner": "desplega-ai",
+  "repoUrl": "https://github.com/desplega-ai/agent-swarm",
+  "homepage": "https://agent-swarm.dev",
+  "description": "Agent Swarm framework for AI coding agents and more!",
+  "language": "TypeScript",
+  "stars": 301,
+  "forks": 27,
+  "openIssues": 4,
+  "createdAt": "2025-12-19T18:59:13Z",
+  "updatedAt": "2026-03-26T01:54:35Z",
+  "pushedAt": "2026-03-26T01:54:31Z",
+  "topics": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "swarm"
+  ],
+  "summaryZh": "Agent Swarm framework for AI coding agents and more! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

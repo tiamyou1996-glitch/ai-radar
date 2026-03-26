@@ -1,6 +1,6 @@
 {
   "slug": "dataelement-clawith",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-03-26",
   "fullName": "dataelement/Clawith",
   "name": "Clawith",
   "owner": "dataelement",
@@ -8,12 +8,12 @@
   "homepage": "https://www.clawith.ai",
   "description": "OpenClaw for Teams",
   "language": "Python",
-  "stars": 1351,
-  "forks": 196,
-  "openIssues": 44,
+  "stars": 2356,
+  "forks": 350,
+  "openIssues": 82,
   "createdAt": "2026-03-03T04:58:21Z",
-  "updatedAt": "2026-03-17T04:41:09Z",
-  "pushedAt": "2026-03-17T04:32:38Z",
+  "updatedAt": "2026-03-26T03:50:53Z",
+  "pushedAt": "2026-03-26T03:48:35Z",
   "topics": [
     "agent",
     "llm",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 94,
+  "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }
