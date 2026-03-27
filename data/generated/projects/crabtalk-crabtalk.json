@@ -1,0 +1,39 @@
+{
+  "slug": "crabtalk-crabtalk",
+  "featuredDate": "2026-03-27",
+  "fullName": "crabtalk/crabtalk",
+  "name": "crabtalk",
+  "owner": "crabtalk",
+  "repoUrl": "https://github.com/crabtalk/crabtalk",
+  "homepage": "https://crabtalk.ai",
+  "description": "Agents without the bloat",
+  "language": "Rust",
+  "stars": 353,
+  "forks": 51,
+  "openIssues": 10,
+  "createdAt": "2026-03-11T04:41:33Z",
+  "updatedAt": "2026-03-27T03:49:58Z",
+  "pushedAt": "2026-03-27T03:49:56Z",
+  "topics": [
+    "agent-framework",
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "composable",
+    "developer-tool",
+    "llm"
+  ],
+  "summaryZh": "Agents without the bloat 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 73,
+  "totalScore": 88
+}

@@ -1,6 +1,6 @@
 {
   "slug": "agentscope-ai-agentscope-java",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-03-27",
   "fullName": "agentscope-ai/agentscope-java",
   "name": "agentscope-java",
   "owner": "agentscope-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://java.agentscope.io/",
   "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
   "language": "Java",
-  "stars": 1984,
-  "forks": 406,
-  "openIssues": 234,
+  "stars": 2227,
+  "forks": 455,
+  "openIssues": 230,
   "createdAt": "2025-09-23T04:37:43Z",
-  "updatedAt": "2026-03-18T07:16:28Z",
-  "pushedAt": "2026-03-18T07:16:25Z",
+  "updatedAt": "2026-03-27T03:47:05Z",
+  "pushedAt": "2026-03-27T03:47:01Z",
   "topics": [
     "agent",
     "agentic",
@@ -29,8 +29,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 96,
+  "trendScore": 92,
+  "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 87
 }

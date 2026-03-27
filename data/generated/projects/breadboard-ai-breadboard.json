@@ -1,0 +1,35 @@
+{
+  "slug": "breadboard-ai-breadboard",
+  "featuredDate": "2026-03-27",
+  "fullName": "breadboard-ai/breadboard",
+  "name": "breadboard",
+  "owner": "breadboard-ai",
+  "repoUrl": "https://github.com/breadboard-ai/breadboard",
+  "homepage": null,
+  "description": "A library for prototyping generative AI applications.",
+  "language": "TypeScript",
+  "stars": 390,
+  "forks": 68,
+  "openIssues": 630,
+  "createdAt": "2023-12-12T19:19:31Z",
+  "updatedAt": "2026-03-27T03:51:10Z",
+  "pushedAt": "2026-03-27T03:51:07Z",
+  "topics": [
+    "ai",
+    "genai",
+    "llm",
+    "nodejs",
+    "web"
+  ],
+  "summaryZh": "A library for prototyping generative AI applications. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 84,
+  "relevanceScore": 51,
+  "totalScore": 80
+}
