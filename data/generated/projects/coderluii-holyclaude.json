@@ -1,6 +1,6 @@
 {
   "slug": "coderluii-holyclaude",
-  "featuredDate": "2026-03-27",
+  "featuredDate": "2026-03-28",
   "fullName": "CoderLuii/HolyClaude",
   "name": "HolyClaude",
   "owner": "CoderLuii",
@@ -8,12 +8,12 @@
   "homepage": "https://holyclaude.coderluii.dev",
   "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
   "language": "Dockerfile",
-  "stars": 789,
-  "forks": 84,
-  "openIssues": 3,
+  "stars": 989,
+  "forks": 104,
+  "openIssues": 2,
   "createdAt": "2026-03-22T01:03:18Z",
-  "updatedAt": "2026-03-27T03:49:27Z",
-  "pushedAt": "2026-03-27T03:14:14Z",
+  "updatedAt": "2026-03-28T03:31:07Z",
+  "pushedAt": "2026-03-28T03:31:05Z",
   "topics": [
     "ai",
     "ai-coding",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 62,
   "totalScore": 88
 }

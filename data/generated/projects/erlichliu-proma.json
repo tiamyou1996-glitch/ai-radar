@@ -1,0 +1,39 @@
+{
+  "slug": "erlichliu-proma",
+  "featuredDate": "2026-03-28",
+  "fullName": "ErlichLiu/Proma",
+  "name": "Proma",
+  "owner": "ErlichLiu",
+  "repoUrl": "https://github.com/ErlichLiu/Proma",
+  "homepage": "https://proma.cool/download",
+  "description": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。",
+  "language": "TypeScript",
+  "stars": 338,
+  "forks": 58,
+  "openIssues": 35,
+  "createdAt": "2026-01-31T06:26:28Z",
+  "updatedAt": "2026-03-28T03:36:43Z",
+  "pushedAt": "2026-03-28T03:36:39Z",
+  "topics": [
+    "agent",
+    "agent-sdk",
+    "agents",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "llm"
+  ],
+  "summaryZh": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

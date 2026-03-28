@@ -1,0 +1,39 @@
+{
+  "slug": "claw-company-clawcompany",
+  "featuredDate": "2026-03-28",
+  "fullName": "Claw-Company/clawcompany",
+  "name": "clawcompany",
+  "owner": "Claw-Company",
+  "repoUrl": "https://github.com/Claw-Company/clawcompany",
+  "homepage": null,
+  "description": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all.",
+  "language": "TypeScript",
+  "stars": 502,
+  "forks": 34,
+  "openIssues": 0,
+  "createdAt": "2026-03-14T07:25:41Z",
+  "updatedAt": "2026-03-28T03:29:26Z",
+  "pushedAt": "2026-03-28T03:29:23Z",
+  "topics": [
+    "agents",
+    "ai",
+    "autonomous",
+    "clawapi",
+    "llm",
+    "multi-agent",
+    "typrscript",
+    "web4"
+  ],
+  "summaryZh": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

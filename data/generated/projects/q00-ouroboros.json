@@ -1,6 +1,6 @@
 {
   "slug": "q00-ouroboros",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-03-28",
   "fullName": "Q00/ouroboros",
   "name": "ouroboros",
   "owner": "Q00",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Stop prompting. Start specifying.",
   "language": "Python",
-  "stars": 1398,
-  "forks": 126,
-  "openIssues": 19,
+  "stars": 1876,
+  "forks": 165,
+  "openIssues": 26,
   "createdAt": "2026-01-14T01:14:04Z",
-  "updatedAt": "2026-03-17T04:48:20Z",
-  "pushedAt": "2026-03-17T04:45:16Z",
+  "updatedAt": "2026-03-28T03:27:53Z",
+  "pushedAt": "2026-03-28T03:24:49Z",
   "topics": [
     "ai-agent",
     "claude-code",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 93,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 90
 }
