@@ -1,6 +1,6 @@
 {
   "slug": "loongclaw-ai-loongclaw",
-  "featuredDate": "2026-03-25",
+  "featuredDate": "2026-03-29",
   "fullName": "loongclaw-ai/loongclaw",
   "name": "loongclaw",
   "owner": "loongclaw-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://loongclaw.ai",
   "description": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
   "language": "Rust",
-  "stars": 357,
-  "forks": 50,
-  "openIssues": 52,
+  "stars": 384,
+  "forks": 53,
+  "openIssues": 64,
   "createdAt": "2026-03-05T12:45:59Z",
-  "updatedAt": "2026-03-25T03:40:37Z",
-  "pushedAt": "2026-03-25T03:40:31Z",
+  "updatedAt": "2026-03-29T04:01:55Z",
+  "pushedAt": "2026-03-29T04:01:52Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 66,
   "totalScore": 87
 }

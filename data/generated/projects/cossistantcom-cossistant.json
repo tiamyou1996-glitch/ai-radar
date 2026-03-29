@@ -1,0 +1,37 @@
+{
+  "slug": "cossistantcom-cossistant",
+  "featuredDate": "2026-03-29",
+  "fullName": "cossistantcom/cossistant",
+  "name": "cossistant",
+  "owner": "cossistantcom",
+  "repoUrl": "https://github.com/cossistantcom/cossistant",
+  "homepage": "https://cossistant.com",
+  "description": "Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS.",
+  "language": "TypeScript",
+  "stars": 553,
+  "forks": 31,
+  "openIssues": 2,
+  "createdAt": "2025-05-17T13:34:36Z",
+  "updatedAt": "2026-03-29T03:50:05Z",
+  "pushedAt": "2026-03-29T03:50:01Z",
+  "topics": [
+    "agent",
+    "ai",
+    "aiagent",
+    "nextjs",
+    "react",
+    "support"
+  ],
+  "summaryZh": "Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 89,
+  "relevanceScore": 62,
+  "totalScore": 84
+}

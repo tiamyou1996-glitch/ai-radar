@@ -1,6 +1,6 @@
 {
   "slug": "datachain-ai-datachain",
-  "featuredDate": "2026-03-28",
+  "featuredDate": "2026-03-29",
   "fullName": "datachain-ai/datachain",
   "name": "datachain",
   "owner": "datachain-ai",
@@ -9,11 +9,11 @@
   "description": "Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images",
   "language": "Python",
   "stars": 2732,
-  "forks": 140,
-  "openIssues": 71,
+  "forks": 141,
+  "openIssues": 69,
   "createdAt": "2024-06-25T22:29:35Z",
-  "updatedAt": "2026-03-28T00:34:22Z",
-  "pushedAt": "2026-03-28T02:08:16Z",
+  "updatedAt": "2026-03-28T18:24:23Z",
+  "pushedAt": "2026-03-28T22:27:23Z",
   "topics": [
     "ai",
     "cv",
