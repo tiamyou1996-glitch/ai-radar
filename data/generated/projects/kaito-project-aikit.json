@@ -1,6 +1,6 @@
 {
   "slug": "kaito-project-aikit",
-  "featuredDate": "2026-03-23",
+  "featuredDate": "2026-03-30",
   "fullName": "kaito-project/aikit",
   "name": "aikit",
   "owner": "kaito-project",
@@ -12,8 +12,8 @@
   "forks": 57,
   "openIssues": 39,
   "createdAt": "2023-09-20T02:31:11Z",
-  "updatedAt": "2026-03-23T02:23:11Z",
-  "pushedAt": "2026-03-23T02:23:06Z",
+  "updatedAt": "2026-03-30T02:43:36Z",
+  "pushedAt": "2026-03-30T02:43:33Z",
   "topics": [
     "ai",
     "buildkit",

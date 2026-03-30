@@ -1,6 +1,6 @@
 {
   "slug": "chaokunhong-metascreener",
-  "featuredDate": "2026-03-22",
+  "featuredDate": "2026-03-30",
   "fullName": "ChaokunHong/MetaScreener",
   "name": "MetaScreener",
   "owner": "ChaokunHong",
@@ -12,8 +12,8 @@
   "forks": 47,
   "openIssues": 6,
   "createdAt": "2025-05-08T08:47:55Z",
-  "updatedAt": "2026-03-22T03:42:12Z",
-  "pushedAt": "2026-03-22T03:42:09Z",
+  "updatedAt": "2026-03-30T04:04:50Z",
+  "pushedAt": "2026-03-30T04:04:46Z",
   "topics": [
     "deepseek",
     "deepseek-llm",

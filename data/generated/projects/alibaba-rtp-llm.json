@@ -1,6 +1,6 @@
 {
   "slug": "alibaba-rtp-llm",
-  "featuredDate": "2026-03-27",
+  "featuredDate": "2026-03-30",
   "fullName": "alibaba/rtp-llm",
   "name": "rtp-llm",
   "owner": "alibaba",
@@ -9,11 +9,11 @@
   "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
   "language": "Cuda",
   "stars": 1076,
-  "forks": 163,
-  "openIssues": 84,
+  "forks": 162,
+  "openIssues": 83,
   "createdAt": "2023-12-27T08:22:59Z",
-  "updatedAt": "2026-03-27T02:50:33Z",
-  "pushedAt": "2026-03-27T03:54:57Z",
+  "updatedAt": "2026-03-30T02:56:49Z",
+  "pushedAt": "2026-03-30T04:09:33Z",
   "topics": [
     "gpt",
     "inference",

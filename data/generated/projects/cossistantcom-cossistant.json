@@ -1,6 +1,6 @@
 {
   "slug": "cossistantcom-cossistant",
-  "featuredDate": "2026-03-29",
+  "featuredDate": "2026-03-30",
   "fullName": "cossistantcom/cossistant",
   "name": "cossistant",
   "owner": "cossistantcom",
@@ -12,8 +12,8 @@
   "forks": 31,
   "openIssues": 2,
   "createdAt": "2025-05-17T13:34:36Z",
-  "updatedAt": "2026-03-29T03:50:05Z",
-  "pushedAt": "2026-03-29T03:50:01Z",
+  "updatedAt": "2026-03-30T03:53:02Z",
+  "pushedAt": "2026-03-30T03:52:58Z",
   "topics": [
     "agent",
     "ai",

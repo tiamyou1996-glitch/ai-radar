@@ -1,0 +1,36 @@
+{
+  "slug": "dicklesworthstone-cass-memory-system",
+  "featuredDate": "2026-03-30",
+  "fullName": "Dicklesworthstone/cass_memory_system",
+  "name": "cass_memory_system",
+  "owner": "Dicklesworthstone",
+  "repoUrl": "https://github.com/Dicklesworthstone/cass_memory_system",
+  "homepage": null,
+  "description": "Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other",
+  "language": "TypeScript",
+  "stars": 302,
+  "forks": 43,
+  "openIssues": 0,
+  "createdAt": "2025-12-07T20:45:32Z",
+  "updatedAt": "2026-03-30T04:11:50Z",
+  "pushedAt": "2026-03-30T04:11:46Z",
+  "topics": [
+    "ai-agents",
+    "bun",
+    "developer-tools",
+    "memory",
+    "typescript"
+  ],
+  "summaryZh": "Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 82,
+  "relevanceScore": 62,
+  "totalScore": 84
+}
