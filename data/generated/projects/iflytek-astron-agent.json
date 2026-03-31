@@ -1,6 +1,6 @@
 {
   "slug": "iflytek-astron-agent",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-03-31",
   "fullName": "iflytek/astron-agent",
   "name": "astron-agent",
   "owner": "iflytek",
@@ -8,12 +8,12 @@
   "homepage": "http://astron.ai/",
   "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
   "language": "Java",
-  "stars": 10267,
+  "stars": 10641,
   "forks": 1088,
-  "openIssues": 51,
+  "openIssues": 43,
   "createdAt": "2025-09-19T08:46:01Z",
-  "updatedAt": "2026-03-17T04:10:24Z",
-  "pushedAt": "2026-03-17T04:08:29Z",
+  "updatedAt": "2026-03-31T04:03:49Z",
+  "pushedAt": "2026-03-31T03:57:23Z",
   "topics": [
     "agent",
     "agentic-workflow",
@@ -38,8 +38,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 93
+  "totalScore": 90
 }

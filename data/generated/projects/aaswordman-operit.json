@@ -1,0 +1,40 @@
+{
+  "slug": "aaswordman-operit",
+  "featuredDate": "2026-03-31",
+  "fullName": "AAswordman/Operit",
+  "name": "Operit",
+  "owner": "AAswordman",
+  "repoUrl": "https://github.com/AAswordman/Operit",
+  "homepage": "https://aaswordman.github.io/OperitWeb",
+  "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent",
+  "language": "Kotlin",
+  "stars": 3821,
+  "forks": 297,
+  "openIssues": 55,
+  "createdAt": "2025-03-15T04:24:12Z",
+  "updatedAt": "2026-03-31T03:59:57Z",
+  "pushedAt": "2026-03-31T03:53:19Z",
+  "topics": [
+    "agent",
+    "ai",
+    "android",
+    "compose",
+    "kotlin",
+    "llama",
+    "llm",
+    "mnn",
+    "terminal"
+  ],
+  "summaryZh": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
