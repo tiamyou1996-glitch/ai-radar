@@ -1,0 +1,41 @@
+{
+  "slug": "argmaxinc-whisperkit",
+  "featuredDate": "2026-04-01",
+  "fullName": "argmaxinc/WhisperKit",
+  "name": "WhisperKit",
+  "owner": "argmaxinc",
+  "repoUrl": "https://github.com/argmaxinc/WhisperKit",
+  "homepage": "http://argmaxinc.com/blog/whisperkit",
+  "description": "On-device Speech Recognition for Apple Silicon",
+  "language": "Swift",
+  "stars": 5892,
+  "forks": 536,
+  "openIssues": 110,
+  "createdAt": "2024-01-26T07:11:52Z",
+  "updatedAt": "2026-04-01T03:19:11Z",
+  "pushedAt": "2026-04-01T03:25:18Z",
+  "topics": [
+    "inference",
+    "ios",
+    "macos",
+    "speech-recognition",
+    "swift",
+    "transformers",
+    "visionos",
+    "watchos",
+    "whisper"
+  ],
+  "summaryZh": "On-device Speech Recognition for Apple Silicon 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Vision",
+    "Audio",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

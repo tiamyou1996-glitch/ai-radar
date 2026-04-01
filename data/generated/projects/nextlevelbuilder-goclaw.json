@@ -1,6 +1,6 @@
 {
   "slug": "nextlevelbuilder-goclaw",
-  "featuredDate": "2026-03-27",
+  "featuredDate": "2026-04-01",
   "fullName": "nextlevelbuilder/goclaw",
   "name": "goclaw",
   "owner": "nextlevelbuilder",
@@ -8,12 +8,12 @@
   "homepage": "https://goclaw.sh",
   "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
   "language": "Go",
-  "stars": 1202,
-  "forks": 354,
-  "openIssues": 133,
+  "stars": 1432,
+  "forks": 418,
+  "openIssues": 138,
   "createdAt": "2026-02-22T07:26:36Z",
-  "updatedAt": "2026-03-27T03:51:38Z",
-  "pushedAt": "2026-03-27T03:51:07Z",
+  "updatedAt": "2026-04-01T04:12:40Z",
+  "pushedAt": "2026-04-01T04:12:48Z",
   "topics": [
     "agent-orchestration",
     "ai-agent",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }
