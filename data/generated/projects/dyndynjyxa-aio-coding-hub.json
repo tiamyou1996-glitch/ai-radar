@@ -1,0 +1,29 @@
+{
+  "slug": "dyndynjyxa-aio-coding-hub",
+  "featuredDate": "2026-04-02",
+  "fullName": "dyndynjyxa/aio-coding-hub",
+  "name": "aio-coding-hub",
+  "owner": "dyndynjyxa",
+  "repoUrl": "https://github.com/dyndynjyxa/aio-coding-hub",
+  "homepage": null,
+  "description": "一个All In One的本地AI工具, 支持Win/Mac/Linux",
+  "language": "TypeScript",
+  "stars": 325,
+  "forks": 24,
+  "openIssues": 11,
+  "createdAt": "2026-01-18T06:39:54Z",
+  "updatedAt": "2026-04-02T03:34:36Z",
+  "pushedAt": "2026-04-02T03:45:35Z",
+  "topics": [],
+  "summaryZh": "一个All In One的本地AI工具, 支持Win/Mac/Linux 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 51,
+  "totalScore": 82
+}

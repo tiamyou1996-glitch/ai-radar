@@ -1,0 +1,39 @@
+{
+  "slug": "inclusionai-areal",
+  "featuredDate": "2026-04-02",
+  "fullName": "inclusionAI/AReaL",
+  "name": "AReaL",
+  "owner": "inclusionAI",
+  "repoUrl": "https://github.com/inclusionAI/AReaL",
+  "homepage": "https://inclusionai.github.io/AReaL/",
+  "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+  "language": "Python",
+  "stars": 4957,
+  "forks": 446,
+  "openIssues": 58,
+  "createdAt": "2025-02-24T07:23:43Z",
+  "updatedAt": "2026-04-02T03:43:56Z",
+  "pushedAt": "2026-04-02T03:44:09Z",
+  "topics": [
+    "agent",
+    "llm",
+    "llm-agent",
+    "llm-reasoning",
+    "machine-learning-systems",
+    "mlsys",
+    "reinforcement-learning",
+    "rl"
+  ],
+  "summaryZh": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

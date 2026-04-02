@@ -1,6 +1,6 @@
 {
   "slug": "vinhnx-vtcode",
-  "featuredDate": "2026-03-20",
+  "featuredDate": "2026-04-02",
   "fullName": "vinhnx/VTCode",
   "name": "VTCode",
   "owner": "vinhnx",
@@ -8,12 +8,12 @@
   "homepage": "https://vinhnx.github.io",
   "description": "VT Code - semantic AI coding agent",
   "language": "Rust",
-  "stars": 444,
-  "forks": 39,
+  "stars": 470,
+  "forks": 41,
   "openIssues": 1,
   "createdAt": "2025-08-29T09:01:48Z",
-  "updatedAt": "2026-03-20T02:58:57Z",
-  "pushedAt": "2026-03-20T02:58:48Z",
+  "updatedAt": "2026-04-02T03:30:27Z",
+  "pushedAt": "2026-04-02T03:30:22Z",
   "topics": [
     "agent",
     "cargo",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 62,
   "totalScore": 84
 }
