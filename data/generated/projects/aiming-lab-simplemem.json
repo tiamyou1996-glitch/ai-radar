@@ -1,0 +1,41 @@
+{
+  "slug": "aiming-lab-simplemem",
+  "featuredDate": "2026-04-03",
+  "fullName": "aiming-lab/SimpleMem",
+  "name": "SimpleMem",
+  "owner": "aiming-lab",
+  "repoUrl": "https://github.com/aiming-lab/SimpleMem",
+  "homepage": null,
+  "description": "SimpleMem: Efficient (Omni-)Lifelong Memory for LLM Agents",
+  "language": "Python",
+  "stars": 3161,
+  "forks": 306,
+  "openIssues": 2,
+  "createdAt": "2026-01-01T23:53:40Z",
+  "updatedAt": "2026-04-03T03:49:21Z",
+  "pushedAt": "2026-04-03T03:29:35Z",
+  "topics": [
+    "agent",
+    "compression",
+    "llm",
+    "mcp",
+    "memory",
+    "rag",
+    "retrieval",
+    "semantic-search",
+    "simplemem"
+  ],
+  "summaryZh": "SimpleMem: Efficient (Omni-)Lifelong Memory for LLM Agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 95,
+  "relevanceScore": 73,
+  "totalScore": 91
+}
