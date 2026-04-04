@@ -1,6 +1,6 @@
 {
   "slug": "rerun-io-rerun",
-  "featuredDate": "2026-04-03",
+  "featuredDate": "2026-04-04",
   "fullName": "rerun-io/rerun",
   "name": "rerun",
   "owner": "rerun-io",
@@ -8,12 +8,12 @@
   "homepage": "https://rerun.io/",
   "description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
   "language": "Rust",
-  "stars": 10471,
+  "stars": 10474,
   "forks": 707,
   "openIssues": 1344,
   "createdAt": "2022-04-08T07:30:05Z",
-  "updatedAt": "2026-04-03T01:06:42Z",
-  "pushedAt": "2026-04-03T01:06:36Z",
+  "updatedAt": "2026-04-04T00:32:59Z",
+  "pushedAt": "2026-04-03T21:44:21Z",
   "topics": [
     "computer-vision",
     "cpp",

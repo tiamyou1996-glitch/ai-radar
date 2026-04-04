@@ -1,6 +1,6 @@
 {
   "slug": "voquill-voquill",
-  "featuredDate": "2026-03-27",
+  "featuredDate": "2026-04-04",
   "fullName": "voquill/voquill",
   "name": "voquill",
   "owner": "voquill",
@@ -8,12 +8,12 @@
   "homepage": "https://voquill.com/",
   "description": "The open source wisprflow alternative",
   "language": "TypeScript",
-  "stars": 766,
-  "forks": 80,
-  "openIssues": 36,
+  "stars": 808,
+  "forks": 88,
+  "openIssues": 28,
   "createdAt": "2025-09-23T00:51:58Z",
-  "updatedAt": "2026-03-27T03:47:53Z",
-  "pushedAt": "2026-03-27T03:48:01Z",
+  "updatedAt": "2026-04-04T03:39:01Z",
+  "pushedAt": "2026-04-04T03:39:10Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 62,
   "totalScore": 85
 }

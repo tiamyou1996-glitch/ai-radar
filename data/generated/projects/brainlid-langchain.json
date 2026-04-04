@@ -1,0 +1,39 @@
+{
+  "slug": "brainlid-langchain",
+  "featuredDate": "2026-04-04",
+  "fullName": "brainlid/langchain",
+  "name": "langchain",
+  "owner": "brainlid",
+  "repoUrl": "https://github.com/brainlid/langchain",
+  "homepage": "https://hexdocs.pm/langchain/",
+  "description": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+  "language": "Elixir",
+  "stars": 1129,
+  "forks": 192,
+  "openIssues": 37,
+  "createdAt": "2023-07-12T17:27:16Z",
+  "updatedAt": "2026-04-04T03:39:57Z",
+  "pushedAt": "2026-04-04T03:39:56Z",
+  "topics": [
+    "ai",
+    "anthropic",
+    "bumblebee",
+    "chatgpt",
+    "claude-ai",
+    "elixir",
+    "langchain",
+    "llm"
+  ],
+  "summaryZh": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

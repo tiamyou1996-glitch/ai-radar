@@ -1,6 +1,6 @@
 {
   "slug": "oinone-oinone-pamirs",
-  "featuredDate": "2026-04-01",
+  "featuredDate": "2026-04-04",
   "fullName": "oinone/oinone-pamirs",
   "name": "oinone-pamirs",
   "owner": "oinone",
@@ -8,12 +8,12 @@
   "homepage": "https://oinone.top",
   "description": "Oinone is an AI‑Powered low‑code framework that unifies AI and developers around a shared metadata model to build maintainable, evolvable, high‑quality enterprise intelligent applications.[AI Coding][Vibe Coding][Framework][Low Code]",
   "language": "Java",
-  "stars": 2239,
-  "forks": 90,
+  "stars": 2056,
+  "forks": 99,
   "openIssues": 0,
   "createdAt": "2025-05-10T06:27:08Z",
-  "updatedAt": "2026-04-01T03:51:16Z",
-  "pushedAt": "2026-04-01T03:43:42Z",
+  "updatedAt": "2026-04-04T03:13:28Z",
+  "pushedAt": "2026-04-04T02:39:19Z",
   "topics": [
     "ai-lowcode",
     "framework",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 96,
   "relevanceScore": 58,
   "totalScore": 86
 }
