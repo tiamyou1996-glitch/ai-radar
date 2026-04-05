@@ -1,6 +1,6 @@
 {
   "slug": "openbmb-ultrarag",
-  "featuredDate": "2026-03-29",
+  "featuredDate": "2026-04-05",
   "fullName": "OpenBMB/UltraRAG",
   "name": "UltraRAG",
   "owner": "OpenBMB",
@@ -8,12 +8,12 @@
   "homepage": "https://ultrarag.github.io/",
   "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
   "language": "Python",
-  "stars": 5516,
-  "forks": 409,
-  "openIssues": 24,
+  "stars": 5465,
+  "forks": 411,
+  "openIssues": 27,
   "createdAt": "2025-01-16T10:56:02Z",
-  "updatedAt": "2026-03-29T03:11:18Z",
-  "pushedAt": "2026-03-29T02:47:07Z",
+  "updatedAt": "2026-04-04T12:39:14Z",
+  "pushedAt": "2026-04-04T04:27:51Z",
   "topics": [
     "deepseek",
     "demo",
@@ -42,8 +42,8 @@
     "Vision"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

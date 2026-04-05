@@ -1,0 +1,40 @@
+{
+  "slug": "mai-with-u-maibot",
+  "featuredDate": "2026-04-05",
+  "fullName": "Mai-with-u/MaiBot",
+  "name": "MaiBot",
+  "owner": "Mai-with-u",
+  "repoUrl": "https://github.com/Mai-with-u/MaiBot",
+  "homepage": "https://docs.mai-mai.org/",
+  "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection.",
+  "language": "Python",
+  "stars": 4581,
+  "forks": 494,
+  "openIssues": 64,
+  "createdAt": "2025-02-25T16:05:07Z",
+  "updatedAt": "2026-04-05T04:06:39Z",
+  "pushedAt": "2026-04-05T04:05:35Z",
+  "topics": [
+    "agent",
+    "chat",
+    "chatbot",
+    "llm",
+    "llm-agent",
+    "llms",
+    "python",
+    "qq-bot",
+    "qqbot"
+  ],
+  "summaryZh": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

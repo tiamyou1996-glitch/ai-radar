@@ -1,6 +1,6 @@
 {
   "slug": "internlm-xtuner",
-  "featuredDate": "2026-03-30",
+  "featuredDate": "2026-04-05",
   "fullName": "InternLM/xtuner",
   "name": "xtuner",
   "owner": "InternLM",
@@ -8,12 +8,12 @@
   "homepage": "https://xtuner.readthedocs.io/zh-cn/latest/",
   "description": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
   "language": "Python",
-  "stars": 5110,
+  "stars": 5111,
   "forks": 413,
-  "openIssues": 325,
+  "openIssues": 327,
   "createdAt": "2023-07-11T03:18:13Z",
-  "updatedAt": "2026-03-30T03:14:26Z",
-  "pushedAt": "2026-03-30T03:14:21Z",
+  "updatedAt": "2026-04-05T03:37:55Z",
+  "pushedAt": "2026-04-04T04:57:49Z",
   "topics": [
     "agent",
     "deepseek-v3",
@@ -36,8 +36,8 @@
     "Image"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

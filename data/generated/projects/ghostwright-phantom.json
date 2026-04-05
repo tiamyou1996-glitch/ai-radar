@@ -1,0 +1,43 @@
+{
+  "slug": "ghostwright-phantom",
+  "featuredDate": "2026-04-05",
+  "fullName": "ghostwright/phantom",
+  "name": "phantom",
+  "owner": "ghostwright",
+  "repoUrl": "https://github.com/ghostwright/phantom",
+  "homepage": "https://ghostwright.dev/phantom",
+  "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+  "language": "TypeScript",
+  "stars": 1184,
+  "forks": 140,
+  "openIssues": 23,
+  "createdAt": "2026-03-26T04:45:11Z",
+  "updatedAt": "2026-04-05T03:55:47Z",
+  "pushedAt": "2026-04-05T03:55:42Z",
+  "topics": [
+    "ai-agents",
+    "ai-coworker",
+    "anthropic",
+    "autonomous-agents",
+    "bun",
+    "claude",
+    "docker",
+    "llm",
+    "mcp",
+    "self-evolution",
+    "slack",
+    "typescript"
+  ],
+  "summaryZh": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
