@@ -1,0 +1,37 @@
+{
+  "slug": "zml-zml",
+  "featuredDate": "2026-04-06",
+  "fullName": "zml/zml",
+  "name": "zml",
+  "owner": "zml",
+  "repoUrl": "https://github.com/zml/zml",
+  "homepage": "https://docs.zml.ai",
+  "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+  "language": "Zig",
+  "stars": 3353,
+  "forks": 129,
+  "openIssues": 34,
+  "createdAt": "2024-09-17T09:13:32Z",
+  "updatedAt": "2026-04-06T00:44:05Z",
+  "pushedAt": "2026-04-05T20:47:31Z",
+  "topics": [
+    "ai",
+    "bazel",
+    "hpc",
+    "inference",
+    "xla",
+    "zig"
+  ],
+  "summaryZh": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

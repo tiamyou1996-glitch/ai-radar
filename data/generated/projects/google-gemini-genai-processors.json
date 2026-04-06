@@ -1,0 +1,42 @@
+{
+  "slug": "google-gemini-genai-processors",
+  "featuredDate": "2026-04-06",
+  "fullName": "google-gemini/genai-processors",
+  "name": "genai-processors",
+  "owner": "google-gemini",
+  "repoUrl": "https://github.com/google-gemini/genai-processors",
+  "homepage": "https://google-gemini.github.io/genai-processors/",
+  "description": "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.",
+  "language": "Python",
+  "stars": 2100,
+  "forks": 214,
+  "openIssues": 12,
+  "createdAt": "2025-04-29T17:38:09Z",
+  "updatedAt": "2026-04-06T03:53:52Z",
+  "pushedAt": "2026-04-05T21:50:21Z",
+  "topics": [
+    "agent",
+    "ai",
+    "asyncio",
+    "gemini",
+    "genai",
+    "generative-ai",
+    "language-model",
+    "multimodal",
+    "python",
+    "realtime"
+  ],
+  "summaryZh": "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
