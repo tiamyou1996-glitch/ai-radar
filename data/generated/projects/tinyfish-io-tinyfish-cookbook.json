@@ -1,0 +1,39 @@
+{
+  "slug": "tinyfish-io-tinyfish-cookbook",
+  "featuredDate": "2026-04-07",
+  "fullName": "tinyfish-io/tinyfish-cookbook",
+  "name": "tinyfish-cookbook",
+  "owner": "tinyfish-io",
+  "repoUrl": "https://github.com/tinyfish-io/tinyfish-cookbook",
+  "homepage": "https://tinyfish.ai",
+  "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!",
+  "language": "TypeScript",
+  "stars": 1412,
+  "forks": 235,
+  "openIssues": 44,
+  "createdAt": "2026-01-22T19:41:14Z",
+  "updatedAt": "2026-04-07T03:53:29Z",
+  "pushedAt": "2026-04-07T03:53:25Z",
+  "topics": [
+    "agent",
+    "agentic",
+    "ai",
+    "cookbook",
+    "examples",
+    "tinyfish",
+    "typescript",
+    "web-agents",
+    "web-automation"
+  ],
+  "summaryZh": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 94,
+  "relevanceScore": 55,
+  "totalScore": 87
+}

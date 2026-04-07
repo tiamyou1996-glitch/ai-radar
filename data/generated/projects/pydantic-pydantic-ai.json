@@ -1,0 +1,36 @@
+{
+  "slug": "pydantic-pydantic-ai",
+  "featuredDate": "2026-04-07",
+  "fullName": "pydantic/pydantic-ai",
+  "name": "pydantic-ai",
+  "owner": "pydantic",
+  "repoUrl": "https://github.com/pydantic/pydantic-ai",
+  "homepage": "https://ai.pydantic.dev",
+  "description": "AI Agent Framework, the Pydantic way",
+  "language": "Python",
+  "stars": 16142,
+  "forks": 1881,
+  "openIssues": 596,
+  "createdAt": "2024-06-21T15:55:04Z",
+  "updatedAt": "2026-04-07T03:53:04Z",
+  "pushedAt": "2026-04-07T03:51:40Z",
+  "topics": [
+    "agent-framework",
+    "genai",
+    "llm",
+    "pydantic",
+    "python"
+  ],
+  "summaryZh": "AI Agent Framework, the Pydantic way 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

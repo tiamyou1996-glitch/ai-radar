@@ -1,0 +1,41 @@
+{
+  "slug": "tambo-ai-tambo",
+  "featuredDate": "2026-04-07",
+  "fullName": "tambo-ai/tambo",
+  "name": "tambo",
+  "owner": "tambo-ai",
+  "repoUrl": "https://github.com/tambo-ai/tambo",
+  "homepage": "https://tambo.co",
+  "description": "Generative UI SDK for React",
+  "language": "TypeScript",
+  "stars": 11114,
+  "forks": 560,
+  "openIssues": 50,
+  "createdAt": "2024-06-15T17:11:37Z",
+  "updatedAt": "2026-04-07T03:49:23Z",
+  "pushedAt": "2026-04-07T03:50:19Z",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "assistant",
+    "assistant-chat-bots",
+    "generative-ui",
+    "js",
+    "react",
+    "reactjs",
+    "ui",
+    "ui-components"
+  ],
+  "summaryZh": "Generative UI SDK for React 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 55,
+  "totalScore": 86
+}
