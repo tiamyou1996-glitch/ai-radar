@@ -1,0 +1,39 @@
+{
+  "slug": "chaitin-koalaqa",
+  "featuredDate": "2026-04-08",
+  "fullName": "chaitin/KoalaQA",
+  "name": "KoalaQA",
+  "owner": "chaitin",
+  "repoUrl": "https://github.com/chaitin/KoalaQA",
+  "homepage": "https://koalaqa.docs.baizhi.cloud",
+  "description": "KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。",
+  "language": "TypeScript",
+  "stars": 476,
+  "forks": 55,
+  "openIssues": 10,
+  "createdAt": "2025-08-27T04:19:57Z",
+  "updatedAt": "2026-04-08T03:58:44Z",
+  "pushedAt": "2026-04-08T04:00:19Z",
+  "topics": [
+    "ai",
+    "community",
+    "customer-support",
+    "faq",
+    "forum",
+    "knowledgebase",
+    "question-answering",
+    "rag",
+    "support"
+  ],
+  "summaryZh": "KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 88,
+  "relevanceScore": 55,
+  "totalScore": 82
+}
