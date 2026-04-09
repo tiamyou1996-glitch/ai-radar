@@ -1,6 +1,6 @@
 {
   "slug": "desplega-ai-agent-swarm",
-  "featuredDate": "2026-04-08",
+  "featuredDate": "2026-04-09",
   "fullName": "desplega-ai/agent-swarm",
   "name": "agent-swarm",
   "owner": "desplega-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://agent-swarm.dev",
   "description": "Agent Swarm framework for AI coding agents and more!",
   "language": "TypeScript",
-  "stars": 327,
+  "stars": 330,
   "forks": 30,
   "openIssues": 3,
   "createdAt": "2025-12-19T18:59:13Z",
-  "updatedAt": "2026-04-08T03:07:47Z",
-  "pushedAt": "2026-04-08T03:07:43Z",
+  "updatedAt": "2026-04-09T02:31:30Z",
+  "pushedAt": "2026-04-09T02:31:23Z",
   "topics": [
     "ai-agents",
     "claude",

@@ -1,6 +1,6 @@
 {
   "slug": "gcwing-bitfun",
-  "featuredDate": "2026-03-30",
+  "featuredDate": "2026-04-09",
   "fullName": "GCWing/BitFun",
   "name": "BitFun",
   "owner": "GCWing",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile QR pairing or Telegram / Feishu bots, send instructions, and watch each execution step in real time while the Agent keeps working in the background.",
   "language": "TypeScript",
-  "stars": 528,
-  "forks": 58,
-  "openIssues": 10,
+  "stars": 564,
+  "forks": 64,
+  "openIssues": 12,
   "createdAt": "2026-02-02T09:52:10Z",
-  "updatedAt": "2026-03-30T04:05:43Z",
-  "pushedAt": "2026-03-30T04:05:39Z",
+  "updatedAt": "2026-04-09T03:44:16Z",
+  "pushedAt": "2026-04-09T03:44:07Z",
   "topics": [
     "agent",
     "agent-teams",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 69,
   "totalScore": 87
 }

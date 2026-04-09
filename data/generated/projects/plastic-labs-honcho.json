@@ -1,6 +1,6 @@
 {
   "slug": "plastic-labs-honcho",
-  "featuredDate": "2026-03-29",
+  "featuredDate": "2026-04-09",
   "fullName": "plastic-labs/honcho",
   "name": "honcho",
   "owner": "plastic-labs",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.honcho.dev",
   "description": " Memory library for building stateful agents",
   "language": "Python",
-  "stars": 1243,
-  "forks": 140,
-  "openIssues": 34,
+  "stars": 1881,
+  "forks": 232,
+  "openIssues": 54,
   "createdAt": "2023-09-10T21:29:54Z",
-  "updatedAt": "2026-03-29T03:57:21Z",
-  "pushedAt": "2026-03-29T03:10:54Z",
+  "updatedAt": "2026-04-09T03:49:48Z",
+  "pushedAt": "2026-04-09T03:48:42Z",
   "topics": [
     "agent-memory",
     "ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 93,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 89
 }

@@ -1,19 +1,19 @@
 {
   "slug": "apocas-restai",
-  "featuredDate": "2026-03-21",
+  "featuredDate": "2026-04-09",
   "fullName": "apocas/restai",
   "name": "restai",
   "owner": "apocas",
   "repoUrl": "https://github.com/apocas/restai",
-  "homepage": null,
-  "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators.",
+  "homepage": "https://restai.cloud",
+  "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio generation with dynamic loading generators. Live chat deployment. Built-in block based graphical language. Prompt versioning and much more...",
   "language": "Python",
-  "stars": 481,
+  "stars": 483,
   "forks": 95,
-  "openIssues": 9,
+  "openIssues": 4,
   "createdAt": "2023-05-18T22:27:33Z",
-  "updatedAt": "2026-03-21T02:21:31Z",
-  "pushedAt": "2026-03-21T02:21:28Z",
+  "updatedAt": "2026-04-09T03:43:46Z",
+  "pushedAt": "2026-04-09T03:44:17Z",
   "topics": [
     "blocky",
     "embeddings",
@@ -21,7 +21,6 @@
     "langchain",
     "llama",
     "llamaindex",
-    "llava",
     "llm",
     "ollama",
     "openai",
@@ -31,17 +30,17 @@
     "stable-diffusion",
     "transformers"
   ],
-  "summaryZh": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio generation with dynamic loading generators. Live chat deployment. Built-in block based graphical language. Prompt versioning and much more... 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
     "RAG",
-    "Image",
-    "Model"
+    "Audio",
+    "Image"
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 85,
+  "qualityScore": 88,
   "relevanceScore": 69,
-  "totalScore": 84
+  "totalScore": 86
 }

@@ -1,6 +1,6 @@
 {
   "slug": "eventual-inc-daft",
-  "featuredDate": "2026-04-08",
+  "featuredDate": "2026-04-09",
   "fullName": "Eventual-Inc/Daft",
   "name": "Daft",
   "owner": "Eventual-Inc",
@@ -10,10 +10,10 @@
   "language": "Rust",
   "stars": 5401,
   "forks": 439,
-  "openIssues": 325,
+  "openIssues": 334,
   "createdAt": "2022-04-25T22:02:29Z",
-  "updatedAt": "2026-04-08T03:18:40Z",
-  "pushedAt": "2026-04-08T01:38:52Z",
+  "updatedAt": "2026-04-09T01:54:48Z",
+  "pushedAt": "2026-04-09T01:54:44Z",
   "topics": [
     "ai-engineering",
     "ai-pipeline",

@@ -1,0 +1,41 @@
+{
+  "slug": "fission-ai-openspec",
+  "featuredDate": "2026-04-09",
+  "fullName": "Fission-AI/OpenSpec",
+  "name": "OpenSpec",
+  "owner": "Fission-AI",
+  "repoUrl": "https://github.com/Fission-AI/OpenSpec",
+  "homepage": "https://openspec.dev/",
+  "description": "Spec-driven development (SDD) for AI coding assistants.",
+  "language": "TypeScript",
+  "stars": 38437,
+  "forks": 2600,
+  "openIssues": 333,
+  "createdAt": "2025-08-05T10:37:45Z",
+  "updatedAt": "2026-04-09T03:50:20Z",
+  "pushedAt": "2026-04-09T03:36:14Z",
+  "topics": [
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdd",
+    "sdlc",
+    "spec",
+    "spec-driven-development",
+    "specification"
+  ],
+  "summaryZh": "Spec-driven development (SDD) for AI coding assistants. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "agent-network-protocol-agentnetworkprotocol",
+  "featuredDate": "2026-04-09",
+  "fullName": "agent-network-protocol/AgentNetworkProtocol",
+  "name": "AgentNetworkProtocol",
+  "owner": "agent-network-protocol",
+  "repoUrl": "https://github.com/agent-network-protocol/AgentNetworkProtocol",
+  "homepage": "https://agent-network-protocol.com",
+  "description": "AgentNetworkProtocol(ANP) is an open source protocol for agent communication. Our vision is to define how agents connect with each other, building an open, secure, and efficient collaboration network for billions of intelligent agents.",
+  "language": "HTML",
+  "stars": 1261,
+  "forks": 86,
+  "openIssues": 20,
+  "createdAt": "2024-10-23T01:15:51Z",
+  "updatedAt": "2026-04-09T03:50:44Z",
+  "pushedAt": "2026-04-09T03:50:33Z",
+  "topics": [
+    "agent",
+    "communication",
+    "protocol"
+  ],
+  "summaryZh": "AgentNetworkProtocol(ANP) is an open source protocol for agent communication. Our vision is to define how agents connect with each other, building an open, secure, and efficient collaboration network for billions of intelligent agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
