@@ -1,6 +1,6 @@
 {
   "slug": "nexi-lab-nexus",
-  "featuredDate": "2026-03-28",
+  "featuredDate": "2026-04-10",
   "fullName": "nexi-lab/nexus",
   "name": "nexus",
   "owner": "nexi-lab",
@@ -8,12 +8,12 @@
   "homepage": "https://nexi-lab.github.io/nexus/",
   "description": "Nexus, the shared heartbeat where every agent and human connect, collaborate, and evolve together.",
   "language": "Python",
-  "stars": 560,
-  "forks": 10,
+  "stars": 431,
+  "forks": 9,
   "openIssues": 59,
   "createdAt": "2025-10-08T03:34:11Z",
-  "updatedAt": "2026-03-28T03:31:55Z",
-  "pushedAt": "2026-03-28T03:31:50Z",
+  "updatedAt": "2026-04-10T04:10:58Z",
+  "pushedAt": "2026-04-10T04:10:46Z",
   "topics": [
     "ai-memory",
     "context-engineering",
@@ -29,8 +29,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 89,
+  "trendScore": 92,
+  "qualityScore": 87,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 84
 }

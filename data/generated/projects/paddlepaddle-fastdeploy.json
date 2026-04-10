@@ -1,6 +1,6 @@
 {
   "slug": "paddlepaddle-fastdeploy",
-  "featuredDate": "2026-04-09",
+  "featuredDate": "2026-04-10",
   "fullName": "PaddlePaddle/FastDeploy",
   "name": "FastDeploy",
   "owner": "PaddlePaddle",
@@ -9,11 +9,11 @@
   "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
   "language": "Python",
   "stars": 3671,
-  "forks": 737,
-  "openIssues": 681,
+  "forks": 738,
+  "openIssues": 687,
   "createdAt": "2022-06-27T10:22:10Z",
-  "updatedAt": "2026-04-09T03:30:20Z",
-  "pushedAt": "2026-04-09T03:30:42Z",
+  "updatedAt": "2026-04-10T03:31:56Z",
+  "pushedAt": "2026-04-10T03:32:13Z",
   "topics": [
     "ernie",
     "ernie-45",

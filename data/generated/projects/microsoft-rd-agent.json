@@ -1,0 +1,40 @@
+{
+  "slug": "microsoft-rd-agent",
+  "featuredDate": "2026-04-10",
+  "fullName": "microsoft/RD-Agent",
+  "name": "RD-Agent",
+  "owner": "microsoft",
+  "repoUrl": "https://github.com/microsoft/RD-Agent",
+  "homepage": "https://rdagent.azurewebsites.net/",
+  "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+  "language": "Python",
+  "stars": 12424,
+  "forks": 1471,
+  "openIssues": 158,
+  "createdAt": "2024-04-03T03:39:33Z",
+  "updatedAt": "2026-04-10T04:08:44Z",
+  "pushedAt": "2026-04-10T03:54:01Z",
+  "topics": [
+    "agent",
+    "ai",
+    "automation",
+    "data-mining",
+    "data-science",
+    "development",
+    "llm",
+    "research"
+  ],
+  "summaryZh": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

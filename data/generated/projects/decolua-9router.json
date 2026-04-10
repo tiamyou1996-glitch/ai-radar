@@ -1,6 +1,6 @@
 {
   "slug": "decolua-9router",
-  "featuredDate": "2026-04-07",
+  "featuredDate": "2026-04-10",
   "fullName": "decolua/9router",
   "name": "9router",
   "owner": "decolua",
@@ -8,12 +8,12 @@
   "homepage": "https://9router.com",
   "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
   "language": "JavaScript",
-  "stars": 1820,
-  "forks": 481,
-  "openIssues": 170,
+  "stars": 2178,
+  "forks": 543,
+  "openIssues": 185,
   "createdAt": "2026-01-05T02:59:30Z",
-  "updatedAt": "2026-04-07T03:37:12Z",
-  "pushedAt": "2026-04-07T02:46:28Z",
+  "updatedAt": "2026-04-10T04:12:56Z",
+  "pushedAt": "2026-04-10T03:30:07Z",
   "topics": [
     "9router",
     "antigravity",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 58,
   "totalScore": 88
 }
