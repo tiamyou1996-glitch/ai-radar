@@ -1,6 +1,6 @@
 {
   "slug": "waybarrios-vllm-mlx",
-  "featuredDate": "2026-03-22",
+  "featuredDate": "2026-04-11",
   "fullName": "waybarrios/vllm-mlx",
   "name": "vllm-mlx",
   "owner": "waybarrios",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
   "language": "Python",
-  "stars": 638,
-  "forks": 110,
-  "openIssues": 75,
+  "stars": 791,
+  "forks": 179,
+  "openIssues": 91,
   "createdAt": "2025-12-06T18:26:08Z",
-  "updatedAt": "2026-03-22T02:03:54Z",
-  "pushedAt": "2026-03-21T22:24:08Z",
+  "updatedAt": "2026-04-11T03:29:29Z",
+  "pushedAt": "2026-04-11T03:29:19Z",
   "topics": [
     "anthropic",
     "apple-silicon",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 88,
   "relevanceScore": 65,
-  "totalScore": 86
+  "totalScore": 87
 }

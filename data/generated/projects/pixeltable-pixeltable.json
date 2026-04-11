@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-04-10",
+  "featuredDate": "2026-04-11",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 1621,
   "forks": 206,
-  "openIssues": 40,
+  "openIssues": 39,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-04-09T21:51:24Z",
-  "pushedAt": "2026-04-10T03:58:12Z",
+  "updatedAt": "2026-04-11T00:30:08Z",
+  "pushedAt": "2026-04-11T02:49:34Z",
   "topics": [
     "ai",
     "artificial-intelligence",

@@ -1,0 +1,36 @@
+{
+  "slug": "datawhalechina-hello-agents",
+  "featuredDate": "2026-04-11",
+  "fullName": "datawhalechina/hello-agents",
+  "name": "hello-agents",
+  "owner": "datawhalechina",
+  "repoUrl": "https://github.com/datawhalechina/hello-agents",
+  "homepage": "https://hello-agents.datawhale.cc",
+  "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+  "language": "Python",
+  "stars": 35195,
+  "forks": 4122,
+  "openIssues": 90,
+  "createdAt": "2025-09-07T09:50:24Z",
+  "updatedAt": "2026-04-11T03:43:52Z",
+  "pushedAt": "2026-04-11T03:34:06Z",
+  "topics": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+  ],
+  "summaryZh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}
