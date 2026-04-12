@@ -1,0 +1,34 @@
+{
+  "slug": "kortix-ai-suna",
+  "featuredDate": "2026-04-12",
+  "fullName": "kortix-ai/suna",
+  "name": "suna",
+  "owner": "kortix-ai",
+  "repoUrl": "https://github.com/kortix-ai/suna",
+  "homepage": "https://www.kortix.com",
+  "description": "The Autonomous Company Operating System",
+  "language": "TypeScript",
+  "stars": 19591,
+  "forks": 3377,
+  "openIssues": 0,
+  "createdAt": "2024-10-05T17:01:01Z",
+  "updatedAt": "2026-04-12T04:08:24Z",
+  "pushedAt": "2026-04-12T04:08:10Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "llm"
+  ],
+  "summaryZh": "The Autonomous Company Operating System 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "suyoumo-clawprobench",
+  "featuredDate": "2026-04-12",
+  "fullName": "suyoumo/ClawProBench",
+  "name": "ClawProBench",
+  "owner": "suyoumo",
+  "repoUrl": "https://github.com/suyoumo/ClawProBench",
+  "homepage": "https://suyoumo.github.io/bench/",
+  "description": "ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.",
+  "language": "Python",
+  "stars": 345,
+  "forks": 26,
+  "openIssues": 0,
+  "createdAt": "2025-03-02T09:15:10Z",
+  "updatedAt": "2026-04-12T04:08:01Z",
+  "pushedAt": "2026-04-12T04:07:53Z",
+  "topics": [
+    "agent",
+    "benchmark",
+    "evaluation",
+    "harness",
+    "leaderboard",
+    "llm",
+    "openclaw"
+  ],
+  "summaryZh": "ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 73,
+  "totalScore": 86
+}

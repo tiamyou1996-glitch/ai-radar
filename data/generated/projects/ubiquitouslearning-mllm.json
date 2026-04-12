@@ -1,0 +1,36 @@
+{
+  "slug": "ubiquitouslearning-mllm",
+  "featuredDate": "2026-04-12",
+  "fullName": "UbiquitousLearning/mllm",
+  "name": "mllm",
+  "owner": "UbiquitousLearning",
+  "repoUrl": "https://github.com/UbiquitousLearning/mllm",
+  "homepage": "https://ubiquitouslearning.github.io/mllm/",
+  "description": "Fast Multimodal LLM on Mobile Devices",
+  "language": "C++",
+  "stars": 1462,
+  "forks": 187,
+  "openIssues": 71,
+  "createdAt": "2023-08-30T16:33:36Z",
+  "updatedAt": "2026-04-12T02:50:27Z",
+  "pushedAt": "2026-04-12T02:50:19Z",
+  "topics": [
+    "ai",
+    "llama",
+    "llm",
+    "mobile",
+    "multimodal"
+  ],
+  "summaryZh": "Fast Multimodal LLM on Mobile Devices 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 58,
+  "totalScore": 85
+}
