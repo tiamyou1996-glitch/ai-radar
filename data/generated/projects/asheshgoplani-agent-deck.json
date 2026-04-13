@@ -1,6 +1,6 @@
 {
   "slug": "asheshgoplani-agent-deck",
-  "featuredDate": "2026-03-27",
+  "featuredDate": "2026-04-13",
   "fullName": "asheshgoplani/agent-deck",
   "name": "agent-deck",
   "owner": "asheshgoplani",
@@ -8,12 +8,12 @@
   "homepage": "https://discord.gg/e4xSs6NBN8",
   "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
   "language": "Go",
-  "stars": 1752,
-  "forks": 186,
-  "openIssues": 57,
+  "stars": 2015,
+  "forks": 214,
+  "openIssues": 27,
   "createdAt": "2025-12-03T17:08:12Z",
-  "updatedAt": "2026-03-27T03:00:45Z",
-  "pushedAt": "2026-03-27T03:00:48Z",
+  "updatedAt": "2026-04-13T03:32:52Z",
+  "pushedAt": "2026-04-13T03:32:46Z",
   "topics": [
     "ai-agent",
     "ai-agents",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 62,
   "totalScore": 89
 }

@@ -1,6 +1,6 @@
 {
   "slug": "datachain-ai-datachain",
-  "featuredDate": "2026-04-11",
+  "featuredDate": "2026-04-13",
   "fullName": "datachain-ai/datachain",
   "name": "datachain",
   "owner": "datachain-ai",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 2732,
   "forks": 140,
-  "openIssues": 83,
+  "openIssues": 81,
   "createdAt": "2024-06-25T22:29:35Z",
-  "updatedAt": "2026-04-11T03:35:18Z",
-  "pushedAt": "2026-04-11T03:35:16Z",
+  "updatedAt": "2026-04-13T02:56:18Z",
+  "pushedAt": "2026-04-13T02:57:56Z",
   "topics": [
     "ai",
     "cv",

@@ -1,0 +1,36 @@
+{
+  "slug": "mempalace-mempalace",
+  "featuredDate": "2026-04-13",
+  "fullName": "MemPalace/mempalace",
+  "name": "mempalace",
+  "owner": "MemPalace",
+  "repoUrl": "https://github.com/MemPalace/mempalace",
+  "homepage": "https://mempalace.github.io/mempalace/",
+  "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+  "language": "Python",
+  "stars": 43704,
+  "forks": 5593,
+  "openIssues": 345,
+  "createdAt": "2026-04-05T01:12:07Z",
+  "updatedAt": "2026-04-13T04:26:42Z",
+  "pushedAt": "2026-04-13T04:22:39Z",
+  "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+  ],
+  "summaryZh": "The highest-scoring AI memory system ever benchmarked. And it's free. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 88
+}

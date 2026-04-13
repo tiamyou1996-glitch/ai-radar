@@ -1,6 +1,6 @@
 {
   "slug": "blueberrycongee-lumina-note",
-  "featuredDate": "2026-04-12",
+  "featuredDate": "2026-04-13",
   "fullName": "blueberrycongee/Lumina-Note",
   "name": "Lumina-Note",
   "owner": "blueberrycongee",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant",
   "language": "TypeScript",
-  "stars": 834,
+  "stars": 838,
   "forks": 86,
   "openIssues": 18,
   "createdAt": "2025-11-28T12:34:30Z",
-  "updatedAt": "2026-04-12T04:03:46Z",
-  "pushedAt": "2026-04-12T04:03:40Z",
+  "updatedAt": "2026-04-13T04:02:08Z",
+  "pushedAt": "2026-04-13T04:02:02Z",
   "topics": [
     "ai",
     "ai-agents",

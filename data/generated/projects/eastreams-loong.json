@@ -1,0 +1,41 @@
+{
+  "slug": "eastreams-loong",
+  "featuredDate": "2026-04-13",
+  "fullName": "eastreams/loong",
+  "name": "loong",
+  "owner": "eastreams",
+  "repoUrl": "https://github.com/eastreams/loong",
+  "homepage": "https://loongclaw.ai",
+  "description": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉",
+  "language": "Rust",
+  "stars": 603,
+  "forks": 93,
+  "openIssues": 181,
+  "createdAt": "2026-03-05T12:45:59Z",
+  "updatedAt": "2026-04-13T04:19:22Z",
+  "pushedAt": "2026-04-13T04:20:47Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "assistant",
+    "framework",
+    "loongclaw",
+    "openclaw",
+    "rust",
+    "rust-lang"
+  ],
+  "summaryZh": "Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 66,
+  "totalScore": 88
+}
