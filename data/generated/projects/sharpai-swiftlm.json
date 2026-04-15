@@ -1,0 +1,41 @@
+{
+  "slug": "sharpai-swiftlm",
+  "featuredDate": "2026-04-15",
+  "fullName": "SharpAI/SwiftLM",
+  "name": "SwiftLM",
+  "owner": "SharpAI",
+  "repoUrl": "https://github.com/SharpAI/SwiftLM",
+  "homepage": null,
+  "description": "⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.",
+  "language": "Swift",
+  "stars": 339,
+  "forks": 16,
+  "openIssues": 3,
+  "createdAt": "2026-03-21T06:48:49Z",
+  "updatedAt": "2026-04-15T03:44:09Z",
+  "pushedAt": "2026-04-15T03:09:40Z",
+  "topics": [
+    "apple-sili",
+    "inference",
+    "ios",
+    "llm",
+    "metal",
+    "mlx",
+    "moe",
+    "on-device-ai",
+    "openai-api",
+    "swift"
+  ],
+  "summaryZh": "⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

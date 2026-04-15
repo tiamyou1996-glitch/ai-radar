@@ -1,19 +1,19 @@
 {
   "slug": "agent-field-agentfield",
-  "featuredDate": "2026-04-01",
+  "featuredDate": "2026-04-15",
   "fullName": "Agent-Field/agentfield",
   "name": "agentfield",
   "owner": "Agent-Field",
   "repoUrl": "https://github.com/Agent-Field/agentfield",
   "homepage": "http://www.agentfield.ai",
-  "description": "Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one.",
+  "description": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
   "language": "Go",
-  "stars": 1222,
-  "forks": 187,
-  "openIssues": 29,
+  "stars": 1426,
+  "forks": 229,
+  "openIssues": 82,
   "createdAt": "2025-11-05T02:04:44Z",
-  "updatedAt": "2026-04-01T04:13:26Z",
-  "pushedAt": "2026-04-01T04:13:23Z",
+  "updatedAt": "2026-04-15T03:45:27Z",
+  "pushedAt": "2026-04-15T03:45:23Z",
   "topics": [
     "agent",
     "agent-auth",
@@ -36,7 +36,7 @@
     "rag",
     "typescript"
   ],
-  "summaryZh": "Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 73,
   "totalScore": 91
 }
