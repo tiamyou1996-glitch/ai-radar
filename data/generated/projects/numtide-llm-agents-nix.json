@@ -1,6 +1,6 @@
 {
   "slug": "numtide-llm-agents-nix",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-04-16",
   "fullName": "numtide/llm-agents.nix",
   "name": "llm-agents.nix",
   "owner": "numtide",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
   "language": "Nix",
-  "stars": 1011,
-  "forks": 108,
-  "openIssues": 3,
+  "stars": 1017,
+  "forks": 109,
+  "openIssues": 6,
   "createdAt": "2025-07-18T10:29:06Z",
-  "updatedAt": "2026-04-15T03:33:31Z",
-  "pushedAt": "2026-04-15T03:33:29Z",
+  "updatedAt": "2026-04-16T04:09:45Z",
+  "pushedAt": "2026-04-16T04:09:43Z",
   "topics": [
     "buildbot-numtide"
   ],
