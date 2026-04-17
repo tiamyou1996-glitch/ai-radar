@@ -1,6 +1,6 @@
 {
   "slug": "chopratejas-headroom",
-  "featuredDate": "2026-04-10",
+  "featuredDate": "2026-04-17",
   "fullName": "chopratejas/headroom",
   "name": "headroom",
   "owner": "chopratejas",
@@ -8,12 +8,12 @@
   "homepage": "https://chopratejas.github.io/headroom/",
   "description": "The Context Optimization Layer for LLM Applications",
   "language": "Python",
-  "stars": 1251,
-  "forks": 109,
-  "openIssues": 31,
+  "stars": 1375,
+  "forks": 117,
+  "openIssues": 53,
   "createdAt": "2026-01-07T19:58:51Z",
-  "updatedAt": "2026-04-10T04:08:25Z",
-  "pushedAt": "2026-04-10T04:08:34Z",
+  "updatedAt": "2026-04-17T04:13:05Z",
+  "pushedAt": "2026-04-17T03:51:31Z",
   "topics": [
     "agent",
     "ai",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 73,
   "totalScore": 91
 }

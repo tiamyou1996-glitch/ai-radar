@@ -1,0 +1,30 @@
+{
+  "slug": "instantdb-instant",
+  "featuredDate": "2026-04-17",
+  "fullName": "instantdb/instant",
+  "name": "instant",
+  "owner": "instantdb",
+  "repoUrl": "https://github.com/instantdb/instant",
+  "homepage": "https://instantdb.com",
+  "description": "Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.",
+  "language": "TypeScript",
+  "stars": 10126,
+  "forks": 348,
+  "openIssues": 22,
+  "createdAt": "2024-08-19T21:53:42Z",
+  "updatedAt": "2026-04-17T04:09:06Z",
+  "pushedAt": "2026-04-17T04:09:03Z",
+  "topics": [],
+  "summaryZh": "Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

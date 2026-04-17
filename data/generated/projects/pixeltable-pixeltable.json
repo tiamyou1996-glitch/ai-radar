@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-04-17",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.pixeltable.com",
   "description": "Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.",
   "language": "Python",
-  "stars": 1623,
-  "forks": 208,
-  "openIssues": 41,
+  "stars": 1545,
+  "forks": 211,
+  "openIssues": 38,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-04-15T02:39:06Z",
-  "pushedAt": "2026-04-15T04:08:43Z",
+  "updatedAt": "2026-04-17T03:42:44Z",
+  "pushedAt": "2026-04-17T03:42:40Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 94,
   "relevanceScore": 69,
   "totalScore": 88
 }
