@@ -1,6 +1,6 @@
 {
   "slug": "genieincodebottle-generative-ai",
-  "featuredDate": "2026-04-12",
+  "featuredDate": "2026-04-18",
   "fullName": "genieincodebottle/generative-ai",
   "name": "generative-ai",
   "owner": "genieincodebottle",
@@ -8,12 +8,12 @@
   "homepage": "https://aimlcompanion.ai/",
   "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
   "language": "Jupyter Notebook",
-  "stars": 2204,
-  "forks": 541,
-  "openIssues": 1,
+  "stars": 2220,
+  "forks": 543,
+  "openIssues": 0,
   "createdAt": "2024-01-09T11:10:20Z",
-  "updatedAt": "2026-04-12T01:33:41Z",
-  "pushedAt": "2026-04-11T10:48:18Z",
+  "updatedAt": "2026-04-18T03:44:29Z",
+  "pushedAt": "2026-04-18T03:44:24Z",
   "topics": [
     "agentic-ai",
     "agentic-framework",
@@ -45,8 +45,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 88,
-  "qualityScore": 96,
+  "trendScore": 92,
+  "qualityScore": 97,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 90
 }

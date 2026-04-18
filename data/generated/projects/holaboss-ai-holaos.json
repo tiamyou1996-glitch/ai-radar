@@ -1,6 +1,6 @@
 {
   "slug": "holaboss-ai-holaos",
-  "featuredDate": "2026-04-16",
+  "featuredDate": "2026-04-18",
   "fullName": "holaboss-ai/holaOS",
   "name": "holaOS",
   "owner": "holaboss-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://holaboss.ai",
   "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
   "language": "TypeScript",
-  "stars": 2521,
-  "forks": 230,
-  "openIssues": 11,
+  "stars": 2856,
+  "forks": 233,
+  "openIssues": 6,
   "createdAt": "2026-03-22T07:36:16Z",
-  "updatedAt": "2026-04-16T04:15:15Z",
-  "pushedAt": "2026-04-16T04:16:59Z",
+  "updatedAt": "2026-04-18T03:53:46Z",
+  "pushedAt": "2026-04-18T03:53:44Z",
   "topics": [
     "agent",
     "agent-harness",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 92
+  "totalScore": 93
 }

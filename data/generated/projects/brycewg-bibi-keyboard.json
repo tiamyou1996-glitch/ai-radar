@@ -1,0 +1,41 @@
+{
+  "slug": "brycewg-bibi-keyboard",
+  "featuredDate": "2026-04-18",
+  "fullName": "BryceWG/BiBi-Keyboard",
+  "name": "BiBi-Keyboard",
+  "owner": "BryceWG",
+  "repoUrl": "https://github.com/BryceWG/BiBi-Keyboard",
+  "homepage": null,
+  "description": "说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin",
+  "language": "Kotlin",
+  "stars": 584,
+  "forks": 43,
+  "openIssues": 12,
+  "createdAt": "2025-10-06T09:18:49Z",
+  "updatedAt": "2026-04-18T03:44:28Z",
+  "pushedAt": "2026-04-18T03:44:24Z",
+  "topics": [
+    "android-app",
+    "asr",
+    "doubao",
+    "elevenlabs",
+    "keyboard",
+    "kotlin",
+    "llm",
+    "qwen-asr",
+    "speech-to-text",
+    "whisper"
+  ],
+  "summaryZh": "说点啥（BiBi Keyboard）:一个基于 Kotlin 的 Android 平台的 LLM 与 ASR 语音输入法键盘应用  An LLM ASR voice input method keyboard application for the Android platform based on Kotlin 这是偏语音和音频方向的项目，适合做语音助手和实时交互场景。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Audio",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 58,
+  "totalScore": 82
+}

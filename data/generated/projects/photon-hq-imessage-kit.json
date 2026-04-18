@@ -1,0 +1,36 @@
+{
+  "slug": "photon-hq-imessage-kit",
+  "featuredDate": "2026-04-18",
+  "fullName": "photon-hq/imessage-kit",
+  "name": "imessage-kit",
+  "owner": "photon-hq",
+  "repoUrl": "https://github.com/photon-hq/imessage-kit",
+  "homepage": "https://photon.codes",
+  "description": "A type-safe, elegant iMessage SDK for macOS with zero dependencies",
+  "language": "TypeScript",
+  "stars": 1278,
+  "forks": 122,
+  "openIssues": 3,
+  "createdAt": "2025-10-18T06:44:03Z",
+  "updatedAt": "2026-04-18T03:35:23Z",
+  "pushedAt": "2026-04-18T03:35:18Z",
+  "topics": [
+    "agent",
+    "ai",
+    "apple",
+    "imessage",
+    "sms",
+    "typescript"
+  ],
+  "summaryZh": "A type-safe, elegant iMessage SDK for macOS with zero dependencies 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 55,
+  "totalScore": 84
+}
