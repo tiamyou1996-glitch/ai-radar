@@ -1,19 +1,19 @@
 {
   "slug": "modelscope-ms-swift",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-04-19",
   "fullName": "modelscope/ms-swift",
   "name": "ms-swift",
   "owner": "modelscope",
   "repoUrl": "https://github.com/modelscope/ms-swift",
   "homepage": "https://swift.readthedocs.io/zh-cn/latest/",
-  "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).",
+  "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).",
   "language": "Python",
-  "stars": 13715,
-  "forks": 1350,
-  "openIssues": 1032,
+  "stars": 13793,
+  "forks": 1364,
+  "openIssues": 1038,
   "createdAt": "2023-08-01T15:06:39Z",
-  "updatedAt": "2026-04-15T04:05:07Z",
-  "pushedAt": "2026-04-15T03:21:00Z",
+  "updatedAt": "2026-04-19T00:21:18Z",
+  "pushedAt": "2026-04-18T16:00:31Z",
   "topics": [
     "deepseek-r1",
     "embedding",
@@ -30,13 +30,13 @@
     "open-r1",
     "peft",
     "qwen3",
-    "qwen3-5",
+    "qwen3-6",
     "qwen3-omni",
     "qwen3-vl",
     "reranker",
     "sft"
   ],
-  "summaryZh": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025). 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025). 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
@@ -45,8 +45,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

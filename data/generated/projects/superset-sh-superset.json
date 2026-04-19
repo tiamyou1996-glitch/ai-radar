@@ -1,6 +1,6 @@
 {
   "slug": "superset-sh-superset",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-04-19",
   "fullName": "superset-sh/superset",
   "name": "superset",
   "owner": "superset-sh",
@@ -8,12 +8,12 @@
   "homepage": "https://superset.sh",
   "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
   "language": "TypeScript",
-  "stars": 9604,
-  "forks": 772,
-  "openIssues": 809,
+  "stars": 9774,
+  "forks": 798,
+  "openIssues": 856,
   "createdAt": "2025-10-21T09:16:51Z",
-  "updatedAt": "2026-04-15T04:10:04Z",
-  "pushedAt": "2026-04-15T04:12:15Z",
+  "updatedAt": "2026-04-19T04:14:58Z",
+  "pushedAt": "2026-04-19T04:10:55Z",
   "topics": [
     "agentic-ai",
     "ai-agents",
@@ -45,8 +45,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 92
+  "totalScore": 89
 }

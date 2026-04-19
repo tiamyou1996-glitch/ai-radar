@@ -1,6 +1,6 @@
 {
   "slug": "trymirai-uzu",
-  "featuredDate": "2026-04-18",
+  "featuredDate": "2026-04-19",
   "fullName": "trymirai/uzu",
   "name": "uzu",
   "owner": "trymirai",
@@ -8,12 +8,12 @@
   "homepage": "https://trymirai.com",
   "description": "A high-performance inference engine for AI models",
   "language": "Rust",
-  "stars": 1548,
+  "stars": 1549,
   "forks": 49,
   "openIssues": 10,
   "createdAt": "2025-06-23T21:55:11Z",
-  "updatedAt": "2026-04-18T03:08:01Z",
-  "pushedAt": "2026-04-18T00:44:22Z",
+  "updatedAt": "2026-04-19T01:02:38Z",
+  "pushedAt": "2026-04-19T01:02:34Z",
   "topics": [
     "ai",
     "high-performance",

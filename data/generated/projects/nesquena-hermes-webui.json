@@ -1,0 +1,36 @@
+{
+  "slug": "nesquena-hermes-webui",
+  "featuredDate": "2026-04-19",
+  "fullName": "nesquena/hermes-webui",
+  "name": "hermes-webui",
+  "owner": "nesquena",
+  "repoUrl": "https://github.com/nesquena/hermes-webui",
+  "homepage": "https://get-hermes.ai/",
+  "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+  "language": "Python",
+  "stars": 2719,
+  "forks": 346,
+  "openIssues": 101,
+  "createdAt": "2026-03-30T21:50:12Z",
+  "updatedAt": "2026-04-19T04:19:51Z",
+  "pushedAt": "2026-04-19T04:19:49Z",
+  "topics": [
+    "agent",
+    "ai-agents",
+    "hermes",
+    "hermes-agent",
+    "nous-research"
+  ],
+  "summaryZh": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 90
+}

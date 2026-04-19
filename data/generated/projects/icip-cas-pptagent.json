@@ -1,0 +1,39 @@
+{
+  "slug": "icip-cas-pptagent",
+  "featuredDate": "2026-04-19",
+  "fullName": "icip-cas/PPTAgent",
+  "name": "PPTAgent",
+  "owner": "icip-cas",
+  "repoUrl": "https://github.com/icip-cas/PPTAgent",
+  "homepage": "https://arxiv.org/abs/2501.03936",
+  "description": "An Agentic Framework for Reflective PowerPoint Generation",
+  "language": "Python",
+  "stars": 4091,
+  "forks": 495,
+  "openIssues": 6,
+  "createdAt": "2025-01-04T00:54:29Z",
+  "updatedAt": "2026-04-19T03:44:14Z",
+  "pushedAt": "2026-04-19T03:44:09Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "llm",
+    "mcp",
+    "openclaw",
+    "presentation",
+    "slide"
+  ],
+  "summaryZh": "An Agentic Framework for Reflective PowerPoint Generation 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

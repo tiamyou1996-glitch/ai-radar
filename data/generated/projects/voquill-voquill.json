@@ -1,6 +1,6 @@
 {
   "slug": "voquill-voquill",
-  "featuredDate": "2026-04-12",
+  "featuredDate": "2026-04-19",
   "fullName": "voquill/voquill",
   "name": "voquill",
   "owner": "voquill",
@@ -8,12 +8,12 @@
   "homepage": "https://voquill.com/",
   "description": "The open source wisprflow alternative",
   "language": "TypeScript",
-  "stars": 840,
-  "forks": 96,
+  "stars": 863,
+  "forks": 97,
   "openIssues": 34,
   "createdAt": "2025-09-23T00:51:58Z",
-  "updatedAt": "2026-04-12T03:54:13Z",
-  "pushedAt": "2026-04-12T03:59:44Z",
+  "updatedAt": "2026-04-19T03:55:30Z",
+  "pushedAt": "2026-04-19T03:55:39Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -22,9 +22,12 @@
     "local-ai",
     "open-source",
     "speech-to-text",
+    "superwhisper",
     "tauri",
     "voquill",
-    "whisper"
+    "whisper",
+    "wisprflow",
+    "wisprflow-alternative"
   ],
   "summaryZh": "The open source wisprflow alternative 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
