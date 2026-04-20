@@ -1,0 +1,42 @@
+{
+  "slug": "explosivecoderflome-ai-novel-writing-assistant",
+  "featuredDate": "2026-04-20",
+  "fullName": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+  "name": "AI-Novel-Writing-Assistant",
+  "owner": "ExplosiveCoderflome",
+  "repoUrl": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+  "homepage": null,
+  "description": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.",
+  "language": "TypeScript",
+  "stars": 696,
+  "forks": 170,
+  "openIssues": 16,
+  "createdAt": "2025-02-18T01:35:12Z",
+  "updatedAt": "2026-04-20T03:50:03Z",
+  "pushedAt": "2026-04-20T03:49:58Z",
+  "topics": [
+    "agent-workflow",
+    "ai",
+    "creative-writing",
+    "long-form-fiction",
+    "narrative-engine",
+    "novel-writing",
+    "rag",
+    "story-generation",
+    "worldbuilding",
+    "writing-assistant"
+  ],
+  "summaryZh": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 73,
+  "totalScore": 86
+}
