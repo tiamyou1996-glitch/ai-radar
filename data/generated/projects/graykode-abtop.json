@@ -1,6 +1,6 @@
 {
   "slug": "graykode-abtop",
-  "featuredDate": "2026-04-20",
+  "featuredDate": "2026-04-21",
   "fullName": "graykode/abtop",
   "name": "abtop",
   "owner": "graykode",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
   "language": "Rust",
-  "stars": 505,
-  "forks": 50,
-  "openIssues": 14,
+  "stars": 571,
+  "forks": 57,
+  "openIssues": 13,
   "createdAt": "2026-03-29T10:12:20Z",
-  "updatedAt": "2026-04-20T04:25:29Z",
-  "pushedAt": "2026-04-20T03:41:54Z",
+  "updatedAt": "2026-04-21T03:27:12Z",
+  "pushedAt": "2026-04-21T03:27:14Z",
   "topics": [
     "ai-agents",
     "ai-coding-agent",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 62,
-  "totalScore": 85
+  "totalScore": 86
 }
