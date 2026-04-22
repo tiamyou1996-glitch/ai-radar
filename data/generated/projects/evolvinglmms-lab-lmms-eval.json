@@ -1,0 +1,43 @@
+{
+  "slug": "evolvinglmms-lab-lmms-eval",
+  "featuredDate": "2026-04-22",
+  "fullName": "EvolvingLMMs-Lab/lmms-eval",
+  "name": "lmms-eval",
+  "owner": "EvolvingLMMs-Lab",
+  "repoUrl": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
+  "homepage": "https://www.lmms-lab.com",
+  "description": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
+  "language": "Python",
+  "stars": 4049,
+  "forks": 565,
+  "openIssues": 26,
+  "createdAt": "2024-03-07T12:09:25Z",
+  "updatedAt": "2026-04-22T03:37:00Z",
+  "pushedAt": "2026-04-22T03:36:55Z",
+  "topics": [
+    "agi",
+    "audio-evaluation",
+    "benchmark",
+    "evaluation",
+    "large-language-models",
+    "llm-evaluation",
+    "multimodal",
+    "multimodal-evaluation",
+    "video-understanding",
+    "vision-language-model",
+    "vlm"
+  ],
+  "summaryZh": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Audio",
+    "Video"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 65,
+  "totalScore": 88
+}

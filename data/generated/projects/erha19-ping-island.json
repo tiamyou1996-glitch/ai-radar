@@ -1,0 +1,35 @@
+{
+  "slug": "erha19-ping-island",
+  "featuredDate": "2026-04-22",
+  "fullName": "erha19/ping-island",
+  "name": "ping-island",
+  "owner": "erha19",
+  "repoUrl": "https://github.com/erha19/ping-island",
+  "homepage": "https://erha19.github.io/ping-island",
+  "description": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
+  "language": "Swift",
+  "stars": 308,
+  "forks": 37,
+  "openIssues": 13,
+  "createdAt": "2026-04-03T14:22:16Z",
+  "updatedAt": "2026-04-22T03:48:00Z",
+  "pushedAt": "2026-04-22T03:14:49Z",
+  "topics": [
+    "agents",
+    "island",
+    "vibe-coding",
+    "vibe-island"
+  ],
+  "summaryZh": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

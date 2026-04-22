@@ -1,6 +1,6 @@
 {
   "slug": "dearva-everywhere",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-04-22",
   "fullName": "DearVa/Everywhere",
   "name": "Everywhere",
   "owner": "DearVa",
@@ -8,12 +8,12 @@
   "homepage": "https://everywhere.sylinko.com",
   "description": "Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
   "language": "C#",
-  "stars": 5816,
+  "stars": 5839,
   "forks": 354,
   "openIssues": 25,
   "createdAt": "2025-04-23T08:19:33Z",
-  "updatedAt": "2026-04-15T04:06:38Z",
-  "pushedAt": "2026-04-15T03:54:51Z",
+  "updatedAt": "2026-04-22T04:09:24Z",
+  "pushedAt": "2026-04-22T03:54:18Z",
   "topics": [
     "agent",
     "ai",
