@@ -1,6 +1,6 @@
 {
   "slug": "henrydaum-second-brain",
-  "featuredDate": "2026-04-12",
+  "featuredDate": "2026-04-24",
   "fullName": "henrydaum/second-brain",
   "name": "second-brain",
   "owner": "henrydaum",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Second Brain is a desktop application that acts as a personal knowledge base, using retrieval-augmented generation (RAG), multimodal AI models, and a hybrid lexical/semantic search algorithm to interact with local text files and images.",
   "language": "Python",
-  "stars": 448,
+  "stars": 470,
   "forks": 52,
   "openIssues": 3,
   "createdAt": "2025-09-19T15:54:58Z",
-  "updatedAt": "2026-04-12T03:20:42Z",
-  "pushedAt": "2026-04-12T02:48:05Z",
+  "updatedAt": "2026-04-24T04:00:27Z",
+  "pushedAt": "2026-04-24T04:00:23Z",
   "topics": [
     "rag"
   ],
@@ -27,7 +27,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 84,
+  "qualityScore": 85,
   "relevanceScore": 69,
   "totalScore": 84
 }

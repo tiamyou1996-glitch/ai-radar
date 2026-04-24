@@ -1,0 +1,40 @@
+{
+  "slug": "xhluca-bm25s",
+  "featuredDate": "2026-04-24",
+  "fullName": "xhluca/bm25s",
+  "name": "bm25s",
+  "owner": "xhluca",
+  "repoUrl": "https://github.com/xhluca/bm25s",
+  "homepage": "https://bm25s.github.io",
+  "description": "Fast BM25 search in Python, powered by Numpy and Numba",
+  "language": "Python",
+  "stars": 1637,
+  "forks": 98,
+  "openIssues": 1,
+  "createdAt": "2024-04-10T02:55:05Z",
+  "updatedAt": "2026-04-24T04:02:15Z",
+  "pushedAt": "2026-04-24T04:02:47Z",
+  "topics": [
+    "bm25",
+    "bm25-l",
+    "bm25-plus",
+    "information-retrieval",
+    "lexical-search",
+    "okapi-bm25",
+    "rag",
+    "retrieval",
+    "robertson",
+    "search"
+  ],
+  "summaryZh": "Fast BM25 search in Python, powered by Numpy and Numba 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 95,
+  "relevanceScore": 55,
+  "totalScore": 85
+}

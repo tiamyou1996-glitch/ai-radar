@@ -1,6 +1,6 @@
 {
   "slug": "miomioos-mioisland",
-  "featuredDate": "2026-04-22",
+  "featuredDate": "2026-04-24",
   "fullName": "MioMioOS/MioIsland",
   "name": "MioIsland",
   "owner": "MioMioOS",
@@ -8,12 +8,12 @@
   "homepage": "https://miomioos.github.io/MioIsland/",
   "description": "macOS Dynamic Island for AI coding agents. Monitor, approve, and jump to Claude Code sessions from the notch.",
   "language": "Swift",
-  "stars": 375,
+  "stars": 388,
   "forks": 49,
-  "openIssues": 19,
+  "openIssues": 21,
   "createdAt": "2026-04-01T05:10:53Z",
-  "updatedAt": "2026-04-22T03:41:05Z",
-  "pushedAt": "2026-04-22T03:41:26Z",
+  "updatedAt": "2026-04-24T04:13:16Z",
+  "pushedAt": "2026-04-24T04:13:11Z",
   "topics": [
     "ai-coding",
     "anthropic",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 62,
   "totalScore": 86
 }

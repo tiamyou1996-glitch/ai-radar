@@ -1,6 +1,6 @@
 {
   "slug": "paddlepaddle-fastdeploy",
-  "featuredDate": "2026-04-23",
+  "featuredDate": "2026-04-24",
   "fullName": "PaddlePaddle/FastDeploy",
   "name": "FastDeploy",
   "owner": "PaddlePaddle",
@@ -12,8 +12,8 @@
   "forks": 740,
   "openIssues": 725,
   "createdAt": "2022-06-27T10:22:10Z",
-  "updatedAt": "2026-04-23T03:44:46Z",
-  "pushedAt": "2026-04-23T03:45:06Z",
+  "updatedAt": "2026-04-24T04:10:43Z",
+  "pushedAt": "2026-04-24T04:11:03Z",
   "topics": [
     "ernie",
     "ernie-45",
