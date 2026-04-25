@@ -1,0 +1,42 @@
+{
+  "slug": "he-yufeng-corecoder",
+  "featuredDate": "2026-04-25",
+  "fullName": "he-yufeng/CoreCoder",
+  "name": "CoreCoder",
+  "owner": "he-yufeng",
+  "repoUrl": "https://github.com/he-yufeng/CoreCoder",
+  "homepage": "https://pypi.org/project/corecoder/",
+  "description": "Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+  "language": "Python",
+  "stars": 626,
+  "forks": 168,
+  "openIssues": 1,
+  "createdAt": "2026-04-01T19:54:54Z",
+  "updatedAt": "2026-04-25T03:19:30Z",
+  "pushedAt": "2026-04-25T03:19:26Z",
+  "topics": [
+    "ai-agent",
+    "claude-code",
+    "cli",
+    "coding-agent",
+    "corecoder",
+    "deepseek",
+    "developer-tools",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "summaryZh": "Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
