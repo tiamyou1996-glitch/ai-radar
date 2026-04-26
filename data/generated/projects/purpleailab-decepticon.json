@@ -1,0 +1,41 @@
+{
+  "slug": "purpleailab-decepticon",
+  "featuredDate": "2026-04-26",
+  "fullName": "PurpleAILAB/Decepticon",
+  "name": "Decepticon",
+  "owner": "PurpleAILAB",
+  "repoUrl": "https://github.com/PurpleAILAB/Decepticon",
+  "homepage": "https://decepticon.red",
+  "description": "Autonomous Hacking Agent for Red Team",
+  "language": "Python",
+  "stars": 2568,
+  "forks": 463,
+  "openIssues": 1,
+  "createdAt": "2025-06-06T12:55:02Z",
+  "updatedAt": "2026-04-26T04:15:58Z",
+  "pushedAt": "2026-04-26T04:19:19Z",
+  "topics": [
+    "agent",
+    "ai",
+    "cybersecurity",
+    "generative-ai",
+    "hacking",
+    "langchain",
+    "langgraph",
+    "llm",
+    "pentest",
+    "pentesting"
+  ],
+  "summaryZh": "Autonomous Hacking Agent for Red Team 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 97,
+  "relevanceScore": 62,
+  "totalScore": 87
+}

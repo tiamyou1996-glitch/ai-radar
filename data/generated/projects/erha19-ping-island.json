@@ -1,6 +1,6 @@
 {
   "slug": "erha19-ping-island",
-  "featuredDate": "2026-04-22",
+  "featuredDate": "2026-04-26",
   "fullName": "erha19/ping-island",
   "name": "ping-island",
   "owner": "erha19",
@@ -8,12 +8,12 @@
   "homepage": "https://erha19.github.io/ping-island",
   "description": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
   "language": "Swift",
-  "stars": 308,
-  "forks": 37,
-  "openIssues": 13,
+  "stars": 355,
+  "forks": 40,
+  "openIssues": 6,
   "createdAt": "2026-04-03T14:22:16Z",
-  "updatedAt": "2026-04-22T03:48:00Z",
-  "pushedAt": "2026-04-22T03:14:49Z",
+  "updatedAt": "2026-04-26T04:08:26Z",
+  "pushedAt": "2026-04-26T04:08:29Z",
   "topics": [
     "agents",
     "island",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 62,
-  "totalScore": 85
+  "totalScore": 86
 }

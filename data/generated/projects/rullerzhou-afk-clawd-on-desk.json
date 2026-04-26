@@ -1,0 +1,40 @@
+{
+  "slug": "rullerzhou-afk-clawd-on-desk",
+  "featuredDate": "2026-04-26",
+  "fullName": "rullerzhou-afk/clawd-on-desk",
+  "name": "clawd-on-desk",
+  "owner": "rullerzhou-afk",
+  "repoUrl": "https://github.com/rullerzhou-afk/clawd-on-desk",
+  "homepage": null,
+  "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
+  "language": "JavaScript",
+  "stars": 1841,
+  "forks": 189,
+  "openIssues": 29,
+  "createdAt": "2026-03-18T09:04:20Z",
+  "updatedAt": "2026-04-26T04:25:01Z",
+  "pushedAt": "2026-04-26T04:08:39Z",
+  "topics": [
+    "claude-code",
+    "codex",
+    "copilot",
+    "cursor",
+    "desktop-pet",
+    "electron",
+    "gemini",
+    "pixel-art",
+    "svg-animation"
+  ],
+  "summaryZh": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

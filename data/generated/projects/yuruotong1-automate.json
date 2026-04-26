@@ -1,0 +1,41 @@
+{
+  "slug": "yuruotong1-automate",
+  "featuredDate": "2026-04-26",
+  "fullName": "yuruotong1/autoMate",
+  "name": "autoMate",
+  "owner": "yuruotong1",
+  "repoUrl": "https://github.com/yuruotong1/autoMate",
+  "homepage": null,
+  "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
+  "language": "Python",
+  "stars": 3903,
+  "forks": 492,
+  "openIssues": 4,
+  "createdAt": "2024-01-20T03:04:09Z",
+  "updatedAt": "2026-04-26T04:24:42Z",
+  "pushedAt": "2026-04-26T04:24:49Z",
+  "topics": [
+    "agent",
+    "ai",
+    "computeruse",
+    "deepseek",
+    "manus",
+    "ollama",
+    "omniparser",
+    "openai",
+    "openmanus",
+    "response",
+    "rpa"
+  ],
+  "summaryZh": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 97,
+  "relevanceScore": 55,
+  "totalScore": 86
+}
