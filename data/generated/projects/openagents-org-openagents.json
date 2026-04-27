@@ -1,6 +1,6 @@
 {
   "slug": "openagents-org-openagents",
-  "featuredDate": "2026-03-18",
+  "featuredDate": "2026-04-27",
   "fullName": "openagents-org/openagents",
   "name": "openagents",
   "owner": "openagents-org",
@@ -8,12 +8,12 @@
   "homepage": "https://openagents.org",
   "description": "OpenAgents - AI Agent Networks for Open Collaboration",
   "language": "Python",
-  "stars": 1769,
-  "forks": 218,
-  "openIssues": 49,
+  "stars": 3316,
+  "forks": 315,
+  "openIssues": 61,
   "createdAt": "2025-03-10T22:27:52Z",
-  "updatedAt": "2026-03-18T07:18:00Z",
-  "pushedAt": "2026-03-18T07:17:57Z",
+  "updatedAt": "2026-04-27T04:35:46Z",
+  "pushedAt": "2026-04-27T04:35:42Z",
   "topics": [
     "agents",
     "ai",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 88
 }

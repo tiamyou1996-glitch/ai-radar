@@ -1,6 +1,6 @@
 {
   "slug": "jonwiggins-optio",
-  "featuredDate": "2026-04-25",
+  "featuredDate": "2026-04-27",
   "fullName": "jonwiggins/optio",
   "name": "optio",
   "owner": "jonwiggins",
@@ -8,12 +8,12 @@
   "homepage": "https://optio.host/",
   "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
   "language": "TypeScript",
-  "stars": 914,
+  "stars": 917,
   "forks": 97,
-  "openIssues": 5,
+  "openIssues": 11,
   "createdAt": "2026-03-19T19:50:11Z",
-  "updatedAt": "2026-04-25T03:51:39Z",
-  "pushedAt": "2026-04-25T03:51:34Z",
+  "updatedAt": "2026-04-27T03:37:51Z",
+  "pushedAt": "2026-04-27T03:37:46Z",
   "topics": [
     "agent",
     "agents",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 62,
   "totalScore": 88
 }

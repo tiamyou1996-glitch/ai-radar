@@ -1,0 +1,40 @@
+{
+  "slug": "zykjshadow-async",
+  "featuredDate": "2026-04-27",
+  "fullName": "ZYKJShadow/Async",
+  "name": "Async",
+  "owner": "ZYKJShadow",
+  "repoUrl": "https://github.com/ZYKJShadow/Async",
+  "homepage": null,
+  "description": "IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.",
+  "language": "TypeScript",
+  "stars": 317,
+  "forks": 62,
+  "openIssues": 2,
+  "createdAt": "2026-03-30T07:42:21Z",
+  "updatedAt": "2026-04-27T03:40:53Z",
+  "pushedAt": "2026-04-27T04:07:44Z",
+  "topics": [
+    "ai-coding-assistant",
+    "ai-development-tools",
+    "code-editor",
+    "cursor-alternative",
+    "electron",
+    "llm",
+    "reactjs",
+    "typescript"
+  ],
+  "summaryZh": "IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 69,
+  "totalScore": 86
+}
