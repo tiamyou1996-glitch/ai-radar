@@ -1,6 +1,6 @@
 {
   "slug": "modelengine-group-datamate",
-  "featuredDate": "2026-04-02",
+  "featuredDate": "2026-04-29",
   "fullName": "ModelEngine-Group/DataMate",
   "name": "DataMate",
   "owner": "ModelEngine-Group",
@@ -8,12 +8,12 @@
   "homepage": "https://github.com/ModelEngine-Group/DataMate",
   "description": "DataMate is an enterprise-level data processing platform designed for model fine-tuning and RAG retrieval. ",
   "language": "TypeScript",
-  "stars": 341,
+  "stars": 347,
   "forks": 44,
   "openIssues": 18,
   "createdAt": "2025-08-11T12:24:04Z",
-  "updatedAt": "2026-04-02T03:43:39Z",
-  "pushedAt": "2026-04-02T03:43:39Z",
+  "updatedAt": "2026-04-29T04:35:49Z",
+  "pushedAt": "2026-04-29T04:35:45Z",
   "topics": [
     "data-evaluation",
     "data-pipeline",

@@ -1,6 +1,6 @@
 {
   "slug": "qualcomm-ai-hub-apps",
-  "featuredDate": "2026-04-25",
+  "featuredDate": "2026-04-29",
   "fullName": "qualcomm/ai-hub-apps",
   "name": "ai-hub-apps",
   "owner": "qualcomm",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "The Qualcomm® AI Hub apps are a collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices.",
   "language": "Python",
-  "stars": 400,
+  "stars": 404,
   "forks": 97,
   "openIssues": 4,
   "createdAt": "2024-03-21T01:40:33Z",
-  "updatedAt": "2026-04-25T01:12:37Z",
-  "pushedAt": "2026-04-25T01:12:33Z",
+  "updatedAt": "2026-04-29T03:28:03Z",
+  "pushedAt": "2026-04-29T03:27:59Z",
   "topics": [
     "deeplearning",
     "demos",

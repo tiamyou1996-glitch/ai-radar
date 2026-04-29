@@ -1,0 +1,38 @@
+{
+  "slug": "yzhao062-agent-style",
+  "featuredDate": "2026-04-29",
+  "fullName": "yzhao062/agent-style",
+  "name": "agent-style",
+  "owner": "yzhao062",
+  "repoUrl": "https://github.com/yzhao062/agent-style",
+  "homepage": null,
+  "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+  "language": "Python",
+  "stars": 371,
+  "forks": 19,
+  "openIssues": 4,
+  "createdAt": "2026-04-19T08:12:16Z",
+  "updatedAt": "2026-04-29T04:23:53Z",
+  "pushedAt": "2026-04-29T04:26:23Z",
+  "topics": [
+    "ai-agents",
+    "llm",
+    "prompt-engineering",
+    "style-guide",
+    "technical-writing",
+    "writing-style"
+  ],
+  "summaryZh": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 69,
+  "totalScore": 86
+}

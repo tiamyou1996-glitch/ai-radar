@@ -1,6 +1,6 @@
 {
   "slug": "xintaofei-codeg",
-  "featuredDate": "2026-04-25",
+  "featuredDate": "2026-04-29",
   "fullName": "xintaofei/codeg",
   "name": "codeg",
   "owner": "xintaofei",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.",
   "language": "TypeScript",
-  "stars": 882,
-  "forks": 88,
-  "openIssues": 33,
+  "stars": 943,
+  "forks": 97,
+  "openIssues": 36,
   "createdAt": "2026-02-09T09:22:50Z",
-  "updatedAt": "2026-04-25T03:58:22Z",
-  "pushedAt": "2026-04-25T03:58:19Z",
+  "updatedAt": "2026-04-29T04:00:28Z",
+  "pushedAt": "2026-04-29T03:34:08Z",
   "topics": [
     "acp",
     "agent",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 69,
   "totalScore": 88
 }

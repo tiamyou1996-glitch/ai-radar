@@ -1,0 +1,41 @@
+{
+  "slug": "google-langextract",
+  "featuredDate": "2026-04-29",
+  "fullName": "google/langextract",
+  "name": "langextract",
+  "owner": "google",
+  "repoUrl": "https://github.com/google/langextract",
+  "homepage": "https://pypi.org/project/langextract/",
+  "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+  "language": "Python",
+  "stars": 36137,
+  "forks": 2470,
+  "openIssues": 109,
+  "createdAt": "2025-07-08T20:46:06Z",
+  "updatedAt": "2026-04-29T04:35:54Z",
+  "pushedAt": "2026-04-29T04:35:51Z",
+  "topics": [
+    "gemini",
+    "gemini-ai",
+    "gemini-api",
+    "gemini-flash",
+    "gemini-pro",
+    "information-extration",
+    "large-language-models",
+    "llm",
+    "nlp",
+    "python",
+    "structured-data"
+  ],
+  "summaryZh": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}
