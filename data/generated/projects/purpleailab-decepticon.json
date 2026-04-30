@@ -1,6 +1,6 @@
 {
   "slug": "purpleailab-decepticon",
-  "featuredDate": "2026-04-26",
+  "featuredDate": "2026-04-30",
   "fullName": "PurpleAILAB/Decepticon",
   "name": "Decepticon",
   "owner": "PurpleAILAB",
@@ -8,12 +8,12 @@
   "homepage": "https://decepticon.red",
   "description": "Autonomous Hacking Agent for Red Team",
   "language": "Python",
-  "stars": 2568,
-  "forks": 463,
-  "openIssues": 1,
+  "stars": 3247,
+  "forks": 621,
+  "openIssues": 3,
   "createdAt": "2025-06-06T12:55:02Z",
-  "updatedAt": "2026-04-26T04:15:58Z",
-  "pushedAt": "2026-04-26T04:19:19Z",
+  "updatedAt": "2026-04-30T04:33:57Z",
+  "pushedAt": "2026-04-30T04:37:55Z",
   "topics": [
     "agent",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }
