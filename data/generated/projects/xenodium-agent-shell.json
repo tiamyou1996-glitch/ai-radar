@@ -1,0 +1,42 @@
+{
+  "slug": "xenodium-agent-shell",
+  "featuredDate": "2026-05-01",
+  "fullName": "xenodium/agent-shell",
+  "name": "agent-shell",
+  "owner": "xenodium",
+  "repoUrl": "https://github.com/xenodium/agent-shell",
+  "homepage": "https://xenodium.com",
+  "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+  "language": "Emacs Lisp",
+  "stars": 1111,
+  "forks": 153,
+  "openIssues": 98,
+  "createdAt": "2025-09-09T14:26:23Z",
+  "updatedAt": "2026-05-01T04:54:44Z",
+  "pushedAt": "2026-05-01T04:54:40Z",
+  "topics": [
+    "ai",
+    "claude",
+    "claude-code",
+    "codex",
+    "emacs",
+    "emacs-lisp",
+    "gemini",
+    "goose",
+    "llm",
+    "openai"
+  ],
+  "summaryZh": "A native Emacs buffer to interact with LLM agents powered by ACP 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 69,
+  "totalScore": 87
+}

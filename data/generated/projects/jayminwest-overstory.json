@@ -1,0 +1,36 @@
+{
+  "slug": "jayminwest-overstory",
+  "featuredDate": "2026-05-01",
+  "fullName": "jayminwest/overstory",
+  "name": "overstory",
+  "owner": "jayminwest",
+  "repoUrl": "https://github.com/jayminwest/overstory",
+  "homepage": null,
+  "description": "Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more",
+  "language": "TypeScript",
+  "stars": 1260,
+  "forks": 206,
+  "openIssues": 26,
+  "createdAt": "2026-02-12T14:53:58Z",
+  "updatedAt": "2026-05-01T04:53:54Z",
+  "pushedAt": "2026-05-01T04:55:09Z",
+  "topics": [
+    "agent-swarms",
+    "ai-agents",
+    "claude-code",
+    "tmux"
+  ],
+  "summaryZh": "Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 73,
+  "totalScore": 90
+}

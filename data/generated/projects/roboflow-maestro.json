@@ -1,0 +1,42 @@
+{
+  "slug": "roboflow-maestro",
+  "featuredDate": "2026-05-01",
+  "fullName": "roboflow/maestro",
+  "name": "maestro",
+  "owner": "roboflow",
+  "repoUrl": "https://github.com/roboflow/maestro",
+  "homepage": "https://maestro.roboflow.com",
+  "description": "streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL",
+  "language": "Python",
+  "stars": 2671,
+  "forks": 221,
+  "openIssues": 28,
+  "createdAt": "2023-11-24T13:28:57Z",
+  "updatedAt": "2026-05-01T01:21:47Z",
+  "pushedAt": "2026-05-01T01:21:43Z",
+  "topics": [
+    "captioning",
+    "fine-tuning",
+    "florence-2",
+    "multimodal",
+    "objectdetection",
+    "paligemma",
+    "phi-3-vision",
+    "qwen2-vl",
+    "transformers",
+    "vision-and-language",
+    "vqa"
+  ],
+  "summaryZh": "streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 87
+}
