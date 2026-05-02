@@ -1,0 +1,30 @@
+{
+  "slug": "dezgit2025-auto-memory",
+  "featuredDate": "2026-05-02",
+  "fullName": "dezgit2025/auto-memory",
+  "name": "auto-memory",
+  "owner": "dezgit2025",
+  "repoUrl": "https://github.com/dezgit2025/auto-memory",
+  "homepage": null,
+  "description": "Your AI coding agent never forgets — progressive session recall CLI",
+  "language": "Python",
+  "stars": 313,
+  "forks": 30,
+  "openIssues": 5,
+  "createdAt": "2026-04-21T06:03:16Z",
+  "updatedAt": "2026-05-02T04:04:10Z",
+  "pushedAt": "2026-05-02T04:04:07Z",
+  "topics": [],
+  "summaryZh": "Your AI coding agent never forgets — progressive session recall CLI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 82,
+  "relevanceScore": 62,
+  "totalScore": 84
+}

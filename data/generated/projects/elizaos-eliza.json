@@ -1,6 +1,6 @@
 {
   "slug": "elizaos-eliza",
-  "featuredDate": "2026-05-01",
+  "featuredDate": "2026-05-02",
   "fullName": "elizaOS/eliza",
   "name": "eliza",
   "owner": "elizaOS",
@@ -8,12 +8,12 @@
   "homepage": "https://eliza.how/",
   "description": "Autonomous agents for everyone",
   "language": "TypeScript",
-  "stars": 18283,
+  "stars": 18285,
   "forks": 5509,
   "openIssues": 4,
   "createdAt": "2024-07-09T07:55:40Z",
-  "updatedAt": "2026-05-01T03:53:18Z",
-  "pushedAt": "2026-05-01T03:53:15Z",
+  "updatedAt": "2026-05-02T04:18:20Z",
+  "pushedAt": "2026-05-02T04:18:15Z",
   "topics": [
     "agent",
     "agentic",

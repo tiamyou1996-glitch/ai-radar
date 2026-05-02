@@ -1,6 +1,6 @@
 {
   "slug": "ghostwright-phantom",
-  "featuredDate": "2026-04-16",
+  "featuredDate": "2026-05-02",
   "fullName": "ghostwright/phantom",
   "name": "phantom",
   "owner": "ghostwright",
@@ -8,12 +8,12 @@
   "homepage": "https://ghostwright.dev/phantom",
   "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
   "language": "TypeScript",
-  "stars": 1271,
-  "forks": 156,
-  "openIssues": 25,
+  "stars": 1400,
+  "forks": 179,
+  "openIssues": 43,
   "createdAt": "2026-03-26T04:45:11Z",
-  "updatedAt": "2026-04-16T04:13:43Z",
-  "pushedAt": "2026-04-16T04:14:00Z",
+  "updatedAt": "2026-05-02T04:23:50Z",
+  "pushedAt": "2026-05-02T04:23:45Z",
   "topics": [
     "ai-agents",
     "ai-coworker",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }

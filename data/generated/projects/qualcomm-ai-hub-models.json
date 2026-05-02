@@ -1,6 +1,6 @@
 {
   "slug": "qualcomm-ai-hub-models",
-  "featuredDate": "2026-05-01",
+  "featuredDate": "2026-05-02",
   "fullName": "qualcomm/ai-hub-models",
   "name": "ai-hub-models",
   "owner": "qualcomm",
@@ -12,8 +12,8 @@
   "forks": 175,
   "openIssues": 7,
   "createdAt": "2023-12-20T18:41:48Z",
-  "updatedAt": "2026-05-01T04:01:32Z",
-  "pushedAt": "2026-05-01T04:01:28Z",
+  "updatedAt": "2026-05-01T23:02:54Z",
+  "pushedAt": "2026-05-01T23:02:50Z",
   "topics": [
     "deeplearning",
     "demos",
