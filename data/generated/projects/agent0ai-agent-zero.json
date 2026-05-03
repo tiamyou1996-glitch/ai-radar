@@ -1,0 +1,36 @@
+{
+  "slug": "agent0ai-agent-zero",
+  "featuredDate": "2026-05-03",
+  "fullName": "agent0ai/agent-zero",
+  "name": "agent-zero",
+  "owner": "agent0ai",
+  "repoUrl": "https://github.com/agent0ai/agent-zero",
+  "homepage": "https://agent-zero.ai",
+  "description": "Agent Zero AI framework",
+  "language": "Python",
+  "stars": 17488,
+  "forks": 3571,
+  "openIssues": 406,
+  "createdAt": "2024-06-10T09:10:45Z",
+  "updatedAt": "2026-05-03T04:33:34Z",
+  "pushedAt": "2026-05-03T04:33:22Z",
+  "topics": [
+    "agent",
+    "ai",
+    "assistant",
+    "autonomous",
+    "linux",
+    "zero"
+  ],
+  "summaryZh": "Agent Zero AI framework 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

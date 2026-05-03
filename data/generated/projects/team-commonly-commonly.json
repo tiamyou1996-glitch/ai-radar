@@ -1,6 +1,6 @@
 {
   "slug": "team-commonly-commonly",
-  "featuredDate": "2026-05-02",
+  "featuredDate": "2026-05-03",
   "fullName": "Team-Commonly/commonly",
   "name": "commonly",
   "owner": "Team-Commonly",
@@ -8,12 +8,12 @@
   "homepage": "https://app-dev.commonly.me",
   "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
   "language": "TypeScript",
-  "stars": 372,
-  "forks": 43,
-  "openIssues": 4,
+  "stars": 389,
+  "forks": 49,
+  "openIssues": 5,
   "createdAt": "2025-02-03T02:13:30Z",
-  "updatedAt": "2026-05-02T04:15:57Z",
-  "pushedAt": "2026-05-02T04:15:50Z",
+  "updatedAt": "2026-05-03T04:37:50Z",
+  "pushedAt": "2026-05-03T04:37:46Z",
   "topics": [
     "agent-framework",
     "agent-harness",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 69,
   "totalScore": 85
 }

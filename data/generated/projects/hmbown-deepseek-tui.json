@@ -1,6 +1,6 @@
 {
   "slug": "hmbown-deepseek-tui",
-  "featuredDate": "2026-05-01",
+  "featuredDate": "2026-05-03",
   "fullName": "Hmbown/DeepSeek-TUI",
   "name": "DeepSeek-TUI",
   "owner": "Hmbown",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Coding agent for DeepSeek models that runs in your terminal",
   "language": "Rust",
-  "stars": 410,
-  "forks": 24,
-  "openIssues": 30,
+  "stars": 1699,
+  "forks": 96,
+  "openIssues": 102,
   "createdAt": "2026-01-19T18:21:01Z",
-  "updatedAt": "2026-05-01T04:55:37Z",
-  "pushedAt": "2026-05-01T04:46:25Z",
+  "updatedAt": "2026-05-03T04:43:36Z",
+  "pushedAt": "2026-05-03T04:42:56Z",
   "topics": [
     "cli",
     "deepseek",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 92,
   "relevanceScore": 69,
-  "totalScore": 87
+  "totalScore": 89
 }

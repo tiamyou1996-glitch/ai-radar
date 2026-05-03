@@ -1,6 +1,6 @@
 {
   "slug": "getagentseal-codeburn",
-  "featuredDate": "2026-04-24",
+  "featuredDate": "2026-05-03",
   "fullName": "getagentseal/codeburn",
   "name": "codeburn",
   "owner": "getagentseal",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
   "language": "TypeScript",
-  "stars": 3488,
-  "forks": 264,
+  "stars": 4992,
+  "forks": 379,
   "openIssues": 21,
   "createdAt": "2026-04-13T22:11:53Z",
-  "updatedAt": "2026-04-24T04:17:06Z",
-  "pushedAt": "2026-04-24T03:53:53Z",
+  "updatedAt": "2026-05-03T04:40:57Z",
+  "pushedAt": "2026-05-03T03:59:49Z",
   "topics": [
     "ai-coding",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }

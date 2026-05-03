@@ -1,6 +1,6 @@
 {
   "slug": "chriswritescode-dev-opencode-manager",
-  "featuredDate": "2026-03-23",
+  "featuredDate": "2026-05-03",
   "fullName": "chriswritescode-dev/opencode-manager",
   "name": "opencode-manager",
   "owner": "chriswritescode-dev",
@@ -8,12 +8,12 @@
   "homepage": "https://chriswritescode-dev.github.io/opencode-manager/",
   "description": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
   "language": "TypeScript",
-  "stars": 449,
-  "forks": 57,
-  "openIssues": 14,
+  "stars": 531,
+  "forks": 65,
+  "openIssues": 18,
   "createdAt": "2025-11-24T03:17:21Z",
-  "updatedAt": "2026-03-23T03:48:40Z",
-  "pushedAt": "2026-03-23T03:48:36Z",
+  "updatedAt": "2026-05-03T04:34:53Z",
+  "pushedAt": "2026-05-03T04:36:52Z",
   "topics": [
     "agent",
     "javascript",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 62,
   "totalScore": 86
 }
