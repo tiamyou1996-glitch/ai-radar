@@ -1,6 +1,6 @@
 {
   "slug": "inkeep-agents",
-  "featuredDate": "2026-04-07",
+  "featuredDate": "2026-05-04",
   "fullName": "inkeep/agents",
   "name": "agents",
   "owner": "inkeep",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.inkeep.com",
   "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
   "language": "TypeScript",
-  "stars": 1057,
-  "forks": 120,
-  "openIssues": 52,
+  "stars": 1119,
+  "forks": 134,
+  "openIssues": 36,
   "createdAt": "2025-09-05T12:23:24Z",
-  "updatedAt": "2026-04-07T03:41:06Z",
-  "pushedAt": "2026-04-07T03:42:16Z",
+  "updatedAt": "2026-05-04T04:47:56Z",
+  "pushedAt": "2026-05-04T04:47:54Z",
   "topics": [
     "agent",
     "agent-builder",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 69,
   "totalScore": 87
 }
