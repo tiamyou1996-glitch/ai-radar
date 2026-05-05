@@ -1,6 +1,6 @@
 {
   "slug": "esengine-reasonix",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-05-05",
   "fullName": "esengine/reasonix",
   "name": "reasonix",
   "owner": "esengine",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "DeepSeek-native agent framework: Cache-First Loop, R1 Thought Harvesting, Tool-Call Repair. TypeScript + Ink TUI.",
   "language": "TypeScript",
-  "stars": 302,
-  "forks": 20,
-  "openIssues": 14,
+  "stars": 338,
+  "forks": 21,
+  "openIssues": 13,
   "createdAt": "2026-04-21T08:27:02Z",
-  "updatedAt": "2026-05-04T04:42:13Z",
-  "pushedAt": "2026-05-04T04:42:09Z",
+  "updatedAt": "2026-05-05T04:15:32Z",
+  "pushedAt": "2026-05-05T04:05:08Z",
   "topics": [
     "agent",
     "agent-framework",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 82,
+  "qualityScore": 83,
   "relevanceScore": 62,
-  "totalScore": 84
+  "totalScore": 85
 }

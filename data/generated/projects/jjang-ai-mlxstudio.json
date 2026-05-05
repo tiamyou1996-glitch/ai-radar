@@ -1,6 +1,6 @@
 {
   "slug": "jjang-ai-mlxstudio",
-  "featuredDate": "2026-04-26",
+  "featuredDate": "2026-05-05",
   "fullName": "jjang-ai/mlxstudio",
   "name": "mlxstudio",
   "owner": "jjang-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://mlx.studio",
   "description": "MLX Studio - Home of JANG_Q - Image Gen/Edit + Chat/Code All in one - + OpenClaw (Anthropic API)",
   "language": null,
-  "stars": 582,
-  "forks": 38,
-  "openIssues": 10,
+  "stars": 664,
+  "forks": 42,
+  "openIssues": 16,
   "createdAt": "2026-03-05T17:17:53Z",
-  "updatedAt": "2026-04-26T04:12:33Z",
-  "pushedAt": "2026-04-26T04:12:29Z",
+  "updatedAt": "2026-05-05T03:55:43Z",
+  "pushedAt": "2026-05-05T03:55:40Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 89
 }
