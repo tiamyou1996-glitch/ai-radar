@@ -1,6 +1,6 @@
 {
   "slug": "blaizzy-mlx-audio",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-05-06",
   "fullName": "Blaizzy/mlx-audio",
   "name": "mlx-audio",
   "owner": "Blaizzy",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
   "language": "Python",
-  "stars": 6930,
-  "forks": 576,
-  "openIssues": 73,
+  "stars": 6946,
+  "forks": 578,
+  "openIssues": 74,
   "createdAt": "2024-11-27T21:14:34Z",
-  "updatedAt": "2026-05-04T03:41:57Z",
-  "pushedAt": "2026-05-03T12:51:24Z",
+  "updatedAt": "2026-05-06T04:09:36Z",
+  "pushedAt": "2026-05-06T03:15:52Z",
   "topics": [
     "apple-silicon",
     "audio-processing",
@@ -33,8 +33,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 88,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 58,
-  "totalScore": 85
+  "totalScore": 87
 }
