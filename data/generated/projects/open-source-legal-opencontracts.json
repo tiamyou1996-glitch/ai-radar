@@ -1,6 +1,6 @@
 {
   "slug": "open-source-legal-opencontracts",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-05-07",
   "fullName": "Open-Source-Legal/OpenContracts",
   "name": "OpenContracts",
   "owner": "Open-Source-Legal",
@@ -8,12 +8,12 @@
   "homepage": "https://open-source-legal.github.io/OpenContracts/",
   "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
   "language": "Python",
-  "stars": 1299,
-  "forks": 149,
-  "openIssues": 34,
+  "stars": 1305,
+  "forks": 150,
+  "openIssues": 35,
   "createdAt": "2022-10-24T04:08:13Z",
-  "updatedAt": "2026-05-04T04:41:03Z",
-  "pushedAt": "2026-05-04T04:41:01Z",
+  "updatedAt": "2026-05-07T04:28:55Z",
+  "pushedAt": "2026-05-07T04:30:18Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 89
 }
