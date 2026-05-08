@@ -1,0 +1,42 @@
+{
+  "slug": "1jehuang-jcode",
+  "featuredDate": "2026-05-08",
+  "fullName": "1jehuang/jcode",
+  "name": "jcode",
+  "owner": "1jehuang",
+  "repoUrl": "https://github.com/1jehuang/jcode",
+  "homepage": null,
+  "description": "Coding Agent Harness",
+  "language": "Rust",
+  "stars": 4894,
+  "forks": 486,
+  "openIssues": 104,
+  "createdAt": "2026-01-05T09:43:36Z",
+  "updatedAt": "2026-05-08T04:20:22Z",
+  "pushedAt": "2026-05-08T04:20:19Z",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "summaryZh": "Coding Agent Harness 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 92
+}

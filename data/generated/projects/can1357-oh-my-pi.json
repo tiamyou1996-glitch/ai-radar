@@ -1,6 +1,6 @@
 {
   "slug": "can1357-oh-my-pi",
-  "featuredDate": "2026-04-30",
+  "featuredDate": "2026-05-08",
   "fullName": "can1357/oh-my-pi",
   "name": "oh-my-pi",
   "owner": "can1357",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
   "language": "TypeScript",
-  "stars": 3673,
-  "forks": 339,
-  "openIssues": 107,
+  "stars": 4116,
+  "forks": 380,
+  "openIssues": 129,
   "createdAt": "2025-12-31T14:01:28Z",
-  "updatedAt": "2026-04-30T04:17:18Z",
-  "pushedAt": "2026-04-30T04:11:33Z",
+  "updatedAt": "2026-05-08T04:19:53Z",
+  "pushedAt": "2026-05-08T04:19:50Z",
   "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 69,
   "totalScore": 91
 }

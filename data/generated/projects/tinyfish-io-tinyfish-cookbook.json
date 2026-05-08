@@ -1,6 +1,6 @@
 {
   "slug": "tinyfish-io-tinyfish-cookbook",
-  "featuredDate": "2026-04-07",
+  "featuredDate": "2026-05-08",
   "fullName": "tinyfish-io/tinyfish-cookbook",
   "name": "tinyfish-cookbook",
   "owner": "tinyfish-io",
@@ -8,12 +8,12 @@
   "homepage": "https://tinyfish.ai",
   "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!",
   "language": "TypeScript",
-  "stars": 1412,
-  "forks": 235,
-  "openIssues": 44,
+  "stars": 1804,
+  "forks": 273,
+  "openIssues": 47,
   "createdAt": "2026-01-22T19:41:14Z",
-  "updatedAt": "2026-04-07T03:53:29Z",
-  "pushedAt": "2026-04-07T03:53:25Z",
+  "updatedAt": "2026-05-08T04:16:24Z",
+  "pushedAt": "2026-05-08T04:16:20Z",
   "topics": [
     "agent",
     "agentic",
@@ -33,7 +33,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 94,
+  "qualityScore": 95,
   "relevanceScore": 55,
   "totalScore": 87
 }

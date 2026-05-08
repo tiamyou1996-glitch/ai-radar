@@ -1,0 +1,43 @@
+{
+  "slug": "walkinglabs-hands-on-modern-rl",
+  "featuredDate": "2026-05-08",
+  "fullName": "walkinglabs/hands-on-modern-rl",
+  "name": "hands-on-modern-rl",
+  "owner": "walkinglabs",
+  "repoUrl": "https://github.com/walkinglabs/hands-on-modern-rl",
+  "homepage": "https://walkinglabs.github.io/hands-on-modern-rl/",
+  "description": "🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. ",
+  "language": "Python",
+  "stars": 1259,
+  "forks": 63,
+  "openIssues": 2,
+  "createdAt": "2026-04-10T01:25:58Z",
+  "updatedAt": "2026-05-08T04:17:06Z",
+  "pushedAt": "2026-05-08T04:15:27Z",
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agentic-rl",
+    "dpo",
+    "grpo",
+    "llm",
+    "llm-alignment",
+    "pytorch",
+    "reinforcemen",
+    "rlhf",
+    "tutorial"
+  ],
+  "summaryZh": "🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

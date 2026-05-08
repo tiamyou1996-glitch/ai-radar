@@ -1,0 +1,41 @@
+{
+  "slug": "0xplaygrounds-rig",
+  "featuredDate": "2026-05-08",
+  "fullName": "0xPlaygrounds/rig",
+  "name": "rig",
+  "owner": "0xPlaygrounds",
+  "repoUrl": "https://github.com/0xPlaygrounds/rig",
+  "homepage": "https://rig.rs",
+  "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+  "language": "Rust",
+  "stars": 7182,
+  "forks": 798,
+  "openIssues": 94,
+  "createdAt": "2024-06-05T13:42:28Z",
+  "updatedAt": "2026-05-08T04:05:33Z",
+  "pushedAt": "2026-05-08T04:05:29Z",
+  "topics": [
+    "agent",
+    "ai",
+    "artificial-intelligence",
+    "automation",
+    "generative-ai",
+    "large-language-model",
+    "llm",
+    "llmops",
+    "rust",
+    "scalable-ai"
+  ],
+  "summaryZh": "⚙️🦀 Build modular and scalable LLM Applications in Rust 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

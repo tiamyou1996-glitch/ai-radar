@@ -1,0 +1,39 @@
+{
+  "slug": "commonstackai-uncommonroute",
+  "featuredDate": "2026-05-08",
+  "fullName": "CommonstackAI/UncommonRoute",
+  "name": "UncommonRoute",
+  "owner": "CommonstackAI",
+  "repoUrl": "https://github.com/CommonstackAI/UncommonRoute",
+  "homepage": null,
+  "description": "Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.",
+  "language": "Python",
+  "stars": 521,
+  "forks": 20,
+  "openIssues": 1,
+  "createdAt": "2026-03-12T10:15:45Z",
+  "updatedAt": "2026-05-08T04:16:45Z",
+  "pushedAt": "2026-05-08T04:16:43Z",
+  "topics": [
+    "agent",
+    "ai",
+    "anthropic",
+    "cost-optimization",
+    "llm",
+    "model-routing",
+    "openai",
+    "router"
+  ],
+  "summaryZh": "Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}
