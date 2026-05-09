@@ -1,19 +1,19 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-05-08",
+  "featuredDate": "2026-05-09",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
   "repoUrl": "https://github.com/pixeltable/pixeltable",
   "homepage": "https://docs.pixeltable.com",
-  "description": "Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.",
+  "description": "Declarative and incremental backend for multimodal AI applications",
   "language": "Python",
-  "stars": 1549,
+  "stars": 1550,
   "forks": 210,
   "openIssues": 31,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-05-08T03:25:13Z",
-  "pushedAt": "2026-05-08T03:25:10Z",
+  "updatedAt": "2026-05-09T03:26:01Z",
+  "pushedAt": "2026-05-09T03:24:37Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -31,17 +31,16 @@
     "multimodal",
     "vector-database"
   ],
-  "summaryZh": "Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "summaryZh": "Declarative and incremental backend for multimodal AI applications 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
   "tags": [
     "Vision",
-    "Infra",
     "Model"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 94,
-  "relevanceScore": 69,
-  "totalScore": 88
+  "relevanceScore": 58,
+  "totalScore": 85
 }

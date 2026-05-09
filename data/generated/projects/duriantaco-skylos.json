@@ -1,6 +1,6 @@
 {
   "slug": "duriantaco-skylos",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-05-09",
   "fullName": "duriantaco/skylos",
   "name": "skylos",
   "owner": "duriantaco",
@@ -8,12 +8,12 @@
   "homepage": "https://skylos.dev/",
   "description": "Open-source PR gate for Python, TS/JS, Java, and Go. Stop merging dead code, secrets, security flows, and AI-code regressions.",
   "language": "Python",
-  "stars": 429,
+  "stars": 432,
   "forks": 19,
   "openIssues": 3,
   "createdAt": "2025-04-28T14:41:35Z",
-  "updatedAt": "2026-05-04T03:16:30Z",
-  "pushedAt": "2026-05-04T03:16:41Z",
+  "updatedAt": "2026-05-09T04:18:35Z",
+  "pushedAt": "2026-05-09T04:18:49Z",
   "topics": [
     "ai-agents",
     "ai-code-review",

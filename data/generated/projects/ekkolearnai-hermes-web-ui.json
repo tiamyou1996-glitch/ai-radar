@@ -1,19 +1,19 @@
 {
   "slug": "ekkolearnai-hermes-web-ui",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-05-09",
   "fullName": "EKKOLearnAI/hermes-web-ui",
   "name": "hermes-web-ui",
   "owner": "EKKOLearnAI",
   "repoUrl": "https://github.com/EKKOLearnAI/hermes-web-ui",
-  "homepage": null,
+  "homepage": "https://ekkolearnai.com",
   "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
   "language": "TypeScript",
-  "stars": 3438,
-  "forks": 424,
-  "openIssues": 116,
+  "stars": 4051,
+  "forks": 497,
+  "openIssues": 100,
   "createdAt": "2026-04-11T07:38:18Z",
-  "updatedAt": "2026-05-04T04:40:53Z",
-  "pushedAt": "2026-05-04T04:47:32Z",
+  "updatedAt": "2026-05-09T04:27:41Z",
+  "pushedAt": "2026-05-09T04:26:03Z",
   "topics": [
     "agent",
     "ai-agent",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }
