@@ -1,19 +1,19 @@
 {
   "slug": "shiwenwen-hope-agent",
-  "featuredDate": "2026-05-07",
+  "featuredDate": "2026-05-10",
   "fullName": "shiwenwen/hope-agent",
   "name": "hope-agent",
   "owner": "shiwenwen",
   "repoUrl": "https://github.com/shiwenwen/hope-agent",
   "homepage": null,
-  "description": "会记忆、能成长的随身 AI 助手 · 桌面 / 云端 / IM 随叫随到，手机远程也能连 | Personal AI that remembers and grows — lives on desktop, self-hosted server and every IM, reachable anywhere",
+  "description": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud",
   "language": "Rust",
-  "stars": 355,
-  "forks": 40,
+  "stars": 421,
+  "forks": 47,
   "openIssues": 1,
   "createdAt": "2026-03-13T15:57:46Z",
-  "updatedAt": "2026-05-07T04:37:46Z",
-  "pushedAt": "2026-05-07T04:34:50Z",
+  "updatedAt": "2026-05-10T04:27:27Z",
+  "pushedAt": "2026-05-10T04:27:22Z",
   "topics": [
     "agent",
     "ai",
@@ -23,8 +23,10 @@
     "claude",
     "claw",
     "codex",
+    "cross-device",
     "desktop-app",
     "gemini",
+    "handoff",
     "harness",
     "hermes-agent",
     "llm",
@@ -34,7 +36,7 @@
     "openclaw",
     "personal"
   ],
-  "summaryZh": "会记忆、能成长的随身 AI 助手 · 桌面 / 云端 / IM 随叫随到，手机远程也能连 | Personal AI that remembers and grows — lives on desktop, self-hosted server and every IM, reachable anywhere 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -44,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }
