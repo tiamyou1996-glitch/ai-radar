@@ -1,0 +1,40 @@
+{
+  "slug": "morphik-org-morphik-core",
+  "featuredDate": "2026-05-11",
+  "fullName": "morphik-org/morphik-core",
+  "name": "morphik-core",
+  "owner": "morphik-org",
+  "repoUrl": "https://github.com/morphik-org/morphik-core",
+  "homepage": "https://morphik.ai/docs",
+  "description": "The most accurate document search and store for building AI apps",
+  "language": "Python",
+  "stars": 3592,
+  "forks": 301,
+  "openIssues": 42,
+  "createdAt": "2024-11-11T23:47:06Z",
+  "updatedAt": "2026-05-11T02:18:16Z",
+  "pushedAt": "2026-05-11T02:18:12Z",
+  "topics": [
+    "artificial-intelligence",
+    "cache-augmented-generation",
+    "colpali",
+    "database",
+    "litellm",
+    "multimodal",
+    "rag",
+    "rules-based-ingestion"
+  ],
+  "summaryZh": "The most accurate document search and store for building AI apps 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Vision",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

@@ -1,6 +1,6 @@
 {
   "slug": "juyterman1000-entroly",
-  "featuredDate": "2026-05-08",
+  "featuredDate": "2026-05-11",
   "fullName": "juyterman1000/entroly",
   "name": "entroly",
   "owner": "juyterman1000",
@@ -8,12 +8,12 @@
   "homepage": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
   "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.",
   "language": "Python",
-  "stars": 351,
+  "stars": 354,
   "forks": 62,
   "openIssues": 0,
   "createdAt": "2026-03-07T23:03:02Z",
-  "updatedAt": "2026-05-08T03:50:25Z",
-  "pushedAt": "2026-05-08T03:50:22Z",
+  "updatedAt": "2026-05-11T04:59:21Z",
+  "pushedAt": "2026-05-11T04:59:17Z",
   "topics": [
     "agents-sdk",
     "ai",

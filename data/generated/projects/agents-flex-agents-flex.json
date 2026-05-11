@@ -1,0 +1,41 @@
+{
+  "slug": "agents-flex-agents-flex",
+  "featuredDate": "2026-05-11",
+  "fullName": "agents-flex/agents-flex",
+  "name": "agents-flex",
+  "owner": "agents-flex",
+  "repoUrl": "https://github.com/agents-flex/agents-flex",
+  "homepage": "https://agentsflex.com",
+  "description": "Agents-flex is A Lightweight Java AI Application Development Framework.",
+  "language": "Java",
+  "stars": 971,
+  "forks": 122,
+  "openIssues": 2,
+  "createdAt": "2024-01-12T08:23:40Z",
+  "updatedAt": "2026-05-11T04:46:13Z",
+  "pushedAt": "2026-05-11T04:46:07Z",
+  "topics": [
+    "agent",
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "langchain4j",
+    "llama3",
+    "llm",
+    "ollama",
+    "spring-ai"
+  ],
+  "summaryZh": "Agents-flex is A Lightweight Java AI Application Development Framework. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 85
+}
