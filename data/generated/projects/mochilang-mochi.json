@@ -1,19 +1,19 @@
 {
   "slug": "mochilang-mochi",
-  "featuredDate": "2026-04-23",
+  "featuredDate": "2026-05-12",
   "fullName": "mochilang/mochi",
   "name": "mochi",
   "owner": "mochilang",
   "repoUrl": "https://github.com/mochilang/mochi",
-  "homepage": null,
+  "homepage": "https://mochi-lang.dev",
   "description": "Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syntax, stream-first semantics, and native support for datasets, graphs, and simulation.",
   "language": "Scheme",
-  "stars": 326,
+  "stars": 327,
   "forks": 14,
-  "openIssues": 8,
+  "openIssues": 55,
   "createdAt": "2025-05-18T16:56:07Z",
-  "updatedAt": "2026-04-23T04:17:43Z",
-  "pushedAt": "2026-04-23T04:17:39Z",
+  "updatedAt": "2026-05-12T04:44:38Z",
+  "pushedAt": "2026-05-12T04:44:34Z",
   "topics": [
     "agent",
     "ai",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 83,
+  "qualityScore": 86,
   "relevanceScore": 62,
-  "totalScore": 82
+  "totalScore": 83
 }

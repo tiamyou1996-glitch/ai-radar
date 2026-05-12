@@ -1,6 +1,6 @@
 {
   "slug": "zykjshadow-async",
-  "featuredDate": "2026-04-27",
+  "featuredDate": "2026-05-12",
   "fullName": "ZYKJShadow/Async",
   "name": "Async",
   "owner": "ZYKJShadow",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.",
   "language": "TypeScript",
-  "stars": 317,
-  "forks": 62,
-  "openIssues": 2,
+  "stars": 470,
+  "forks": 76,
+  "openIssues": 0,
   "createdAt": "2026-03-30T07:42:21Z",
-  "updatedAt": "2026-04-27T03:40:53Z",
-  "pushedAt": "2026-04-27T04:07:44Z",
+  "updatedAt": "2026-05-12T04:01:43Z",
+  "pushedAt": "2026-05-12T04:01:40Z",
   "topics": [
     "ai-coding-assistant",
     "ai-development-tools",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 85,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }

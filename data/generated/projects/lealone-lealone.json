@@ -1,6 +1,6 @@
 {
   "slug": "lealone-lealone",
-  "featuredDate": "2026-05-05",
+  "featuredDate": "2026-05-12",
   "fullName": "lealone/Lealone",
   "name": "Lealone",
   "owner": "lealone",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "能安全适用于个人助理和氛围编程以及企业应用的全栈自进化通用智能体",
   "language": "Java",
-  "stars": 2559,
+  "stars": 2562,
   "forks": 521,
   "openIssues": 33,
   "createdAt": "2013-01-08T13:57:08Z",
-  "updatedAt": "2026-05-05T04:15:03Z",
-  "pushedAt": "2026-05-05T04:14:55Z",
+  "updatedAt": "2026-05-12T04:27:24Z",
+  "pushedAt": "2026-05-12T04:27:18Z",
   "topics": [
     "acid",
     "agent",
