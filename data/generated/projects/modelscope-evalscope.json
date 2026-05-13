@@ -1,6 +1,6 @@
 {
   "slug": "modelscope-evalscope",
-  "featuredDate": "2026-04-09",
+  "featuredDate": "2026-05-13",
   "fullName": "modelscope/evalscope",
   "name": "evalscope",
   "owner": "modelscope",
@@ -8,12 +8,12 @@
   "homepage": "https://evalscope.readthedocs.io/en/latest/",
   "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
   "language": "Python",
-  "stars": 2631,
-  "forks": 301,
-  "openIssues": 86,
+  "stars": 2787,
+  "forks": 327,
+  "openIssues": 92,
   "createdAt": "2023-12-07T06:10:49Z",
-  "updatedAt": "2026-04-09T03:30:18Z",
-  "pushedAt": "2026-04-09T03:30:12Z",
+  "updatedAt": "2026-05-13T04:35:59Z",
+  "pushedAt": "2026-05-13T04:35:55Z",
   "topics": [
     "evaluation",
     "llm",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 69,
   "totalScore": 89
 }
