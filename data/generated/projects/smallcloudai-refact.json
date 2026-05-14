@@ -1,0 +1,42 @@
+{
+  "slug": "smallcloudai-refact",
+  "featuredDate": "2026-05-14",
+  "fullName": "smallcloudai/refact",
+  "name": "refact",
+  "owner": "smallcloudai",
+  "repoUrl": "https://github.com/smallcloudai/refact",
+  "homepage": "https://refact.ai",
+  "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+  "language": "Rust",
+  "stars": 3542,
+  "forks": 311,
+  "openIssues": 1,
+  "createdAt": "2023-04-19T06:43:51Z",
+  "updatedAt": "2026-05-14T04:34:40Z",
+  "pushedAt": "2026-05-14T04:34:38Z",
+  "topics": [
+    "ai-agent",
+    "developer-tools",
+    "enterprise",
+    "fine-tuning",
+    "on-prem",
+    "open-source",
+    "rag",
+    "self-hosted",
+    "swe-bench",
+    "vscode"
+  ],
+  "summaryZh": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}

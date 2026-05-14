@@ -1,19 +1,19 @@
 {
   "slug": "cyhhao-vibe-remote",
-  "featuredDate": "2026-03-31",
+  "featuredDate": "2026-05-14",
   "fullName": "cyhhao/vibe-remote",
   "name": "vibe-remote",
   "owner": "cyhhao",
   "repoUrl": "https://github.com/cyhhao/vibe-remote",
-  "homepage": null,
-  "description": "Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere.",
+  "homepage": "https://avibe.bot",
+  "description": "Your AI agent army, commanded from Slack/Discord/Telegram/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere.",
   "language": "Python",
-  "stars": 362,
-  "forks": 46,
-  "openIssues": 4,
+  "stars": 436,
+  "forks": 60,
+  "openIssues": 3,
   "createdAt": "2025-08-09T14:04:57Z",
-  "updatedAt": "2026-03-31T03:57:13Z",
-  "pushedAt": "2026-03-31T03:57:09Z",
+  "updatedAt": "2026-05-14T04:48:36Z",
+  "pushedAt": "2026-05-14T04:48:26Z",
   "topics": [
     "agent",
     "ai",
@@ -31,7 +31,7 @@
     "vibe-coding",
     "wechat"
   ],
-  "summaryZh": "Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Your AI agent army, commanded from Slack/Discord/Telegram/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 83,
+  "qualityScore": 87,
   "relevanceScore": 69,
-  "totalScore": 84
+  "totalScore": 85
 }
