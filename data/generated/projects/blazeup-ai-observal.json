@@ -1,6 +1,6 @@
 {
   "slug": "blazeup-ai-observal",
-  "featuredDate": "2026-05-09",
+  "featuredDate": "2026-05-15",
   "fullName": "BlazeUp-AI/Observal",
   "name": "Observal",
   "owner": "BlazeUp-AI",
@@ -8,12 +8,12 @@
   "homepage": "http://observal.io/",
   "description": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
   "language": "Python",
-  "stars": 869,
-  "forks": 89,
-  "openIssues": 56,
+  "stars": 1101,
+  "forks": 133,
+  "openIssues": 168,
   "createdAt": "2026-03-30T16:05:36Z",
-  "updatedAt": "2026-05-09T04:30:38Z",
-  "pushedAt": "2026-05-09T04:30:42Z",
+  "updatedAt": "2026-05-15T04:57:29Z",
+  "pushedAt": "2026-05-15T04:57:25Z",
   "topics": [
     "agents",
     "claude-code",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 93,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 90
 }

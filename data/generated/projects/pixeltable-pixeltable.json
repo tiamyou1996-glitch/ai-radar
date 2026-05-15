@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-05-14",
+  "featuredDate": "2026-05-15",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.pixeltable.com",
   "description": "Declarative and Incremental Backend for Multimodal AI Applications",
   "language": "Python",
-  "stars": 1553,
+  "stars": 1552,
   "forks": 211,
   "openIssues": 39,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-05-14T00:56:58Z",
-  "pushedAt": "2026-05-14T04:28:33Z",
+  "updatedAt": "2026-05-15T02:40:26Z",
+  "pushedAt": "2026-05-15T02:40:23Z",
   "topics": [
     "ai",
     "artificial-intelligence",

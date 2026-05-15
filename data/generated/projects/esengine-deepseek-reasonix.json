@@ -1,6 +1,6 @@
 {
   "slug": "esengine-deepseek-reasonix",
-  "featuredDate": "2026-05-14",
+  "featuredDate": "2026-05-15",
   "fullName": "esengine/DeepSeek-Reasonix",
   "name": "DeepSeek-Reasonix",
   "owner": "esengine",
@@ -8,12 +8,12 @@
   "homepage": "https://esengine.github.io/DeepSeek-Reasonix/",
   "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
   "language": "TypeScript",
-  "stars": 1875,
-  "forks": 107,
-  "openIssues": 39,
+  "stars": 2486,
+  "forks": 132,
+  "openIssues": 51,
   "createdAt": "2026-04-21T08:27:02Z",
-  "updatedAt": "2026-05-14T04:54:25Z",
-  "pushedAt": "2026-05-14T04:51:30Z",
+  "updatedAt": "2026-05-15T04:58:04Z",
+  "pushedAt": "2026-05-15T04:38:34Z",
   "topics": [
     "agent",
     "agent-framework",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 69,
   "totalScore": 91
 }

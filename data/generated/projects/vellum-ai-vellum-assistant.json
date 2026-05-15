@@ -1,0 +1,41 @@
+{
+  "slug": "vellum-ai-vellum-assistant",
+  "featuredDate": "2026-05-15",
+  "fullName": "vellum-ai/vellum-assistant",
+  "name": "vellum-assistant",
+  "owner": "vellum-ai",
+  "repoUrl": "https://github.com/vellum-ai/vellum-assistant",
+  "homepage": "https://vellum.ai",
+  "description": "A personal AI assistant that evolves with you. Memory, personality, proactive reach-outs — across macOS, Telegram, and Slack.",
+  "language": "TypeScript",
+  "stars": 421,
+  "forks": 57,
+  "openIssues": 117,
+  "createdAt": "2026-02-07T21:19:17Z",
+  "updatedAt": "2026-05-15T04:50:38Z",
+  "pushedAt": "2026-05-15T04:50:37Z",
+  "topics": [
+    "ai-assistant",
+    "anthropic",
+    "llm",
+    "macos",
+    "open-source",
+    "openai",
+    "personal-ai",
+    "slack-bot",
+    "telegram-bot",
+    "typescript"
+  ],
+  "summaryZh": "A personal AI assistant that evolves with you. Memory, personality, proactive reach-outs — across macOS, Telegram, and Slack. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

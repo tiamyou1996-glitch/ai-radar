@@ -1,0 +1,36 @@
+{
+  "slug": "dicklesworthstone-ntm",
+  "featuredDate": "2026-05-15",
+  "fullName": "Dicklesworthstone/ntm",
+  "name": "ntm",
+  "owner": "Dicklesworthstone",
+  "repoUrl": "https://github.com/Dicklesworthstone/ntm",
+  "homepage": null,
+  "description": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette",
+  "language": "Go",
+  "stars": 311,
+  "forks": 44,
+  "openIssues": 10,
+  "createdAt": "2025-12-10T07:02:48Z",
+  "updatedAt": "2026-05-15T04:30:09Z",
+  "pushedAt": "2026-05-15T04:30:07Z",
+  "topics": [
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "go",
+    "tmux"
+  ],
+  "summaryZh": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 82,
+  "relevanceScore": 62,
+  "totalScore": 84
+}

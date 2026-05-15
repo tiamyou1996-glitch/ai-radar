@@ -1,6 +1,6 @@
 {
   "slug": "paddlepaddle-fastdeploy",
-  "featuredDate": "2026-05-12",
+  "featuredDate": "2026-05-15",
   "fullName": "PaddlePaddle/FastDeploy",
   "name": "FastDeploy",
   "owner": "PaddlePaddle",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 3683,
   "forks": 742,
-  "openIssues": 726,
+  "openIssues": 736,
   "createdAt": "2022-06-27T10:22:10Z",
-  "updatedAt": "2026-05-12T03:46:50Z",
-  "pushedAt": "2026-05-12T03:47:19Z",
+  "updatedAt": "2026-05-15T03:46:31Z",
+  "pushedAt": "2026-05-15T03:48:33Z",
   "topics": [
     "ernie",
     "ernie-45",

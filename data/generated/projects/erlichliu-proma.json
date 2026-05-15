@@ -1,6 +1,6 @@
 {
   "slug": "erlichliu-proma",
-  "featuredDate": "2026-05-12",
+  "featuredDate": "2026-05-15",
   "fullName": "ErlichLiu/Proma",
   "name": "Proma",
   "owner": "ErlichLiu",
@@ -8,12 +8,12 @@
   "homepage": "https://proma.cool/download",
   "description": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。",
   "language": "TypeScript",
-  "stars": 753,
-  "forks": 119,
-  "openIssues": 37,
+  "stars": 852,
+  "forks": 127,
+  "openIssues": 33,
   "createdAt": "2026-01-31T06:26:28Z",
-  "updatedAt": "2026-05-12T04:43:10Z",
-  "pushedAt": "2026-05-12T04:43:05Z",
+  "updatedAt": "2026-05-15T04:53:22Z",
+  "pushedAt": "2026-05-15T04:53:19Z",
   "topics": [
     "agent",
     "agent-sdk",
@@ -33,7 +33,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }
