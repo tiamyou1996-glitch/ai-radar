@@ -1,0 +1,38 @@
+{
+  "slug": "vectifyai-openkb",
+  "featuredDate": "2026-05-16",
+  "fullName": "VectifyAI/OpenKB",
+  "name": "OpenKB",
+  "owner": "VectifyAI",
+  "repoUrl": "https://github.com/VectifyAI/OpenKB",
+  "homepage": "https://pageindex.ai",
+  "description": "OpenKB: Open LLM Knowledge Base",
+  "language": "Python",
+  "stars": 1812,
+  "forks": 193,
+  "openIssues": 13,
+  "createdAt": "2026-04-04T12:26:04Z",
+  "updatedAt": "2026-05-16T04:00:26Z",
+  "pushedAt": "2026-05-16T03:46:30Z",
+  "topics": [
+    "agents",
+    "ai",
+    "knowledge-base",
+    "llm",
+    "rag",
+    "retrieval"
+  ],
+  "summaryZh": "OpenKB: Open LLM Knowledge Base 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 95,
+  "relevanceScore": 73,
+  "totalScore": 91
+}
