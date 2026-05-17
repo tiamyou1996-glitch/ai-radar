@@ -1,0 +1,36 @@
+{
+  "slug": "zafer-liu-data-analysis-agent",
+  "featuredDate": "2026-05-17",
+  "fullName": "Zafer-Liu/Data-Analysis-Agent",
+  "name": "Data-Analysis-Agent",
+  "owner": "Zafer-Liu",
+  "repoUrl": "https://github.com/Zafer-Liu/Data-Analysis-Agent",
+  "homepage": null,
+  "description": "面向商业分析师的智能数据分析体。Intelligent Data Analysis Agent for Business Analysts.",
+  "language": "Python",
+  "stars": 1159,
+  "forks": 89,
+  "openIssues": 3,
+  "createdAt": "2026-04-21T06:04:19Z",
+  "updatedAt": "2026-05-17T04:47:01Z",
+  "pushedAt": "2026-05-17T04:46:57Z",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-tools",
+    "analysis",
+    "charts",
+    "datavisualization"
+  ],
+  "summaryZh": "面向商业分析师的智能数据分析体。Intelligent Data Analysis Agent for Business Analysts. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "osaurus-ai-osaurus",
+  "featuredDate": "2026-05-17",
+  "fullName": "osaurus-ai/osaurus",
+  "name": "osaurus",
+  "owner": "osaurus-ai",
+  "repoUrl": "https://github.com/osaurus-ai/osaurus",
+  "homepage": "https://osaurus.ai",
+  "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "language": "Swift",
+  "stars": 5320,
+  "forks": 282,
+  "openIssues": 65,
+  "createdAt": "2025-08-17T15:05:39Z",
+  "updatedAt": "2026-05-17T04:49:01Z",
+  "pushedAt": "2026-05-17T04:48:57Z",
+  "topics": [
+    "anthropic",
+    "apple-foundation-models",
+    "apple-intelligence",
+    "apple-neural-engine",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "mlx",
+    "openai",
+    "swift"
+  ],
+  "summaryZh": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
