@@ -1,0 +1,41 @@
+{
+  "slug": "lone-cloud-gerbil",
+  "featuredDate": "2026-05-18",
+  "fullName": "lone-cloud/gerbil",
+  "name": "gerbil",
+  "owner": "lone-cloud",
+  "repoUrl": "https://github.com/lone-cloud/gerbil",
+  "homepage": null,
+  "description": "A desktop app for running Large Language Models locally. ",
+  "language": "TypeScript",
+  "stars": 458,
+  "forks": 44,
+  "openIssues": 0,
+  "createdAt": "2025-08-12T01:32:06Z",
+  "updatedAt": "2026-05-18T05:12:04Z",
+  "pushedAt": "2026-05-18T05:11:59Z",
+  "topics": [
+    "ai",
+    "desktop",
+    "electron",
+    "gguf",
+    "image-generation",
+    "language-model",
+    "llm",
+    "local-ai",
+    "offline",
+    "privacy"
+  ],
+  "summaryZh": "A desktop app for running Large Language Models locally.  这是偏图像生成或图形工作流的项目，适合关注创作和视觉生产力。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 58,
+  "totalScore": 82
+}
