@@ -1,0 +1,39 @@
+{
+  "slug": "modelence-modelence",
+  "featuredDate": "2026-05-19",
+  "fullName": "modelence/modelence",
+  "name": "modelence",
+  "owner": "modelence",
+  "repoUrl": "https://github.com/modelence/modelence",
+  "homepage": "https://modelence.com",
+  "description": "Modelence is a full-stack framework for building production web apps with a built-in database, authentication and monitoring. Modelence is opinionated and AI agent-first, which means it's optimized for AI code generation with built-in guardrails.",
+  "language": "TypeScript",
+  "stars": 402,
+  "forks": 38,
+  "openIssues": 5,
+  "createdAt": "2024-08-27T03:41:37Z",
+  "updatedAt": "2026-05-19T04:48:19Z",
+  "pushedAt": "2026-05-19T04:49:40Z",
+  "topics": [
+    "ai",
+    "cloud",
+    "modelence",
+    "mongodb",
+    "node",
+    "react",
+    "typescript"
+  ],
+  "summaryZh": "Modelence is a full-stack framework for building production web apps with a built-in database, authentication and monitoring. Modelence is opinionated and AI agent-first, which means it's optimized for AI code generation with built-in guardrails. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 69,
+  "totalScore": 85
+}

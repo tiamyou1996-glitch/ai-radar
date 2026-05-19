@@ -1,6 +1,6 @@
 {
   "slug": "hyperspaceai-agi",
-  "featuredDate": "2026-04-12",
+  "featuredDate": "2026-05-19",
   "fullName": "hyperspaceai/agi",
   "name": "agi",
   "owner": "hyperspaceai",
@@ -8,12 +8,12 @@
   "homepage": "https://agents.hyper.space/",
   "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
   "language": null,
-  "stars": 1283,
-  "forks": 140,
-  "openIssues": 10,
+  "stars": 1826,
+  "forks": 218,
+  "openIssues": 20,
   "createdAt": "2026-03-08T23:08:37Z",
-  "updatedAt": "2026-04-12T04:08:20Z",
-  "pushedAt": "2026-04-12T04:16:05Z",
+  "updatedAt": "2026-05-19T05:07:08Z",
+  "pushedAt": "2026-05-19T05:10:47Z",
   "topics": [
     "agi",
     "ai-agents",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 95,
   "relevanceScore": 69,
-  "totalScore": 90
+  "totalScore": 91
 }

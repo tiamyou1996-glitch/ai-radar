@@ -1,0 +1,39 @@
+{
+  "slug": "thesysdev-openui",
+  "featuredDate": "2026-05-19",
+  "fullName": "thesysdev/openui",
+  "name": "openui",
+  "owner": "thesysdev",
+  "repoUrl": "https://github.com/thesysdev/openui",
+  "homepage": "https://www.openui.com",
+  "description": "The Open Standard for Generative UI",
+  "language": "TypeScript",
+  "stars": 6082,
+  "forks": 431,
+  "openIssues": 46,
+  "createdAt": "2024-12-02T10:40:06Z",
+  "updatedAt": "2026-05-19T05:06:27Z",
+  "pushedAt": "2026-05-19T05:06:24Z",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "generative-ui",
+    "help-wanted",
+    "javascript",
+    "llm",
+    "looking-for-contributors"
+  ],
+  "summaryZh": "The Open Standard for Generative UI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
