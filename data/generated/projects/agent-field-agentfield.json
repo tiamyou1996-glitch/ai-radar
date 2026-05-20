@@ -1,6 +1,6 @@
 {
   "slug": "agent-field-agentfield",
-  "featuredDate": "2026-04-15",
+  "featuredDate": "2026-05-20",
   "fullName": "Agent-Field/agentfield",
   "name": "agentfield",
   "owner": "Agent-Field",
@@ -8,12 +8,12 @@
   "homepage": "http://www.agentfield.ai",
   "description": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
   "language": "Go",
-  "stars": 1426,
-  "forks": 229,
-  "openIssues": 82,
+  "stars": 1915,
+  "forks": 307,
+  "openIssues": 77,
   "createdAt": "2025-11-05T02:04:44Z",
-  "updatedAt": "2026-04-15T03:45:27Z",
-  "pushedAt": "2026-04-15T03:45:23Z",
+  "updatedAt": "2026-05-20T05:10:28Z",
+  "pushedAt": "2026-05-20T05:02:03Z",
   "topics": [
     "agent",
     "agent-auth",
@@ -45,8 +45,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 94,
+  "trendScore": 92,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 91
+  "totalScore": 89
 }

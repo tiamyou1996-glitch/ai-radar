@@ -1,0 +1,41 @@
+{
+  "slug": "potpie-ai-potpie",
+  "featuredDate": "2026-05-20",
+  "fullName": "potpie-ai/potpie",
+  "name": "potpie",
+  "owner": "potpie-ai",
+  "repoUrl": "https://github.com/potpie-ai/potpie",
+  "homepage": "https://potpie.ai",
+  "description": "Spec-driven development for large codebases",
+  "language": "Python",
+  "stars": 5388,
+  "forks": 624,
+  "openIssues": 159,
+  "createdAt": "2024-08-12T09:18:25Z",
+  "updatedAt": "2026-05-20T04:35:18Z",
+  "pushedAt": "2026-05-20T05:05:21Z",
+  "topics": [
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "artificial-intelligence",
+    "developer-tools",
+    "devtools",
+    "generative-ai",
+    "knowledge-graph",
+    "rag"
+  ],
+  "summaryZh": "Spec-driven development for large codebases 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}

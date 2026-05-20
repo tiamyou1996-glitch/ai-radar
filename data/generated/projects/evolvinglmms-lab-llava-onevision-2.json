@@ -1,0 +1,37 @@
+{
+  "slug": "evolvinglmms-lab-llava-onevision-2",
+  "featuredDate": "2026-05-20",
+  "fullName": "EvolvingLMMs-Lab/LLaVA-OneVision-2",
+  "name": "LLaVA-OneVision-2",
+  "owner": "EvolvingLMMs-Lab",
+  "repoUrl": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2",
+  "homepage": "https://evolvinglmms-lab.github.io/LLaVA-OneVision-2",
+  "description": "Fully Open Framework for Democratized Multimodal Training",
+  "language": "Python",
+  "stars": 849,
+  "forks": 68,
+  "openIssues": 54,
+  "createdAt": "2025-09-16T14:05:47Z",
+  "updatedAt": "2026-05-20T05:12:45Z",
+  "pushedAt": "2026-05-20T05:12:40Z",
+  "topics": [
+    "llava",
+    "llava-onevision",
+    "llm",
+    "mllm",
+    "qwen3",
+    "vision-language-model"
+  ],
+  "summaryZh": "Fully Open Framework for Democratized Multimodal Training 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 91,
+  "relevanceScore": 58,
+  "totalScore": 84
+}

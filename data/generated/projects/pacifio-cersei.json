@@ -1,0 +1,40 @@
+{
+  "slug": "pacifio-cersei",
+  "featuredDate": "2026-05-20",
+  "fullName": "pacifio/cersei",
+  "name": "cersei",
+  "owner": "pacifio",
+  "repoUrl": "https://github.com/pacifio/cersei",
+  "homepage": "https://cersei.pacifio.dev/",
+  "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.",
+  "language": "Rust",
+  "stars": 321,
+  "forks": 58,
+  "openIssues": 4,
+  "createdAt": "2026-04-02T16:35:42Z",
+  "updatedAt": "2026-05-20T04:48:59Z",
+  "pushedAt": "2026-05-20T04:48:55Z",
+  "topics": [
+    "agent",
+    "antrophic",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "openai",
+    "opencode",
+    "rust"
+  ],
+  "summaryZh": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 69,
+  "totalScore": 87
+}

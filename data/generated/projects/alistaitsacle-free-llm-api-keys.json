@@ -1,6 +1,6 @@
 {
   "slug": "alistaitsacle-free-llm-api-keys",
-  "featuredDate": "2026-05-19",
+  "featuredDate": "2026-05-20",
   "fullName": "alistaitsacle/free-llm-api-keys",
   "name": "free-llm-api-keys",
   "owner": "alistaitsacle",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Free LLM API keys for GPT-5.4, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.",
   "language": "Python",
-  "stars": 327,
+  "stars": 336,
   "forks": 26,
   "openIssues": 1,
   "createdAt": "2026-03-23T03:28:17Z",
-  "updatedAt": "2026-05-19T05:07:11Z",
-  "pushedAt": "2026-05-19T05:07:07Z",
+  "updatedAt": "2026-05-20T05:07:14Z",
+  "pushedAt": "2026-05-20T05:07:10Z",
   "topics": [
     "ai",
     "api",
