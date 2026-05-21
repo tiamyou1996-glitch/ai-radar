@@ -1,0 +1,34 @@
+{
+  "slug": "ldclabs-anda",
+  "featuredDate": "2026-05-21",
+  "fullName": "ldclabs/anda",
+  "name": "anda",
+  "owner": "ldclabs",
+  "repoUrl": "https://github.com/ldclabs/anda",
+  "homepage": "https://anda.ai",
+  "description": "🤖 An AI agent framework built with Rust.",
+  "language": "Rust",
+  "stars": 428,
+  "forks": 53,
+  "openIssues": 0,
+  "createdAt": "2025-01-03T04:53:06Z",
+  "updatedAt": "2026-05-21T05:07:30Z",
+  "pushedAt": "2026-05-21T05:07:26Z",
+  "topics": [
+    "agent",
+    "agi",
+    "autonomous",
+    "decentralize"
+  ],
+  "summaryZh": "🤖 An AI agent framework built with Rust. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 55,
+  "totalScore": 82
+}

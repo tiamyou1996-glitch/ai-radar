@@ -1,6 +1,6 @@
 {
   "slug": "awslabs-aidlc-workflows",
-  "featuredDate": "2026-04-08",
+  "featuredDate": "2026-05-21",
   "fullName": "awslabs/aidlc-workflows",
   "name": "aidlc-workflows",
   "owner": "awslabs",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
   "language": "Python",
-  "stars": 1040,
-  "forks": 212,
-  "openIssues": 34,
+  "stars": 2316,
+  "forks": 371,
+  "openIssues": 68,
   "createdAt": "2025-11-13T22:05:08Z",
-  "updatedAt": "2026-04-08T03:50:49Z",
-  "pushedAt": "2026-04-08T03:49:55Z",
+  "updatedAt": "2026-05-21T04:54:09Z",
+  "pushedAt": "2026-05-21T04:54:42Z",
   "topics": [],
   "summaryZh": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
@@ -23,8 +23,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 89,
+  "trendScore": 92,
+  "qualityScore": 94,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 86
 }

@@ -1,6 +1,6 @@
 {
   "slug": "framersai-agentos",
-  "featuredDate": "2026-05-12",
+  "featuredDate": "2026-05-21",
   "fullName": "framersai/agentos",
   "name": "agentos",
   "owner": "framersai",
@@ -8,12 +8,12 @@
   "homepage": "https://agentos.sh",
   "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional HEXACO personalities.",
   "language": "TypeScript",
-  "stars": 322,
-  "forks": 7,
-  "openIssues": 1,
+  "stars": 453,
+  "forks": 68,
+  "openIssues": 0,
   "createdAt": "2025-10-28T04:35:14Z",
-  "updatedAt": "2026-05-12T04:28:17Z",
-  "pushedAt": "2026-05-12T04:29:16Z",
+  "updatedAt": "2026-05-21T04:50:27Z",
+  "pushedAt": "2026-05-21T04:50:25Z",
   "topics": [
     "agent-framework",
     "agentic-ai",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 88,
   "relevanceScore": 73,
   "totalScore": 86
 }

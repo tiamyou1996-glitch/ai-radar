@@ -1,0 +1,41 @@
+{
+  "slug": "alvinunreal-openpets",
+  "featuredDate": "2026-05-21",
+  "fullName": "alvinunreal/openpets",
+  "name": "openpets",
+  "owner": "alvinunreal",
+  "repoUrl": "https://github.com/alvinunreal/openpets",
+  "homepage": "https://openpets.dev",
+  "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+  "language": "TypeScript",
+  "stars": 903,
+  "forks": 23,
+  "openIssues": 9,
+  "createdAt": "2026-05-04T19:14:46Z",
+  "updatedAt": "2026-05-21T04:47:17Z",
+  "pushedAt": "2026-05-21T04:47:13Z",
+  "topics": [
+    "ai-agents",
+    "bun",
+    "claude-code",
+    "coding-agents",
+    "desktop-pet",
+    "electron",
+    "mcp",
+    "opencode",
+    "openpets",
+    "pixel-art"
+  ],
+  "summaryZh": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

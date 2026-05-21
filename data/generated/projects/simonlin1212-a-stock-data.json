@@ -1,0 +1,30 @@
+{
+  "slug": "simonlin1212-a-stock-data",
+  "featuredDate": "2026-05-21",
+  "fullName": "simonlin1212/a-stock-data",
+  "name": "a-stock-data",
+  "owner": "simonlin1212",
+  "repoUrl": "https://github.com/simonlin1212/a-stock-data",
+  "homepage": null,
+  "description": "A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants",
+  "language": null,
+  "stars": 1636,
+  "forks": 375,
+  "openIssues": 3,
+  "createdAt": "2026-05-11T01:08:15Z",
+  "updatedAt": "2026-05-21T05:08:53Z",
+  "pushedAt": "2026-05-21T04:53:16Z",
+  "topics": [],
+  "summaryZh": "A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

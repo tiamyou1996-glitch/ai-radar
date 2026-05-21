@@ -1,0 +1,37 @@
+{
+  "slug": "openmind-om1",
+  "featuredDate": "2026-05-21",
+  "fullName": "OpenMind/OM1",
+  "name": "OM1",
+  "owner": "OpenMind",
+  "repoUrl": "https://github.com/OpenMind/OM1",
+  "homepage": "https://openmind.com",
+  "description": "Modular AI runtime for robots",
+  "language": "Python",
+  "stars": 2792,
+  "forks": 991,
+  "openIssues": 117,
+  "createdAt": "2025-01-08T21:23:40Z",
+  "updatedAt": "2026-05-21T05:13:38Z",
+  "pushedAt": "2026-05-21T05:13:34Z",
+  "topics": [
+    "llm",
+    "multiagent",
+    "robotics",
+    "ros2",
+    "zenoh"
+  ],
+  "summaryZh": "Modular AI runtime for robots 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}

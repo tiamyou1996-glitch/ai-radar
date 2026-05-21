@@ -1,6 +1,6 @@
 {
   "slug": "juyterman1000-entroly",
-  "featuredDate": "2026-05-20",
+  "featuredDate": "2026-05-21",
   "fullName": "juyterman1000/entroly",
   "name": "entroly",
   "owner": "juyterman1000",
@@ -8,12 +8,12 @@
   "homepage": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
   "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Codex,GPT & Custom Providers",
   "language": "Python",
-  "stars": 389,
+  "stars": 392,
   "forks": 64,
   "openIssues": 0,
   "createdAt": "2026-03-07T23:03:02Z",
-  "updatedAt": "2026-05-20T04:23:42Z",
-  "pushedAt": "2026-05-20T04:23:37Z",
+  "updatedAt": "2026-05-21T04:22:04Z",
+  "pushedAt": "2026-05-21T04:22:03Z",
   "topics": [
     "ai",
     "ai-agents",
