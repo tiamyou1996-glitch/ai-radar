@@ -1,0 +1,37 @@
+{
+  "slug": "qdrant-fastembed",
+  "featuredDate": "2026-05-22",
+  "fullName": "qdrant/fastembed",
+  "name": "fastembed",
+  "owner": "qdrant",
+  "repoUrl": "https://github.com/qdrant/fastembed",
+  "homepage": "https://qdrant.github.io/fastembed/",
+  "description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+  "language": "Python",
+  "stars": 2967,
+  "forks": 200,
+  "openIssues": 126,
+  "createdAt": "2023-07-14T04:59:33Z",
+  "updatedAt": "2026-05-22T04:30:17Z",
+  "pushedAt": "2026-05-22T04:30:47Z",
+  "topics": [
+    "embeddings",
+    "openai",
+    "rag",
+    "retrieval",
+    "retrieval-augmented-generation",
+    "vector-search"
+  ],
+  "summaryZh": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

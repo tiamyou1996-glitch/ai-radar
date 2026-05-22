@@ -1,6 +1,6 @@
 {
   "slug": "screenpipe-screenpipe",
-  "featuredDate": "2026-05-21",
+  "featuredDate": "2026-05-22",
   "fullName": "screenpipe/screenpipe",
   "name": "screenpipe",
   "owner": "screenpipe",
@@ -8,12 +8,12 @@
   "homepage": "https://screenpi.pe",
   "description": "YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure",
   "language": "Rust",
-  "stars": 18816,
-  "forks": 1730,
-  "openIssues": 84,
+  "stars": 18838,
+  "forks": 1739,
+  "openIssues": 101,
   "createdAt": "2024-06-19T13:23:56Z",
-  "updatedAt": "2026-05-21T04:22:02Z",
-  "pushedAt": "2026-05-21T02:33:13Z",
+  "updatedAt": "2026-05-22T02:53:10Z",
+  "pushedAt": "2026-05-22T02:47:09Z",
   "topics": [
     "agents",
     "agi",
@@ -29,7 +29,8 @@
     "privacy",
     "screen-recording",
     "speech-to-text",
-    "vision"
+    "vision",
+    "ycombinator"
   ],
   "summaryZh": "YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
