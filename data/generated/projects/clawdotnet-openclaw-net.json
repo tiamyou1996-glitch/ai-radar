@@ -1,6 +1,6 @@
 {
   "slug": "clawdotnet-openclaw-net",
-  "featuredDate": "2026-05-18",
+  "featuredDate": "2026-05-23",
   "fullName": "clawdotnet/openclaw.net",
   "name": "openclaw.net",
   "owner": "clawdotnet",
@@ -8,13 +8,14 @@
   "homepage": null,
   "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
   "language": "C#",
-  "stars": 335,
-  "forks": 61,
-  "openIssues": 0,
+  "stars": 343,
+  "forks": 64,
+  "openIssues": 1,
   "createdAt": "2026-02-22T03:21:36Z",
-  "updatedAt": "2026-05-18T01:13:00Z",
-  "pushedAt": "2026-05-18T01:37:15Z",
+  "updatedAt": "2026-05-23T02:23:11Z",
+  "pushedAt": "2026-05-23T02:23:09Z",
   "topics": [
+    "agent-harness",
     "agent-runtime",
     "agentqi",
     "ai-agent",
@@ -31,21 +32,20 @@
     "realtime",
     "self-evolving",
     "self-hosted",
-    "text-to-speech",
     "tool-calling",
     "tool-execution"
   ],
   "summaryZh": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly) 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
     "Vision",
-    "Audio"
+    "Infra"
   ],
   "source": "github",
   "trendScore": 98,
   "qualityScore": 83,
-  "relevanceScore": 69,
-  "totalScore": 86
+  "relevanceScore": 73,
+  "totalScore": 87
 }

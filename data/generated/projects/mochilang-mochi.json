@@ -1,6 +1,6 @@
 {
   "slug": "mochilang-mochi",
-  "featuredDate": "2026-05-21",
+  "featuredDate": "2026-05-23",
   "fullName": "mochilang/mochi",
   "name": "mochi",
   "owner": "mochilang",
@@ -10,10 +10,10 @@
   "language": "Scheme",
   "stars": 328,
   "forks": 14,
-  "openIssues": 20,
+  "openIssues": 56,
   "createdAt": "2025-05-18T16:56:07Z",
-  "updatedAt": "2026-05-21T05:12:31Z",
-  "pushedAt": "2026-05-21T05:12:27Z",
+  "updatedAt": "2026-05-23T04:37:52Z",
+  "pushedAt": "2026-05-23T04:37:47Z",
   "topics": [
     "agent",
     "ai",
