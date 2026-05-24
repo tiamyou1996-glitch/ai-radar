@@ -1,19 +1,19 @@
 {
   "slug": "juyterman1000-entroly",
-  "featuredDate": "2026-05-21",
+  "featuredDate": "2026-05-24",
   "fullName": "juyterman1000/entroly",
   "name": "entroly",
   "owner": "juyterman1000",
   "repoUrl": "https://github.com/juyterman1000/entroly",
   "homepage": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
-  "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Codex,GPT & Custom Providers",
+  "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers.",
   "language": "Python",
-  "stars": 392,
+  "stars": 396,
   "forks": 64,
   "openIssues": 0,
   "createdAt": "2026-03-07T23:03:02Z",
-  "updatedAt": "2026-05-21T04:22:04Z",
-  "pushedAt": "2026-05-21T04:22:03Z",
+  "updatedAt": "2026-05-24T04:37:49Z",
+  "pushedAt": "2026-05-24T04:37:45Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,7 +35,7 @@
     "rust",
     "token-optimization"
   ],
-  "summaryZh": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Codex,GPT & Custom Providers 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT & custom providers. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [

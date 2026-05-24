@@ -1,6 +1,6 @@
 {
   "slug": "doobidoo-mcp-memory-service",
-  "featuredDate": "2026-05-14",
+  "featuredDate": "2026-05-24",
   "fullName": "doobidoo/mcp-memory-service",
   "name": "mcp-memory-service",
   "owner": "doobidoo",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
   "language": "Python",
-  "stars": 1836,
-  "forks": 279,
-  "openIssues": 7,
+  "stars": 1877,
+  "forks": 290,
+  "openIssues": 6,
   "createdAt": "2024-12-26T10:15:44Z",
-  "updatedAt": "2026-05-14T04:34:35Z",
-  "pushedAt": "2026-05-14T04:45:43Z",
+  "updatedAt": "2026-05-24T04:58:15Z",
+  "pushedAt": "2026-05-24T04:13:11Z",
   "topics": [
     "agent-memory",
     "agentic-ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 73,
   "totalScore": 88
 }

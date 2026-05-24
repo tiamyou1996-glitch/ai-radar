@@ -1,6 +1,6 @@
 {
   "slug": "sipyourdrink-ltd-bernstein",
-  "featuredDate": "2026-05-18",
+  "featuredDate": "2026-05-24",
   "fullName": "sipyourdrink-ltd/bernstein",
   "name": "bernstein",
   "owner": "sipyourdrink-ltd",
@@ -8,12 +8,12 @@
   "homepage": "https://bernstein.run",
   "description": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrator your compliance team will sign off on. https://bernstein.run",
   "language": "Python",
-  "stars": 395,
+  "stars": 453,
   "forks": 42,
-  "openIssues": 5,
+  "openIssues": 12,
   "createdAt": "2026-03-22T14:52:26Z",
-  "updatedAt": "2026-05-18T05:15:06Z",
-  "pushedAt": "2026-05-18T05:15:03Z",
+  "updatedAt": "2026-05-24T05:05:52Z",
+  "pushedAt": "2026-05-24T05:06:28Z",
   "topics": [
     "agent-framework",
     "agent-orchestrator",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 69,
   "totalScore": 88
 }
