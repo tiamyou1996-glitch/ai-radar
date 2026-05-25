@@ -1,6 +1,6 @@
 {
   "slug": "embeddings-benchmark-mteb",
-  "featuredDate": "2026-05-24",
+  "featuredDate": "2026-05-25",
   "fullName": "embeddings-benchmark/mteb",
   "name": "mteb",
   "owner": "embeddings-benchmark",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 3272,
   "forks": 617,
-  "openIssues": 294,
+  "openIssues": 297,
   "createdAt": "2022-04-05T08:25:47Z",
-  "updatedAt": "2026-05-24T00:03:29Z",
-  "pushedAt": "2026-05-24T00:03:25Z",
+  "updatedAt": "2026-05-25T00:13:33Z",
+  "pushedAt": "2026-05-25T05:32:52Z",
   "topics": [
     "benchmark",
     "bitext-mining",

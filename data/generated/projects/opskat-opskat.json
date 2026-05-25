@@ -1,0 +1,34 @@
+{
+  "slug": "opskat-opskat",
+  "featuredDate": "2026-05-25",
+  "fullName": "opskat/opskat",
+  "name": "opskat",
+  "owner": "opskat",
+  "repoUrl": "https://github.com/opskat/opskat",
+  "homepage": "https://opskat.dev",
+  "description": "OpsKat — Infrastructure Ops, Reimagined with AI",
+  "language": "TypeScript",
+  "stars": 387,
+  "forks": 35,
+  "openIssues": 12,
+  "createdAt": "2026-03-23T09:30:36Z",
+  "updatedAt": "2026-05-25T05:44:30Z",
+  "pushedAt": "2026-05-25T05:44:44Z",
+  "topics": [
+    "agent",
+    "ops",
+    "ssh-client"
+  ],
+  "summaryZh": "OpsKat — Infrastructure Ops, Reimagined with AI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 66,
+  "totalScore": 87
+}
