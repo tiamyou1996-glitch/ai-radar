@@ -1,6 +1,6 @@
 {
   "slug": "gptme-gptme",
-  "featuredDate": "2026-05-25",
+  "featuredDate": "2026-05-26",
   "fullName": "gptme/gptme",
   "name": "gptme",
   "owner": "gptme",
@@ -12,8 +12,8 @@
   "forks": 389,
   "openIssues": 23,
   "createdAt": "2023-03-24T16:25:01Z",
-  "updatedAt": "2026-05-25T05:25:20Z",
-  "pushedAt": "2026-05-25T05:40:18Z",
+  "updatedAt": "2026-05-26T04:52:00Z",
+  "pushedAt": "2026-05-26T05:01:23Z",
   "topics": [
     "agent",
     "agents",
