@@ -1,6 +1,6 @@
 {
   "slug": "semianalysisai-inferencex",
-  "featuredDate": "2026-05-03",
+  "featuredDate": "2026-05-27",
   "fullName": "SemiAnalysisAI/InferenceX",
   "name": "InferenceX",
   "owner": "SemiAnalysisAI",
@@ -8,12 +8,12 @@
   "homepage": "https://inferencex.com/",
   "description": "Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3",
   "language": "Python",
-  "stars": 911,
-  "forks": 156,
-  "openIssues": 148,
+  "stars": 1001,
+  "forks": 175,
+  "openIssues": 157,
   "createdAt": "2025-07-12T20:07:46Z",
-  "updatedAt": "2026-05-03T04:44:44Z",
-  "pushedAt": "2026-05-03T04:44:43Z",
+  "updatedAt": "2026-05-27T05:22:24Z",
+  "pushedAt": "2026-05-27T05:22:07Z",
   "topics": [
     "ai",
     "amd",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 62,
   "totalScore": 85
 }
