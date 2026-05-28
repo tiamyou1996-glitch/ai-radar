@@ -1,6 +1,6 @@
 {
   "slug": "evolvinglmms-lab-lmms-engine",
-  "featuredDate": "2026-05-21",
+  "featuredDate": "2026-05-28",
   "fullName": "EvolvingLMMs-Lab/lmms-engine",
   "name": "lmms-engine",
   "owner": "EvolvingLMMs-Lab",
@@ -8,12 +8,12 @@
   "homepage": "https://lmms-engine.readthedocs.io/en/latest/",
   "description": "A simple, unified multimodal models training engine. Lean, flexible, and built for hacking at scale.",
   "language": "Python",
-  "stars": 777,
+  "stars": 780,
   "forks": 35,
   "openIssues": 10,
   "createdAt": "2025-07-27T14:42:12Z",
-  "updatedAt": "2026-05-21T05:03:03Z",
-  "pushedAt": "2026-05-21T05:03:50Z",
+  "updatedAt": "2026-05-28T01:44:03Z",
+  "pushedAt": "2026-05-28T01:44:22Z",
   "topics": [
     "agi",
     "large-language-models",

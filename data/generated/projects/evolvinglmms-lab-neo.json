@@ -1,0 +1,40 @@
+{
+  "slug": "evolvinglmms-lab-neo",
+  "featuredDate": "2026-05-28",
+  "fullName": "EvolvingLMMs-Lab/NEO",
+  "name": "NEO",
+  "owner": "EvolvingLMMs-Lab",
+  "repoUrl": "https://github.com/EvolvingLMMs-Lab/NEO",
+  "homepage": null,
+  "description": "NEO Series: Native Vision-Language Models from First Principles",
+  "language": "Python",
+  "stars": 759,
+  "forks": 27,
+  "openIssues": 0,
+  "createdAt": "2025-10-16T16:03:07Z",
+  "updatedAt": "2026-05-28T04:44:39Z",
+  "pushedAt": "2026-05-28T01:51:52Z",
+  "topics": [
+    "agi",
+    "encoder-free-vlm",
+    "large-language-models",
+    "mllm",
+    "multimodal",
+    "multimodal-large-language-models",
+    "native-multimodal-model",
+    "vlm"
+  ],
+  "summaryZh": "NEO Series: Native Vision-Language Models from First Principles 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding",
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 65,
+  "totalScore": 84
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "anionex-banana-slides",
+  "featuredDate": "2026-05-28",
+  "fullName": "Anionex/banana-slides",
+  "name": "banana-slides",
+  "owner": "Anionex",
+  "repoUrl": "https://github.com/Anionex/banana-slides",
+  "homepage": "http://bananaslides.online",
+  "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌",
+  "language": "Python",
+  "stars": 14744,
+  "forks": 1728,
+  "openIssues": 61,
+  "createdAt": "2025-11-29T17:37:26Z",
+  "updatedAt": "2026-05-28T05:11:08Z",
+  "pushedAt": "2026-05-28T05:12:42Z",
+  "topics": [
+    "ai-ppt-maker",
+    "ai-slide-builder",
+    "ai-slides",
+    "editable-pptx",
+    "llm",
+    "nanobananapro",
+    "ppt",
+    "ppt-generator",
+    "slides",
+    "text2image"
+  ],
+  "summaryZh": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌 这是偏图像生成或图形工作流的项目，适合关注创作和视觉生产力。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 89
+}
