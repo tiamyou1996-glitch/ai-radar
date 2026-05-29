@@ -1,0 +1,39 @@
+{
+  "slug": "kevrojo-dulus",
+  "featuredDate": "2026-05-29",
+  "fullName": "KevRojo/Dulus",
+  "name": "Dulus",
+  "owner": "KevRojo",
+  "repoUrl": "https://github.com/KevRojo/Dulus",
+  "homepage": "https://dulus.ai",
+  "description": "The best CLI agent -   The only system capable of maintaining a 98% cache hit rate across a 2 billion token session lasting 3 months. — reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0  scraping webchats AI",
+  "language": "Python",
+  "stars": 707,
+  "forks": 25,
+  "openIssues": 0,
+  "createdAt": "2026-05-05T05:13:43Z",
+  "updatedAt": "2026-05-29T05:17:59Z",
+  "pushedAt": "2026-05-29T05:19:07Z",
+  "topics": [
+    "agent",
+    "ai",
+    "assistant",
+    "claw",
+    "dulus",
+    "falcon",
+    "openai",
+    "python3",
+    "web-provider"
+  ],
+  "summaryZh": "The best CLI agent -   The only system capable of maintaining a 98% cache hit rate across a 2 billion token session lasting 3 months. — reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0  scraping webchats AI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 55,
+  "totalScore": 86
+}
