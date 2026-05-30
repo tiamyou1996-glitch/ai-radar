@@ -1,6 +1,6 @@
 {
   "slug": "eventual-inc-daft",
-  "featuredDate": "2026-05-29",
+  "featuredDate": "2026-05-30",
   "fullName": "Eventual-Inc/Daft",
   "name": "Daft",
   "owner": "Eventual-Inc",
@@ -8,12 +8,12 @@
   "homepage": "https://daft.ai",
   "description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
   "language": "Rust",
-  "stars": 5530,
+  "stars": 5533,
   "forks": 478,
   "openIssues": 314,
   "createdAt": "2022-04-25T22:02:29Z",
-  "updatedAt": "2026-05-29T04:15:00Z",
-  "pushedAt": "2026-05-29T02:52:44Z",
+  "updatedAt": "2026-05-29T23:10:38Z",
+  "pushedAt": "2026-05-30T02:00:45Z",
   "topics": [
     "ai-engineering",
     "ai-pipeline",

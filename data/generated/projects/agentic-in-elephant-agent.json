@@ -1,0 +1,40 @@
+{
+  "slug": "agentic-in-elephant-agent",
+  "featuredDate": "2026-05-30",
+  "fullName": "agentic-in/elephant-agent",
+  "name": "elephant-agent",
+  "owner": "agentic-in",
+  "repoUrl": "https://github.com/agentic-in/elephant-agent",
+  "homepage": "https://elephant.agentic-in.ai",
+  "description": "Personal-Model First Self Evolving AI Agent 🐘",
+  "language": "Python",
+  "stars": 562,
+  "forks": 60,
+  "openIssues": 20,
+  "createdAt": "2026-05-15T07:08:17Z",
+  "updatedAt": "2026-05-30T04:57:05Z",
+  "pushedAt": "2026-05-30T04:57:02Z",
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "context",
+    "llm",
+    "memory",
+    "models",
+    "personal-ai",
+    "self-evolution"
+  ],
+  "summaryZh": "Personal-Model First Self Evolving AI Agent 🐘 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 62,
+  "totalScore": 87
+}

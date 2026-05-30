@@ -1,0 +1,41 @@
+{
+  "slug": "bytedesk-bytedesk",
+  "featuredDate": "2026-05-30",
+  "fullName": "Bytedesk/bytedesk",
+  "name": "bytedesk",
+  "owner": "Bytedesk",
+  "repoUrl": "https://github.com/Bytedesk/bytedesk",
+  "homepage": "https://www.bytedesk.com/en/",
+  "description": "Enterprise IM Solution with AI powered omni-channel customer service & team im，alternative to slack + zendesk/intercom",
+  "language": "Java",
+  "stars": 424,
+  "forks": 119,
+  "openIssues": 1,
+  "createdAt": "2023-10-12T00:31:36Z",
+  "updatedAt": "2026-05-30T04:42:04Z",
+  "pushedAt": "2026-05-30T04:45:37Z",
+  "topics": [
+    "ai",
+    "chatbot",
+    "chatpdf",
+    "flowable",
+    "helpdesk",
+    "livechat",
+    "omnichannel",
+    "rag",
+    "support",
+    "team",
+    "ticket-system"
+  ],
+  "summaryZh": "Enterprise IM Solution with AI powered omni-channel customer service & team im，alternative to slack + zendesk/intercom 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 55,
+  "totalScore": 82
+}

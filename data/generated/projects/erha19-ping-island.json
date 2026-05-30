@@ -1,26 +1,26 @@
 {
   "slug": "erha19-ping-island",
-  "featuredDate": "2026-04-26",
+  "featuredDate": "2026-05-30",
   "fullName": "erha19/ping-island",
   "name": "ping-island",
   "owner": "erha19",
   "repoUrl": "https://github.com/erha19/ping-island",
   "homepage": "https://erha19.github.io/ping-island",
-  "description": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
+  "description": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch.         一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
   "language": "Swift",
-  "stars": 355,
-  "forks": 40,
-  "openIssues": 6,
+  "stars": 767,
+  "forks": 85,
+  "openIssues": 4,
   "createdAt": "2026-04-03T14:22:16Z",
-  "updatedAt": "2026-04-26T04:08:26Z",
-  "pushedAt": "2026-04-26T04:08:29Z",
+  "updatedAt": "2026-05-30T03:36:29Z",
+  "pushedAt": "2026-05-30T03:36:29Z",
   "topics": [
     "agents",
     "island",
     "vibe-coding",
     "vibe-island"
   ],
-  "summaryZh": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch.         一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 91,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 88
 }

@@ -1,6 +1,6 @@
 {
   "slug": "suzuran0y-cctv-smartphone-ai-monitoring",
-  "featuredDate": "2026-03-24",
+  "featuredDate": "2026-05-30",
   "fullName": "suzuran0y/CCTV-Smartphone-AI-Monitoring",
   "name": "CCTV-Smartphone-AI-Monitoring",
   "owner": "suzuran0y",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "本地监控 + AI 视觉 — LAN-based smartphone-powered AI monitoring framework with structured event output for data acquisition and analysis.",
   "language": "Python",
-  "stars": 488,
-  "forks": 33,
+  "stars": 588,
+  "forks": 42,
   "openIssues": 3,
   "createdAt": "2026-02-26T19:11:33Z",
-  "updatedAt": "2026-03-24T03:35:00Z",
-  "pushedAt": "2026-03-24T03:16:53Z",
+  "updatedAt": "2026-05-30T02:52:28Z",
+  "pushedAt": "2026-05-30T02:52:25Z",
   "topics": [
     "ai-monitoring",
     "computer-vision",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 65,
   "totalScore": 86
 }
