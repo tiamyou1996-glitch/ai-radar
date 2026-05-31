@@ -1,0 +1,38 @@
+{
+  "slug": "veyliss-ai-localbase",
+  "featuredDate": "2026-05-31",
+  "fullName": "veyliss/ai-localbase",
+  "name": "ai-localbase",
+  "owner": "veyliss",
+  "repoUrl": "https://github.com/veyliss/ai-localbase",
+  "homepage": null,
+  "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务",
+  "language": "Go",
+  "stars": 318,
+  "forks": 38,
+  "openIssues": 0,
+  "createdAt": "2026-03-25T03:42:43Z",
+  "updatedAt": "2026-05-31T05:10:40Z",
+  "pushedAt": "2026-05-31T05:10:36Z",
+  "topics": [
+    "ai",
+    "go",
+    "knowledge-base",
+    "mcp",
+    "ollama",
+    "qdrant",
+    "rag",
+    "react"
+  ],
+  "summaryZh": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 55,
+  "totalScore": 83
+}

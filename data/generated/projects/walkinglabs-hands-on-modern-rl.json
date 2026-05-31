@@ -1,6 +1,6 @@
 {
   "slug": "walkinglabs-hands-on-modern-rl",
-  "featuredDate": "2026-05-08",
+  "featuredDate": "2026-05-31",
   "fullName": "walkinglabs/hands-on-modern-rl",
   "name": "hands-on-modern-rl",
   "owner": "walkinglabs",
@@ -8,12 +8,12 @@
   "homepage": "https://walkinglabs.github.io/hands-on-modern-rl/",
   "description": "🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems. ",
   "language": "Python",
-  "stars": 1259,
-  "forks": 63,
-  "openIssues": 2,
+  "stars": 2244,
+  "forks": 139,
+  "openIssues": 3,
   "createdAt": "2026-04-10T01:25:58Z",
-  "updatedAt": "2026-05-08T04:17:06Z",
-  "pushedAt": "2026-05-08T04:15:27Z",
+  "updatedAt": "2026-05-31T05:41:57Z",
+  "pushedAt": "2026-05-31T05:35:57Z",
   "topics": [
     "agent",
     "agentic",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 90
 }

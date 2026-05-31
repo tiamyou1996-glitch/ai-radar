@@ -1,6 +1,6 @@
 {
   "slug": "xintaofei-codeg",
-  "featuredDate": "2026-05-25",
+  "featuredDate": "2026-05-31",
   "fullName": "xintaofei/codeg",
   "name": "codeg",
   "owner": "xintaofei",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.",
   "language": "TypeScript",
-  "stars": 1293,
-  "forks": 142,
-  "openIssues": 67,
+  "stars": 1419,
+  "forks": 157,
+  "openIssues": 78,
   "createdAt": "2026-02-09T09:22:50Z",
-  "updatedAt": "2026-05-25T05:04:18Z",
-  "pushedAt": "2026-05-25T05:04:55Z",
+  "updatedAt": "2026-05-31T05:15:37Z",
+  "pushedAt": "2026-05-31T05:11:10Z",
   "topics": [
     "acp",
     "agent",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 69,
   "totalScore": 89
 }

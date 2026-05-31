@@ -1,6 +1,6 @@
 {
   "slug": "doorman11991-smallcode",
-  "featuredDate": "2026-05-19",
+  "featuredDate": "2026-05-31",
   "fullName": "Doorman11991/smallcode",
   "name": "smallcode",
   "owner": "Doorman11991",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
   "language": "JavaScript",
-  "stars": 557,
-  "forks": 31,
+  "stars": 1671,
+  "forks": 128,
   "openIssues": 1,
   "createdAt": "2026-05-18T06:19:44Z",
-  "updatedAt": "2026-05-19T05:04:09Z",
-  "pushedAt": "2026-05-19T04:45:06Z",
+  "updatedAt": "2026-05-31T05:34:14Z",
+  "pushedAt": "2026-05-31T05:34:18Z",
   "topics": [],
   "summaryZh": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
@@ -25,7 +25,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 92,
   "relevanceScore": 69,
-  "totalScore": 87
+  "totalScore": 89
 }

@@ -1,0 +1,38 @@
+{
+  "slug": "hmbown-codewhale",
+  "featuredDate": "2026-05-31",
+  "fullName": "Hmbown/CodeWhale",
+  "name": "CodeWhale",
+  "owner": "Hmbown",
+  "repoUrl": "https://github.com/Hmbown/CodeWhale",
+  "homepage": "https://codewhale.net/",
+  "description": "DeepSeek + MiMo coding agent in terminal",
+  "language": "Rust",
+  "stars": 36145,
+  "forks": 3096,
+  "openIssues": 407,
+  "createdAt": "2026-01-19T18:21:01Z",
+  "updatedAt": "2026-05-31T05:30:13Z",
+  "pushedAt": "2026-05-31T05:30:08Z",
+  "topics": [
+    "cli",
+    "deepseek",
+    "llm",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "summaryZh": "DeepSeek + MiMo coding agent in terminal 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 92
+}
