@@ -1,6 +1,6 @@
 {
   "slug": "kaito-project-aikit",
-  "featuredDate": "2026-05-25",
+  "featuredDate": "2026-06-01",
   "fullName": "kaito-project/aikit",
   "name": "aikit",
   "owner": "kaito-project",
@@ -8,12 +8,12 @@
   "homepage": "https://kaito-project.github.io/aikit/",
   "description": "🏗️ Fine-tune, build, and deploy open-source LLMs easily!",
   "language": "Go",
-  "stars": 524,
+  "stars": 526,
   "forks": 57,
   "openIssues": 40,
   "createdAt": "2023-09-20T02:31:11Z",
-  "updatedAt": "2026-05-25T04:15:07Z",
-  "pushedAt": "2026-05-25T04:15:04Z",
+  "updatedAt": "2026-06-01T04:22:43Z",
+  "pushedAt": "2026-06-01T04:22:39Z",
   "topics": [
     "ai",
     "buildkit",

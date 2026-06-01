@@ -1,6 +1,6 @@
 {
   "slug": "heymrun-heym",
-  "featuredDate": "2026-05-31",
+  "featuredDate": "2026-06-01",
   "fullName": "heymrun/heym",
   "name": "heym",
   "owner": "heymrun",
@@ -8,12 +8,12 @@
   "homepage": "https://heym.run",
   "description": "Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime.",
   "language": "Python",
-  "stars": 530,
+  "stars": 552,
   "forks": 55,
   "openIssues": 3,
   "createdAt": "2026-03-28T08:08:49Z",
-  "updatedAt": "2026-05-31T04:49:35Z",
-  "pushedAt": "2026-05-31T04:49:31Z",
+  "updatedAt": "2026-06-01T06:00:19Z",
+  "pushedAt": "2026-06-01T06:00:12Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 73,
   "totalScore": 89
 }

@@ -1,6 +1,6 @@
 {
   "slug": "runanywhereai-runanywhere-sdks",
-  "featuredDate": "2026-05-31",
+  "featuredDate": "2026-06-01",
   "fullName": "RunanywhereAI/runanywhere-sdks",
   "name": "runanywhere-sdks",
   "owner": "RunanywhereAI",
@@ -8,12 +8,12 @@
   "homepage": "https://www.runanywhere.ai",
   "description": "Production ready toolkit to run AI locally",
   "language": "C++",
-  "stars": 10352,
+  "stars": 10348,
   "forks": 357,
   "openIssues": 40,
   "createdAt": "2025-07-22T01:23:34Z",
-  "updatedAt": "2026-05-31T02:44:41Z",
-  "pushedAt": "2026-05-31T02:25:25Z",
+  "updatedAt": "2026-06-01T05:54:33Z",
+  "pushedAt": "2026-06-01T04:34:26Z",
   "topics": [
     "android",
     "apple-intelligence",

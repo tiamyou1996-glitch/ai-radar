@@ -1,6 +1,6 @@
 {
   "slug": "tanstack-ai",
-  "featuredDate": "2026-05-31",
+  "featuredDate": "2026-06-01",
   "fullName": "TanStack/ai",
   "name": "ai",
   "owner": "TanStack",
@@ -9,11 +9,11 @@
   "description": "🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.",
   "language": "TypeScript",
   "stars": 2707,
-  "forks": 220,
-  "openIssues": 76,
+  "forks": 221,
+  "openIssues": 80,
   "createdAt": "2025-10-08T17:52:48Z",
-  "updatedAt": "2026-05-31T05:28:28Z",
-  "pushedAt": "2026-05-30T21:11:55Z",
+  "updatedAt": "2026-05-31T23:57:56Z",
+  "pushedAt": "2026-06-01T03:52:20Z",
   "topics": [
     "ai",
     "ai-agents",

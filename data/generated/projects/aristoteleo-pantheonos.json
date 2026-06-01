@@ -1,6 +1,6 @@
 {
   "slug": "aristoteleo-pantheonos",
-  "featuredDate": "2026-05-31",
+  "featuredDate": "2026-06-01",
   "fullName": "aristoteleo/PantheonOS",
   "name": "PantheonOS",
   "owner": "aristoteleo",
@@ -8,12 +8,12 @@
   "homepage": "https://pantheonos.stanford.edu",
   "description": "A general, evolvable, and distributed agent framework & harness for data science.",
   "language": "Python",
-  "stars": 436,
+  "stars": 438,
   "forks": 57,
   "openIssues": 22,
   "createdAt": "2025-07-30T19:54:44Z",
-  "updatedAt": "2026-05-31T05:23:47Z",
-  "pushedAt": "2026-05-31T05:23:43Z",
+  "updatedAt": "2026-06-01T06:08:12Z",
+  "pushedAt": "2026-06-01T06:08:08Z",
   "topics": [
     "agent",
     "ai",

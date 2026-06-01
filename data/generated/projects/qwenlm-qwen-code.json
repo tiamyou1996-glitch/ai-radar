@@ -1,0 +1,30 @@
+{
+  "slug": "qwenlm-qwen-code",
+  "featuredDate": "2026-06-01",
+  "fullName": "QwenLM/qwen-code",
+  "name": "qwen-code",
+  "owner": "QwenLM",
+  "repoUrl": "https://github.com/QwenLM/qwen-code",
+  "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
+  "description": "An open-source AI coding agent that lives in your terminal.",
+  "language": "TypeScript",
+  "stars": 24808,
+  "forks": 2435,
+  "openIssues": 815,
+  "createdAt": "2025-06-26T01:37:46Z",
+  "updatedAt": "2026-06-01T06:13:33Z",
+  "pushedAt": "2026-06-01T06:13:37Z",
+  "topics": [],
+  "summaryZh": "An open-source AI coding agent that lives in your terminal. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

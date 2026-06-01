@@ -1,0 +1,30 @@
+{
+  "slug": "tractorjuice-arc-kit",
+  "featuredDate": "2026-06-01",
+  "fullName": "tractorjuice/arc-kit",
+  "name": "arc-kit",
+  "owner": "tractorjuice",
+  "repoUrl": "https://github.com/tractorjuice/arc-kit",
+  "homepage": "https://arckit.org/",
+  "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
+  "language": "HTML",
+  "stars": 1934,
+  "forks": 241,
+  "openIssues": 7,
+  "createdAt": "2025-10-14T10:25:11Z",
+  "updatedAt": "2026-06-01T05:20:12Z",
+  "pushedAt": "2026-06-01T05:20:10Z",
+  "topics": [],
+  "summaryZh": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 62,
+  "totalScore": 87
+}
