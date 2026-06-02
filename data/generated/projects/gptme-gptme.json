@@ -1,6 +1,6 @@
 {
   "slug": "gptme-gptme",
-  "featuredDate": "2026-05-30",
+  "featuredDate": "2026-06-02",
   "fullName": "gptme/gptme",
   "name": "gptme",
   "owner": "gptme",
@@ -9,11 +9,11 @@
   "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
   "language": "Python",
   "stars": 4314,
-  "forks": 391,
-  "openIssues": 13,
+  "forks": 389,
+  "openIssues": 16,
   "createdAt": "2023-03-24T16:25:01Z",
-  "updatedAt": "2026-05-30T04:19:38Z",
-  "pushedAt": "2026-05-30T04:21:39Z",
+  "updatedAt": "2026-06-02T05:37:15Z",
+  "pushedAt": "2026-06-02T05:39:23Z",
   "topics": [
     "agent",
     "agents",
