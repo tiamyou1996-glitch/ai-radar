@@ -1,6 +1,6 @@
 {
   "slug": "lazyagi-lazyllm",
-  "featuredDate": "2026-06-02",
+  "featuredDate": "2026-06-03",
   "fullName": "LazyAGI/LazyLLM",
   "name": "LazyLLM",
   "owner": "LazyAGI",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 3839,
   "forks": 390,
-  "openIssues": 43,
+  "openIssues": 42,
   "createdAt": "2024-06-04T05:01:45Z",
-  "updatedAt": "2026-06-02T05:56:47Z",
-  "pushedAt": "2026-06-02T05:56:42Z",
+  "updatedAt": "2026-06-03T06:09:20Z",
+  "pushedAt": "2026-06-03T06:09:15Z",
   "topics": [
     "agents",
     "ai-agent",

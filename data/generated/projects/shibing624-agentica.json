@@ -1,0 +1,40 @@
+{
+  "slug": "shibing624-agentica",
+  "featuredDate": "2026-06-03",
+  "fullName": "shibing624/agentica",
+  "name": "agentica",
+  "owner": "shibing624",
+  "repoUrl": "https://github.com/shibing624/agentica",
+  "homepage": "https://shibing624.github.io/agentica/",
+  "description": "Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。",
+  "language": "Python",
+  "stars": 308,
+  "forks": 42,
+  "openIssues": 1,
+  "createdAt": "2024-06-03T12:07:51Z",
+  "updatedAt": "2026-06-03T06:08:27Z",
+  "pushedAt": "2026-06-03T06:08:24Z",
+  "topics": [
+    "actionflow",
+    "agent",
+    "agentica",
+    "agents",
+    "langchain",
+    "llm",
+    "multi-agent",
+    "workflows"
+  ],
+  "summaryZh": "Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 73,
+  "totalScore": 85
+}

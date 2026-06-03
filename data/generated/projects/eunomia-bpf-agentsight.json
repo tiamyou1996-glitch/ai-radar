@@ -1,0 +1,35 @@
+{
+  "slug": "eunomia-bpf-agentsight",
+  "featuredDate": "2026-06-03",
+  "fullName": "eunomia-bpf/agentsight",
+  "name": "agentsight",
+  "owner": "eunomia-bpf",
+  "repoUrl": "https://github.com/eunomia-bpf/agentsight",
+  "homepage": "https://eunomia.dev/agentsight/",
+  "description": "Zero instrucment system-level AI agent tracing in eBPF",
+  "language": "C",
+  "stars": 358,
+  "forks": 57,
+  "openIssues": 15,
+  "createdAt": "2025-07-07T21:16:41Z",
+  "updatedAt": "2026-06-03T06:11:32Z",
+  "pushedAt": "2026-06-03T06:11:29Z",
+  "topics": [
+    "agent",
+    "ebpf",
+    "llm",
+    "observability"
+  ],
+  "summaryZh": "Zero instrucment system-level AI agent tracing in eBPF 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 83
+}
