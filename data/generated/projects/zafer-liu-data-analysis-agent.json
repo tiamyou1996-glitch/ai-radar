@@ -1,19 +1,19 @@
 {
   "slug": "zafer-liu-data-analysis-agent",
-  "featuredDate": "2026-05-17",
+  "featuredDate": "2026-06-04",
   "fullName": "Zafer-Liu/Data-Analysis-Agent",
   "name": "Data-Analysis-Agent",
   "owner": "Zafer-Liu",
   "repoUrl": "https://github.com/Zafer-Liu/Data-Analysis-Agent",
-  "homepage": null,
+  "homepage": "https://data-analysis-agent-production-50cb.up.railway.app/",
   "description": "面向商业分析师的智能数据分析体。Intelligent Data Analysis Agent for Business Analysts.",
   "language": "Python",
-  "stars": 1159,
-  "forks": 89,
-  "openIssues": 3,
+  "stars": 1264,
+  "forks": 80,
+  "openIssues": 1,
   "createdAt": "2026-04-21T06:04:19Z",
-  "updatedAt": "2026-05-17T04:47:01Z",
-  "pushedAt": "2026-05-17T04:46:57Z",
+  "updatedAt": "2026-06-04T06:02:40Z",
+  "pushedAt": "2026-06-04T06:02:34Z",
   "topics": [
     "agent",
     "ai",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 93,
   "relevanceScore": 55,
-  "totalScore": 86
+  "totalScore": 87
 }
