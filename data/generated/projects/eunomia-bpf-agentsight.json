@@ -1,6 +1,6 @@
 {
   "slug": "eunomia-bpf-agentsight",
-  "featuredDate": "2026-06-03",
+  "featuredDate": "2026-06-05",
   "fullName": "eunomia-bpf/agentsight",
   "name": "agentsight",
   "owner": "eunomia-bpf",
@@ -8,12 +8,12 @@
   "homepage": "https://eunomia.dev/agentsight/",
   "description": "Zero instrucment system-level AI agent tracing in eBPF",
   "language": "C",
-  "stars": 358,
-  "forks": 57,
+  "stars": 394,
+  "forks": 59,
   "openIssues": 15,
   "createdAt": "2025-07-07T21:16:41Z",
-  "updatedAt": "2026-06-03T06:11:32Z",
-  "pushedAt": "2026-06-03T06:11:29Z",
+  "updatedAt": "2026-06-05T05:42:50Z",
+  "pushedAt": "2026-06-05T05:43:19Z",
   "topics": [
     "agent",
     "ebpf",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 62,
-  "totalScore": 83
+  "totalScore": 84
 }

@@ -1,0 +1,35 @@
+{
+  "slug": "jazzenchen-vibearound",
+  "featuredDate": "2026-06-05",
+  "fullName": "jazzenchen/VibeAround",
+  "name": "VibeAround",
+  "owner": "jazzenchen",
+  "repoUrl": "https://github.com/jazzenchen/VibeAround",
+  "homepage": "https://vibearound.ai/",
+  "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+  "language": "Rust",
+  "stars": 366,
+  "forks": 41,
+  "openIssues": 2,
+  "createdAt": "2026-02-23T10:23:58Z",
+  "updatedAt": "2026-06-05T05:41:43Z",
+  "pushedAt": "2026-06-05T05:11:10Z",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "remote-execution",
+    "vibe-coding"
+  ],
+  "summaryZh": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "chrisryugj-docufinder",
+  "featuredDate": "2026-06-05",
+  "fullName": "chrisryugj/Docufinder",
+  "name": "Docufinder",
+  "owner": "chrisryugj",
+  "repoUrl": "https://github.com/chrisryugj/Docufinder",
+  "homepage": null,
+  "description": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션 (Tauri · React · Rust) | Local content search for Korean PCs — HWP-first, fully offline",
+  "language": "Rust",
+  "stars": 338,
+  "forks": 33,
+  "openIssues": 2,
+  "createdAt": "2026-01-15T11:51:32Z",
+  "updatedAt": "2026-06-05T05:43:12Z",
+  "pushedAt": "2026-06-05T05:43:52Z",
+  "topics": [
+    "desktop-app",
+    "document-search",
+    "fts5",
+    "hwpx",
+    "korean",
+    "korean-nlp",
+    "offline-first",
+    "onnx",
+    "rag",
+    "react",
+    "rust",
+    "tauri"
+  ],
+  "summaryZh": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션 (Tauri · React · Rust) | Local content search for Korean PCs — HWP-first, fully offline 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 55,
+  "totalScore": 83
+}
