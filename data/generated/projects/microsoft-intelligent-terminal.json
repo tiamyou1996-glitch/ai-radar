@@ -1,0 +1,42 @@
+{
+  "slug": "microsoft-intelligent-terminal",
+  "featuredDate": "2026-06-06",
+  "fullName": "microsoft/intelligent-terminal",
+  "name": "intelligent-terminal",
+  "owner": "microsoft",
+  "repoUrl": "https://github.com/microsoft/intelligent-terminal",
+  "homepage": "https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/",
+  "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+  "language": "C++",
+  "stars": 543,
+  "forks": 28,
+  "openIssues": 49,
+  "createdAt": "2026-05-18T10:57:07Z",
+  "updatedAt": "2026-06-06T04:48:31Z",
+  "pushedAt": "2026-06-06T05:00:42Z",
+  "topics": [
+    "acp",
+    "agent",
+    "agent-client-protocol",
+    "agentic-ai",
+    "ai",
+    "cli",
+    "command-line",
+    "console",
+    "copilot",
+    "terminal",
+    "windows",
+    "windows-terminal"
+  ],
+  "summaryZh": "A fork of Windows Terminal with native agent integration, right in your command line. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 55,
+  "totalScore": 85
+}

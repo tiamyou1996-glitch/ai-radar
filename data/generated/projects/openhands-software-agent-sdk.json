@@ -1,6 +1,6 @@
 {
   "slug": "openhands-software-agent-sdk",
-  "featuredDate": "2026-05-26",
+  "featuredDate": "2026-06-06",
   "fullName": "OpenHands/software-agent-sdk",
   "name": "software-agent-sdk",
   "owner": "OpenHands",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "A clean, modular SDK for building AI agents with OpenHands V1.",
   "language": "Python",
-  "stars": 748,
-  "forks": 265,
-  "openIssues": 215,
+  "stars": 802,
+  "forks": 284,
+  "openIssues": 213,
   "createdAt": "2025-08-23T20:34:39Z",
-  "updatedAt": "2026-05-26T05:05:43Z",
-  "pushedAt": "2026-05-26T04:58:21Z",
+  "updatedAt": "2026-06-06T04:50:08Z",
+  "pushedAt": "2026-06-06T04:50:05Z",
   "topics": [
     "agent",
     "sdk"
@@ -26,7 +26,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 55,
   "totalScore": 82
 }

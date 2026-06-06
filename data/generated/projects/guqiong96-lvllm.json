@@ -1,6 +1,6 @@
 {
   "slug": "guqiong96-lvllm",
-  "featuredDate": "2026-04-05",
+  "featuredDate": "2026-06-06",
   "fullName": "guqiong96/Lvllm",
   "name": "Lvllm",
   "owner": "guqiong96",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "LvLLM is a special NUMA extension of vllm that makes full use of CPU and memory resources, reduces GPU memory requirements, and features an efficient GPU parallel and NUMA parallel architecture, supporting hybrid inference for MOE large models.",
   "language": "Python",
-  "stars": 309,
-  "forks": 31,
+  "stars": 370,
+  "forks": 33,
   "openIssues": 3,
   "createdAt": "2025-09-26T13:39:03Z",
-  "updatedAt": "2026-04-05T03:16:41Z",
-  "pushedAt": "2026-04-05T03:17:44Z",
+  "updatedAt": "2026-06-06T03:53:55Z",
+  "pushedAt": "2026-06-06T03:53:51Z",
   "topics": [
     "cpu",
     "decode",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 82,
+  "qualityScore": 83,
   "relevanceScore": 69,
-  "totalScore": 83
+  "totalScore": 84
 }

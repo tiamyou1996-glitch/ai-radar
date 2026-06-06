@@ -1,6 +1,6 @@
 {
   "slug": "dicklesworthstone-cass-memory-system",
-  "featuredDate": "2026-04-03",
+  "featuredDate": "2026-06-06",
   "fullName": "Dicklesworthstone/cass_memory_system",
   "name": "cass_memory_system",
   "owner": "Dicklesworthstone",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Procedural memory for AI coding agents: transforms scattered session history into persistent, cross-agent memory so every agent learns from every other",
   "language": "TypeScript",
-  "stars": 308,
-  "forks": 44,
+  "stars": 374,
+  "forks": 47,
   "openIssues": 0,
   "createdAt": "2025-12-07T20:45:32Z",
-  "updatedAt": "2026-04-03T02:50:25Z",
-  "pushedAt": "2026-04-03T02:50:21Z",
+  "updatedAt": "2026-06-06T04:01:28Z",
+  "pushedAt": "2026-06-06T04:01:25Z",
   "topics": [
     "ai-agents",
     "bun",
@@ -29,8 +29,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 82,
+  "trendScore": 92,
+  "qualityScore": 83,
   "relevanceScore": 62,
-  "totalScore": 84
+  "totalScore": 82
 }

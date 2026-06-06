@@ -1,6 +1,6 @@
 {
   "slug": "altimateai-altimate-code",
-  "featuredDate": "2026-04-05",
+  "featuredDate": "2026-06-06",
   "fullName": "AltimateAI/altimate-code",
   "name": "altimate-code",
   "owner": "AltimateAI",
@@ -8,12 +8,12 @@
   "homepage": "https://altimate.sh",
   "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
   "language": "TypeScript",
-  "stars": 493,
-  "forks": 39,
-  "openIssues": 102,
+  "stars": 637,
+  "forks": 75,
+  "openIssues": 191,
   "createdAt": "2026-02-27T00:57:01Z",
-  "updatedAt": "2026-04-05T03:59:48Z",
-  "pushedAt": "2026-04-05T03:59:44Z",
+  "updatedAt": "2026-06-06T04:38:29Z",
+  "pushedAt": "2026-06-06T04:53:12Z",
   "topics": [
     "agent",
     "agentic-data-engineering",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 69,
   "totalScore": 88
 }
