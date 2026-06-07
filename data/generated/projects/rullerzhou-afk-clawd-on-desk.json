@@ -1,6 +1,6 @@
 {
   "slug": "rullerzhou-afk-clawd-on-desk",
-  "featuredDate": "2026-06-02",
+  "featuredDate": "2026-06-07",
   "fullName": "rullerzhou-afk/clawd-on-desk",
   "name": "clawd-on-desk",
   "owner": "rullerzhou-afk",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
   "language": "JavaScript",
-  "stars": 3543,
-  "forks": 351,
-  "openIssues": 50,
+  "stars": 3849,
+  "forks": 374,
+  "openIssues": 55,
   "createdAt": "2026-03-18T09:04:20Z",
-  "updatedAt": "2026-06-02T05:58:20Z",
-  "pushedAt": "2026-06-02T05:32:21Z",
+  "updatedAt": "2026-06-07T05:44:40Z",
+  "pushedAt": "2026-06-07T04:45:58Z",
   "topics": [
     "claude-code",
     "codex",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }

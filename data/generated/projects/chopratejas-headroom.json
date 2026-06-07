@@ -1,6 +1,6 @@
 {
   "slug": "chopratejas-headroom",
-  "featuredDate": "2026-05-26",
+  "featuredDate": "2026-06-07",
   "fullName": "chopratejas/headroom",
   "name": "headroom",
   "owner": "chopratejas",
@@ -8,12 +8,12 @@
   "homepage": "https://headroom-docs.vercel.app/docs",
   "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
   "language": "Python",
-  "stars": 2019,
-  "forks": 170,
-  "openIssues": 106,
+  "stars": 16091,
+  "forks": 1021,
+  "openIssues": 195,
   "createdAt": "2026-01-07T19:58:51Z",
-  "updatedAt": "2026-05-26T05:08:35Z",
-  "pushedAt": "2026-05-26T05:08:29Z",
+  "updatedAt": "2026-06-07T05:45:51Z",
+  "pushedAt": "2026-06-07T05:43:40Z",
   "topics": [
     "agent",
     "ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 92
+  "totalScore": 93
 }

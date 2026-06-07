@@ -1,0 +1,40 @@
+{
+  "slug": "langchain-ai-open-swe",
+  "featuredDate": "2026-06-07",
+  "fullName": "langchain-ai/open-swe",
+  "name": "open-swe",
+  "owner": "langchain-ai",
+  "repoUrl": "https://github.com/langchain-ai/open-swe",
+  "homepage": "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents",
+  "description": "An Open-Source Asynchronous Coding Agent",
+  "language": "Python",
+  "stars": 9928,
+  "forks": 1126,
+  "openIssues": 12,
+  "createdAt": "2025-05-21T21:44:24Z",
+  "updatedAt": "2026-06-07T05:17:17Z",
+  "pushedAt": "2026-06-07T05:17:11Z",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "anthropic",
+    "claudecode",
+    "llm",
+    "llms",
+    "openai"
+  ],
+  "summaryZh": "An Open-Source Asynchronous Coding Agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}
