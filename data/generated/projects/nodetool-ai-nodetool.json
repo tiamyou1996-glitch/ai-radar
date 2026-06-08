@@ -1,6 +1,6 @@
 {
   "slug": "nodetool-ai-nodetool",
-  "featuredDate": "2026-05-25",
+  "featuredDate": "2026-06-08",
   "fullName": "nodetool-ai/nodetool",
   "name": "nodetool",
   "owner": "nodetool-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://nodetool.ai/",
   "description": "The open creative AI workspace",
   "language": "TypeScript",
-  "stars": 360,
-  "forks": 46,
-  "openIssues": 22,
+  "stars": 380,
+  "forks": 51,
+  "openIssues": 34,
   "createdAt": "2024-03-25T13:09:15Z",
-  "updatedAt": "2026-05-25T05:40:59Z",
-  "pushedAt": "2026-05-25T05:40:56Z",
+  "updatedAt": "2026-06-08T06:02:37Z",
+  "pushedAt": "2026-06-08T06:02:34Z",
   "topics": [
     "agents",
     "ai",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 69,
   "totalScore": 85
 }

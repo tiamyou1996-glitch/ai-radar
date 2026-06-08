@@ -1,0 +1,36 @@
+{
+  "slug": "runfusion-fusion",
+  "featuredDate": "2026-06-08",
+  "fullName": "Runfusion/Fusion",
+  "name": "Fusion",
+  "owner": "Runfusion",
+  "repoUrl": "https://github.com/Runfusion/Fusion",
+  "homepage": "http://runfusion.ai",
+  "description": "Multi node agent orchestrator - build faster and better",
+  "language": "TypeScript",
+  "stars": 688,
+  "forks": 80,
+  "openIssues": 57,
+  "createdAt": "2026-04-13T01:43:26Z",
+  "updatedAt": "2026-06-08T05:57:10Z",
+  "pushedAt": "2026-06-08T05:57:12Z",
+  "topics": [
+    "agent",
+    "agentic-workflow",
+    "agents",
+    "llm",
+    "orchestration-framework"
+  ],
+  "summaryZh": "Multi node agent orchestrator - build faster and better 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 87
+}
