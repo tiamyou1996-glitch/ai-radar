@@ -1,28 +1,27 @@
 {
   "slug": "memohai-memoh",
-  "featuredDate": "2026-04-29",
+  "featuredDate": "2026-06-09",
   "fullName": "memohai/Memoh",
   "name": "Memoh",
   "owner": "memohai",
   "repoUrl": "https://github.com/memohai/Memoh",
   "homepage": "https://docs.memoh.ai",
-  "description": "✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc (like OpenClaw).",
+  "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. ",
   "language": "Go",
-  "stars": 1575,
-  "forks": 145,
-  "openIssues": 23,
+  "stars": 1884,
+  "forks": 175,
+  "openIssues": 28,
   "createdAt": "2026-01-12T09:27:39Z",
-  "updatedAt": "2026-04-29T04:36:03Z",
-  "pushedAt": "2026-04-29T04:36:00Z",
+  "updatedAt": "2026-06-09T04:51:23Z",
+  "pushedAt": "2026-06-09T04:51:18Z",
   "topics": [
     "agent",
     "ai",
     "ai-companion",
     "ai-memory",
-    "openclaw",
     "personal-assistant"
   ],
-  "summaryZh": "✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc (like OpenClaw). 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -30,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 55,
-  "totalScore": 87
+  "totalScore": 88
 }

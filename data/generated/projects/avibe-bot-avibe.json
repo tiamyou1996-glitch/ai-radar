@@ -1,6 +1,6 @@
 {
   "slug": "avibe-bot-avibe",
-  "featuredDate": "2026-06-08",
+  "featuredDate": "2026-06-09",
   "fullName": "avibe-bot/avibe",
   "name": "avibe",
   "owner": "avibe-bot",
@@ -8,12 +8,12 @@
   "homepage": "https://avibe.bot",
   "description": "The local-first Agent OS — your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app.",
   "language": "Python",
-  "stars": 456,
+  "stars": 466,
   "forks": 67,
   "openIssues": 3,
   "createdAt": "2025-08-09T14:04:57Z",
-  "updatedAt": "2026-06-08T05:56:49Z",
-  "pushedAt": "2026-06-08T05:56:46Z",
+  "updatedAt": "2026-06-09T05:14:33Z",
+  "pushedAt": "2026-06-09T05:14:29Z",
   "topics": [
     "agent",
     "agent-os",

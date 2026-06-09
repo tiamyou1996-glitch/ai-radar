@@ -1,6 +1,6 @@
 {
   "slug": "jjang-ai-vmlx",
-  "featuredDate": "2026-05-22",
+  "featuredDate": "2026-06-09",
   "fullName": "jjang-ai/vmlx",
   "name": "vmlx",
   "owner": "jjang-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://vmlx.net",
   "description": "vMLX - JANGTQ Uber Compressed MLX Models - L2 Disk Cache (survives restart) + L1 Paged (super fast ttft) + Hybrid SSM Scheduler  + Cont Batching + etc!",
   "language": "Python",
-  "stars": 518,
-  "forks": 64,
-  "openIssues": 23,
+  "stars": 635,
+  "forks": 68,
+  "openIssues": 34,
   "createdAt": "2026-02-18T06:11:55Z",
-  "updatedAt": "2026-05-22T05:09:38Z",
-  "pushedAt": "2026-05-22T05:09:33Z",
+  "updatedAt": "2026-06-09T05:13:27Z",
+  "pushedAt": "2026-06-09T05:13:23Z",
   "topics": [
     "anthropic-api",
     "kvcache-compression",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

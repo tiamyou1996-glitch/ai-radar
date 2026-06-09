@@ -1,6 +1,6 @@
 {
   "slug": "apache-seatunnel",
-  "featuredDate": "2026-06-08",
+  "featuredDate": "2026-06-09",
   "fullName": "apache/seatunnel",
   "name": "seatunnel",
   "owner": "apache",
@@ -9,11 +9,11 @@
   "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
   "language": "Java",
   "stars": 9374,
-  "forks": 2260,
-  "openIssues": 510,
+  "forks": 2262,
+  "openIssues": 509,
   "createdAt": "2017-08-05T09:14:47Z",
-  "updatedAt": "2026-06-08T02:39:04Z",
-  "pushedAt": "2026-06-08T02:38:58Z",
+  "updatedAt": "2026-06-09T03:18:22Z",
+  "pushedAt": "2026-06-09T03:18:15Z",
   "topics": [
     "apache",
     "batch",

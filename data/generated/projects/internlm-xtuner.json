@@ -1,6 +1,6 @@
 {
   "slug": "internlm-xtuner",
-  "featuredDate": "2026-06-08",
+  "featuredDate": "2026-06-09",
   "fullName": "InternLM/xtuner",
   "name": "xtuner",
   "owner": "InternLM",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 5152,
   "forks": 426,
-  "openIssues": 338,
+  "openIssues": 336,
   "createdAt": "2023-07-11T03:18:13Z",
-  "updatedAt": "2026-06-08T04:18:07Z",
-  "pushedAt": "2026-06-08T04:18:02Z",
+  "updatedAt": "2026-06-09T03:59:50Z",
+  "pushedAt": "2026-06-09T03:59:48Z",
   "topics": [
     "agent",
     "deepseek-v3",

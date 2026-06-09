@@ -1,0 +1,35 @@
+{
+  "slug": "raphaelmansuy-edgequake",
+  "featuredDate": "2026-06-09",
+  "fullName": "raphaelmansuy/edgequake",
+  "name": "edgequake",
+  "owner": "raphaelmansuy",
+  "repoUrl": "https://github.com/raphaelmansuy/edgequake",
+  "homepage": "https://edgequake.com",
+  "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+  "language": "Rust",
+  "stars": 2000,
+  "forks": 229,
+  "openIssues": 14,
+  "createdAt": "2025-12-21T11:19:52Z",
+  "updatedAt": "2026-06-09T05:06:14Z",
+  "pushedAt": "2026-06-09T05:06:11Z",
+  "topics": [
+    "graphrag",
+    "knowledge-graph",
+    "lightrag",
+    "rag"
+  ],
+  "summaryZh": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 96,
+  "relevanceScore": 62,
+  "totalScore": 89
+}
