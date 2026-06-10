@@ -1,6 +1,6 @@
 {
   "slug": "prismer-ai-prismercloud",
-  "featuredDate": "2026-04-03",
+  "featuredDate": "2026-06-10",
   "fullName": "Prismer-AI/PrismerCloud",
   "name": "PrismerCloud",
   "owner": "Prismer-AI",
@@ -8,12 +8,12 @@
   "homepage": "https://prismer.cloud",
   "description": "Prismer Cloud",
   "language": "TypeScript",
-  "stars": 390,
-  "forks": 6,
-  "openIssues": 14,
+  "stars": 1522,
+  "forks": 14,
+  "openIssues": 0,
   "createdAt": "2026-03-21T16:58:43Z",
-  "updatedAt": "2026-04-03T03:51:13Z",
-  "pushedAt": "2026-04-03T03:20:47Z",
+  "updatedAt": "2026-06-10T05:42:07Z",
+  "pushedAt": "2026-06-10T05:42:02Z",
   "topics": [
     "agent-communication",
     "agent-memory",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 94,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 91
 }

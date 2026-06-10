@@ -1,6 +1,6 @@
 {
   "slug": "capsize-games-airunner",
-  "featuredDate": "2026-06-09",
+  "featuredDate": "2026-06-10",
   "fullName": "Capsize-Games/airunner",
   "name": "airunner",
   "owner": "Capsize-Games",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 1315,
   "forks": 98,
-  "openIssues": 4,
+  "openIssues": 5,
   "createdAt": "2023-03-21T19:14:03Z",
-  "updatedAt": "2026-06-09T01:44:34Z",
-  "pushedAt": "2026-06-09T01:46:40Z",
+  "updatedAt": "2026-06-10T03:36:07Z",
+  "pushedAt": "2026-06-10T03:36:03Z",
   "topics": [
     "ai",
     "ai-art",

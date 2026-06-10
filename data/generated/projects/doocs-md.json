@@ -1,0 +1,42 @@
+{
+  "slug": "doocs-md",
+  "featuredDate": "2026-06-10",
+  "fullName": "doocs/md",
+  "name": "md",
+  "owner": "doocs",
+  "repoUrl": "https://github.com/doocs/md",
+  "homepage": "https://md.doocs.org",
+  "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+  "language": "Vue",
+  "stars": 12788,
+  "forks": 2165,
+  "openIssues": 21,
+  "createdAt": "2019-11-01T09:14:36Z",
+  "updatedAt": "2026-06-10T05:44:35Z",
+  "pushedAt": "2026-06-10T05:44:31Z",
+  "topics": [
+    "ai-bot",
+    "doocs",
+    "editor",
+    "llm",
+    "markdown",
+    "markdown-editor",
+    "tailwindcss",
+    "vite",
+    "vue",
+    "vue3",
+    "wechat",
+    "weixin"
+  ],
+  "summaryZh": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

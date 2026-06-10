@@ -1,6 +1,6 @@
 {
   "slug": "kvcache-ai-mooncake",
-  "featuredDate": "2026-06-08",
+  "featuredDate": "2026-06-10",
   "fullName": "kvcache-ai/Mooncake",
   "name": "Mooncake",
   "owner": "kvcache-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://kvcache-ai.github.io/Mooncake/",
   "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
   "language": "C++",
-  "stars": 5526,
-  "forks": 831,
-  "openIssues": 508,
+  "stars": 5540,
+  "forks": 839,
+  "openIssues": 525,
   "createdAt": "2024-06-25T05:21:05Z",
-  "updatedAt": "2026-06-08T04:31:33Z",
-  "pushedAt": "2026-06-08T04:31:29Z",
+  "updatedAt": "2026-06-10T05:33:43Z",
+  "pushedAt": "2026-06-10T05:12:04Z",
   "topics": [
     "disaggregation",
     "inference",
@@ -23,6 +23,7 @@
     "reinforcement-learning",
     "sglang",
     "tokenspeed",
+    "trt-llm",
     "vllm"
   ],
   "summaryZh": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
