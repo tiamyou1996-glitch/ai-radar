@@ -1,6 +1,6 @@
 {
   "slug": "anionex-banana-slides",
-  "featuredDate": "2026-05-28",
+  "featuredDate": "2026-06-11",
   "fullName": "Anionex/banana-slides",
   "name": "banana-slides",
   "owner": "Anionex",
@@ -8,12 +8,12 @@
   "homepage": "http://bananaslides.online",
   "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌",
   "language": "Python",
-  "stars": 14744,
-  "forks": 1728,
-  "openIssues": 61,
+  "stars": 14898,
+  "forks": 1739,
+  "openIssues": 70,
   "createdAt": "2025-11-29T17:37:26Z",
-  "updatedAt": "2026-05-28T05:11:08Z",
-  "pushedAt": "2026-05-28T05:12:42Z",
+  "updatedAt": "2026-06-11T06:02:34Z",
+  "pushedAt": "2026-06-11T06:02:21Z",
   "topics": [
     "ai-ppt-maker",
     "ai-slide-builder",
@@ -34,8 +34,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 58,
-  "totalScore": 89
+  "totalScore": 87
 }

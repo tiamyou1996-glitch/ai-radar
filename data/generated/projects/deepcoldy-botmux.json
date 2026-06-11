@@ -1,0 +1,37 @@
+{
+  "slug": "deepcoldy-botmux",
+  "featuredDate": "2026-06-11",
+  "fullName": "deepcoldy/botmux",
+  "name": "botmux",
+  "owner": "deepcoldy",
+  "repoUrl": "https://github.com/deepcoldy/botmux",
+  "homepage": "https://bytedance.aiforce.cloud/app/app_4k9smq6rdxher/",
+  "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session",
+  "language": "TypeScript",
+  "stars": 310,
+  "forks": 64,
+  "openIssues": 11,
+  "createdAt": "2026-03-11T16:59:54Z",
+  "updatedAt": "2026-06-11T05:55:42Z",
+  "pushedAt": "2026-06-11T05:56:26Z",
+  "topics": [
+    "claude",
+    "claude-code",
+    "codex",
+    "feishu",
+    "gemini",
+    "lark",
+    "opencode"
+  ],
+  "summaryZh": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 51,
+  "totalScore": 83
+}
