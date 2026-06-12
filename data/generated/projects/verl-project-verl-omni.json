@@ -1,0 +1,40 @@
+{
+  "slug": "verl-project-verl-omni",
+  "featuredDate": "2026-06-12",
+  "fullName": "verl-project/verl-omni",
+  "name": "verl-omni",
+  "owner": "verl-project",
+  "repoUrl": "https://github.com/verl-project/verl-omni",
+  "homepage": "https://verl-omni.readthedocs.io/en/latest/index.html",
+  "description": "RL training framework for diffusion and omni-modality models",
+  "language": "Python",
+  "stars": 347,
+  "forks": 51,
+  "openIssues": 34,
+  "createdAt": "2026-04-21T11:48:12Z",
+  "updatedAt": "2026-06-12T05:47:01Z",
+  "pushedAt": "2026-06-12T05:46:57Z",
+  "topics": [
+    "diffusion-models",
+    "flow-matching",
+    "grpo",
+    "multimodal",
+    "qwen",
+    "reinforcement-learning",
+    "rlhf",
+    "vllm"
+  ],
+  "summaryZh": "RL training framework for diffusion and omni-modality models 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 65,
+  "totalScore": 86
+}

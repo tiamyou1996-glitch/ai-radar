@@ -1,6 +1,6 @@
 {
   "slug": "xorbitsai-inference",
-  "featuredDate": "2026-06-09",
+  "featuredDate": "2026-06-12",
   "fullName": "xorbitsai/inference",
   "name": "inference",
   "owner": "xorbitsai",
@@ -9,11 +9,11 @@
   "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
   "language": "Python",
   "stars": 9349,
-  "forks": 837,
-  "openIssues": 56,
+  "forks": 836,
+  "openIssues": 51,
   "createdAt": "2023-06-14T07:05:04Z",
-  "updatedAt": "2026-06-09T04:57:39Z",
-  "pushedAt": "2026-06-09T04:57:35Z",
+  "updatedAt": "2026-06-12T04:54:03Z",
+  "pushedAt": "2026-06-12T04:59:01Z",
   "topics": [
     "artificial-intelligence",
     "chatglm",

@@ -1,6 +1,6 @@
 {
   "slug": "jabberjabberjabber-imageindexer",
-  "featuredDate": "2026-05-24",
+  "featuredDate": "2026-06-12",
   "fullName": "jabberjabberjabber/ImageIndexer",
   "name": "ImageIndexer",
   "owner": "jabberjabberjabber",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Creates an index of images, queries a local LLM and adds tags to the image metadata",
   "language": "Python",
-  "stars": 372,
+  "stars": 376,
   "forks": 20,
   "openIssues": 0,
   "createdAt": "2024-07-23T04:28:14Z",
-  "updatedAt": "2026-05-24T01:26:21Z",
-  "pushedAt": "2026-05-24T00:16:52Z",
+  "updatedAt": "2026-06-12T03:19:37Z",
+  "pushedAt": "2026-06-12T03:19:34Z",
   "topics": [
     "ai",
     "dataset-generation",

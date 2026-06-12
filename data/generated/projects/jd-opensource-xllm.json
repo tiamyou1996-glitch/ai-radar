@@ -1,6 +1,6 @@
 {
   "slug": "jd-opensource-xllm",
-  "featuredDate": "2026-06-11",
+  "featuredDate": "2026-06-12",
   "fullName": "jd-opensource/xllm",
   "name": "xllm",
   "owner": "jd-opensource",
@@ -9,11 +9,11 @@
   "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators.",
   "language": "C++",
   "stars": 1327,
-  "forks": 227,
-  "openIssues": 162,
+  "forks": 228,
+  "openIssues": 169,
   "createdAt": "2025-08-12T13:16:07Z",
-  "updatedAt": "2026-06-11T05:59:07Z",
-  "pushedAt": "2026-06-11T05:59:03Z",
+  "updatedAt": "2026-06-12T05:54:45Z",
+  "pushedAt": "2026-06-12T05:54:41Z",
   "topics": [
     "deepseek",
     "glm",
