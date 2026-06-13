@@ -1,19 +1,19 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-06-10",
+  "featuredDate": "2026-06-13",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
   "repoUrl": "https://github.com/pixeltable/pixeltable",
   "homepage": "https://docs.pixeltable.com",
-  "description": "Declarative and Incremental Backend for Multimodal AI Applications",
+  "description": "Unified multimodal backend for AI data apps",
   "language": "Python",
-  "stars": 1570,
+  "stars": 1574,
   "forks": 215,
   "openIssues": 40,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-06-10T02:41:24Z",
-  "pushedAt": "2026-06-10T02:41:20Z",
+  "updatedAt": "2026-06-13T03:27:06Z",
+  "pushedAt": "2026-06-13T05:23:31Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -31,7 +31,7 @@
     "multimodal",
     "vector-database"
   ],
-  "summaryZh": "Declarative and Incremental Backend for Multimodal AI Applications 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "summaryZh": "Unified multimodal backend for AI data apps 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
   "tags": [
