@@ -1,6 +1,6 @@
 {
   "slug": "capsize-games-airunner",
-  "featuredDate": "2026-06-12",
+  "featuredDate": "2026-06-14",
   "fullName": "Capsize-Games/airunner",
   "name": "airunner",
   "owner": "Capsize-Games",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 1315,
   "forks": 98,
-  "openIssues": 5,
+  "openIssues": 4,
   "createdAt": "2023-03-21T19:14:03Z",
-  "updatedAt": "2026-06-12T04:30:41Z",
-  "pushedAt": "2026-06-12T04:30:36Z",
+  "updatedAt": "2026-06-13T14:17:08Z",
+  "pushedAt": "2026-06-13T14:18:13Z",
   "topics": [
     "ai",
     "ai-art",
@@ -45,8 +45,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 92,
+  "trendScore": 88,
   "qualityScore": 94,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 86
 }
