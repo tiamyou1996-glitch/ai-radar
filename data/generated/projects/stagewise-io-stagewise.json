@@ -1,0 +1,35 @@
+{
+  "slug": "stagewise-io-stagewise",
+  "featuredDate": "2026-06-15",
+  "fullName": "stagewise-io/stagewise",
+  "name": "stagewise",
+  "owner": "stagewise-io",
+  "repoUrl": "https://github.com/stagewise-io/stagewise",
+  "homepage": "https://stagewise.io",
+  "description": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
+  "language": "TypeScript",
+  "stars": 6680,
+  "forks": 486,
+  "openIssues": 52,
+  "createdAt": "2025-04-26T12:43:16Z",
+  "updatedAt": "2026-06-15T06:27:22Z",
+  "pushedAt": "2026-06-15T06:27:40Z",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ide"
+  ],
+  "summaryZh": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

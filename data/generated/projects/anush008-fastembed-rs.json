@@ -1,0 +1,39 @@
+{
+  "slug": "anush008-fastembed-rs",
+  "featuredDate": "2026-06-15",
+  "fullName": "Anush008/fastembed-rs",
+  "name": "fastembed-rs",
+  "owner": "Anush008",
+  "repoUrl": "https://github.com/Anush008/fastembed-rs",
+  "homepage": "https://docs.rs/fastembed",
+  "description": "Rust library for generating vector embeddings, reranking locally!",
+  "language": "Rust",
+  "stars": 923,
+  "forks": 131,
+  "openIssues": 1,
+  "createdAt": "2023-10-01T16:13:02Z",
+  "updatedAt": "2026-06-15T06:19:20Z",
+  "pushedAt": "2026-06-15T06:19:17Z",
+  "topics": [
+    "embeddings",
+    "fastembed",
+    "rag",
+    "reranker",
+    "reranking",
+    "retrieval",
+    "retrieval-augmented-generation",
+    "vector-search"
+  ],
+  "summaryZh": "Rust library for generating vector embeddings, reranking locally! 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

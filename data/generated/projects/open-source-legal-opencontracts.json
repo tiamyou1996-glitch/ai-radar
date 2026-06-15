@@ -1,22 +1,24 @@
 {
   "slug": "open-source-legal-opencontracts",
-  "featuredDate": "2026-05-24",
+  "featuredDate": "2026-06-15",
   "fullName": "Open-Source-Legal/OpenContracts",
   "name": "OpenContracts",
   "owner": "Open-Source-Legal",
   "repoUrl": "https://github.com/Open-Source-Legal/OpenContracts",
-  "homepage": "https://open-source-legal.github.io/OpenContracts/",
-  "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+  "homepage": "https://open-source-legal.github.io/opencontracts/",
+  "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
   "language": "Python",
-  "stars": 1332,
-  "forks": 152,
-  "openIssues": 12,
+  "stars": 1352,
+  "forks": 154,
+  "openIssues": 14,
   "createdAt": "2022-10-24T04:08:13Z",
-  "updatedAt": "2026-05-24T05:05:03Z",
-  "pushedAt": "2026-05-24T05:07:16Z",
+  "updatedAt": "2026-06-15T06:27:20Z",
+  "pushedAt": "2026-06-15T06:27:18Z",
   "topics": [
     "agent",
     "agentic-ai",
+    "ai",
+    "ai-agents",
     "etl",
     "etl-pipeline",
     "llm",
@@ -24,17 +26,16 @@
     "unstructured-data",
     "vector-database"
   ],
-  "summaryZh": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "The open document intelligence platform for builders and hackers - DMS for the agentic world 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "RAG",
     "Model"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 94,
-  "relevanceScore": 73,
-  "totalScore": 89
+  "relevanceScore": 62,
+  "totalScore": 86
 }
