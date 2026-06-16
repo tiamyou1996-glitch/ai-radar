@@ -1,0 +1,39 @@
+{
+  "slug": "ggozad-haiku-rag",
+  "featuredDate": "2026-06-16",
+  "fullName": "ggozad/haiku.rag",
+  "name": "haiku.rag",
+  "owner": "ggozad",
+  "repoUrl": "https://github.com/ggozad/haiku.rag",
+  "homepage": null,
+  "description": "Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling",
+  "language": "Python",
+  "stars": 538,
+  "forks": 35,
+  "openIssues": 4,
+  "createdAt": "2024-10-13T15:12:23Z",
+  "updatedAt": "2026-06-16T06:41:15Z",
+  "pushedAt": "2026-06-16T06:41:15Z",
+  "topics": [
+    "ai",
+    "docling",
+    "lancedb",
+    "mcp",
+    "mcp-server",
+    "ml",
+    "pydantic-ai",
+    "rag"
+  ],
+  "summaryZh": "Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 66,
+  "totalScore": 84
+}
