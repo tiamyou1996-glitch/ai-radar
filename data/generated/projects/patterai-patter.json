@@ -1,6 +1,6 @@
 {
   "slug": "patterai-patter",
-  "featuredDate": "2026-06-09",
+  "featuredDate": "2026-06-17",
   "fullName": "PatterAI/Patter",
   "name": "Patter",
   "owner": "PatterAI",
@@ -8,12 +8,12 @@
   "homepage": "https://getpatter.com",
   "description": "Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and Plivo.",
   "language": "Python",
-  "stars": 508,
-  "forks": 53,
+  "stars": 661,
+  "forks": 69,
   "openIssues": 1,
   "createdAt": "2026-04-07T09:32:07Z",
-  "updatedAt": "2026-06-09T05:13:21Z",
-  "pushedAt": "2026-06-09T05:13:14Z",
+  "updatedAt": "2026-06-17T06:24:39Z",
+  "pushedAt": "2026-06-17T06:24:34Z",
   "topics": [
     "ai-agent",
     "ai-phone-agent",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 90,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 89
 }
