@@ -1,6 +1,6 @@
 {
   "slug": "lilac-labs-gini-agent",
-  "featuredDate": "2026-06-16",
+  "featuredDate": "2026-06-18",
   "fullName": "Lilac-Labs/gini-agent",
   "name": "gini-agent",
   "owner": "Lilac-Labs",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "The agent that remembers and learns.",
   "language": "TypeScript",
-  "stars": 428,
-  "forks": 101,
-  "openIssues": 11,
+  "stars": 476,
+  "forks": 113,
+  "openIssues": 18,
   "createdAt": "2026-05-05T21:28:15Z",
-  "updatedAt": "2026-06-16T06:30:45Z",
-  "pushedAt": "2026-06-16T06:30:42Z",
+  "updatedAt": "2026-06-18T06:00:11Z",
+  "pushedAt": "2026-06-18T05:55:44Z",
   "topics": [
     "agent",
     "agent-runtime",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 85,
   "relevanceScore": 73,
-  "totalScore": 87
+  "totalScore": 88
 }

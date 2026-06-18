@@ -1,0 +1,36 @@
+{
+  "slug": "glips-figma-context-mcp",
+  "featuredDate": "2026-06-18",
+  "fullName": "GLips/Figma-Context-MCP",
+  "name": "Figma-Context-MCP",
+  "owner": "GLips",
+  "repoUrl": "https://github.com/GLips/Figma-Context-MCP",
+  "homepage": "https://www.framelink.ai/",
+  "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+  "language": "TypeScript",
+  "stars": 15142,
+  "forks": 1197,
+  "openIssues": 16,
+  "createdAt": "2025-02-13T02:55:06Z",
+  "updatedAt": "2026-06-18T05:33:08Z",
+  "pushedAt": "2026-06-18T05:33:14Z",
+  "topics": [
+    "ai",
+    "cursor",
+    "figma",
+    "mcp",
+    "typescript"
+  ],
+  "summaryZh": "MCP server to provide Figma layout information to AI coding agents like Cursor 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

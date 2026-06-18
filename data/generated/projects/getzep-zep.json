@@ -1,0 +1,35 @@
+{
+  "slug": "getzep-zep",
+  "featuredDate": "2026-06-18",
+  "fullName": "getzep/zep",
+  "name": "zep",
+  "owner": "getzep",
+  "repoUrl": "https://github.com/getzep/zep",
+  "homepage": "https://help.getzep.com",
+  "description": "Zep | Examples, Integrations, & More",
+  "language": "Python",
+  "stars": 4679,
+  "forks": 636,
+  "openIssues": 16,
+  "createdAt": "2023-04-29T14:06:22Z",
+  "updatedAt": "2026-06-18T06:04:39Z",
+  "pushedAt": "2026-06-18T06:04:45Z",
+  "topics": [
+    "ai",
+    "knowledge-graphs",
+    "language-model",
+    "llm"
+  ],
+  "summaryZh": "Zep | Examples, Integrations, & More 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
