@@ -1,19 +1,19 @@
 {
   "slug": "yifanfeng97-hyper-extract",
-  "featuredDate": "2026-05-19",
+  "featuredDate": "2026-06-19",
   "fullName": "yifanfeng97/Hyper-Extract",
   "name": "Hyper-Extract",
   "owner": "yifanfeng97",
   "repoUrl": "https://github.com/yifanfeng97/Hyper-Extract",
   "homepage": "https://yifanfeng97.github.io/Hyper-Extract/",
-  "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+  "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
   "language": "Python",
-  "stars": 919,
-  "forks": 104,
-  "openIssues": 2,
+  "stars": 1869,
+  "forks": 210,
+  "openIssues": 1,
   "createdAt": "2026-01-07T09:44:41Z",
-  "updatedAt": "2026-05-19T05:09:09Z",
-  "pushedAt": "2026-05-19T05:09:05Z",
+  "updatedAt": "2026-06-19T06:16:45Z",
+  "pushedAt": "2026-06-19T06:08:23Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -26,7 +26,7 @@
     "python",
     "rag"
   ],
-  "summaryZh": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 92
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "rivet-dev-sandbox-agent",
+  "featuredDate": "2026-06-19",
+  "fullName": "rivet-dev/sandbox-agent",
+  "name": "sandbox-agent",
+  "owner": "rivet-dev",
+  "repoUrl": "https://github.com/rivet-dev/sandbox-agent",
+  "homepage": "https://sandboxagent.dev",
+  "description": "Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.",
+  "language": "TypeScript",
+  "stars": 1435,
+  "forks": 109,
+  "openIssues": 76,
+  "createdAt": "2026-01-25T10:03:02Z",
+  "updatedAt": "2026-06-19T06:05:45Z",
+  "pushedAt": "2026-06-19T06:05:41Z",
+  "topics": [
+    "agent",
+    "ai",
+    "amp",
+    "claude",
+    "claude-code",
+    "codex",
+    "daytona",
+    "e2b",
+    "opencode",
+    "sandbox"
+  ],
+  "summaryZh": "Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 94,
+  "relevanceScore": 62,
+  "totalScore": 89
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "rivet-dev-agent-os",
+  "featuredDate": "2026-06-19",
+  "fullName": "rivet-dev/agent-os",
+  "name": "agent-os",
+  "owner": "rivet-dev",
+  "repoUrl": "https://github.com/rivet-dev/agent-os",
+  "homepage": "https://www.rivet.dev/agent-os",
+  "description": "A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.",
+  "language": "TypeScript",
+  "stars": 3023,
+  "forks": 150,
+  "openIssues": 34,
+  "createdAt": "2024-02-07T01:06:25Z",
+  "updatedAt": "2026-06-19T06:06:33Z",
+  "pushedAt": "2026-06-19T06:06:29Z",
+  "topics": [
+    "agent",
+    "ai",
+    "javascript",
+    "llm",
+    "sandbox",
+    "v8",
+    "wasm",
+    "webassembly"
+  ],
+  "summaryZh": "A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
