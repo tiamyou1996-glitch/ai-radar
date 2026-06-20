@@ -1,19 +1,19 @@
 {
   "slug": "yilewang-llm-for-zotero",
-  "featuredDate": "2026-05-10",
+  "featuredDate": "2026-06-20",
   "fullName": "yilewang/llm-for-zotero",
   "name": "llm-for-zotero",
   "owner": "yilewang",
   "repoUrl": "https://github.com/yilewang/llm-for-zotero",
   "homepage": "https://yilewang.github.io/llm-for-zotero",
-  "description": "A research agent system deeply rooted in your own Zotero library.",
+  "description": "A research agent system deeply rooted in your Zotero library.",
   "language": "TypeScript",
-  "stars": 1171,
-  "forks": 66,
-  "openIssues": 53,
+  "stars": 1998,
+  "forks": 100,
+  "openIssues": 81,
   "createdAt": "2026-01-29T00:13:12Z",
-  "updatedAt": "2026-05-10T04:18:41Z",
-  "pushedAt": "2026-05-10T04:18:34Z",
+  "updatedAt": "2026-06-20T04:49:41Z",
+  "pushedAt": "2026-06-20T04:49:35Z",
   "topics": [
     "academic-paper",
     "codex",
@@ -25,7 +25,7 @@
     "zotero",
     "zotero-plugin"
   ],
-  "summaryZh": "A research agent system deeply rooted in your own Zotero library. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "A research agent system deeply rooted in your Zotero library. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 91
+  "totalScore": 92
 }

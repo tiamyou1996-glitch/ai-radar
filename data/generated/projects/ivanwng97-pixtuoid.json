@@ -1,0 +1,41 @@
+{
+  "slug": "ivanwng97-pixtuoid",
+  "featuredDate": "2026-06-20",
+  "fullName": "IvanWng97/pixtuoid",
+  "name": "pixtuoid",
+  "owner": "IvanWng97",
+  "repoUrl": "https://github.com/IvanWng97/pixtuoid",
+  "homepage": "https://ivanwng97.github.io/pixtuoid/",
+  "description": "Terminal pixel-art office for AI coding agents",
+  "language": "Rust",
+  "stars": 300,
+  "forks": 17,
+  "openIssues": 3,
+  "createdAt": "2026-05-21T06:05:19Z",
+  "updatedAt": "2026-06-20T04:29:18Z",
+  "pushedAt": "2026-06-20T04:30:30Z",
+  "topics": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "cli",
+    "codex",
+    "pixel-art",
+    "ratatui",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "summaryZh": "Terminal pixel-art office for AI coding agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}
