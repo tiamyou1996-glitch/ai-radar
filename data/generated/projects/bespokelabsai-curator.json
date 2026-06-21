@@ -1,0 +1,43 @@
+{
+  "slug": "bespokelabsai-curator",
+  "featuredDate": "2026-06-21",
+  "fullName": "bespokelabsai/curator",
+  "name": "curator",
+  "owner": "bespokelabsai",
+  "repoUrl": "https://github.com/bespokelabsai/curator",
+  "homepage": "https://docs.bespokelabs.ai/bespoke-curator",
+  "description": "Synthetic data curation for post-training and structured data extraction",
+  "language": "Python",
+  "stars": 1688,
+  "forks": 142,
+  "openIssues": 66,
+  "createdAt": "2024-10-28T01:11:41Z",
+  "updatedAt": "2026-06-21T06:14:11Z",
+  "pushedAt": "2026-06-21T06:14:07Z",
+  "topics": [
+    "agents",
+    "deep-learning",
+    "fine-tuning",
+    "instruction-tuning",
+    "llm",
+    "machine-learning",
+    "natural-language-processing",
+    "prompt",
+    "python",
+    "synthetic-data",
+    "synthetic-dataset-generation"
+  ],
+  "summaryZh": "Synthetic data curation for post-training and structured data extraction 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 95,
+  "relevanceScore": 69,
+  "totalScore": 88
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "sligter-landppt",
+  "featuredDate": "2026-06-21",
+  "fullName": "sligter/LandPPT",
+  "name": "LandPPT",
+  "owner": "sligter",
+  "repoUrl": "https://github.com/sligter/LandPPT",
+  "homepage": "https://landppt.com",
+  "description": "一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。",
+  "language": "Python",
+  "stars": 3427,
+  "forks": 454,
+  "openIssues": 11,
+  "createdAt": "2025-06-28T10:04:20Z",
+  "updatedAt": "2026-06-21T06:10:42Z",
+  "pushedAt": "2026-06-21T06:10:37Z",
+  "topics": [
+    "ai",
+    "llm",
+    "ppt"
+  ],
+  "summaryZh": "一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

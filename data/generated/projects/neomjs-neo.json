@@ -1,6 +1,6 @@
 {
   "slug": "neomjs-neo",
-  "featuredDate": "2026-06-20",
+  "featuredDate": "2026-06-21",
   "fullName": "neomjs/neo",
   "name": "neo",
   "owner": "neomjs",
@@ -10,10 +10,10 @@
   "language": "JavaScript",
   "stars": 3207,
   "forks": 213,
-  "openIssues": 180,
+  "openIssues": 189,
   "createdAt": "2019-11-10T23:56:02Z",
-  "updatedAt": "2026-06-20T05:22:57Z",
-  "pushedAt": "2026-06-20T05:23:00Z",
+  "updatedAt": "2026-06-21T06:08:08Z",
+  "pushedAt": "2026-06-21T06:09:25Z",
   "topics": [
     "agent-memory",
     "ai",

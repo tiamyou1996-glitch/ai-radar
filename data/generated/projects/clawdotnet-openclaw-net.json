@@ -1,6 +1,6 @@
 {
   "slug": "clawdotnet-openclaw-net",
-  "featuredDate": "2026-06-04",
+  "featuredDate": "2026-06-21",
   "fullName": "clawdotnet/openclaw.net",
   "name": "openclaw.net",
   "owner": "clawdotnet",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
   "language": "C#",
-  "stars": 360,
-  "forks": 70,
-  "openIssues": 1,
+  "stars": 410,
+  "forks": 75,
+  "openIssues": 0,
   "createdAt": "2026-02-22T03:21:36Z",
-  "updatedAt": "2026-06-04T03:21:30Z",
-  "pushedAt": "2026-06-04T05:58:46Z",
+  "updatedAt": "2026-06-21T02:54:03Z",
+  "pushedAt": "2026-06-20T23:55:12Z",
   "topics": [
     "agent-harness",
     "agent-runtime",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 73,
   "totalScore": 87
 }
