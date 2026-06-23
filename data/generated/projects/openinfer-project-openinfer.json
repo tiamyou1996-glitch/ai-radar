@@ -1,6 +1,6 @@
 {
   "slug": "openinfer-project-openinfer",
-  "featuredDate": "2026-06-17",
+  "featuredDate": "2026-06-23",
   "fullName": "openinfer-project/openinfer",
   "name": "openinfer",
   "owner": "openinfer-project",
@@ -8,12 +8,12 @@
   "homepage": "https://open-infer.org/",
   "description": "Pure Rust + CUDA LLM inference engine",
   "language": "Rust",
-  "stars": 423,
-  "forks": 56,
-  "openIssues": 64,
+  "stars": 462,
+  "forks": 66,
+  "openIssues": 63,
   "createdAt": "2026-02-17T12:01:22Z",
-  "updatedAt": "2026-06-17T06:19:50Z",
-  "pushedAt": "2026-06-17T06:19:46Z",
+  "updatedAt": "2026-06-23T05:03:59Z",
+  "pushedAt": "2026-06-23T05:03:55Z",
   "topics": [
     "inference",
     "kimi",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 62,
   "totalScore": 86
 }

@@ -1,6 +1,6 @@
 {
   "slug": "vectifyai-openkb",
-  "featuredDate": "2026-05-20",
+  "featuredDate": "2026-06-23",
   "fullName": "VectifyAI/OpenKB",
   "name": "OpenKB",
   "owner": "VectifyAI",
@@ -8,12 +8,12 @@
   "homepage": "https://pageindex.ai",
   "description": "OpenKB: Open LLM Knowledge Base",
   "language": "Python",
-  "stars": 1868,
-  "forks": 200,
-  "openIssues": 14,
+  "stars": 2619,
+  "forks": 289,
+  "openIssues": 27,
   "createdAt": "2026-04-04T12:26:04Z",
-  "updatedAt": "2026-05-20T04:29:53Z",
-  "pushedAt": "2026-05-20T04:29:17Z",
+  "updatedAt": "2026-06-23T04:46:16Z",
+  "pushedAt": "2026-06-23T04:46:12Z",
   "topics": [
     "agents",
     "ai",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 73,
   "totalScore": 92
 }

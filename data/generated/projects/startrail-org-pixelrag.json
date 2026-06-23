@@ -1,0 +1,41 @@
+{
+  "slug": "startrail-org-pixelrag",
+  "featuredDate": "2026-06-23",
+  "fullName": "StarTrail-org/PixelRAG",
+  "name": "PixelRAG",
+  "owner": "StarTrail-org",
+  "repoUrl": "https://github.com/StarTrail-org/PixelRAG",
+  "homepage": "https://pixelrag.ai/",
+  "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+  "language": "Python",
+  "stars": 3558,
+  "forks": 320,
+  "openIssues": 10,
+  "createdAt": "2026-05-29T07:25:40Z",
+  "updatedAt": "2026-06-23T05:04:24Z",
+  "pushedAt": "2026-06-23T03:48:07Z",
+  "topics": [
+    "agent",
+    "ai",
+    "memory",
+    "multimodal",
+    "rag",
+    "search",
+    "searchengine",
+    "vision",
+    "vlm"
+  ],
+  "summaryZh": "The end of web parsing. The beginning of scalable pixel-native search. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Vision"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 93
+}
