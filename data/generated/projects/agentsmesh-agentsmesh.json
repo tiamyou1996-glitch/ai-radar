@@ -1,0 +1,42 @@
+{
+  "slug": "agentsmesh-agentsmesh",
+  "featuredDate": "2026-06-24",
+  "fullName": "AgentsMesh/AgentsMesh",
+  "name": "AgentsMesh",
+  "owner": "AgentsMesh",
+  "repoUrl": "https://github.com/AgentsMesh/AgentsMesh",
+  "homepage": "https://agentsmesh.ai",
+  "description": "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console.",
+  "language": "Go",
+  "stars": 2233,
+  "forks": 223,
+  "openIssues": 17,
+  "createdAt": "2026-02-28T07:10:42Z",
+  "updatedAt": "2026-06-24T04:40:13Z",
+  "pushedAt": "2026-06-24T05:02:08Z",
+  "topics": [
+    "agent-orchestration",
+    "agentsmesh",
+    "ai-agent",
+    "ai-agent-workforce-platform",
+    "ai-coding",
+    "aider",
+    "claude-code",
+    "codex-cli",
+    "gemini-cli",
+    "multi-agent",
+    "self-hosted"
+  ],
+  "summaryZh": "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 97,
+  "relevanceScore": 62,
+  "totalScore": 90
+}

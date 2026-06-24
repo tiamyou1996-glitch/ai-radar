@@ -1,0 +1,41 @@
+{
+  "slug": "repoprompt-repoprompt-ce",
+  "featuredDate": "2026-06-24",
+  "fullName": "repoprompt/repoprompt-ce",
+  "name": "repoprompt-ce",
+  "owner": "repoprompt",
+  "repoUrl": "https://github.com/repoprompt/repoprompt-ce",
+  "homepage": "https://repoprompt.com",
+  "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+  "language": "Swift",
+  "stars": 322,
+  "forks": 70,
+  "openIssues": 68,
+  "createdAt": "2026-05-12T19:44:16Z",
+  "updatedAt": "2026-06-24T04:50:27Z",
+  "pushedAt": "2026-06-24T04:27:30Z",
+  "topics": [
+    "ai-agents",
+    "coding-agents",
+    "context-engineering",
+    "developer-tools",
+    "macos",
+    "mcp",
+    "model-context-protocol",
+    "prompt-engineering",
+    "swift"
+  ],
+  "summaryZh": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 69,
+  "totalScore": 87
+}
