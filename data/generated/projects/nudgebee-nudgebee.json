@@ -1,6 +1,6 @@
 {
   "slug": "nudgebee-nudgebee",
-  "featuredDate": "2026-06-24",
+  "featuredDate": "2026-06-25",
   "fullName": "nudgebee/nudgebee",
   "name": "nudgebee",
   "owner": "nudgebee",
@@ -9,11 +9,11 @@
   "description": "Unified CloudOps platform with AI-SRE, AI-FinOps, AI-K8sOps, and the Agentic Automation Builder without fragmented tools, context switching, or model lock-in.",
   "language": "Go",
   "stars": 375,
-  "forks": 271,
-  "openIssues": 71,
+  "forks": 272,
+  "openIssues": 53,
   "createdAt": "2026-05-07T17:58:43Z",
-  "updatedAt": "2026-06-24T05:06:10Z",
-  "pushedAt": "2026-06-24T05:06:06Z",
+  "updatedAt": "2026-06-25T05:09:44Z",
+  "pushedAt": "2026-06-25T05:09:40Z",
   "topics": [
     "agentic",
     "ai-agents",

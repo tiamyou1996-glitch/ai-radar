@@ -1,0 +1,36 @@
+{
+  "slug": "ascending-llc-jarvis-registry",
+  "featuredDate": "2026-06-25",
+  "fullName": "ascending-llc/jarvis-registry",
+  "name": "jarvis-registry",
+  "owner": "ascending-llc",
+  "repoUrl": "https://github.com/ascending-llc/jarvis-registry",
+  "homepage": "https://jarvisregistry.com",
+  "description": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
+  "language": "Python",
+  "stars": 1578,
+  "forks": 242,
+  "openIssues": 4,
+  "createdAt": "2025-10-04T01:52:24Z",
+  "updatedAt": "2026-06-25T05:07:15Z",
+  "pushedAt": "2026-06-25T05:06:40Z",
+  "topics": [
+    "agent",
+    "agent-gateway",
+    "agent-orchestration",
+    "mcp",
+    "mcp-gateway",
+    "orchestration"
+  ],
+  "summaryZh": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 95,
+  "relevanceScore": 55,
+  "totalScore": 85
+}

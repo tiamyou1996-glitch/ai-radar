@@ -1,6 +1,6 @@
 {
   "slug": "taylorsatula-mira-oss",
-  "featuredDate": "2026-05-02",
+  "featuredDate": "2026-06-25",
   "fullName": "taylorsatula/mira-OSS",
   "name": "mira-OSS",
   "owner": "taylorsatula",
@@ -8,12 +8,12 @@
   "homepage": "https://www.miraos.org",
   "description": "This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I would like to think I've made an elegant brain-in-box. You load it and send cURL requests - it talks back, learns, and uses tools. Contributions welcome.",
   "language": "Python",
-  "stars": 448,
-  "forks": 41,
-  "openIssues": 2,
+  "stars": 466,
+  "forks": 42,
+  "openIssues": 3,
   "createdAt": "2025-10-18T21:46:43Z",
-  "updatedAt": "2026-05-02T03:26:14Z",
-  "pushedAt": "2026-05-02T03:27:21Z",
+  "updatedAt": "2026-06-25T05:06:43Z",
+  "pushedAt": "2026-06-25T05:06:41Z",
   "topics": [
     "agents",
     "ai-agents",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 66,
-  "totalScore": 84
+  "totalScore": 85
 }
