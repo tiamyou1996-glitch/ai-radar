@@ -1,6 +1,6 @@
 {
   "slug": "explosivecoderflome-ai-novel-writing-assistant",
-  "featuredDate": "2026-04-20",
+  "featuredDate": "2026-06-26",
   "fullName": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
   "name": "AI-Novel-Writing-Assistant",
   "owner": "ExplosiveCoderflome",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.",
   "language": "TypeScript",
-  "stars": 696,
-  "forks": 170,
-  "openIssues": 16,
+  "stars": 1781,
+  "forks": 356,
+  "openIssues": 54,
   "createdAt": "2025-02-18T01:35:12Z",
-  "updatedAt": "2026-04-20T03:50:03Z",
-  "pushedAt": "2026-04-20T03:49:58Z",
+  "updatedAt": "2026-06-26T05:11:07Z",
+  "pushedAt": "2026-06-26T04:47:25Z",
   "topics": [
     "agent-workflow",
     "ai",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 92,
   "relevanceScore": 73,
-  "totalScore": 86
+  "totalScore": 88
 }

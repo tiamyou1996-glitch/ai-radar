@@ -1,0 +1,41 @@
+{
+  "slug": "duncatzat-vigils",
+  "featuredDate": "2026-06-26",
+  "fullName": "duncatzat/vigils",
+  "name": "vigils",
+  "owner": "duncatzat",
+  "repoUrl": "https://github.com/duncatzat/vigils",
+  "homepage": "https://vigils.ai",
+  "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+  "language": "Rust",
+  "stars": 333,
+  "forks": 20,
+  "openIssues": 1,
+  "createdAt": "2026-05-31T15:45:25Z",
+  "updatedAt": "2026-06-26T05:14:32Z",
+  "pushedAt": "2026-06-26T05:14:31Z",
+  "topics": [
+    "agent-security",
+    "ai-agents",
+    "audit-log",
+    "desktop",
+    "llm",
+    "local-first",
+    "pii",
+    "rust",
+    "sandbox",
+    "tauri"
+  ],
+  "summaryZh": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

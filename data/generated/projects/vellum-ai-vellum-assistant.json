@@ -1,6 +1,6 @@
 {
   "slug": "vellum-ai-vellum-assistant",
-  "featuredDate": "2026-06-19",
+  "featuredDate": "2026-06-26",
   "fullName": "vellum-ai/vellum-assistant",
   "name": "vellum-assistant",
   "owner": "vellum-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://vellum.ai",
   "description": "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
   "language": "TypeScript",
-  "stars": 720,
-  "forks": 108,
-  "openIssues": 120,
+  "stars": 770,
+  "forks": 114,
+  "openIssues": 130,
   "createdAt": "2026-02-07T21:19:17Z",
-  "updatedAt": "2026-06-19T06:09:11Z",
-  "pushedAt": "2026-06-19T06:18:15Z",
+  "updatedAt": "2026-06-26T05:11:28Z",
+  "pushedAt": "2026-06-26T05:11:25Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }
