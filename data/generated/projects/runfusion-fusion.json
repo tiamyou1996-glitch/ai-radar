@@ -1,6 +1,6 @@
 {
   "slug": "runfusion-fusion",
-  "featuredDate": "2026-06-20",
+  "featuredDate": "2026-06-27",
   "fullName": "Runfusion/Fusion",
   "name": "Fusion",
   "owner": "Runfusion",
@@ -8,12 +8,12 @@
   "homepage": "http://runfusion.ai",
   "description": "Multi node agent orchestrator - build faster and better",
   "language": "TypeScript",
-  "stars": 754,
-  "forks": 85,
-  "openIssues": 37,
+  "stars": 800,
+  "forks": 94,
+  "openIssues": 41,
   "createdAt": "2026-04-13T01:43:26Z",
-  "updatedAt": "2026-06-20T05:15:03Z",
-  "pushedAt": "2026-06-20T05:14:59Z",
+  "updatedAt": "2026-06-27T04:49:01Z",
+  "pushedAt": "2026-06-27T04:49:42Z",
   "topics": [
     "agent",
     "agentic-workflow",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }
