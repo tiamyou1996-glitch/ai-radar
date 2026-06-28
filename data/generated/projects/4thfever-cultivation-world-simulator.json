@@ -1,6 +1,6 @@
 {
   "slug": "4thfever-cultivation-world-simulator",
-  "featuredDate": "2026-04-05",
+  "featuredDate": "2026-06-28",
   "fullName": "4thfever/cultivation-world-simulator",
   "name": "cultivation-world-simulator",
   "owner": "4thfever",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. ",
   "language": "Python",
-  "stars": 1480,
-  "forks": 164,
-  "openIssues": 6,
+  "stars": 1901,
+  "forks": 211,
+  "openIssues": 2,
   "createdAt": "2025-08-18T15:09:49Z",
-  "updatedAt": "2026-04-05T04:02:01Z",
-  "pushedAt": "2026-04-05T04:01:55Z",
+  "updatedAt": "2026-06-28T05:35:24Z",
+  "pushedAt": "2026-06-28T05:35:20Z",
   "topics": [
     "agentic-workflow",
     "ai",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 93,
   "relevanceScore": 69,
   "totalScore": 87
 }

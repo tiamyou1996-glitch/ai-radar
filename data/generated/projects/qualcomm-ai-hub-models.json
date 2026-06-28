@@ -1,6 +1,6 @@
 {
   "slug": "qualcomm-ai-hub-models",
-  "featuredDate": "2026-06-24",
+  "featuredDate": "2026-06-28",
   "fullName": "qualcomm/ai-hub-models",
   "name": "ai-hub-models",
   "owner": "qualcomm",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 1134,
   "forks": 202,
-  "openIssues": 13,
+  "openIssues": 11,
   "createdAt": "2023-12-20T18:41:48Z",
-  "updatedAt": "2026-06-24T04:55:31Z",
-  "pushedAt": "2026-06-24T04:55:26Z",
+  "updatedAt": "2026-06-28T05:05:48Z",
+  "pushedAt": "2026-06-28T05:05:45Z",
   "topics": [
     "deeplearning",
     "demos",
