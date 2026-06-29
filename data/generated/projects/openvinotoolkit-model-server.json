@@ -1,0 +1,43 @@
+{
+  "slug": "openvinotoolkit-model-server",
+  "featuredDate": "2026-06-29",
+  "fullName": "openvinotoolkit/model_server",
+  "name": "model_server",
+  "owner": "openvinotoolkit",
+  "repoUrl": "https://github.com/openvinotoolkit/model_server",
+  "homepage": "https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html",
+  "description": "A scalable inference server for models optimized with OpenVINO™",
+  "language": "C++",
+  "stars": 892,
+  "forks": 260,
+  "openIssues": 124,
+  "createdAt": "2018-09-26T16:40:53Z",
+  "updatedAt": "2026-06-29T05:32:57Z",
+  "pushedAt": "2026-06-29T05:47:36Z",
+  "topics": [
+    "ai",
+    "cloud",
+    "dag",
+    "deep-learning",
+    "edge",
+    "genai",
+    "inference",
+    "kubernetes",
+    "machine-learning",
+    "model-serving",
+    "openvino",
+    "serving"
+  ],
+  "summaryZh": "A scalable inference server for models optimized with OpenVINO™ 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

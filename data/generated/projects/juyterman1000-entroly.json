@@ -1,6 +1,6 @@
 {
   "slug": "juyterman1000-entroly",
-  "featuredDate": "2026-06-28",
+  "featuredDate": "2026-06-29",
   "fullName": "juyterman1000/entroly",
   "name": "entroly",
   "owner": "juyterman1000",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 418,
   "forks": 66,
-  "openIssues": 1,
+  "openIssues": 0,
   "createdAt": "2026-03-07T23:03:02Z",
-  "updatedAt": "2026-06-28T05:12:16Z",
-  "pushedAt": "2026-06-28T05:12:48Z",
+  "updatedAt": "2026-06-29T05:48:40Z",
+  "pushedAt": "2026-06-29T05:49:15Z",
   "topics": [
     "ai",
     "ai-agents",

@@ -1,0 +1,39 @@
+{
+  "slug": "tigicion-dao-code",
+  "featuredDate": "2026-06-29",
+  "fullName": "tigicion/dao-code",
+  "name": "dao-code",
+  "owner": "tigicion",
+  "repoUrl": "https://github.com/tigicion/dao-code",
+  "homepage": "https://www.npmjs.com/package/dao-code",
+  "description": "Terminal coding agent that turns DeepSeek-V4's cache economics into capability — trustworthy memory (re-verified against your code), robust long tasks. MIT.",
+  "language": "TypeScript",
+  "stars": 549,
+  "forks": 7,
+  "openIssues": 3,
+  "createdAt": "2026-06-08T08:10:42Z",
+  "updatedAt": "2026-06-29T05:56:47Z",
+  "pushedAt": "2026-06-29T05:58:46Z",
+  "topics": [
+    "ai-agent",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "llm",
+    "terminal",
+    "typescript"
+  ],
+  "summaryZh": "Terminal coding agent that turns DeepSeek-V4's cache economics into capability — trustworthy memory (re-verified against your code), robust long tasks. MIT. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 69,
+  "totalScore": 88
+}

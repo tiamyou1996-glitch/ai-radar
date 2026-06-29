@@ -1,6 +1,6 @@
 {
   "slug": "semantica-agi-semantica",
-  "featuredDate": "2026-06-21",
+  "featuredDate": "2026-06-29",
   "fullName": "semantica-agi/semantica",
   "name": "semantica",
   "owner": "semantica-agi",
@@ -8,12 +8,12 @@
   "homepage": "https://getsemantica.ai",
   "description": "Semantica 🧠 • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.",
   "language": "Python",
-  "stars": 1231,
-  "forks": 185,
-  "openIssues": 8,
+  "stars": 1320,
+  "forks": 191,
+  "openIssues": 34,
   "createdAt": "2025-06-25T10:41:00Z",
-  "updatedAt": "2026-06-21T06:13:57Z",
-  "pushedAt": "2026-06-21T06:14:44Z",
+  "updatedAt": "2026-06-29T05:58:59Z",
+  "pushedAt": "2026-06-29T06:01:09Z",
   "topics": [
     "agent-memory",
     "agentic-ai",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 89
 }
