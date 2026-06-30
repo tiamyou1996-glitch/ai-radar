@@ -1,0 +1,35 @@
+{
+  "slug": "nvidia-ai-blueprints-rag",
+  "featuredDate": "2026-06-30",
+  "fullName": "NVIDIA-AI-Blueprints/rag",
+  "name": "rag",
+  "owner": "NVIDIA-AI-Blueprints",
+  "repoUrl": "https://github.com/NVIDIA-AI-Blueprints/rag",
+  "homepage": "https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline",
+  "description": "This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.",
+  "language": "Python",
+  "stars": 683,
+  "forks": 291,
+  "openIssues": 46,
+  "createdAt": "2024-12-11T22:26:46Z",
+  "updatedAt": "2026-06-30T05:07:07Z",
+  "pushedAt": "2026-06-30T05:07:04Z",
+  "topics": [
+    "blueprint",
+    "nim",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "summaryZh": "This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

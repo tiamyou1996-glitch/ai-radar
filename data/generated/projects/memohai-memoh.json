@@ -1,19 +1,19 @@
 {
   "slug": "memohai-memoh",
-  "featuredDate": "2026-06-19",
+  "featuredDate": "2026-06-30",
   "fullName": "memohai/Memoh",
   "name": "Memoh",
   "owner": "memohai",
   "repoUrl": "https://github.com/memohai/Memoh",
   "homepage": "https://memoh.ai",
-  "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. ",
+  "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
   "language": "Go",
-  "stars": 1928,
-  "forks": 180,
+  "stars": 1978,
+  "forks": 185,
   "openIssues": 16,
   "createdAt": "2026-01-12T09:27:39Z",
-  "updatedAt": "2026-06-19T06:09:25Z",
-  "pushedAt": "2026-06-19T06:25:41Z",
+  "updatedAt": "2026-06-30T05:04:10Z",
+  "pushedAt": "2026-06-30T05:04:05Z",
   "topics": [
     "agent",
     "ai",
@@ -21,15 +21,16 @@
     "ai-memory",
     "personal-assistant"
   ],
-  "summaryZh": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
-    "Agent"
+    "Agent",
+    "Coding"
   ],
   "source": "github",
   "trendScore": 98,
   "qualityScore": 96,
-  "relevanceScore": 55,
-  "totalScore": 88
+  "relevanceScore": 62,
+  "totalScore": 89
 }

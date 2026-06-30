@@ -1,6 +1,6 @@
 {
   "slug": "lnyo-cly-ai4j",
-  "featuredDate": "2026-06-23",
+  "featuredDate": "2026-06-30",
   "fullName": "LnYo-Cly/ai4j",
   "name": "ai4j",
   "owner": "LnYo-Cly",
@@ -12,8 +12,8 @@
   "forks": 55,
   "openIssues": 2,
   "createdAt": "2024-08-17T08:59:56Z",
-  "updatedAt": "2026-06-23T04:42:50Z",
-  "pushedAt": "2026-06-23T04:42:45Z",
+  "updatedAt": "2026-06-30T04:46:56Z",
+  "pushedAt": "2026-06-30T04:47:07Z",
   "topics": [
     "agent",
     "chatglm",

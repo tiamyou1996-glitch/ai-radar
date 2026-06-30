@@ -1,19 +1,19 @@
 {
   "slug": "xintaofei-codeg",
-  "featuredDate": "2026-06-28",
+  "featuredDate": "2026-06-30",
   "fullName": "xintaofei/codeg",
   "name": "codeg",
   "owner": "xintaofei",
   "repoUrl": "https://github.com/xintaofei/codeg",
   "homepage": null,
-  "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, etc. Desktop app, self-hosted server, or Docker.",
+  "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, etc. Desktop app, self-hosted server, or Docker.",
   "language": "TypeScript",
-  "stars": 1834,
-  "forks": 217,
-  "openIssues": 80,
+  "stars": 1866,
+  "forks": 222,
+  "openIssues": 83,
   "createdAt": "2026-02-09T09:22:50Z",
-  "updatedAt": "2026-06-28T05:11:26Z",
-  "pushedAt": "2026-06-28T05:11:22Z",
+  "updatedAt": "2026-06-30T05:14:51Z",
+  "pushedAt": "2026-06-30T05:14:53Z",
   "topics": [
     "acp",
     "agent",
@@ -30,7 +30,7 @@
     "telegram",
     "worktree"
   ],
-  "summaryZh": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, etc. Desktop app, self-hosted server, or Docker. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, etc. Desktop app, self-hosted server, or Docker. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 90
 }
