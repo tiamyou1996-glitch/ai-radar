@@ -1,6 +1,6 @@
 {
   "slug": "tenstorrent-tt-metal",
-  "featuredDate": "2026-06-14",
+  "featuredDate": "2026-07-01",
   "fullName": "tenstorrent/tt-metal",
   "name": "tt-metal",
   "owner": "tenstorrent",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.tenstorrent.com/tt-metal/latest/ttnn/",
   "description": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",
   "language": "C++",
-  "stars": 1513,
-  "forks": 490,
-  "openIssues": 5287,
+  "stars": 1558,
+  "forks": 517,
+  "openIssues": 5450,
   "createdAt": "2023-02-13T15:30:05Z",
-  "updatedAt": "2026-06-14T06:00:08Z",
-  "pushedAt": "2026-06-14T05:54:03Z",
+  "updatedAt": "2026-07-01T05:48:19Z",
+  "pushedAt": "2026-07-01T05:48:17Z",
   "topics": [
     "accelerator",
     "ai",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 95,
   "relevanceScore": 65,
   "totalScore": 87
 }

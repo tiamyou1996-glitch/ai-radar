@@ -1,0 +1,43 @@
+{
+  "slug": "lvcidpsyche-auto-browser",
+  "featuredDate": "2026-07-01",
+  "fullName": "LvcidPsyche/auto-browser",
+  "name": "auto-browser",
+  "owner": "LvcidPsyche",
+  "repoUrl": "https://github.com/LvcidPsyche/auto-browser",
+  "homepage": "https://github.com/LvcidPsyche/auto-browser",
+  "description": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
+  "language": "Python",
+  "stars": 659,
+  "forks": 101,
+  "openIssues": 3,
+  "createdAt": "2026-03-09T06:16:49Z",
+  "updatedAt": "2026-07-01T05:45:01Z",
+  "pushedAt": "2026-07-01T05:44:59Z",
+  "topics": [
+    "ai-agent",
+    "ai-agents",
+    "browser-automation",
+    "claude",
+    "docker",
+    "fastapi",
+    "llm",
+    "local-first",
+    "mcp",
+    "novnc",
+    "playwright",
+    "self-hosted"
+  ],
+  "summaryZh": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 87
+}
