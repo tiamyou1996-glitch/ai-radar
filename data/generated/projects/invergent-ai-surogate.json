@@ -1,6 +1,6 @@
 {
   "slug": "invergent-ai-surogate",
-  "featuredDate": "2026-06-27",
+  "featuredDate": "2026-07-02",
   "fullName": "invergent-ai/surogate",
   "name": "surogate",
   "owner": "invergent-ai",
@@ -12,8 +12,8 @@
   "forks": 5,
   "openIssues": 6,
   "createdAt": "2026-01-02T06:32:04Z",
-  "updatedAt": "2026-06-27T05:00:34Z",
-  "pushedAt": "2026-06-27T05:00:30Z",
+  "updatedAt": "2026-07-02T05:06:11Z",
+  "pushedAt": "2026-07-02T05:06:06Z",
   "topics": [
     "cuda",
     "deep-learning",
@@ -33,8 +33,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 91,
   "relevanceScore": 51,
-  "totalScore": 85
+  "totalScore": 83
 }

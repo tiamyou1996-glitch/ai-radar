@@ -1,6 +1,6 @@
 {
   "slug": "chrisryugj-docufinder",
-  "featuredDate": "2026-06-05",
+  "featuredDate": "2026-07-02",
   "fullName": "chrisryugj/Docufinder",
   "name": "Docufinder",
   "owner": "chrisryugj",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션 (Tauri · React · Rust) | Local content search for Korean PCs — HWP-first, fully offline",
   "language": "Rust",
-  "stars": 338,
-  "forks": 33,
-  "openIssues": 2,
+  "stars": 405,
+  "forks": 51,
+  "openIssues": 1,
   "createdAt": "2026-01-15T11:51:32Z",
-  "updatedAt": "2026-06-05T05:43:12Z",
-  "pushedAt": "2026-06-05T05:43:52Z",
+  "updatedAt": "2026-07-02T05:06:26Z",
+  "pushedAt": "2026-07-02T05:07:06Z",
   "topics": [
     "desktop-app",
     "document-search",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 55,
   "totalScore": 83
 }

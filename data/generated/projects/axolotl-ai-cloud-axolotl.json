@@ -1,6 +1,6 @@
 {
   "slug": "axolotl-ai-cloud-axolotl",
-  "featuredDate": "2026-05-29",
+  "featuredDate": "2026-07-02",
   "fullName": "axolotl-ai-cloud/axolotl",
   "name": "axolotl",
   "owner": "axolotl-ai-cloud",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.axolotl.ai",
   "description": "Go ahead and axolotl questions",
   "language": "Python",
-  "stars": 11975,
-  "forks": 1354,
-  "openIssues": 213,
+  "stars": 12131,
+  "forks": 1378,
+  "openIssues": 233,
   "createdAt": "2023-04-14T04:25:47Z",
-  "updatedAt": "2026-05-29T05:15:52Z",
-  "pushedAt": "2026-05-29T05:15:50Z",
+  "updatedAt": "2026-07-02T05:06:45Z",
+  "pushedAt": "2026-07-02T05:06:42Z",
   "topics": [
     "fine-tuning",
     "llm"

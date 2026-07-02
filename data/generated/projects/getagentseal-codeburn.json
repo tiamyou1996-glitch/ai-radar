@@ -1,19 +1,19 @@
 {
   "slug": "getagentseal-codeburn",
-  "featuredDate": "2026-06-07",
+  "featuredDate": "2026-07-02",
   "fullName": "getagentseal/codeburn",
   "name": "codeburn",
   "owner": "getagentseal",
   "repoUrl": "https://github.com/getagentseal/codeburn",
   "homepage": "https://codeburn.app/",
-  "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+  "description": "Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
   "language": "TypeScript",
-  "stars": 7703,
-  "forks": 587,
-  "openIssues": 43,
+  "stars": 8377,
+  "forks": 656,
+  "openIssues": 31,
   "createdAt": "2026-04-13T22:11:53Z",
-  "updatedAt": "2026-06-07T05:29:46Z",
-  "pushedAt": "2026-06-07T05:29:44Z",
+  "updatedAt": "2026-07-02T05:01:36Z",
+  "pushedAt": "2026-07-02T04:42:37Z",
   "topics": [
     "ai-coding",
     "claude-code",
@@ -26,16 +26,17 @@
     "terminal-ui",
     "token-usage"
   ],
-  "summaryZh": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Coding"
+    "Coding",
+    "Model"
   ],
   "source": "github",
   "trendScore": 98,
   "qualityScore": 98,
-  "relevanceScore": 62,
-  "totalScore": 90
+  "relevanceScore": 69,
+  "totalScore": 92
 }
