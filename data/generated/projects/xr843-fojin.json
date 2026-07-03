@@ -1,19 +1,19 @@
 {
   "slug": "xr843-fojin",
-  "featuredDate": "2026-06-24",
+  "featuredDate": "2026-07-03",
   "fullName": "xr843/fojin",
   "name": "fojin",
   "owner": "xr843",
   "repoUrl": "https://github.com/xr843/fojin",
   "homepage": "https://fojin.app",
-  "description": "Buddhist Digital Text Platform — 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text search",
+  "description": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
   "language": "Python",
-  "stars": 316,
-  "forks": 56,
-  "openIssues": 8,
+  "stars": 321,
+  "forks": 59,
+  "openIssues": 5,
   "createdAt": "2026-03-10T14:05:37Z",
-  "updatedAt": "2026-06-24T05:00:54Z",
-  "pushedAt": "2026-06-24T05:00:51Z",
+  "updatedAt": "2026-07-03T04:33:16Z",
+  "pushedAt": "2026-07-03T04:44:09Z",
   "topics": [
     "ai",
     "buddhism",
@@ -35,7 +35,7 @@
     "semantic-search",
     "tibetan"
   ],
-  "summaryZh": "Buddhist Digital Text Platform — 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text search 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 55,
   "totalScore": 84
 }

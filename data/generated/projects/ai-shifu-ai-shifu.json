@@ -1,0 +1,36 @@
+{
+  "slug": "ai-shifu-ai-shifu",
+  "featuredDate": "2026-07-03",
+  "fullName": "ai-shifu/ai-shifu",
+  "name": "ai-shifu",
+  "owner": "ai-shifu",
+  "repoUrl": "https://github.com/ai-shifu/ai-shifu",
+  "homepage": "https://ai-shifu.com",
+  "description": "Get AI to teach and answer questions for you - just by typing!",
+  "language": "Python",
+  "stars": 301,
+  "forks": 111,
+  "openIssues": 39,
+  "createdAt": "2024-07-23T08:55:10Z",
+  "updatedAt": "2026-07-03T04:41:56Z",
+  "pushedAt": "2026-07-03T04:50:15Z",
+  "topics": [
+    "agent",
+    "ai",
+    "education",
+    "llm",
+    "teaching-assistant"
+  ],
+  "summaryZh": "Get AI to teach and answer questions for you - just by typing! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 83
+}

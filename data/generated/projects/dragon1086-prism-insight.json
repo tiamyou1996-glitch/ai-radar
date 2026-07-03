@@ -1,0 +1,37 @@
+{
+  "slug": "dragon1086-prism-insight",
+  "featuredDate": "2026-07-03",
+  "fullName": "dragon1086/prism-insight",
+  "name": "prism-insight",
+  "owner": "dragon1086",
+  "repoUrl": "https://github.com/dragon1086/prism-insight",
+  "homepage": "https://prism-insight-landing.vercel.app/",
+  "description": "AI-based stock analysis and trading system",
+  "language": "Python",
+  "stars": 669,
+  "forks": 233,
+  "openIssues": 3,
+  "createdAt": "2025-08-15T07:32:09Z",
+  "updatedAt": "2026-07-03T04:48:24Z",
+  "pushedAt": "2026-07-03T04:48:21Z",
+  "topics": [
+    "ai",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "stock"
+  ],
+  "summaryZh": "AI-based stock analysis and trading system 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 73,
+  "totalScore": 87
+}
