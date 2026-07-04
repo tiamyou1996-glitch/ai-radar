@@ -1,0 +1,39 @@
+{
+  "slug": "uzairansaruzi-hermex",
+  "featuredDate": "2026-07-04",
+  "fullName": "uzairansaruzi/hermex",
+  "name": "hermex",
+  "owner": "uzairansaruzi",
+  "repoUrl": "https://github.com/uzairansaruzi/hermex",
+  "homepage": "https://hermexapp.com/",
+  "description": "Native iPhone app for your Hermes agent",
+  "language": "Swift",
+  "stars": 460,
+  "forks": 52,
+  "openIssues": 33,
+  "createdAt": "2026-07-02T12:47:31Z",
+  "updatedAt": "2026-07-04T04:43:41Z",
+  "pushedAt": "2026-07-04T04:43:16Z",
+  "topics": [
+    "hermes",
+    "hermes-agent",
+    "hermex",
+    "ios",
+    "llm",
+    "self-hosted",
+    "swift",
+    "swiftui"
+  ],
+  "summaryZh": "Native iPhone app for your Hermes agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

@@ -1,19 +1,19 @@
 {
   "slug": "team-commonly-commonly",
-  "featuredDate": "2026-05-13",
+  "featuredDate": "2026-07-04",
   "fullName": "Team-Commonly/commonly",
   "name": "commonly",
   "owner": "Team-Commonly",
   "repoUrl": "https://github.com/Team-Commonly/commonly",
-  "homepage": "https://app-dev.commonly.me",
-  "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+  "homepage": "https://commonly.me",
+  "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees.",
   "language": "TypeScript",
-  "stars": 496,
-  "forks": 63,
-  "openIssues": 9,
+  "stars": 1023,
+  "forks": 149,
+  "openIssues": 33,
   "createdAt": "2025-02-03T02:13:30Z",
-  "updatedAt": "2026-05-13T04:53:29Z",
-  "pushedAt": "2026-05-13T04:53:24Z",
+  "updatedAt": "2026-07-04T04:37:29Z",
+  "pushedAt": "2026-07-04T04:37:26Z",
   "topics": [
     "agent-framework",
     "agent-harness",
@@ -35,17 +35,17 @@
     "openclaw",
     "self-hosted"
   ],
-  "summaryZh": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
     "Coding",
-    "Model"
+    "Infra"
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 88,
-  "relevanceScore": 69,
-  "totalScore": 86
+  "qualityScore": 92,
+  "relevanceScore": 73,
+  "totalScore": 88
 }
