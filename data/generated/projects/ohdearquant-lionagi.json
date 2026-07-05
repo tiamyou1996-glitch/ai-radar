@@ -1,0 +1,38 @@
+{
+  "slug": "ohdearquant-lionagi",
+  "featuredDate": "2026-07-05",
+  "fullName": "ohdearquant/lionagi",
+  "name": "lionagi",
+  "owner": "ohdearquant",
+  "repoUrl": "https://github.com/ohdearquant/lionagi",
+  "homepage": null,
+  "description": "An intelligence orchestra",
+  "language": "Python",
+  "stars": 399,
+  "forks": 76,
+  "openIssues": 80,
+  "createdAt": "2023-10-17T03:10:02Z",
+  "updatedAt": "2026-07-05T04:59:42Z",
+  "pushedAt": "2026-07-05T05:01:17Z",
+  "topics": [
+    "agents",
+    "ai",
+    "automation",
+    "data",
+    "llm",
+    "machine-learning",
+    "workflow"
+  ],
+  "summaryZh": "An intelligence orchestra 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 84,
+  "relevanceScore": 62,
+  "totalScore": 83
+}

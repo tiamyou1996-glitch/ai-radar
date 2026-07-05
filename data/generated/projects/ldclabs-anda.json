@@ -1,6 +1,6 @@
 {
   "slug": "ldclabs-anda",
-  "featuredDate": "2026-06-12",
+  "featuredDate": "2026-07-05",
   "fullName": "ldclabs/anda",
   "name": "anda",
   "owner": "ldclabs",
@@ -8,12 +8,12 @@
   "homepage": "https://anda.ai",
   "description": "🤖 An AI agent framework built with Rust.",
   "language": "Rust",
-  "stars": 432,
+  "stars": 436,
   "forks": 54,
   "openIssues": 0,
   "createdAt": "2025-01-03T04:53:06Z",
-  "updatedAt": "2026-06-12T05:54:02Z",
-  "pushedAt": "2026-06-12T05:53:58Z",
+  "updatedAt": "2026-07-05T04:51:00Z",
+  "pushedAt": "2026-07-05T04:51:20Z",
   "topics": [
     "agent",
     "agi",
