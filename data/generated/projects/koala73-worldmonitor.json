@@ -1,0 +1,43 @@
+{
+  "slug": "koala73-worldmonitor",
+  "featuredDate": "2026-07-06",
+  "fullName": "koala73/worldmonitor",
+  "name": "worldmonitor",
+  "owner": "koala73",
+  "repoUrl": "https://github.com/koala73/worldmonitor",
+  "homepage": "https://worldmonitor.app",
+  "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+  "language": "TypeScript",
+  "stars": 61414,
+  "forks": 9558,
+  "openIssues": 201,
+  "createdAt": "2026-01-08T17:26:06Z",
+  "updatedAt": "2026-07-06T05:15:42Z",
+  "pushedAt": "2026-07-06T05:18:46Z",
+  "topics": [
+    "agent",
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "mcp",
+    "mcp-server",
+    "monitoring",
+    "news",
+    "opensource",
+    "osint",
+    "palantir",
+    "situation"
+  ],
+  "summaryZh": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 66,
+  "totalScore": 91
+}

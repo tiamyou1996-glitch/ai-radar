@@ -1,0 +1,38 @@
+{
+  "slug": "kyegomez-bitnet",
+  "featuredDate": "2026-07-06",
+  "fullName": "kyegomez/BitNet",
+  "name": "BitNet",
+  "owner": "kyegomez",
+  "repoUrl": "https://github.com/kyegomez/BitNet",
+  "homepage": "https://discord.gg/qUtxnK2NMf",
+  "description": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+  "language": "Python",
+  "stars": 1940,
+  "forks": 172,
+  "openIssues": 5,
+  "createdAt": "2023-10-18T16:19:06Z",
+  "updatedAt": "2026-07-06T03:55:15Z",
+  "pushedAt": "2026-07-06T00:24:30Z",
+  "topics": [
+    "artificial-intelligence",
+    "deep-neural-networks",
+    "deeplearning",
+    "gpt4",
+    "machine-learning",
+    "multimodal",
+    "multimodal-deep-learning"
+  ],
+  "summaryZh": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 58,
+  "totalScore": 86
+}
