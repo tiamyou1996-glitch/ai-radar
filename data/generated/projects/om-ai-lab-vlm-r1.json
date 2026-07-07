@@ -1,0 +1,41 @@
+{
+  "slug": "om-ai-lab-vlm-r1",
+  "featuredDate": "2026-07-07",
+  "fullName": "om-ai-lab/VLM-R1",
+  "name": "VLM-R1",
+  "owner": "om-ai-lab",
+  "repoUrl": "https://github.com/om-ai-lab/VLM-R1",
+  "homepage": null,
+  "description": "Solve Visual Understanding with Reinforced VLMs",
+  "language": "Python",
+  "stars": 6002,
+  "forks": 383,
+  "openIssues": 166,
+  "createdAt": "2025-02-06T16:12:30Z",
+  "updatedAt": "2026-07-07T01:50:34Z",
+  "pushedAt": "2026-07-07T01:50:29Z",
+  "topics": [
+    "deepseek-r1",
+    "grpo",
+    "llm",
+    "multimodal",
+    "multimodal-r1",
+    "qwen",
+    "r1-zero",
+    "reinforcement-learning",
+    "vlm",
+    "vlm-r1"
+  ],
+  "summaryZh": "Solve Visual Understanding with Reinforced VLMs 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 87
+}
