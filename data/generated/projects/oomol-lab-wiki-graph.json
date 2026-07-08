@@ -1,0 +1,40 @@
+{
+  "slug": "oomol-lab-wiki-graph",
+  "featuredDate": "2026-07-08",
+  "fullName": "oomol-lab/wiki-graph",
+  "name": "wiki-graph",
+  "owner": "oomol-lab",
+  "repoUrl": "https://github.com/oomol-lab/wiki-graph",
+  "homepage": "https://inkora.oomol.com/download/sdpub",
+  "description": "distill any book down to its spine",
+  "language": "TypeScript",
+  "stars": 326,
+  "forks": 29,
+  "openIssues": 5,
+  "createdAt": "2026-04-09T02:44:01Z",
+  "updatedAt": "2026-07-08T04:24:21Z",
+  "pushedAt": "2026-07-08T04:24:18Z",
+  "topics": [
+    "ai-agents",
+    "cli",
+    "jinja2",
+    "knowledge-graph",
+    "llm",
+    "sdpub",
+    "summarization",
+    "typescript"
+  ],
+  "summaryZh": "distill any book down to its spine 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 73,
+  "totalScore": 88
+}

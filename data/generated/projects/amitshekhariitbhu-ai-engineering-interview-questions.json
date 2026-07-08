@@ -1,6 +1,6 @@
 {
   "slug": "amitshekhariitbhu-ai-engineering-interview-questions",
-  "featuredDate": "2026-05-30",
+  "featuredDate": "2026-07-08",
   "fullName": "amitshekhariitbhu/ai-engineering-interview-questions",
   "name": "ai-engineering-interview-questions",
   "owner": "amitshekhariitbhu",
@@ -8,12 +8,12 @@
   "homepage": "https://outcomeschool.com/program/ai-and-machine-learning",
   "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
   "language": "Markdown",
-  "stars": 1677,
-  "forks": 314,
+  "stars": 2088,
+  "forks": 383,
   "openIssues": 1,
   "createdAt": "2026-03-21T07:28:38Z",
-  "updatedAt": "2026-05-30T04:45:57Z",
-  "pushedAt": "2026-05-30T04:45:53Z",
+  "updatedAt": "2026-07-08T04:14:49Z",
+  "pushedAt": "2026-07-08T04:14:44Z",
   "topics": [
     "agents",
     "ai",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 91
+  "totalScore": 92
 }

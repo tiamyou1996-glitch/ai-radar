@@ -1,6 +1,6 @@
 {
   "slug": "headroomlabs-ai-headroom",
-  "featuredDate": "2026-07-03",
+  "featuredDate": "2026-07-08",
   "fullName": "headroomlabs-ai/headroom",
   "name": "headroom",
   "owner": "headroomlabs-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://headroom-docs.vercel.app/docs",
   "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
   "language": "Python",
-  "stars": 55909,
-  "forks": 4064,
-  "openIssues": 491,
+  "stars": 57608,
+  "forks": 4248,
+  "openIssues": 523,
   "createdAt": "2026-01-07T19:58:51Z",
-  "updatedAt": "2026-07-03T04:44:13Z",
-  "pushedAt": "2026-07-03T04:50:13Z",
+  "updatedAt": "2026-07-08T04:24:46Z",
+  "pushedAt": "2026-07-08T04:24:42Z",
   "topics": [
     "agent",
     "ai",
@@ -45,8 +45,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 93
+  "totalScore": 90
 }
