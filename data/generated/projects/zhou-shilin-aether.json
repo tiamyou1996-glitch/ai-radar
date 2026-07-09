@@ -1,0 +1,37 @@
+{
+  "slug": "zhou-shilin-aether",
+  "featuredDate": "2026-07-09",
+  "fullName": "Zhou-Shilin/Aether",
+  "name": "Aether",
+  "owner": "Zhou-Shilin",
+  "repoUrl": "https://github.com/Zhou-Shilin/Aether",
+  "homepage": "https://aether.baimoqilin.com",
+  "description": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇",
+  "language": "Kotlin",
+  "stars": 327,
+  "forks": 16,
+  "openIssues": 3,
+  "createdAt": "2026-04-25T13:22:24Z",
+  "updatedAt": "2026-07-09T04:57:02Z",
+  "pushedAt": "2026-07-09T04:56:58Z",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "ai-agents",
+    "android-application",
+    "llm"
+  ],
+  "summaryZh": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

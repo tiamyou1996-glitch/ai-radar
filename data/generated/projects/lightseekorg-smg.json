@@ -1,6 +1,6 @@
 {
   "slug": "lightseekorg-smg",
-  "featuredDate": "2026-06-16",
+  "featuredDate": "2026-07-09",
   "fullName": "lightseekorg/smg",
   "name": "smg",
   "owner": "lightseekorg",
@@ -8,12 +8,12 @@
   "homepage": "https://lightseek.org/smg",
   "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
   "language": "Rust",
-  "stars": 333,
-  "forks": 98,
-  "openIssues": 94,
+  "stars": 380,
+  "forks": 111,
+  "openIssues": 73,
   "createdAt": "2025-11-22T05:17:14Z",
-  "updatedAt": "2026-06-16T06:36:22Z",
-  "pushedAt": "2026-06-16T06:36:20Z",
+  "updatedAt": "2026-07-09T05:01:05Z",
+  "pushedAt": "2026-07-09T05:00:58Z",
   "topics": [
     "anthropic",
     "anthropic-api",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 73,
   "totalScore": 86
 }
