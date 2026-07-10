@@ -1,6 +1,6 @@
 {
   "slug": "koala73-worldmonitor",
-  "featuredDate": "2026-07-06",
+  "featuredDate": "2026-07-10",
   "fullName": "koala73/worldmonitor",
   "name": "worldmonitor",
   "owner": "koala73",
@@ -8,12 +8,12 @@
   "homepage": "https://worldmonitor.app",
   "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
   "language": "TypeScript",
-  "stars": 61414,
-  "forks": 9558,
-  "openIssues": 201,
+  "stars": 61655,
+  "forks": 9605,
+  "openIssues": 204,
   "createdAt": "2026-01-08T17:26:06Z",
-  "updatedAt": "2026-07-06T05:15:42Z",
-  "pushedAt": "2026-07-06T05:18:46Z",
+  "updatedAt": "2026-07-10T04:56:31Z",
+  "pushedAt": "2026-07-10T05:02:01Z",
   "topics": [
     "agent",
     "ai",
@@ -36,8 +36,8 @@
     "Infra"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 66,
-  "totalScore": 91
+  "totalScore": 88
 }

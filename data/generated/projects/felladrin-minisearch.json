@@ -1,6 +1,6 @@
 {
   "slug": "felladrin-minisearch",
-  "featuredDate": "2026-07-02",
+  "featuredDate": "2026-07-10",
   "fullName": "felladrin/MiniSearch",
   "name": "MiniSearch",
   "owner": "felladrin",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 575,
   "forks": 57,
-  "openIssues": 1,
+  "openIssues": 0,
   "createdAt": "2023-10-14T12:23:56Z",
-  "updatedAt": "2026-07-02T04:55:28Z",
-  "pushedAt": "2026-07-02T04:55:54Z",
+  "updatedAt": "2026-07-10T04:41:56Z",
+  "pushedAt": "2026-07-10T04:41:54Z",
   "topics": [
     "ai",
     "ai-search-engine",

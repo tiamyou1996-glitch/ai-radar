@@ -1,19 +1,19 @@
 {
   "slug": "automagik-dev-genie",
-  "featuredDate": "2026-05-10",
+  "featuredDate": "2026-07-10",
   "fullName": "automagik-dev/genie",
   "name": "genie",
   "owner": "automagik-dev",
   "repoUrl": "https://github.com/automagik-dev/genie",
-  "homepage": "https://www.npmjs.com/package/@automagik/genie",
+  "homepage": "https://docs.automagik.dev/genie",
   "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
   "language": "TypeScript",
-  "stars": 311,
-  "forks": 49,
-  "openIssues": 46,
+  "stars": 322,
+  "forks": 53,
+  "openIssues": 53,
   "createdAt": "2025-08-01T02:00:02Z",
-  "updatedAt": "2026-05-10T04:36:06Z",
-  "pushedAt": "2026-05-10T04:36:01Z",
+  "updatedAt": "2026-07-10T05:01:02Z",
+  "pushedAt": "2026-07-10T05:01:04Z",
   "topics": [
     "ai-agents",
     "ai-developer-tools",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 69,
-  "totalScore": 84
+  "totalScore": 85
 }

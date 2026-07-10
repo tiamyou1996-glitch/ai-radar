@@ -1,0 +1,43 @@
+{
+  "slug": "thousandbirdsinc-chidori",
+  "featuredDate": "2026-07-10",
+  "fullName": "ThousandBirdsInc/chidori",
+  "name": "chidori",
+  "owner": "ThousandBirdsInc",
+  "repoUrl": "https://github.com/ThousandBirdsInc/chidori",
+  "homepage": "https://docs.thousandbirds.ai",
+  "description": "The agent framework where every run is durable, replayable, and resumable by default.",
+  "language": "Rust",
+  "stars": 1358,
+  "forks": 56,
+  "openIssues": 2,
+  "createdAt": "2023-07-19T23:21:46Z",
+  "updatedAt": "2026-07-10T05:01:11Z",
+  "pushedAt": "2026-07-10T05:01:04Z",
+  "topics": [
+    "agent-framework",
+    "agents",
+    "ai",
+    "checkpointing",
+    "deterministic",
+    "durable-execution",
+    "javascript-engine",
+    "llm",
+    "replay",
+    "resumable",
+    "rust",
+    "typescript"
+  ],
+  "summaryZh": "The agent framework where every run is durable, replayable, and resumable by default. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
