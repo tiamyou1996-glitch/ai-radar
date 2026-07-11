@@ -1,6 +1,6 @@
 {
   "slug": "dicklesworthstone-ntm",
-  "featuredDate": "2026-06-27",
+  "featuredDate": "2026-07-11",
   "fullName": "Dicklesworthstone/ntm",
   "name": "ntm",
   "owner": "Dicklesworthstone",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette",
   "language": "Go",
-  "stars": 371,
-  "forks": 54,
-  "openIssues": 0,
+  "stars": 382,
+  "forks": 55,
+  "openIssues": 3,
   "createdAt": "2025-12-10T07:02:48Z",
-  "updatedAt": "2026-06-27T04:00:52Z",
-  "pushedAt": "2026-06-27T04:00:49Z",
+  "updatedAt": "2026-07-11T04:12:55Z",
+  "pushedAt": "2026-07-11T04:12:41Z",
   "topics": [
     "ai-agents",
     "cli",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 62,
-  "totalScore": 82
+  "totalScore": 83
 }

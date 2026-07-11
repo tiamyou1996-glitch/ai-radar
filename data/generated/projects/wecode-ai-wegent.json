@@ -1,6 +1,6 @@
 {
   "slug": "wecode-ai-wegent",
-  "featuredDate": "2026-07-01",
+  "featuredDate": "2026-07-11",
   "fullName": "wecode-ai/Wegent",
   "name": "Wegent",
   "owner": "wecode-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://wecode-ai.github.io/wegent-docs",
   "description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
   "language": "Python",
-  "stars": 602,
-  "forks": 103,
-  "openIssues": 58,
+  "stars": 637,
+  "forks": 111,
+  "openIssues": 63,
   "createdAt": "2026-01-10T15:42:57Z",
-  "updatedAt": "2026-07-01T05:41:14Z",
-  "pushedAt": "2026-07-01T05:41:11Z",
+  "updatedAt": "2026-07-11T04:00:26Z",
+  "pushedAt": "2026-07-11T04:20:13Z",
   "topics": [
     "agent",
     "ai",
@@ -34,8 +34,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 89,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 86
 }

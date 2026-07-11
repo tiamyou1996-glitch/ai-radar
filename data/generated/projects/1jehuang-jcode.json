@@ -1,21 +1,23 @@
 {
   "slug": "1jehuang-jcode",
-  "featuredDate": "2026-07-03",
+  "featuredDate": "2026-07-11",
   "fullName": "1jehuang/jcode",
   "name": "jcode",
   "owner": "1jehuang",
   "repoUrl": "https://github.com/1jehuang/jcode",
-  "homepage": null,
+  "homepage": "https://solosystems.dev/jcode",
   "description": "Coding Agent Harness",
   "language": "Rust",
-  "stars": 8104,
-  "forks": 908,
-  "openIssues": 84,
+  "stars": 8282,
+  "forks": 941,
+  "openIssues": 86,
   "createdAt": "2026-01-05T09:43:36Z",
-  "updatedAt": "2026-07-03T04:52:24Z",
-  "pushedAt": "2026-07-03T04:52:18Z",
+  "updatedAt": "2026-07-11T04:16:28Z",
+  "pushedAt": "2026-07-11T04:16:23Z",
   "topics": [
     "ai",
+    "ai-agent",
+    "ai-coding-agent",
     "claude",
     "cli",
     "coding-agent",
@@ -35,8 +37,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 92
+  "totalScore": 89
 }
