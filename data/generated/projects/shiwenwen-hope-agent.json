@@ -1,6 +1,6 @@
 {
   "slug": "shiwenwen-hope-agent",
-  "featuredDate": "2026-06-21",
+  "featuredDate": "2026-07-12",
   "fullName": "shiwenwen/hope-agent",
   "name": "hope-agent",
   "owner": "shiwenwen",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud",
   "language": "Rust",
-  "stars": 1013,
-  "forks": 94,
-  "openIssues": 5,
+  "stars": 1155,
+  "forks": 102,
+  "openIssues": 9,
   "createdAt": "2026-03-13T15:57:46Z",
-  "updatedAt": "2026-06-21T06:06:37Z",
-  "pushedAt": "2026-06-21T06:07:36Z",
+  "updatedAt": "2026-07-12T04:17:11Z",
+  "pushedAt": "2026-07-12T04:29:43Z",
   "topics": [
     "agent",
     "ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 89
 }

@@ -1,6 +1,6 @@
 {
   "slug": "tong-io-tongflow",
-  "featuredDate": "2026-07-10",
+  "featuredDate": "2026-07-12",
   "fullName": "tong-io/tongflow",
   "name": "tongflow",
   "owner": "tong-io",
@@ -8,12 +8,12 @@
   "homepage": "https://app.tongflow.com",
   "description": "TongFlow : An Open-Source Multi-Modal GenAI Workflow Studio",
   "language": "TypeScript",
-  "stars": 383,
-  "forks": 56,
+  "stars": 416,
+  "forks": 59,
   "openIssues": 8,
   "createdAt": "2026-04-08T00:21:23Z",
-  "updatedAt": "2026-07-10T03:25:31Z",
-  "pushedAt": "2026-07-10T03:38:24Z",
+  "updatedAt": "2026-07-12T04:03:17Z",
+  "pushedAt": "2026-07-11T15:57:33Z",
   "topics": [
     "3d",
     "ai",
@@ -39,8 +39,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 94,
   "qualityScore": 87,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 86
 }
