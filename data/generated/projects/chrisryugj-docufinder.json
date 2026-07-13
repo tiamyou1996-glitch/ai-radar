@@ -1,19 +1,19 @@
 {
   "slug": "chrisryugj-docufinder",
-  "featuredDate": "2026-07-03",
+  "featuredDate": "2026-07-13",
   "fullName": "chrisryugj/Docufinder",
   "name": "Docufinder",
   "owner": "chrisryugj",
   "repoUrl": "https://github.com/chrisryugj/Docufinder",
   "homepage": null,
-  "description": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션 (Tauri · React · Rust) | Local content search for Korean PCs — HWP-first, fully offline",
+  "description": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWP·HWPX·PDF·Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션. Windows · macOS(Apple Silicon). | Local, offline-first content search for Korean PCs — HWP-first",
   "language": "Rust",
-  "stars": 406,
-  "forks": 51,
-  "openIssues": 1,
+  "stars": 453,
+  "forks": 60,
+  "openIssues": 0,
   "createdAt": "2026-01-15T11:51:32Z",
-  "updatedAt": "2026-07-03T04:50:11Z",
-  "pushedAt": "2026-07-03T04:34:00Z",
+  "updatedAt": "2026-07-13T04:26:16Z",
+  "pushedAt": "2026-07-13T04:19:52Z",
   "topics": [
     "desktop-app",
     "document-search",
@@ -21,6 +21,7 @@
     "hwpx",
     "korean",
     "korean-nlp",
+    "macos",
     "offline-first",
     "onnx",
     "rag",
@@ -28,7 +29,7 @@
     "rust",
     "tauri"
   ],
-  "summaryZh": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWPX · PDF · Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션 (Tauri · React · Rust) | Local content search for Korean PCs — HWP-first, fully offline 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "Anything — 파일을 찾지 말고, 내용을 찾으세요. HWP·HWPX·PDF·Office 수천 건의 본문을 1초 만에. 100% 로컬 · 완전 오프라인 · AI Q&A 옵션. Windows · macOS(Apple Silicon). | Local, offline-first content search for Korean PCs — HWP-first 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
@@ -36,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 85,
   "relevanceScore": 55,
-  "totalScore": 83
+  "totalScore": 84
 }

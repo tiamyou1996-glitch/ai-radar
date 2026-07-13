@@ -1,0 +1,39 @@
+{
+  "slug": "xllm-ai-xllm",
+  "featuredDate": "2026-07-13",
+  "fullName": "xLLM-AI/xllm",
+  "name": "xllm",
+  "owner": "xLLM-AI",
+  "repoUrl": "https://github.com/xLLM-AI/xllm",
+  "homepage": "https://xllm-ai.com/",
+  "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
+  "language": "C++",
+  "stars": 1467,
+  "forks": 256,
+  "openIssues": 183,
+  "createdAt": "2025-08-12T13:16:07Z",
+  "updatedAt": "2026-07-13T03:45:08Z",
+  "pushedAt": "2026-07-13T03:33:34Z",
+  "topics": [
+    "deepseek",
+    "glm",
+    "inference",
+    "inference-engine",
+    "large-language-models",
+    "llm-inference",
+    "qwen"
+  ],
+  "summaryZh": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Vision",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
