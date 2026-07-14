@@ -1,6 +1,6 @@
 {
   "slug": "verl-project-verl-omni",
-  "featuredDate": "2026-07-10",
+  "featuredDate": "2026-07-14",
   "fullName": "verl-project/verl-omni",
   "name": "verl-omni",
   "owner": "verl-project",
@@ -8,12 +8,12 @@
   "homepage": "https://verl-omni.readthedocs.io/en/latest/index.html",
   "description": "Multimodal RL training framework for diffusion & omni models",
   "language": "Python",
-  "stars": 524,
-  "forks": 75,
-  "openIssues": 53,
+  "stars": 547,
+  "forks": 76,
+  "openIssues": 54,
   "createdAt": "2026-04-21T11:48:12Z",
-  "updatedAt": "2026-07-10T03:00:08Z",
-  "pushedAt": "2026-07-10T02:00:03Z",
+  "updatedAt": "2026-07-14T03:21:00Z",
+  "pushedAt": "2026-07-14T03:20:56Z",
   "topics": [
     "diffusion-models",
     "flow-matching",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 65,
   "totalScore": 87
 }

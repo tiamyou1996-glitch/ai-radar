@@ -1,6 +1,6 @@
 {
   "slug": "vortex-data-vortex",
-  "featuredDate": "2026-07-13",
+  "featuredDate": "2026-07-14",
   "fullName": "vortex-data/vortex",
   "name": "vortex",
   "owner": "vortex-data",
@@ -9,11 +9,11 @@
   "description": "An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.",
   "language": "Rust",
   "stars": 3087,
-  "forks": 183,
-  "openIssues": 279,
+  "forks": 184,
+  "openIssues": 270,
   "createdAt": "2024-02-27T10:40:00Z",
-  "updatedAt": "2026-07-12T22:08:50Z",
-  "pushedAt": "2026-07-13T02:59:05Z",
+  "updatedAt": "2026-07-14T04:01:38Z",
+  "pushedAt": "2026-07-14T02:15:59Z",
   "topics": [
     "array",
     "arrow",

@@ -1,6 +1,6 @@
 {
   "slug": "dicklesworthstone-ntm",
-  "featuredDate": "2026-07-12",
+  "featuredDate": "2026-07-14",
   "fullName": "Dicklesworthstone/ntm",
   "name": "ntm",
   "owner": "Dicklesworthstone",
@@ -10,10 +10,10 @@
   "language": "Go",
   "stars": 384,
   "forks": 57,
-  "openIssues": 7,
+  "openIssues": 9,
   "createdAt": "2025-12-10T07:02:48Z",
-  "updatedAt": "2026-07-12T04:23:41Z",
-  "pushedAt": "2026-07-12T04:23:36Z",
+  "updatedAt": "2026-07-14T03:59:16Z",
+  "pushedAt": "2026-07-14T03:59:11Z",
   "topics": [
     "ai-agents",
     "cli",
