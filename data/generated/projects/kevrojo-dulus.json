@@ -1,19 +1,19 @@
 {
   "slug": "kevrojo-dulus",
-  "featuredDate": "2026-07-06",
+  "featuredDate": "2026-07-15",
   "fullName": "KevRojo/Dulus",
   "name": "Dulus",
   "owner": "KevRojo",
   "repoUrl": "https://github.com/KevRojo/Dulus",
   "homepage": "https://kevrojo.github.io/Dulus/",
-  "description": "Use IA as an agent without an API key. $0. Harvest your browser session for Gemini (guest, no login), Claude.ai, Claude Code, Kimi.com, Qwen, DeepSeek — drive them like an API, no per-token billing. Plus LiteLLM (100+ paid providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS.",
+  "description": "Use Web AI as an agent without an API key. $0 | litellm , local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS. (The Hermes Killer)",
   "language": "Python",
-  "stars": 353,
-  "forks": 26,
+  "stars": 391,
+  "forks": 25,
   "openIssues": 0,
   "createdAt": "2026-05-05T05:13:43Z",
-  "updatedAt": "2026-07-06T05:11:26Z",
-  "pushedAt": "2026-07-06T05:11:22Z",
+  "updatedAt": "2026-07-15T04:00:41Z",
+  "pushedAt": "2026-07-15T04:00:31Z",
   "topics": [
     "agent",
     "ai",
@@ -26,17 +26,17 @@
     "dulus",
     "openai"
   ],
-  "summaryZh": "Use IA as an agent without an API key. $0. Harvest your browser session for Gemini (guest, no login), Claude.ai, Claude Code, Kimi.com, Qwen, DeepSeek — drive them like an API, no per-token billing. Plus LiteLLM (100+ paid providers), local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Use Web AI as an agent without an API key. $0 | litellm , local models via Ollama, /lang in 34 languages, Mesa Redonda, voice, OCR, MemPalace, embedded sandbox OS. (The Hermes Killer) 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Coding",
-    "Audio"
+    "Audio",
+    "Model"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 69,
-  "totalScore": 87
+  "totalScore": 88
 }

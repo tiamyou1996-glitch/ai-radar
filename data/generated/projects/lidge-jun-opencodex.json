@@ -1,0 +1,43 @@
+{
+  "slug": "lidge-jun-opencodex",
+  "featuredDate": "2026-07-15",
+  "fullName": "lidge-jun/opencodex",
+  "name": "opencodex",
+  "owner": "lidge-jun",
+  "repoUrl": "https://github.com/lidge-jun/opencodex",
+  "homepage": "https://lidge-jun.github.io/opencodex/",
+  "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK",
+  "language": "TypeScript",
+  "stars": 370,
+  "forks": 34,
+  "openIssues": 4,
+  "createdAt": "2026-06-18T23:03:18Z",
+  "updatedAt": "2026-07-15T04:12:26Z",
+  "pushedAt": "2026-07-15T04:12:21Z",
+  "topics": [
+    "ai-tools",
+    "anthropic",
+    "claude",
+    "codex",
+    "codex-cli",
+    "developer-tools",
+    "gemini",
+    "kiro",
+    "llm",
+    "openai",
+    "proxy",
+    "typescript"
+  ],
+  "summaryZh": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 58,
+  "totalScore": 85
+}
