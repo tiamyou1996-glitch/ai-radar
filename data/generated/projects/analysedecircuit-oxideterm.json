@@ -1,19 +1,19 @@
 {
   "slug": "analysedecircuit-oxideterm",
-  "featuredDate": "2026-06-01",
+  "featuredDate": "2026-07-16",
   "fullName": "AnalyseDeCircuit/oxideterm",
   "name": "oxideterm",
   "owner": "AnalyseDeCircuit",
   "repoUrl": "https://github.com/AnalyseDeCircuit/oxideterm",
   "homepage": "https://oxideterm.app",
-  "description": "Local-first SSH workspace for local shells and remote machines — SSH, SFTP, trzsz, port forwarding, lightweight remote editing, file management, and BYOK AI in one native binary. Built with Tauri 2 and pure Rust SSH. Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.",
+  "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription.",
   "language": "Rust",
-  "stars": 749,
-  "forks": 47,
-  "openIssues": 5,
+  "stars": 935,
+  "forks": 65,
+  "openIssues": 10,
   "createdAt": "2026-01-21T07:30:14Z",
-  "updatedAt": "2026-06-01T05:54:47Z",
-  "pushedAt": "2026-06-01T05:54:43Z",
+  "updatedAt": "2026-07-16T03:51:40Z",
+  "pushedAt": "2026-07-16T03:51:38Z",
   "topics": [
     "agent",
     "ai-terminal",
@@ -36,7 +36,7 @@
     "wslg",
     "xterm-js"
   ],
-  "summaryZh": "Local-first SSH workspace for local shells and remote machines — SSH, SFTP, trzsz, port forwarding, lightweight remote editing, file management, and BYOK AI in one native binary. Built with Tauri 2 and pure Rust SSH. Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 92,
   "relevanceScore": 66,
-  "totalScore": 88
+  "totalScore": 89
 }

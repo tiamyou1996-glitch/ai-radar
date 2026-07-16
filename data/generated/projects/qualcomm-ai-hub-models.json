@@ -1,6 +1,6 @@
 {
   "slug": "qualcomm-ai-hub-models",
-  "featuredDate": "2026-07-11",
+  "featuredDate": "2026-07-16",
   "fullName": "qualcomm/ai-hub-models",
   "name": "ai-hub-models",
   "owner": "qualcomm",
@@ -8,12 +8,12 @@
   "homepage": "https://aihub.qualcomm.com/models",
   "description": "Qualcomm® AI Hub Models is our collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices.",
   "language": "Python",
-  "stars": 1157,
+  "stars": 1164,
   "forks": 207,
   "openIssues": 10,
   "createdAt": "2023-12-20T18:41:48Z",
-  "updatedAt": "2026-07-11T03:43:13Z",
-  "pushedAt": "2026-07-11T03:43:10Z",
+  "updatedAt": "2026-07-16T04:13:20Z",
+  "pushedAt": "2026-07-16T04:13:13Z",
   "topics": [
     "deeplearning",
     "demos",
