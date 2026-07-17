@@ -1,6 +1,6 @@
 {
   "slug": "henrydaum-second-brain",
-  "featuredDate": "2026-07-16",
+  "featuredDate": "2026-07-17",
   "fullName": "henrydaum/second-brain",
   "name": "second-brain",
   "owner": "henrydaum",
@@ -8,12 +8,12 @@
   "homepage": "https://second-brain.art",
   "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automation, and LLMs to complete tasks and communicate over multiple modalities and messaging platforms.",
   "language": "Python",
-  "stars": 579,
+  "stars": 581,
   "forks": 68,
   "openIssues": 0,
   "createdAt": "2025-09-19T15:54:58Z",
-  "updatedAt": "2026-07-16T01:18:52Z",
-  "pushedAt": "2026-07-16T01:18:48Z",
+  "updatedAt": "2026-07-17T02:16:07Z",
+  "pushedAt": "2026-07-17T02:16:03Z",
   "topics": [
     "agentic-ai",
     "agentic-workflow",

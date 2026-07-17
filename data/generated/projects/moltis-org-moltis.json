@@ -1,6 +1,6 @@
 {
   "slug": "moltis-org-moltis",
-  "featuredDate": "2026-05-03",
+  "featuredDate": "2026-07-17",
   "fullName": "moltis-org/moltis",
   "name": "moltis",
   "owner": "moltis-org",
@@ -8,12 +8,12 @@
   "homepage": "https://moltis.org",
   "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
   "language": "Rust",
-  "stars": 2640,
-  "forks": 311,
-  "openIssues": 69,
+  "stars": 2782,
+  "forks": 328,
+  "openIssues": 91,
   "createdAt": "2026-01-29T19:36:31Z",
-  "updatedAt": "2026-05-03T04:34:37Z",
-  "pushedAt": "2026-05-03T04:34:34Z",
+  "updatedAt": "2026-07-17T04:16:57Z",
+  "pushedAt": "2026-07-17T04:16:55Z",
   "topics": [
     "ai-agent",
     "ai-assistant",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 91
+  "totalScore": 92
 }
