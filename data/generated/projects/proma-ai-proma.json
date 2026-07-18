@@ -1,19 +1,19 @@
 {
   "slug": "proma-ai-proma",
-  "featuredDate": "2026-07-11",
+  "featuredDate": "2026-07-18",
   "fullName": "proma-ai/Proma",
   "name": "Proma",
   "owner": "proma-ai",
   "repoUrl": "https://github.com/proma-ai/Proma",
   "homepage": "https://proma.cool/download",
-  "description": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。",
+  "description": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM provider.",
   "language": "TypeScript",
-  "stars": 1491,
-  "forks": 194,
-  "openIssues": 102,
+  "stars": 1520,
+  "forks": 199,
+  "openIssues": 101,
   "createdAt": "2026-01-31T06:26:28Z",
-  "updatedAt": "2026-07-11T04:01:35Z",
-  "pushedAt": "2026-07-11T04:15:07Z",
+  "updatedAt": "2026-07-18T04:09:13Z",
+  "pushedAt": "2026-07-18T04:09:09Z",
   "topics": [
     "agent",
     "agent-sdk",
@@ -24,16 +24,17 @@
     "gemini",
     "llm"
   ],
-  "summaryZh": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM provider. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
+    "Infra",
     "Model"
   ],
   "source": "github",
   "trendScore": 98,
   "qualityScore": 94,
-  "relevanceScore": 62,
-  "totalScore": 89
+  "relevanceScore": 73,
+  "totalScore": 91
 }

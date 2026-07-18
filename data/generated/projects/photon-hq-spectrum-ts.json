@@ -1,6 +1,6 @@
 {
   "slug": "photon-hq-spectrum-ts",
-  "featuredDate": "2026-06-27",
+  "featuredDate": "2026-07-18",
   "fullName": "photon-hq/spectrum-ts",
   "name": "spectrum-ts",
   "owner": "photon-hq",
@@ -8,12 +8,12 @@
   "homepage": "https://photon.codes/spectrum",
   "description": "Bring agents to any interfaces",
   "language": "TypeScript",
-  "stars": 884,
-  "forks": 116,
-  "openIssues": 17,
+  "stars": 1098,
+  "forks": 139,
+  "openIssues": 19,
   "createdAt": "2025-12-20T22:09:31Z",
-  "updatedAt": "2026-06-27T04:54:30Z",
-  "pushedAt": "2026-06-27T04:54:26Z",
+  "updatedAt": "2026-07-18T04:05:26Z",
+  "pushedAt": "2026-07-18T03:49:02Z",
   "topics": [
     "agent",
     "ai",
@@ -28,7 +28,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 93,
   "relevanceScore": 55,
   "totalScore": 84
 }

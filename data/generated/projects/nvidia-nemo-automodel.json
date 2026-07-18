@@ -1,6 +1,6 @@
 {
   "slug": "nvidia-nemo-automodel",
-  "featuredDate": "2026-06-02",
+  "featuredDate": "2026-07-18",
   "fullName": "NVIDIA-NeMo/Automodel",
   "name": "Automodel",
   "owner": "NVIDIA-NeMo",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.nvidia.com/nemo/automodel/nightly/index.html",
   "description": "🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
   "language": "Python",
-  "stars": 539,
-  "forks": 170,
-  "openIssues": 270,
+  "stars": 731,
+  "forks": 221,
+  "openIssues": 335,
   "createdAt": "2025-05-21T21:45:47Z",
-  "updatedAt": "2026-06-02T05:56:34Z",
-  "pushedAt": "2026-06-02T05:56:33Z",
+  "updatedAt": "2026-07-18T03:45:47Z",
+  "pushedAt": "2026-07-18T03:59:31Z",
   "topics": [
     "agent",
     "deepseek-v3-2",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 69,
   "totalScore": 86
 }
