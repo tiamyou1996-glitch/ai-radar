@@ -1,6 +1,6 @@
 {
   "slug": "motis-project-motis",
-  "featuredDate": "2026-07-13",
+  "featuredDate": "2026-07-19",
   "fullName": "motis-project/motis",
   "name": "motis",
   "owner": "motis-project",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "multimodal routing, geocoding, and map tiles",
   "language": "C++",
-  "stars": 536,
-  "forks": 147,
-  "openIssues": 95,
+  "stars": 541,
+  "forks": 148,
+  "openIssues": 97,
   "createdAt": "2020-04-14T16:05:37Z",
-  "updatedAt": "2026-07-12T23:51:05Z",
-  "pushedAt": "2026-07-12T23:51:02Z",
+  "updatedAt": "2026-07-18T23:45:37Z",
+  "pushedAt": "2026-07-18T23:45:33Z",
   "topics": [
     "gbfs",
     "gtfs",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 58,
   "totalScore": 82
 }

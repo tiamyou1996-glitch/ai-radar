@@ -1,6 +1,6 @@
 {
   "slug": "hmbown-codewhale",
-  "featuredDate": "2026-07-17",
+  "featuredDate": "2026-07-19",
   "fullName": "Hmbown/CodeWhale",
   "name": "CodeWhale",
   "owner": "Hmbown",
@@ -8,12 +8,12 @@
   "homepage": "https://codewhale.net/",
   "description": "Open-source, community-driven agent harness",
   "language": "Rust",
-  "stars": 39866,
-  "forks": 3432,
-  "openIssues": 299,
+  "stars": 39920,
+  "forks": 3445,
+  "openIssues": 298,
   "createdAt": "2026-01-19T18:21:01Z",
-  "updatedAt": "2026-07-17T04:16:32Z",
-  "pushedAt": "2026-07-17T04:16:27Z",
+  "updatedAt": "2026-07-19T04:26:55Z",
+  "pushedAt": "2026-07-19T04:26:50Z",
   "topics": [
     "cli",
     "deepseek",
@@ -31,8 +31,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 92
+  "totalScore": 89
 }
