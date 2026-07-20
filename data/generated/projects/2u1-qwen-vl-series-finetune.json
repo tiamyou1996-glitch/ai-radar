@@ -1,0 +1,39 @@
+{
+  "slug": "2u1-qwen-vl-series-finetune",
+  "featuredDate": "2026-07-20",
+  "fullName": "2U1/Qwen-VL-Series-Finetune",
+  "name": "Qwen-VL-Series-Finetune",
+  "owner": "2U1",
+  "repoUrl": "https://github.com/2U1/Qwen-VL-Series-Finetune",
+  "homepage": null,
+  "description": "An open-source implementaion for fine-tuning Qwen-VL series by Alibaba Cloud.",
+  "language": "Python",
+  "stars": 1938,
+  "forks": 220,
+  "openIssues": 56,
+  "createdAt": "2024-09-10T10:00:27Z",
+  "updatedAt": "2026-07-20T04:34:06Z",
+  "pushedAt": "2026-07-20T04:34:00Z",
+  "topics": [
+    "multimodal",
+    "qwen2-5-vl",
+    "qwen2-vl",
+    "qwen3-5",
+    "qwen3-vl",
+    "vision-language",
+    "vision-language-model",
+    "vlm"
+  ],
+  "summaryZh": "An open-source implementaion for fine-tuning Qwen-VL series by Alibaba Cloud. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 58,
+  "totalScore": 85
+}

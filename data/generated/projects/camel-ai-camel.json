@@ -1,0 +1,40 @@
+{
+  "slug": "camel-ai-camel",
+  "featuredDate": "2026-07-20",
+  "fullName": "camel-ai/camel",
+  "name": "camel",
+  "owner": "camel-ai",
+  "repoUrl": "https://github.com/camel-ai/camel",
+  "homepage": "https://docs.camel-ai.org/",
+  "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+  "language": "Python",
+  "stars": 17428,
+  "forks": 2010,
+  "openIssues": 466,
+  "createdAt": "2023-03-17T21:41:54Z",
+  "updatedAt": "2026-07-20T04:36:45Z",
+  "pushedAt": "2026-07-20T04:36:37Z",
+  "topics": [
+    "agent",
+    "ai-societies",
+    "artificial-intelligence",
+    "communicative-ai",
+    "cooperative-ai",
+    "deep-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "natural-language-processing"
+  ],
+  "summaryZh": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

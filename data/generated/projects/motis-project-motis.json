@@ -1,6 +1,6 @@
 {
   "slug": "motis-project-motis",
-  "featuredDate": "2026-07-19",
+  "featuredDate": "2026-07-20",
   "fullName": "motis-project/motis",
   "name": "motis",
   "owner": "motis-project",
@@ -10,10 +10,10 @@
   "language": "C++",
   "stars": 541,
   "forks": 148,
-  "openIssues": 97,
+  "openIssues": 98,
   "createdAt": "2020-04-14T16:05:37Z",
-  "updatedAt": "2026-07-18T23:45:37Z",
-  "pushedAt": "2026-07-18T23:45:33Z",
+  "updatedAt": "2026-07-19T18:46:30Z",
+  "pushedAt": "2026-07-19T18:51:19Z",
   "topics": [
     "gbfs",
     "gtfs",

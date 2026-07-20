@@ -1,0 +1,43 @@
+{
+  "slug": "aws-samples-bedrock-chat",
+  "featuredDate": "2026-07-20",
+  "fullName": "aws-samples/bedrock-chat",
+  "name": "bedrock-chat",
+  "owner": "aws-samples",
+  "repoUrl": "https://github.com/aws-samples/bedrock-chat",
+  "homepage": null,
+  "description": "AWS-native chatbot using Bedrock",
+  "language": "TypeScript",
+  "stars": 1319,
+  "forks": 533,
+  "openIssues": 139,
+  "createdAt": "2023-08-22T05:49:30Z",
+  "updatedAt": "2026-07-20T04:43:12Z",
+  "pushedAt": "2026-07-20T04:43:04Z",
+  "topics": [
+    "aws",
+    "bedrock",
+    "chatbot",
+    "claude",
+    "docker",
+    "fastapi",
+    "generative-ai",
+    "lambda",
+    "llm",
+    "python",
+    "react",
+    "streaming-response",
+    "websockets"
+  ],
+  "summaryZh": "AWS-native chatbot using Bedrock 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 91,
+  "relevanceScore": 51,
+  "totalScore": 83
+}

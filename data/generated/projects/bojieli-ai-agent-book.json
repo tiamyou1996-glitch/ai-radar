@@ -1,6 +1,6 @@
 {
   "slug": "bojieli-ai-agent-book",
-  "featuredDate": "2026-07-18",
+  "featuredDate": "2026-07-20",
   "fullName": "bojieli/ai-agent-book",
   "name": "ai-agent-book",
   "owner": "bojieli",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
   "language": "Python",
-  "stars": 2387,
-  "forks": 268,
-  "openIssues": 1,
+  "stars": 6794,
+  "forks": 625,
+  "openIssues": 10,
   "createdAt": "2025-09-09T02:41:44Z",
-  "updatedAt": "2026-07-18T04:09:08Z",
-  "pushedAt": "2026-07-18T03:28:54Z",
+  "updatedAt": "2026-07-20T04:46:09Z",
+  "pushedAt": "2026-07-20T04:07:53Z",
   "topics": [
     "agent",
     "agent-memory",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 90
 }
