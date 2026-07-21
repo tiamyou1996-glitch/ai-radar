@@ -1,19 +1,19 @@
 {
   "slug": "xintaofei-codeg",
-  "featuredDate": "2026-07-13",
+  "featuredDate": "2026-07-21",
   "fullName": "xintaofei/codeg",
   "name": "codeg",
   "owner": "xintaofei",
   "repoUrl": "https://github.com/xintaofei/codeg",
-  "homepage": null,
+  "homepage": "https://docs.codeg.app",
   "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.",
   "language": "TypeScript",
-  "stars": 2049,
-  "forks": 242,
-  "openIssues": 90,
+  "stars": 2250,
+  "forks": 269,
+  "openIssues": 107,
   "createdAt": "2026-02-09T09:22:50Z",
-  "updatedAt": "2026-07-13T04:06:54Z",
-  "pushedAt": "2026-07-13T03:50:51Z",
+  "updatedAt": "2026-07-21T04:18:27Z",
+  "pushedAt": "2026-07-21T04:18:22Z",
   "topics": [
     "acp",
     "agent",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 97,
   "relevanceScore": 69,
-  "totalScore": 90
+  "totalScore": 91
 }

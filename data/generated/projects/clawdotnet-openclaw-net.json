@@ -1,6 +1,6 @@
 {
   "slug": "clawdotnet-openclaw-net",
-  "featuredDate": "2026-07-17",
+  "featuredDate": "2026-07-21",
   "fullName": "clawdotnet/openclaw.net",
   "name": "openclaw.net",
   "owner": "clawdotnet",
@@ -8,12 +8,12 @@
   "homepage": "https://www.agentqi.dev",
   "description": "Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)",
   "language": "C#",
-  "stars": 445,
-  "forks": 85,
+  "stars": 454,
+  "forks": 88,
   "openIssues": 0,
   "createdAt": "2026-02-22T03:21:36Z",
-  "updatedAt": "2026-07-17T03:24:04Z",
-  "pushedAt": "2026-07-17T03:24:07Z",
+  "updatedAt": "2026-07-21T04:10:45Z",
+  "pushedAt": "2026-07-21T02:09:21Z",
   "topics": [
     "agent-harness",
     "agent-runtime",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 73,
   "totalScore": 89
 }
