@@ -1,19 +1,19 @@
 {
   "slug": "fim-ai-fim-one",
-  "featuredDate": "2026-04-23",
+  "featuredDate": "2026-07-22",
   "fullName": "fim-ai/fim-one",
   "name": "fim-one",
   "owner": "fim-ai",
   "repoUrl": "https://github.com/fim-ai/fim-one",
   "homepage": "https://one.fim.ai",
-  "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+  "description": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
   "language": "Python",
-  "stars": 574,
-  "forks": 71,
-  "openIssues": 2,
+  "stars": 1356,
+  "forks": 152,
+  "openIssues": 0,
   "createdAt": "2026-02-22T15:26:03Z",
-  "updatedAt": "2026-04-23T04:17:59Z",
-  "pushedAt": "2026-04-23T04:17:54Z",
+  "updatedAt": "2026-07-22T04:12:56Z",
+  "pushedAt": "2026-07-22T04:12:26Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -31,17 +31,17 @@
     "react-agent",
     "tool-use"
   ],
-  "summaryZh": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
     "RAG",
-    "Infra"
+    "Model"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
-  "relevanceScore": 77,
-  "totalScore": 90
+  "qualityScore": 94,
+  "relevanceScore": 73,
+  "totalScore": 91
 }

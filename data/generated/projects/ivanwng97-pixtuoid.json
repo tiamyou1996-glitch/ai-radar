@@ -1,6 +1,6 @@
 {
   "slug": "ivanwng97-pixtuoid",
-  "featuredDate": "2026-07-20",
+  "featuredDate": "2026-07-22",
   "fullName": "IvanWng97/pixtuoid",
   "name": "pixtuoid",
   "owner": "IvanWng97",
@@ -8,12 +8,12 @@
   "homepage": "https://pixtuoid.dev",
   "description": "Terminal pixel-art office for AI coding agents",
   "language": "Rust",
-  "stars": 375,
-  "forks": 23,
-  "openIssues": 8,
+  "stars": 394,
+  "forks": 24,
+  "openIssues": 16,
   "createdAt": "2026-05-21T06:05:19Z",
-  "updatedAt": "2026-07-20T04:34:15Z",
-  "pushedAt": "2026-07-20T04:41:18Z",
+  "updatedAt": "2026-07-22T04:15:03Z",
+  "pushedAt": "2026-07-22T04:22:42Z",
   "topics": [
     "ai-agents",
     "claude",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 62,
   "totalScore": 86
 }

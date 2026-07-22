@@ -1,0 +1,42 @@
+{
+  "slug": "chaitin-monkeycode",
+  "featuredDate": "2026-07-22",
+  "fullName": "chaitin/MonkeyCode",
+  "name": "MonkeyCode",
+  "owner": "chaitin",
+  "repoUrl": "https://github.com/chaitin/MonkeyCode",
+  "homepage": "https://monkeycode-ai.net/",
+  "description": "AI coding platform for teams",
+  "language": "TypeScript",
+  "stars": 3779,
+  "forks": 489,
+  "openIssues": 114,
+  "createdAt": "2025-06-25T06:35:32Z",
+  "updatedAt": "2026-07-22T04:24:16Z",
+  "pushedAt": "2026-07-22T04:24:11Z",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "ai-coding-assistant",
+    "aicoding",
+    "claude",
+    "codex",
+    "coding",
+    "cursor",
+    "opencode",
+    "vibe-coding"
+  ],
+  "summaryZh": "AI coding platform for teams 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
