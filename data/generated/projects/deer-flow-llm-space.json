@@ -1,0 +1,39 @@
+{
+  "slug": "deer-flow-llm-space",
+  "featuredDate": "2026-07-23",
+  "fullName": "deer-flow/llm-space",
+  "name": "llm-space",
+  "owner": "deer-flow",
+  "repoUrl": "https://github.com/deer-flow/llm-space",
+  "homepage": "https://deer-flow.github.io/llm-space/",
+  "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
+  "language": "TypeScript",
+  "stars": 1181,
+  "forks": 127,
+  "openIssues": 1,
+  "createdAt": "2026-06-28T03:39:34Z",
+  "updatedAt": "2026-07-23T04:23:13Z",
+  "pushedAt": "2026-07-23T04:23:03Z",
+  "topics": [
+    "agent",
+    "deer-flow",
+    "develop",
+    "electrobun",
+    "harness",
+    "llm",
+    "llm-tools",
+    "managed-agents"
+  ],
+  "summaryZh": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
