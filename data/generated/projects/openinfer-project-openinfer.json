@@ -1,6 +1,6 @@
 {
   "slug": "openinfer-project-openinfer",
-  "featuredDate": "2026-07-15",
+  "featuredDate": "2026-07-24",
   "fullName": "openinfer-project/openinfer",
   "name": "openinfer",
   "owner": "openinfer-project",
@@ -8,12 +8,12 @@
   "homepage": "https://open-infer.org/",
   "description": "Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2",
   "language": "Rust",
-  "stars": 536,
-  "forks": 79,
-  "openIssues": 109,
+  "stars": 572,
+  "forks": 87,
+  "openIssues": 125,
   "createdAt": "2026-02-17T12:01:22Z",
-  "updatedAt": "2026-07-15T03:26:36Z",
-  "pushedAt": "2026-07-15T03:26:32Z",
+  "updatedAt": "2026-07-24T04:06:28Z",
+  "pushedAt": "2026-07-24T04:05:57Z",
   "topics": [
     "cuda",
     "cuda-kernels",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

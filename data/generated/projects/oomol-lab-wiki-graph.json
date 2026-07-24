@@ -1,6 +1,6 @@
 {
   "slug": "oomol-lab-wiki-graph",
-  "featuredDate": "2026-07-23",
+  "featuredDate": "2026-07-24",
   "fullName": "oomol-lab/wiki-graph",
   "name": "wiki-graph",
   "owner": "oomol-lab",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 362,
   "forks": 34,
-  "openIssues": 7,
+  "openIssues": 6,
   "createdAt": "2026-04-09T02:44:01Z",
-  "updatedAt": "2026-07-23T04:23:57Z",
-  "pushedAt": "2026-07-23T04:23:23Z",
+  "updatedAt": "2026-07-24T04:21:35Z",
+  "pushedAt": "2026-07-24T04:21:32Z",
   "topics": [
     "ai-agents",
     "cli",

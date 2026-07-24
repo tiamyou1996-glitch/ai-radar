@@ -1,6 +1,6 @@
 {
   "slug": "xr843-fojin",
-  "featuredDate": "2026-07-05",
+  "featuredDate": "2026-07-24",
   "fullName": "xr843/fojin",
   "name": "fojin",
   "owner": "xr843",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 321,
   "forks": 59,
-  "openIssues": 1,
+  "openIssues": 12,
   "createdAt": "2026-03-10T14:05:37Z",
-  "updatedAt": "2026-07-05T05:03:30Z",
-  "pushedAt": "2026-07-05T05:03:29Z",
+  "updatedAt": "2026-07-24T04:13:28Z",
+  "pushedAt": "2026-07-24T04:14:34Z",
   "topics": [
     "ai",
     "buddhism",
