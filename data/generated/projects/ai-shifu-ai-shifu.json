@@ -1,6 +1,6 @@
 {
   "slug": "ai-shifu-ai-shifu",
-  "featuredDate": "2026-07-21",
+  "featuredDate": "2026-07-25",
   "fullName": "ai-shifu/ai-shifu",
   "name": "ai-shifu",
   "owner": "ai-shifu",
@@ -9,11 +9,11 @@
   "description": "Get AI to teach and answer questions for you - just by typing!",
   "language": "Python",
   "stars": 305,
-  "forks": 113,
-  "openIssues": 12,
+  "forks": 115,
+  "openIssues": 17,
   "createdAt": "2024-07-23T08:55:10Z",
-  "updatedAt": "2026-07-21T04:21:49Z",
-  "pushedAt": "2026-07-21T04:21:44Z",
+  "updatedAt": "2026-07-25T04:12:01Z",
+  "pushedAt": "2026-07-25T04:11:56Z",
   "topics": [
     "agent",
     "ai",
