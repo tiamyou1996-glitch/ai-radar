@@ -1,0 +1,39 @@
+{
+  "slug": "dotharness-dotcraft",
+  "featuredDate": "2026-07-26",
+  "fullName": "DotHarness/dotcraft",
+  "name": "dotcraft",
+  "owner": "DotHarness",
+  "repoUrl": "https://github.com/DotHarness/dotcraft",
+  "homepage": "https://www.dotcraft.net/",
+  "description": "Every project gets its own persistent AI agent runtime. Open source, self-hosted, and shared across Desktop, CLI, bots, and apps.",
+  "language": "C#",
+  "stars": 440,
+  "forks": 16,
+  "openIssues": 7,
+  "createdAt": "2026-05-28T12:24:06Z",
+  "updatedAt": "2026-07-26T04:17:19Z",
+  "pushedAt": "2026-07-26T04:17:17Z",
+  "topics": [
+    "agent",
+    "agent-runtime",
+    "coding-agents",
+    "csharp",
+    "dotnet",
+    "harness",
+    "self-hosted"
+  ],
+  "summaryZh": "Every project gets its own persistent AI agent runtime. Open source, self-hosted, and shared across Desktop, CLI, bots, and apps. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 73,
+  "totalScore": 89
+}

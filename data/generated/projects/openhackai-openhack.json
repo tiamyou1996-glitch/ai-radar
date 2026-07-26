@@ -1,0 +1,38 @@
+{
+  "slug": "openhackai-openhack",
+  "featuredDate": "2026-07-26",
+  "fullName": "openhackai/OpenHack",
+  "name": "OpenHack",
+  "owner": "openhackai",
+  "repoUrl": "https://github.com/openhackai/OpenHack",
+  "homepage": "https://openhack.com",
+  "description": "Open Source Agentic Security Scanner",
+  "language": "Python",
+  "stars": 309,
+  "forks": 28,
+  "openIssues": 3,
+  "createdAt": "2026-05-23T06:52:21Z",
+  "updatedAt": "2026-07-26T04:34:13Z",
+  "pushedAt": "2026-07-26T04:34:09Z",
+  "topics": [
+    "agents",
+    "ai",
+    "cybersecurity",
+    "hacking",
+    "llm",
+    "sast",
+    "security"
+  ],
+  "summaryZh": "Open Source Agentic Security Scanner 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

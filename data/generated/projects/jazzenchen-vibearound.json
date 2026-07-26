@@ -1,6 +1,6 @@
 {
   "slug": "jazzenchen-vibearound",
-  "featuredDate": "2026-06-05",
+  "featuredDate": "2026-07-26",
   "fullName": "jazzenchen/VibeAround",
   "name": "VibeAround",
   "owner": "jazzenchen",
@@ -8,12 +8,12 @@
   "homepage": "https://vibearound.ai/",
   "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
   "language": "Rust",
-  "stars": 366,
-  "forks": 41,
-  "openIssues": 2,
+  "stars": 500,
+  "forks": 53,
+  "openIssues": 4,
   "createdAt": "2026-02-23T10:23:58Z",
-  "updatedAt": "2026-06-05T05:41:43Z",
-  "pushedAt": "2026-06-05T05:11:10Z",
+  "updatedAt": "2026-07-26T03:56:42Z",
+  "pushedAt": "2026-07-26T03:56:35Z",
   "topics": [
     "ai-agent",
     "ai-tools",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 88,
   "relevanceScore": 62,
   "totalScore": 86
 }
