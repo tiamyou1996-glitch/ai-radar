@@ -1,19 +1,19 @@
 {
   "slug": "holaboss-ai-holaos",
-  "featuredDate": "2026-05-31",
+  "featuredDate": "2026-07-27",
   "fullName": "holaboss-ai/holaOS",
   "name": "holaOS",
   "owner": "holaboss-ai",
   "repoUrl": "https://github.com/holaboss-ai/holaOS",
   "homepage": "https://holaos.ai",
-  "description": "Your super agent for work: local-first, learn your working context in mins and never forget it.",
+  "description": "Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
   "language": "TypeScript",
-  "stars": 5451,
-  "forks": 333,
+  "stars": 5527,
+  "forks": 398,
   "openIssues": 3,
   "createdAt": "2026-03-22T07:36:16Z",
-  "updatedAt": "2026-05-31T05:38:31Z",
-  "pushedAt": "2026-05-31T05:18:36Z",
+  "updatedAt": "2026-07-27T04:39:11Z",
+  "pushedAt": "2026-07-27T04:38:29Z",
   "topics": [
     "agent",
     "agent-harness",
@@ -36,13 +36,13 @@
     "typescript",
     "workspace"
   ],
-  "summaryZh": "Your super agent for work: local-first, learn your working context in mins and never forget it. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
-    "Infra",
-    "Model"
+    "Coding",
+    "Infra"
   ],
   "source": "github",
   "trendScore": 98,

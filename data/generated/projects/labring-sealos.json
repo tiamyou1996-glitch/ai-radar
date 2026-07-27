@@ -1,0 +1,40 @@
+{
+  "slug": "labring-sealos",
+  "featuredDate": "2026-07-27",
+  "fullName": "labring/sealos",
+  "name": "sealos",
+  "owner": "labring",
+  "repoUrl": "https://github.com/labring/sealos",
+  "homepage": "https://sealos.io",
+  "description": "Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.",
+  "language": "TypeScript",
+  "stars": 18307,
+  "forks": 2474,
+  "openIssues": 92,
+  "createdAt": "2018-08-15T12:22:50Z",
+  "updatedAt": "2026-07-27T04:07:52Z",
+  "pushedAt": "2026-07-27T04:07:14Z",
+  "topics": [
+    "cloudos",
+    "container",
+    "docker",
+    "golang",
+    "install",
+    "ipvs",
+    "kubeadm",
+    "kubernetes",
+    "kubernetes-ha"
+  ],
+  "summaryZh": "Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
