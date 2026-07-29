@@ -1,6 +1,6 @@
 {
   "slug": "reyamira-models",
-  "featuredDate": "2026-07-28",
+  "featuredDate": "2026-07-29",
   "fullName": "reyamira/models",
   "name": "models",
   "owner": "reyamira",
@@ -8,12 +8,12 @@
   "homepage": "https://reyamira.github.io/models/",
   "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
   "language": "Rust",
-  "stars": 479,
+  "stars": 480,
   "forks": 19,
   "openIssues": 0,
   "createdAt": "2026-01-08T16:53:39Z",
-  "updatedAt": "2026-07-28T04:18:43Z",
-  "pushedAt": "2026-07-28T04:18:25Z",
+  "updatedAt": "2026-07-29T04:18:38Z",
+  "pushedAt": "2026-07-29T04:18:02Z",
   "topics": [
     "ai",
     "anamolyco",
