@@ -1,0 +1,40 @@
+{
+  "slug": "ooples-token-optimizer-mcp",
+  "featuredDate": "2026-07-31",
+  "fullName": "ooples/token-optimizer-mcp",
+  "name": "token-optimizer-mcp",
+  "owner": "ooples",
+  "repoUrl": "https://github.com/ooples/token-optimizer-mcp",
+  "homepage": null,
+  "description": "Intelligent token optimization for Claude Code - achieving 95%+ token reduction through caching, compression, and smart tool intelligence",
+  "language": "TypeScript",
+  "stars": 456,
+  "forks": 50,
+  "openIssues": 2,
+  "createdAt": "2025-10-11T14:53:02Z",
+  "updatedAt": "2026-07-31T04:30:50Z",
+  "pushedAt": "2026-07-31T04:30:44Z",
+  "topics": [
+    "ai",
+    "caching",
+    "claude",
+    "compression",
+    "gemini-cli-extension",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "token-optimization"
+  ],
+  "summaryZh": "Intelligent token optimization for Claude Code - achieving 95%+ token reduction through caching, compression, and smart tool intelligence 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 58,
+  "totalScore": 82
+}

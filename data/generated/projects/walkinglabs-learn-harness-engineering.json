@@ -1,0 +1,40 @@
+{
+  "slug": "walkinglabs-learn-harness-engineering",
+  "featuredDate": "2026-07-31",
+  "fullName": "walkinglabs/learn-harness-engineering",
+  "name": "learn-harness-engineering",
+  "owner": "walkinglabs",
+  "repoUrl": "https://github.com/walkinglabs/learn-harness-engineering",
+  "homepage": "https://walkinglabs.github.io/learn-harness-engineering/",
+  "description": "Harness engineering beginner tutorial, from 0 to 1",
+  "language": "TypeScript",
+  "stars": 10864,
+  "forks": 1181,
+  "openIssues": 14,
+  "createdAt": "2026-03-29T12:28:19Z",
+  "updatedAt": "2026-07-31T04:26:22Z",
+  "pushedAt": "2026-07-31T04:26:08Z",
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "harness",
+    "harness-engineering",
+    "harness-framework",
+    "llm"
+  ],
+  "summaryZh": "Harness engineering beginner tutorial, from 0 to 1 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 90
+}
