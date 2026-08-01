@@ -1,0 +1,42 @@
+{
+  "slug": "deeix-ai-deeix-chat",
+  "featuredDate": "2026-08-01",
+  "fullName": "DEEIX-AI/DEEIX-Chat",
+  "name": "DEEIX-Chat",
+  "owner": "DEEIX-AI",
+  "repoUrl": "https://github.com/DEEIX-AI/DEEIX-Chat",
+  "homepage": "https://deeix.com",
+  "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+  "language": "Go",
+  "stars": 1117,
+  "forks": 157,
+  "openIssues": 9,
+  "createdAt": "2026-05-21T08:57:01Z",
+  "updatedAt": "2026-08-01T03:53:43Z",
+  "pushedAt": "2026-08-01T03:53:39Z",
+  "topics": [
+    "ai",
+    "ai-chatbots",
+    "llm",
+    "mcp",
+    "open-source",
+    "rag",
+    "self-hosted",
+    "ui",
+    "webchat",
+    "webui"
+  ],
+  "summaryZh": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Vision",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 69,
+  "totalScore": 90
+}
