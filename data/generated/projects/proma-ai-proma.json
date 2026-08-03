@@ -1,6 +1,6 @@
 {
   "slug": "proma-ai-proma",
-  "featuredDate": "2026-07-27",
+  "featuredDate": "2026-08-03",
   "fullName": "proma-ai/Proma",
   "name": "Proma",
   "owner": "proma-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://proma.cool/download",
   "description": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM provider.",
   "language": "TypeScript",
-  "stars": 1700,
-  "forks": 218,
-  "openIssues": 114,
+  "stars": 1880,
+  "forks": 232,
+  "openIssues": 119,
   "createdAt": "2026-01-31T06:26:28Z",
-  "updatedAt": "2026-07-27T04:29:38Z",
-  "pushedAt": "2026-07-27T04:29:33Z",
+  "updatedAt": "2026-08-03T04:35:32Z",
+  "pushedAt": "2026-08-03T04:31:22Z",
   "topics": [
     "agent",
     "agent-sdk",
@@ -33,8 +33,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 95,
+  "trendScore": 92,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 91
+  "totalScore": 89
 }

@@ -1,6 +1,6 @@
 {
   "slug": "dicklesworthstone-pi-agent-rust",
-  "featuredDate": "2026-07-20",
+  "featuredDate": "2026-08-03",
   "fullName": "Dicklesworthstone/pi_agent_rust",
   "name": "pi_agent_rust",
   "owner": "Dicklesworthstone",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "High-performance AI coding agent CLI written in Rust with zero unsafe code",
   "language": "Rust",
-  "stars": 1355,
-  "forks": 154,
-  "openIssues": 3,
+  "stars": 1484,
+  "forks": 175,
+  "openIssues": 5,
   "createdAt": "2026-02-02T20:58:01Z",
-  "updatedAt": "2026-07-20T04:45:51Z",
-  "pushedAt": "2026-07-20T04:45:45Z",
+  "updatedAt": "2026-08-03T04:07:47Z",
+  "pushedAt": "2026-08-03T04:13:34Z",
   "topics": [
     "ai-agents",
     "cli",
@@ -28,8 +28,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 91,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 85
 }

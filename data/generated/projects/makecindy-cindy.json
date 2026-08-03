@@ -1,6 +1,6 @@
 {
   "slug": "makecindy-cindy",
-  "featuredDate": "2026-08-01",
+  "featuredDate": "2026-08-03",
   "fullName": "makecindy/cindy",
   "name": "cindy",
   "owner": "makecindy",
@@ -8,12 +8,12 @@
   "homepage": "https://cindy.app",
   "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
   "language": "TypeScript",
-  "stars": 1279,
-  "forks": 163,
-  "openIssues": 328,
+  "stars": 1502,
+  "forks": 182,
+  "openIssues": 366,
   "createdAt": "2026-07-22T17:49:34Z",
-  "updatedAt": "2026-08-01T04:28:13Z",
-  "pushedAt": "2026-08-01T04:27:58Z",
+  "updatedAt": "2026-08-03T04:39:21Z",
+  "pushedAt": "2026-08-03T04:35:10Z",
   "topics": [
     "agent",
     "ai-agent",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 69,
   "totalScore": 90
 }

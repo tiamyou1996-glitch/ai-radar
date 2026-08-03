@@ -1,6 +1,6 @@
 {
   "slug": "bibinprathap-veritasgraph",
-  "featuredDate": "2026-07-26",
+  "featuredDate": "2026-08-03",
   "fullName": "bibinprathap/VeritasGraph",
   "name": "VeritasGraph",
   "owner": "bibinprathap",
@@ -8,12 +8,12 @@
   "homepage": "https://bibinprathap.github.io/VeritasGraph/studio/",
   "description": "VeritasGraph — open-source Knowledge Graph & GraphRAG framework on GitHub. Build multi-hop reasoning, ontology-aware retrieval, and verifiable attribution over your own data. Nodes, edges, RDF, linked-data — runs locally or in the cloud.",
   "language": "Python",
-  "stars": 303,
+  "stars": 307,
   "forks": 34,
   "openIssues": 1,
   "createdAt": "2025-09-06T08:10:17Z",
-  "updatedAt": "2026-07-26T04:26:42Z",
-  "pushedAt": "2026-07-26T04:26:38Z",
+  "updatedAt": "2026-08-03T04:11:23Z",
+  "pushedAt": "2026-08-03T04:10:47Z",
   "topics": [
     "agent",
     "ai-agents",

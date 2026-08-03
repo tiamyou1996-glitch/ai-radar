@@ -1,6 +1,6 @@
 {
   "slug": "knockoutez-wigolo",
-  "featuredDate": "2026-07-18",
+  "featuredDate": "2026-08-03",
   "fullName": "KnockOutEZ/wigolo",
   "name": "wigolo",
   "owner": "KnockOutEZ",
@@ -8,12 +8,12 @@
   "homepage": "https://knockoutez.github.io/wigolo/",
   "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
   "language": "TypeScript",
-  "stars": 888,
-  "forks": 68,
-  "openIssues": 10,
+  "stars": 4090,
+  "forks": 275,
+  "openIssues": 42,
   "createdAt": "2026-04-12T15:04:11Z",
-  "updatedAt": "2026-07-18T04:04:55Z",
-  "pushedAt": "2026-07-18T03:51:12Z",
+  "updatedAt": "2026-08-03T04:38:51Z",
+  "pushedAt": "2026-08-03T04:26:20Z",
   "topics": [
     "agent",
     "ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 93
 }
