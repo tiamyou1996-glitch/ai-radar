@@ -1,0 +1,38 @@
+{
+  "slug": "blockrunai-blockrun-mcp",
+  "featuredDate": "2026-08-04",
+  "fullName": "BlockRunAI/blockrun-mcp",
+  "name": "blockrun-mcp",
+  "owner": "BlockRunAI",
+  "repoUrl": "https://github.com/BlockRunAI/blockrun-mcp",
+  "homepage": "https://www.npmjs.com/package/@blockrun/mcp",
+  "description": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
+  "language": "TypeScript",
+  "stars": 479,
+  "forks": 54,
+  "openIssues": 7,
+  "createdAt": "2026-01-12T07:37:08Z",
+  "updatedAt": "2026-08-04T04:22:08Z",
+  "pushedAt": "2026-08-04T04:22:01Z",
+  "topics": [
+    "ai",
+    "claude-code",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "x402"
+  ],
+  "summaryZh": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 86
+}

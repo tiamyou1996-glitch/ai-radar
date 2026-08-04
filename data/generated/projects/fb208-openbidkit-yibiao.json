@@ -1,6 +1,6 @@
 {
   "slug": "fb208-openbidkit-yibiao",
-  "featuredDate": "2026-07-23",
+  "featuredDate": "2026-08-04",
   "fullName": "FB208/OpenBidKit_Yibiao",
   "name": "OpenBidKit_Yibiao",
   "owner": "FB208",
@@ -8,12 +8,12 @@
   "homepage": "https://yibiao.pro",
   "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用",
   "language": "JavaScript",
-  "stars": 2055,
-  "forks": 556,
-  "openIssues": 54,
+  "stars": 2229,
+  "forks": 595,
+  "openIssues": 50,
   "createdAt": "2025-08-04T03:22:17Z",
-  "updatedAt": "2026-07-23T04:21:33Z",
-  "pushedAt": "2026-07-23T04:21:20Z",
+  "updatedAt": "2026-08-04T04:21:27Z",
+  "pushedAt": "2026-08-04T04:20:58Z",
   "topics": [
     "ai",
     "ai-writing",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 62,
   "totalScore": 87
 }

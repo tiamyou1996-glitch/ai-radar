@@ -1,19 +1,19 @@
 {
   "slug": "tingly-dev-tingly-box",
-  "featuredDate": "2026-06-25",
+  "featuredDate": "2026-08-04",
   "fullName": "tingly-dev/tingly-box",
   "name": "tingly-box",
   "owner": "tingly-dev",
   "repoUrl": "https://github.com/tingly-dev/tingly-box",
-  "homepage": "https://tingly-dev.github.io/",
+  "homepage": null,
   "description": "Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Everyone.",
   "language": "Go",
-  "stars": 318,
-  "forks": 29,
-  "openIssues": 47,
+  "stars": 337,
+  "forks": 35,
+  "openIssues": 50,
   "createdAt": "2025-11-21T02:32:46Z",
-  "updatedAt": "2026-06-25T05:04:38Z",
-  "pushedAt": "2026-06-25T05:12:58Z",
+  "updatedAt": "2026-08-04T04:22:16Z",
+  "pushedAt": "2026-08-04T04:21:51Z",
   "topics": [
     "agent",
     "claude-code",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 86,
+  "qualityScore": 83,
   "relevanceScore": 69,
-  "totalScore": 85
+  "totalScore": 84
 }

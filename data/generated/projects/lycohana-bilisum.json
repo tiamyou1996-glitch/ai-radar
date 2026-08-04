@@ -1,0 +1,41 @@
+{
+  "slug": "lycohana-bilisum",
+  "featuredDate": "2026-08-04",
+  "fullName": "lycohana/BiliSum",
+  "name": "BiliSum",
+  "owner": "lycohana",
+  "repoUrl": "https://github.com/lycohana/BiliSum",
+  "homepage": null,
+  "description": "为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.",
+  "language": "Python",
+  "stars": 449,
+  "forks": 47,
+  "openIssues": 11,
+  "createdAt": "2026-04-04T13:54:21Z",
+  "updatedAt": "2026-08-04T04:05:57Z",
+  "pushedAt": "2026-08-04T04:05:52Z",
+  "topics": [
+    "ai-notes",
+    "ai-summary",
+    "bilibili",
+    "bilibili-summary",
+    "knowledge-base",
+    "obsidian",
+    "rag",
+    "video-summary",
+    "whisper",
+    "youtube-summary"
+  ],
+  "summaryZh": "为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Video"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 84,
+  "relevanceScore": 62,
+  "totalScore": 85
+}
