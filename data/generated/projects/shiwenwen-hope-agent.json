@@ -1,19 +1,19 @@
 {
   "slug": "shiwenwen-hope-agent",
-  "featuredDate": "2026-07-12",
+  "featuredDate": "2026-08-05",
   "fullName": "shiwenwen/hope-agent",
   "name": "hope-agent",
   "owner": "shiwenwen",
   "repoUrl": "https://github.com/shiwenwen/hope-agent",
   "homepage": null,
-  "description": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud",
+  "description": "🦭 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端 | A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment",
   "language": "Rust",
-  "stars": 1155,
-  "forks": 102,
-  "openIssues": 9,
+  "stars": 1366,
+  "forks": 120,
+  "openIssues": 13,
   "createdAt": "2026-03-13T15:57:46Z",
-  "updatedAt": "2026-07-12T04:17:11Z",
-  "pushedAt": "2026-07-12T04:29:43Z",
+  "updatedAt": "2026-08-05T04:19:06Z",
+  "pushedAt": "2026-08-05T04:18:39Z",
   "topics": [
     "agent",
     "ai",
@@ -36,17 +36,17 @@
     "openclaw",
     "personal"
   ],
-  "summaryZh": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "🦭 会记忆、能持续推进目标、会动态编排多 Agent 的跨端桌面 AI 助手，也可服务化常驻 NAS / 云端 | A cross-device desktop AI agent with memory, autonomous goals, dynamic workflows, and headless deployment 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
     "Coding",
-    "Model"
+    "Infra"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
-  "relevanceScore": 69,
-  "totalScore": 89
+  "qualityScore": 91,
+  "relevanceScore": 73,
+  "totalScore": 90
 }

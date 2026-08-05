@@ -1,0 +1,40 @@
+{
+  "slug": "kirodotdev-kirocrew",
+  "featuredDate": "2026-08-05",
+  "fullName": "kirodotdev/KiroCrew",
+  "name": "KiroCrew",
+  "owner": "kirodotdev",
+  "repoUrl": "https://github.com/kirodotdev/KiroCrew",
+  "homepage": "https://kiro.dev/docs/crew/",
+  "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+  "language": "Python",
+  "stars": 578,
+  "forks": 47,
+  "openIssues": 234,
+  "createdAt": "2026-07-16T21:21:54Z",
+  "updatedAt": "2026-08-05T04:20:57Z",
+  "pushedAt": "2026-08-05T04:21:10Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai-agent",
+    "ai-agents",
+    "automation",
+    "devtools",
+    "kiro",
+    "llm"
+  ],
+  "summaryZh": "A persistent workspace for development work that self-improves and continues beyond one session. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 62,
+  "totalScore": 87
+}
