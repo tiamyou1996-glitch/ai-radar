@@ -1,0 +1,33 @@
+{
+  "slug": "team-reflect-reflect-open",
+  "featuredDate": "2026-08-06",
+  "fullName": "team-reflect/reflect-open",
+  "name": "reflect-open",
+  "owner": "team-reflect",
+  "repoUrl": "https://github.com/team-reflect/reflect-open",
+  "homepage": null,
+  "description": "Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app",
+  "language": "TypeScript",
+  "stars": 1400,
+  "forks": 99,
+  "openIssues": 45,
+  "createdAt": "2026-06-09T02:23:15Z",
+  "updatedAt": "2026-08-06T04:21:11Z",
+  "pushedAt": "2026-08-06T04:23:22Z",
+  "topics": [
+    "agent",
+    "markdown",
+    "note-taking"
+  ],
+  "summaryZh": "Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

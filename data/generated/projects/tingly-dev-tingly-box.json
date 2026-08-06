@@ -1,6 +1,6 @@
 {
   "slug": "tingly-dev-tingly-box",
-  "featuredDate": "2026-08-04",
+  "featuredDate": "2026-08-06",
   "fullName": "tingly-dev/tingly-box",
   "name": "tingly-box",
   "owner": "tingly-dev",
@@ -10,10 +10,10 @@
   "language": "Go",
   "stars": 337,
   "forks": 35,
-  "openIssues": 50,
+  "openIssues": 54,
   "createdAt": "2025-11-21T02:32:46Z",
-  "updatedAt": "2026-08-04T04:22:16Z",
-  "pushedAt": "2026-08-04T04:21:51Z",
+  "updatedAt": "2026-08-06T04:17:32Z",
+  "pushedAt": "2026-08-06T04:17:07Z",
   "topics": [
     "agent",
     "claude-code",

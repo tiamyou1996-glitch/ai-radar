@@ -1,19 +1,19 @@
 {
   "slug": "xichan96-dinotty",
-  "featuredDate": "2026-07-17",
+  "featuredDate": "2026-08-06",
   "fullName": "xichan96/dinotty",
   "name": "dinotty",
   "owner": "xichan96",
   "repoUrl": "https://github.com/xichan96/dinotty",
-  "homepage": null,
+  "homepage": "https://xichan96.github.io/dinotty/",
   "description": "Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.",
   "language": "Rust",
-  "stars": 384,
-  "forks": 39,
-  "openIssues": 13,
+  "stars": 518,
+  "forks": 57,
+  "openIssues": 15,
   "createdAt": "2026-05-12T09:44:58Z",
-  "updatedAt": "2026-07-17T03:37:32Z",
-  "pushedAt": "2026-07-17T03:53:35Z",
+  "updatedAt": "2026-08-06T03:37:07Z",
+  "pushedAt": "2026-08-06T03:36:46Z",
   "topics": [
     "ai-coding",
     "axum",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 88,
   "relevanceScore": 62,
-  "totalScore": 85
+  "totalScore": 86
 }
