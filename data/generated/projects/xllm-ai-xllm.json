@@ -1,6 +1,6 @@
 {
   "slug": "xllm-ai-xllm",
-  "featuredDate": "2026-08-05",
+  "featuredDate": "2026-08-07",
   "fullName": "xLLM-AI/xllm",
   "name": "xllm",
   "owner": "xLLM-AI",
@@ -10,10 +10,10 @@
   "language": "C++",
   "stars": 1510,
   "forks": 276,
-  "openIssues": 184,
+  "openIssues": 187,
   "createdAt": "2025-08-12T13:16:07Z",
-  "updatedAt": "2026-08-05T04:05:06Z",
-  "pushedAt": "2026-08-05T04:05:00Z",
+  "updatedAt": "2026-08-07T03:49:33Z",
+  "pushedAt": "2026-08-07T03:49:09Z",
   "topics": [
     "deepseek",
     "glm",

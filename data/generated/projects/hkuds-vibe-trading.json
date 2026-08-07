@@ -1,19 +1,19 @@
 {
   "slug": "hkuds-vibe-trading",
-  "featuredDate": "2026-04-19",
+  "featuredDate": "2026-08-07",
   "fullName": "HKUDS/Vibe-Trading",
   "name": "Vibe-Trading",
   "owner": "HKUDS",
   "repoUrl": "https://github.com/HKUDS/Vibe-Trading",
-  "homepage": "https://pypi.org/project/vibe-trading-ai/",
+  "homepage": "https://vibetrading.wiki/",
   "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
   "language": "Python",
-  "stars": 2172,
-  "forks": 495,
-  "openIssues": 4,
+  "stars": 30082,
+  "forks": 4846,
+  "openIssues": 41,
   "createdAt": "2026-04-01T09:52:20Z",
-  "updatedAt": "2026-04-19T04:14:09Z",
-  "pushedAt": "2026-04-19T04:14:05Z",
+  "updatedAt": "2026-08-07T03:57:53Z",
+  "pushedAt": "2026-08-07T03:56:13Z",
   "topics": [
     "ai-agent",
     "algorithmic-trading",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }

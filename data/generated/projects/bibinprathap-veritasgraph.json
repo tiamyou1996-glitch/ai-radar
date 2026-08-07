@@ -1,6 +1,6 @@
 {
   "slug": "bibinprathap-veritasgraph",
-  "featuredDate": "2026-08-05",
+  "featuredDate": "2026-08-07",
   "fullName": "bibinprathap/VeritasGraph",
   "name": "VeritasGraph",
   "owner": "bibinprathap",
@@ -12,8 +12,8 @@
   "forks": 34,
   "openIssues": 1,
   "createdAt": "2025-09-06T08:10:17Z",
-  "updatedAt": "2026-08-05T04:08:15Z",
-  "pushedAt": "2026-08-05T04:07:56Z",
+  "updatedAt": "2026-08-07T03:52:04Z",
+  "pushedAt": "2026-08-07T03:51:46Z",
   "topics": [
     "agent",
     "ai-agents",

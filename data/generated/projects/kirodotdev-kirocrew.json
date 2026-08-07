@@ -1,19 +1,19 @@
 {
   "slug": "kirodotdev-kirocrew",
-  "featuredDate": "2026-08-06",
+  "featuredDate": "2026-08-07",
   "fullName": "kirodotdev/KiroCrew",
   "name": "KiroCrew",
   "owner": "kirodotdev",
   "repoUrl": "https://github.com/kirodotdev/KiroCrew",
-  "homepage": "https://kiro.dev/docs/crew/",
+  "homepage": "https://kiro.dev/crew/",
   "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
   "language": "Python",
-  "stars": 1261,
-  "forks": 98,
-  "openIssues": 302,
+  "stars": 1952,
+  "forks": 152,
+  "openIssues": 387,
   "createdAt": "2026-07-16T21:21:54Z",
-  "updatedAt": "2026-08-06T04:21:41Z",
-  "pushedAt": "2026-08-06T04:22:42Z",
+  "updatedAt": "2026-08-07T03:58:10Z",
+  "pushedAt": "2026-08-07T03:57:00Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 96,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }
