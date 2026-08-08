@@ -1,6 +1,6 @@
 {
   "slug": "ikalus1988-misakanet",
-  "featuredDate": "2026-08-02",
+  "featuredDate": "2026-08-08",
   "fullName": "Ikalus1988/MisakaNet",
   "name": "MisakaNet",
   "owner": "Ikalus1988",
@@ -8,12 +8,12 @@
   "homepage": "https://misakanet.org",
   "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
   "language": "Python",
-  "stars": 360,
-  "forks": 135,
-  "openIssues": 44,
+  "stars": 419,
+  "forks": 155,
+  "openIssues": 18,
   "createdAt": "2026-04-29T15:16:22Z",
-  "updatedAt": "2026-08-02T04:20:41Z",
-  "pushedAt": "2026-08-02T04:03:27Z",
+  "updatedAt": "2026-08-08T02:25:01Z",
+  "pushedAt": "2026-08-08T02:24:58Z",
   "topics": [
     "agent-framework",
     "agent-network",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 89
 }
