@@ -1,0 +1,41 @@
+{
+  "slug": "yan5xu-codexloom",
+  "featuredDate": "2026-08-09",
+  "fullName": "yan5xu/codexloom",
+  "name": "codexloom",
+  "owner": "yan5xu",
+  "repoUrl": "https://github.com/yan5xu/codexloom",
+  "homepage": null,
+  "description": "Turn Codex threads into an organization of long-lived domain agents.",
+  "language": "Go",
+  "stars": 328,
+  "forks": 24,
+  "openIssues": 19,
+  "createdAt": "2026-07-07T09:21:39Z",
+  "updatedAt": "2026-08-09T03:05:21Z",
+  "pushedAt": "2026-08-09T03:04:56Z",
+  "topics": [
+    "agent-governance",
+    "agent-orchestration",
+    "ai-agents",
+    "codex",
+    "developer-tools",
+    "golang",
+    "llm",
+    "multi-agent",
+    "react"
+  ],
+  "summaryZh": "Turn Codex threads into an organization of long-lived domain agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 69,
+  "totalScore": 86
+}
