@@ -1,6 +1,6 @@
 {
   "slug": "yzhao062-agent-style",
-  "featuredDate": "2026-04-29",
+  "featuredDate": "2026-08-12",
   "fullName": "yzhao062/agent-style",
   "name": "agent-style",
   "owner": "yzhao062",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
   "language": "Python",
-  "stars": 371,
-  "forks": 19,
-  "openIssues": 4,
+  "stars": 617,
+  "forks": 32,
+  "openIssues": 2,
   "createdAt": "2026-04-19T08:12:16Z",
-  "updatedAt": "2026-04-29T04:23:53Z",
-  "pushedAt": "2026-04-29T04:26:23Z",
+  "updatedAt": "2026-08-12T03:14:33Z",
+  "pushedAt": "2026-08-12T03:14:17Z",
   "topics": [
     "ai-agents",
     "llm",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 86,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }

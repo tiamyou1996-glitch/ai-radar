@@ -1,6 +1,6 @@
 {
   "slug": "bennykok-omg-dev",
-  "featuredDate": "2026-08-11",
+  "featuredDate": "2026-08-12",
   "fullName": "BennyKok/omg.dev",
   "name": "omg.dev",
   "owner": "BennyKok",
@@ -12,8 +12,8 @@
   "forks": 21,
   "openIssues": 1,
   "createdAt": "2026-06-17T07:33:04Z",
-  "updatedAt": "2026-08-11T03:07:48Z",
-  "pushedAt": "2026-08-11T03:07:38Z",
+  "updatedAt": "2026-08-12T03:01:52Z",
+  "pushedAt": "2026-08-12T03:01:41Z",
   "topics": [],
   "summaryZh": "omg.dev — run AI coding agents on your own machine (formerly BennyKok/lfg) 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",

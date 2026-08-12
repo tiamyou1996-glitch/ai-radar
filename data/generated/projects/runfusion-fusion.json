@@ -1,6 +1,6 @@
 {
   "slug": "runfusion-fusion",
-  "featuredDate": "2026-08-10",
+  "featuredDate": "2026-08-12",
   "fullName": "Runfusion/Fusion",
   "name": "Fusion",
   "owner": "Runfusion",
@@ -8,12 +8,12 @@
   "homepage": "http://runfusion.ai",
   "description": "Your Software Factory - build faster and better with multi node agents that work 24/7",
   "language": "TypeScript",
-  "stars": 1088,
+  "stars": 1095,
   "forks": 135,
-  "openIssues": 68,
+  "openIssues": 60,
   "createdAt": "2026-04-13T01:43:26Z",
-  "updatedAt": "2026-08-10T03:16:30Z",
-  "pushedAt": "2026-08-10T03:16:22Z",
+  "updatedAt": "2026-08-12T03:27:37Z",
+  "pushedAt": "2026-08-12T03:27:23Z",
   "topics": [
     "agent",
     "agentic-workflow",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 62,
   "totalScore": 88
 }
