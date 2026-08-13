@@ -1,6 +1,6 @@
 {
   "slug": "alibaba-rtp-llm",
-  "featuredDate": "2026-08-12",
+  "featuredDate": "2026-08-13",
   "fullName": "alibaba/rtp-llm",
   "name": "rtp-llm",
   "owner": "alibaba",
@@ -10,10 +10,10 @@
   "language": "Cuda",
   "stars": 1301,
   "forks": 257,
-  "openIssues": 183,
+  "openIssues": 181,
   "createdAt": "2023-12-27T08:22:59Z",
-  "updatedAt": "2026-08-12T02:58:51Z",
-  "pushedAt": "2026-08-12T03:26:46Z",
+  "updatedAt": "2026-08-13T03:24:13Z",
+  "pushedAt": "2026-08-13T03:24:08Z",
   "topics": [
     "gpt",
     "inference",

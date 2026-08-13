@@ -1,6 +1,6 @@
 {
   "slug": "code-yeongyu-senpi",
-  "featuredDate": "2026-08-07",
+  "featuredDate": "2026-08-13",
   "fullName": "code-yeongyu/senpi",
   "name": "senpi",
   "owner": "code-yeongyu",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
   "language": "TypeScript",
-  "stars": 356,
-  "forks": 51,
-  "openIssues": 45,
+  "stars": 387,
+  "forks": 61,
+  "openIssues": 71,
   "createdAt": "2026-03-06T21:45:11Z",
-  "updatedAt": "2026-08-07T03:53:42Z",
-  "pushedAt": "2026-08-07T03:53:08Z",
+  "updatedAt": "2026-08-13T03:25:09Z",
+  "pushedAt": "2026-08-13T03:25:07Z",
   "topics": [
     "agent",
     "ai-agent",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }

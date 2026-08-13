@@ -1,0 +1,42 @@
+{
+  "slug": "pinvou-pinvou-agent",
+  "featuredDate": "2026-08-13",
+  "fullName": "Pinvou/pinvou-agent",
+  "name": "pinvou-agent",
+  "owner": "Pinvou",
+  "repoUrl": "https://github.com/Pinvou/pinvou-agent",
+  "homepage": "https://pinvou.com/",
+  "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+  "language": "JavaScript",
+  "stars": 685,
+  "forks": 96,
+  "openIssues": 40,
+  "createdAt": "2026-07-24T07:28:41Z",
+  "updatedAt": "2026-08-13T03:30:12Z",
+  "pushedAt": "2026-08-13T03:29:30Z",
+  "topics": [
+    "ai-agent",
+    "automation",
+    "desktop-app",
+    "llm",
+    "local-first",
+    "mcp",
+    "open-source",
+    "react",
+    "rust",
+    "tauri"
+  ],
+  "summaryZh": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 73,
+  "totalScore": 90
+}
