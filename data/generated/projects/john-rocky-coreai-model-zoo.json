@@ -1,19 +1,19 @@
 {
   "slug": "john-rocky-coreai-model-zoo",
-  "featuredDate": "2026-07-10",
+  "featuredDate": "2026-08-14",
   "fullName": "john-rocky/coreai-model-zoo",
   "name": "coreai-model-zoo",
   "owner": "john-rocky",
   "repoUrl": "https://github.com/john-rocky/coreai-model-zoo",
-  "homepage": null,
-  "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+  "homepage": "https://john-rocky.github.io/coreai-model-zoo/",
+  "description": "Community model zoo for Apple Core AI (iOS/macOS 27): 57 models — LLM, VLM, OCR, ASR, TTS, image/video/music gen, forecasting — each gated against its source model and shipped with the recipe that produced it. Downloadable from Hugging Face, runnable in one line of Swift via CoreAIKit. Plus benchmarks, Metal kernels, knowledge base.",
   "language": "Python",
-  "stars": 330,
-  "forks": 19,
-  "openIssues": 2,
+  "stars": 387,
+  "forks": 25,
+  "openIssues": 5,
   "createdAt": "2026-06-10T05:21:10Z",
-  "updatedAt": "2026-07-10T05:00:44Z",
-  "pushedAt": "2026-07-10T05:00:30Z",
+  "updatedAt": "2026-08-14T03:25:52Z",
+  "pushedAt": "2026-08-14T03:25:49Z",
   "topics": [
     "ai",
     "apple-silicon",
@@ -30,16 +30,17 @@
     "minicpm",
     "qwen"
   ],
-  "summaryZh": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "Community model zoo for Apple Core AI (iOS/macOS 27): 57 models — LLM, VLM, OCR, ASR, TTS, image/video/music gen, forecasting — each gated against its source model and shipped with the recipe that produced it. Downloadable from Hugging Face, runnable in one line of Swift via CoreAIKit. Plus benchmarks, Metal kernels, knowledge base. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
     "RAG",
-    "Model"
+    "Vision",
+    "Audio"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
-  "relevanceScore": 62,
-  "totalScore": 85
+  "qualityScore": 87,
+  "relevanceScore": 69,
+  "totalScore": 88
 }

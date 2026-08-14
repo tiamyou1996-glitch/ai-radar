@@ -1,19 +1,19 @@
 {
   "slug": "syrizelink-openfic",
-  "featuredDate": "2026-07-29",
+  "featuredDate": "2026-08-14",
   "fullName": "syrizelink/OpenFic",
   "name": "OpenFic",
   "owner": "syrizelink",
   "repoUrl": "https://github.com/syrizelink/OpenFic",
   "homepage": null,
-  "description": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具",
+  "description": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe Writing tool designed specifically for novel wrting.",
   "language": "Python",
-  "stars": 424,
-  "forks": 47,
-  "openIssues": 14,
+  "stars": 718,
+  "forks": 72,
+  "openIssues": 19,
   "createdAt": "2026-06-28T09:01:51Z",
-  "updatedAt": "2026-07-29T04:11:24Z",
-  "pushedAt": "2026-07-29T04:09:09Z",
+  "updatedAt": "2026-08-14T03:24:48Z",
+  "pushedAt": "2026-08-14T03:25:22Z",
   "topics": [
     "agent",
     "ai",
@@ -27,7 +27,7 @@
     "vibe-writing",
     "writing-tool"
   ],
-  "summaryZh": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe Writing tool designed specifically for novel wrting. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 87,
   "relevanceScore": 55,
-  "totalScore": 83
+  "totalScore": 85
 }
