@@ -1,6 +1,6 @@
 {
   "slug": "sylphxai-pdf-reader-mcp",
-  "featuredDate": "2026-08-08",
+  "featuredDate": "2026-08-15",
   "fullName": "SylphxAI/pdf-reader-mcp",
   "name": "pdf-reader-mcp",
   "owner": "SylphxAI",
@@ -8,12 +8,12 @@
   "homepage": "https://sylphxai.github.io/pdf-reader-mcp/",
   "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
   "language": "TypeScript",
-  "stars": 886,
+  "stars": 891,
   "forks": 81,
   "openIssues": 1,
   "createdAt": "2025-04-04T16:17:42Z",
-  "updatedAt": "2026-08-08T02:36:51Z",
-  "pushedAt": "2026-08-08T02:36:49Z",
+  "updatedAt": "2026-08-15T02:14:18Z",
+  "pushedAt": "2026-08-15T02:14:00Z",
   "topics": [
     "agent-document-twin",
     "ai-agent",
