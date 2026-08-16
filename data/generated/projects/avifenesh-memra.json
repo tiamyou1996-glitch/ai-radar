@@ -1,6 +1,6 @@
 {
   "slug": "avifenesh-memra",
-  "featuredDate": "2026-08-15",
+  "featuredDate": "2026-08-16",
   "fullName": "avifenesh/memra",
   "name": "memra",
   "owner": "avifenesh",
@@ -8,12 +8,12 @@
   "homepage": "https://huggingface.co/Avifenesh/bw24-bench",
   "description": "memra is a Rust + CUDA inference engine built for NVIDIA RTX PRO 6000 Blackwell and RTX 5090. It serves GGUF models over an OpenAI-compatible API, and every default it ships was measured on those two cards — both Blackwell sm_120a, with a separately compile-gated Hopper/H100 (sm_90a) lane alongside.",
   "language": "Rust",
-  "stars": 304,
+  "stars": 305,
   "forks": 35,
   "openIssues": 0,
   "createdAt": "2026-07-05T20:45:33Z",
-  "updatedAt": "2026-08-15T01:42:00Z",
-  "pushedAt": "2026-08-15T01:41:55Z",
+  "updatedAt": "2026-08-16T01:41:56Z",
+  "pushedAt": "2026-08-16T01:41:48Z",
   "topics": [
     "ai",
     "blackwell",

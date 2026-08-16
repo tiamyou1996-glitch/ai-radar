@@ -1,0 +1,43 @@
+{
+  "slug": "weiwill88-local-pdf-chat-rag",
+  "featuredDate": "2026-08-16",
+  "fullName": "weiwill88/Local_Pdf_Chat_RAG",
+  "name": "Local_Pdf_Chat_RAG",
+  "owner": "weiwill88",
+  "repoUrl": "https://github.com/weiwill88/Local_Pdf_Chat_RAG",
+  "homepage": "https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme",
+  "description": "Transparent Python RAG reference with FAISS + BM25 hybrid retrieval, reranking, Gradio UI, and FastAPI.",
+  "language": "Python",
+  "stars": 945,
+  "forks": 179,
+  "openIssues": 1,
+  "createdAt": "2025-02-01T03:10:46Z",
+  "updatedAt": "2026-08-16T01:35:57Z",
+  "pushedAt": "2026-08-16T01:35:52Z",
+  "topics": [
+    "bm25",
+    "chinese-nlp",
+    "deepseek",
+    "document-qa",
+    "faiss",
+    "fastapi",
+    "gradio",
+    "hybrid-search",
+    "ollama",
+    "python",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "summaryZh": "Transparent Python RAG reference with FAISS + BM25 hybrid retrieval, reranking, Gradio UI, and FastAPI. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 85
+}
