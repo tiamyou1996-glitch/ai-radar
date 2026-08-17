@@ -1,6 +1,6 @@
 {
   "slug": "wecode-ai-wegent",
-  "featuredDate": "2026-08-16",
+  "featuredDate": "2026-08-17",
   "fullName": "wecode-ai/Wegent",
   "name": "Wegent",
   "owner": "wecode-ai",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 708,
   "forks": 124,
-  "openIssues": 51,
+  "openIssues": 50,
   "createdAt": "2026-01-10T15:42:57Z",
-  "updatedAt": "2026-08-16T02:20:35Z",
-  "pushedAt": "2026-08-16T02:20:30Z",
+  "updatedAt": "2026-08-17T02:21:57Z",
+  "pushedAt": "2026-08-17T02:21:33Z",
   "topics": [
     "agent",
     "ai",

@@ -1,0 +1,43 @@
+{
+  "slug": "zleap-ai-sag",
+  "featuredDate": "2026-08-17",
+  "fullName": "Zleap-AI/SAG",
+  "name": "SAG",
+  "owner": "Zleap-AI",
+  "repoUrl": "https://github.com/Zleap-AI/SAG",
+  "homepage": "https://zleap.com",
+  "description": "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.",
+  "language": "TypeScript",
+  "stars": 2349,
+  "forks": 145,
+  "openIssues": 4,
+  "createdAt": "2025-11-07T07:33:35Z",
+  "updatedAt": "2026-08-17T02:15:53Z",
+  "pushedAt": "2026-08-17T02:13:21Z",
+  "topics": [
+    "agent",
+    "ai",
+    "data-engineering",
+    "graphrag",
+    "knowledge-base",
+    "knowledge-graph",
+    "knowledge-graphs",
+    "llm",
+    "rag",
+    "sag",
+    "vector-search"
+  ],
+  "summaryZh": "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 97,
+  "relevanceScore": 73,
+  "totalScore": 90
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "ysr666-dsh-vision-router",
+  "featuredDate": "2026-08-17",
+  "fullName": "ysr666/dsh-vision-router",
+  "name": "dsh-vision-router",
+  "owner": "ysr666",
+  "repoUrl": "https://github.com/ysr666/dsh-vision-router",
+  "homepage": "https://github.com/ysr666/dsh-vision-router",
+  "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+  "language": "JavaScript",
+  "stars": 460,
+  "forks": 20,
+  "openIssues": 2,
+  "createdAt": "2026-08-13T18:57:47Z",
+  "updatedAt": "2026-08-17T02:22:15Z",
+  "pushedAt": "2026-08-17T02:22:37Z",
+  "topics": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "multimodal",
+    "vision"
+  ],
+  "summaryZh": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Vision",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
