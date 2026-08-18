@@ -1,0 +1,42 @@
+{
+  "slug": "liliu-z-stashbase",
+  "featuredDate": "2026-08-18",
+  "fullName": "liliu-z/stashbase",
+  "name": "stashbase",
+  "owner": "liliu-z",
+  "repoUrl": "https://github.com/liliu-z/stashbase",
+  "homepage": "https://stashbase.ai",
+  "description": "Turn local files into searchable context for AI agents.",
+  "language": "TypeScript",
+  "stars": 363,
+  "forks": 23,
+  "openIssues": 17,
+  "createdAt": "2026-05-19T05:21:06Z",
+  "updatedAt": "2026-08-18T02:06:23Z",
+  "pushedAt": "2026-08-18T02:06:14Z",
+  "topics": [
+    "ai-agents",
+    "document-search",
+    "electron",
+    "knowledge-base",
+    "local-first",
+    "mcp",
+    "mcp-server",
+    "milvus",
+    "rag",
+    "semantic-search",
+    "typescript"
+  ],
+  "summaryZh": "Turn local files into searchable context for AI agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 66,
+  "totalScore": 87
+}

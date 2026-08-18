@@ -1,6 +1,6 @@
 {
   "slug": "capsize-games-airunner",
-  "featuredDate": "2026-06-14",
+  "featuredDate": "2026-08-18",
   "fullName": "Capsize-Games/airunner",
   "name": "airunner",
   "owner": "Capsize-Games",
@@ -8,12 +8,12 @@
   "homepage": "https://airunner.capsizegames.com",
   "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
   "language": "Python",
-  "stars": 1315,
-  "forks": 98,
-  "openIssues": 4,
+  "stars": 1312,
+  "forks": 102,
+  "openIssues": 33,
   "createdAt": "2023-03-21T19:14:03Z",
-  "updatedAt": "2026-06-13T14:17:08Z",
-  "pushedAt": "2026-06-13T14:18:13Z",
+  "updatedAt": "2026-08-18T01:57:04Z",
+  "pushedAt": "2026-08-18T02:00:44Z",
   "topics": [
     "ai",
     "ai-art",
@@ -45,8 +45,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 88,
+  "trendScore": 92,
   "qualityScore": 94,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 88
 }

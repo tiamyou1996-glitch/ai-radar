@@ -1,6 +1,6 @@
 {
   "slug": "deer-flow-llm-space",
-  "featuredDate": "2026-07-23",
+  "featuredDate": "2026-08-18",
   "fullName": "deer-flow/llm-space",
   "name": "llm-space",
   "owner": "deer-flow",
@@ -8,12 +8,12 @@
   "homepage": "https://deer-flow.github.io/llm-space/",
   "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
   "language": "TypeScript",
-  "stars": 1181,
-  "forks": 127,
-  "openIssues": 1,
+  "stars": 1622,
+  "forks": 170,
+  "openIssues": 6,
   "createdAt": "2026-06-28T03:39:34Z",
-  "updatedAt": "2026-07-23T04:23:13Z",
-  "pushedAt": "2026-07-23T04:23:03Z",
+  "updatedAt": "2026-08-18T02:17:15Z",
+  "pushedAt": "2026-08-18T02:16:45Z",
   "topics": [
     "agent",
     "deer-flow",
@@ -33,7 +33,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 95,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }

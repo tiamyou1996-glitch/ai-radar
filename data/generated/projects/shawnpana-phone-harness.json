@@ -1,0 +1,35 @@
+{
+  "slug": "shawnpana-phone-harness",
+  "featuredDate": "2026-08-18",
+  "fullName": "ShawnPana/phone-harness",
+  "name": "phone-harness",
+  "owner": "ShawnPana",
+  "repoUrl": "https://github.com/ShawnPana/phone-harness",
+  "homepage": null,
+  "description": "let your agent control your phone",
+  "language": "Python",
+  "stars": 1891,
+  "forks": 179,
+  "openIssues": 24,
+  "createdAt": "2026-08-07T22:28:53Z",
+  "updatedAt": "2026-08-18T02:18:42Z",
+  "pushedAt": "2026-08-18T02:17:34Z",
+  "topics": [
+    "agent",
+    "ai",
+    "automation",
+    "developer-tools"
+  ],
+  "summaryZh": "let your agent control your phone 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

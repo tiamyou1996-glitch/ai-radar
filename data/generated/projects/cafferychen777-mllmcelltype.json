@@ -1,0 +1,41 @@
+{
+  "slug": "cafferychen777-mllmcelltype",
+  "featuredDate": "2026-08-18",
+  "fullName": "cafferychen777/mLLMCelltype",
+  "name": "mLLMCelltype",
+  "owner": "cafferychen777",
+  "repoUrl": "https://github.com/cafferychen777/mLLMCelltype",
+  "homepage": "https://www.mllmcelltype.com/",
+  "description": "Cell type annotation for single-cell RNA-seq using multi-LLM consensus",
+  "language": "Python",
+  "stars": 657,
+  "forks": 57,
+  "openIssues": 3,
+  "createdAt": "2025-04-07T00:56:29Z",
+  "updatedAt": "2026-08-18T02:18:42Z",
+  "pushedAt": "2026-08-18T02:18:32Z",
+  "topics": [
+    "bioinformatics",
+    "cell-type-annotation",
+    "computational-biology",
+    "consensus-algorithm",
+    "large-language-models",
+    "llm",
+    "scanpy",
+    "scrna",
+    "scrnaseq-analysis",
+    "seurat",
+    "single-cell"
+  ],
+  "summaryZh": "Cell type annotation for single-cell RNA-seq using multi-LLM consensus 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 51,
+  "totalScore": 82
+}
