@@ -1,36 +1,39 @@
 {
   "slug": "pydantic-pydantic-ai",
-  "featuredDate": "2026-08-07",
+  "featuredDate": "2026-08-19",
   "fullName": "pydantic/pydantic-ai",
   "name": "pydantic-ai",
   "owner": "pydantic",
   "repoUrl": "https://github.com/pydantic/pydantic-ai",
   "homepage": "https://pydantic.dev/pydantic-ai",
-  "description": "AI Agent Framework, the Pydantic way",
+  "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
   "language": "Python",
-  "stars": 19109,
-  "forks": 2487,
-  "openIssues": 669,
+  "stars": 19376,
+  "forks": 2548,
+  "openIssues": 720,
   "createdAt": "2024-06-21T15:55:04Z",
-  "updatedAt": "2026-08-07T03:56:31Z",
-  "pushedAt": "2026-08-07T03:58:50Z",
+  "updatedAt": "2026-08-19T02:19:22Z",
+  "pushedAt": "2026-08-19T02:19:16Z",
   "topics": [
     "agent-framework",
     "genai",
+    "harness",
+    "harness-engineering",
     "llm",
     "pydantic",
     "python"
   ],
-  "summaryZh": "AI Agent Framework, the Pydantic way 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Model"
+    "RAG",
+    "Audio"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 98,
-  "relevanceScore": 62,
-  "totalScore": 88
+  "relevanceScore": 73,
+  "totalScore": 90
 }

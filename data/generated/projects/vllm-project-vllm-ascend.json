@@ -1,6 +1,6 @@
 {
   "slug": "vllm-project-vllm-ascend",
-  "featuredDate": "2026-08-17",
+  "featuredDate": "2026-08-19",
   "fullName": "vllm-project/vllm-ascend",
   "name": "vllm-ascend",
   "owner": "vllm-project",
@@ -8,12 +8,12 @@
   "homepage": "https://docs.vllm.ai/projects/ascend",
   "description": "Community maintained hardware plugin for vLLM on Ascend",
   "language": "C++",
-  "stars": 2640,
-  "forks": 2051,
-  "openIssues": 2516,
+  "stars": 2662,
+  "forks": 2070,
+  "openIssues": 2557,
   "createdAt": "2025-01-29T10:44:12Z",
-  "updatedAt": "2026-08-17T02:11:43Z",
-  "pushedAt": "2026-08-17T02:11:38Z",
+  "updatedAt": "2026-08-19T02:17:54Z",
+  "pushedAt": "2026-08-19T02:17:48Z",
   "topics": [
     "ascend",
     "inference",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }

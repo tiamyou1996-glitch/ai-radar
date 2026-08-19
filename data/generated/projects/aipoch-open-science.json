@@ -1,6 +1,6 @@
 {
   "slug": "aipoch-open-science",
-  "featuredDate": "2026-08-18",
+  "featuredDate": "2026-08-19",
   "fullName": "aipoch/open-science",
   "name": "open-science",
   "owner": "aipoch",
@@ -8,12 +8,12 @@
   "homepage": "https://www.aipoch.com",
   "description": "Open-Source AI research workbench with scientific agents for reproducible research and discovery. ",
   "language": "TypeScript",
-  "stars": 2642,
+  "stars": 2777,
   "forks": 174,
-  "openIssues": 39,
+  "openIssues": 38,
   "createdAt": "2026-07-03T02:50:10Z",
-  "updatedAt": "2026-08-18T02:19:29Z",
-  "pushedAt": "2026-08-18T02:19:17Z",
+  "updatedAt": "2026-08-19T02:16:54Z",
+  "pushedAt": "2026-08-19T02:17:39Z",
   "topics": [
     "agent",
     "ai-for-science",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 62,
   "totalScore": 90
 }

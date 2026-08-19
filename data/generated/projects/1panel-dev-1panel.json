@@ -1,19 +1,19 @@
 {
   "slug": "1panel-dev-1panel",
-  "featuredDate": "2026-05-23",
+  "featuredDate": "2026-08-19",
   "fullName": "1Panel-dev/1Panel",
   "name": "1Panel",
   "owner": "1Panel-dev",
   "repoUrl": "https://github.com/1Panel-dev/1Panel",
   "homepage": "https://1panel.pro",
-  "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
+  "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
   "language": "Go",
-  "stars": 35549,
-  "forks": 3180,
-  "openIssues": 398,
+  "stars": 36570,
+  "forks": 3300,
+  "openIssues": 291,
   "createdAt": "2022-07-19T15:44:52Z",
-  "updatedAt": "2026-05-23T04:46:25Z",
-  "pushedAt": "2026-05-23T04:46:22Z",
+  "updatedAt": "2026-08-19T02:21:14Z",
+  "pushedAt": "2026-08-19T02:20:16Z",
   "topics": [
     "agent",
     "clawdbot",
@@ -30,16 +30,15 @@
     "qwenpaw",
     "webmin"
   ],
-  "summaryZh": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
-    "Agent",
-    "Model"
+    "Agent"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 98,
-  "relevanceScore": 62,
-  "totalScore": 88
+  "relevanceScore": 55,
+  "totalScore": 86
 }

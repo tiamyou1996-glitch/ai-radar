@@ -1,19 +1,19 @@
 {
   "slug": "screenpipe-screenpipe",
-  "featuredDate": "2026-08-18",
+  "featuredDate": "2026-08-19",
   "fullName": "screenpipe/screenpipe",
   "name": "screenpipe",
   "owner": "screenpipe",
   "repoUrl": "https://github.com/screenpipe/screenpipe",
   "homepage": "https://screenpipe.com",
-  "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+  "description": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
   "language": "Rust",
-  "stars": 21012,
-  "forks": 2103,
-  "openIssues": 114,
+  "stars": 21090,
+  "forks": 2112,
+  "openIssues": 112,
   "createdAt": "2024-06-19T13:23:56Z",
-  "updatedAt": "2026-08-18T02:05:41Z",
-  "pushedAt": "2026-08-18T01:32:04Z",
+  "updatedAt": "2026-08-19T02:20:37Z",
+  "pushedAt": "2026-08-19T02:14:52Z",
   "topics": [
     "agents",
     "agi",
@@ -36,13 +36,13 @@
     "speech-to-text",
     "ycombinator"
   ],
-  "summaryZh": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...) 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Vision",
-    "Audio"
+    "Coding",
+    "Vision"
   ],
   "source": "github",
   "trendScore": 92,

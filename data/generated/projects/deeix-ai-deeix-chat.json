@@ -1,6 +1,6 @@
 {
   "slug": "deeix-ai-deeix-chat",
-  "featuredDate": "2026-08-18",
+  "featuredDate": "2026-08-19",
   "fullName": "DEEIX-AI/DEEIX-Chat",
   "name": "DEEIX-Chat",
   "owner": "DEEIX-AI",
@@ -8,12 +8,12 @@
   "homepage": "https://deeix.com",
   "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
   "language": "Go",
-  "stars": 1304,
-  "forks": 183,
-  "openIssues": 11,
+  "stars": 1310,
+  "forks": 184,
+  "openIssues": 7,
   "createdAt": "2026-05-21T08:57:01Z",
-  "updatedAt": "2026-08-18T02:17:35Z",
-  "pushedAt": "2026-08-18T02:17:50Z",
+  "updatedAt": "2026-08-19T02:07:48Z",
+  "pushedAt": "2026-08-19T01:57:52Z",
   "topics": [
     "ai",
     "ai-chatbots",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 69,
   "totalScore": 90
 }
