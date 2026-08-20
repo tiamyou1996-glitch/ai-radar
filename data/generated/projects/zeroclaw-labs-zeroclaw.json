@@ -1,6 +1,6 @@
 {
   "slug": "zeroclaw-labs-zeroclaw",
-  "featuredDate": "2026-07-20",
+  "featuredDate": "2026-08-20",
   "fullName": "zeroclaw-labs/zeroclaw",
   "name": "zeroclaw",
   "owner": "zeroclaw-labs",
@@ -8,12 +8,12 @@
   "homepage": "https://www.zeroclawlabs.ai/",
   "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
   "language": "Rust",
-  "stars": 32324,
-  "forks": 4814,
-  "openIssues": 533,
+  "stars": 32619,
+  "forks": 4901,
+  "openIssues": 763,
   "createdAt": "2026-02-13T08:56:04Z",
-  "updatedAt": "2026-07-20T04:39:22Z",
-  "pushedAt": "2026-07-20T04:42:25Z",
+  "updatedAt": "2026-08-20T02:19:36Z",
+  "pushedAt": "2026-08-20T02:19:04Z",
   "topics": [
     "agent",
     "agentic",
@@ -32,8 +32,8 @@
     "Infra"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 66,
-  "totalScore": 91
+  "totalScore": 88
 }

@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-08-15",
+  "featuredDate": "2026-08-20",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -9,11 +9,11 @@
   "description": "Unified multimodal backend for AI data apps",
   "language": "Python",
   "stars": 1614,
-  "forks": 220,
-  "openIssues": 39,
+  "forks": 219,
+  "openIssues": 41,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-08-15T01:35:42Z",
-  "pushedAt": "2026-08-15T01:35:21Z",
+  "updatedAt": "2026-08-20T01:40:06Z",
+  "pushedAt": "2026-08-20T01:48:42Z",
   "topics": [
     "ai",
     "computer-vision",

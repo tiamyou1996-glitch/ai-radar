@@ -1,6 +1,6 @@
 {
   "slug": "lightseekorg-tokenspeed",
-  "featuredDate": "2026-08-07",
+  "featuredDate": "2026-08-20",
   "fullName": "lightseekorg/tokenspeed",
   "name": "tokenspeed",
   "owner": "lightseekorg",
@@ -8,12 +8,12 @@
   "homepage": "https://lightseek.org/blog/lightseek-tokenspeed.html",
   "description": "TokenSpeed is a speed-of-light LLM inference engine.",
   "language": "Python",
-  "stars": 1818,
-  "forks": 221,
-  "openIssues": 37,
+  "stars": 1932,
+  "forks": 247,
+  "openIssues": 47,
   "createdAt": "2026-05-06T13:13:21Z",
-  "updatedAt": "2026-08-07T03:59:23Z",
-  "pushedAt": "2026-08-07T03:58:30Z",
+  "updatedAt": "2026-08-20T02:19:33Z",
+  "pushedAt": "2026-08-20T02:18:30Z",
   "topics": [
     "blackwell",
     "deepseek",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 69,
   "totalScore": 91
 }
