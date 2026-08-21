@@ -1,6 +1,6 @@
 {
   "slug": "macro-inc-macro",
-  "featuredDate": "2026-08-10",
+  "featuredDate": "2026-08-21",
   "fullName": "macro-inc/macro",
   "name": "macro",
   "owner": "macro-inc",
@@ -8,12 +8,12 @@
   "homepage": "https://macro.com",
   "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
   "language": "Rust",
-  "stars": 779,
-  "forks": 149,
-  "openIssues": 57,
+  "stars": 3874,
+  "forks": 370,
+  "openIssues": 76,
   "createdAt": "2025-11-08T15:18:27Z",
-  "updatedAt": "2026-08-10T03:13:13Z",
-  "pushedAt": "2026-08-10T03:14:17Z",
+  "updatedAt": "2026-08-21T02:32:22Z",
+  "pushedAt": "2026-08-21T02:32:13Z",
   "topics": [
     "agent",
     "ai",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 98,
   "relevanceScore": 55,
-  "totalScore": 84
+  "totalScore": 86
 }

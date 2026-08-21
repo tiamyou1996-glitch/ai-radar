@@ -1,0 +1,35 @@
+{
+  "slug": "georgeguimaraes-arcana",
+  "featuredDate": "2026-08-21",
+  "fullName": "georgeguimaraes/arcana",
+  "name": "arcana",
+  "owner": "georgeguimaraes",
+  "repoUrl": "https://github.com/georgeguimaraes/arcana",
+  "homepage": "https://hexdocs.pm/arcana",
+  "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard",
+  "language": "Elixir",
+  "stars": 330,
+  "forks": 12,
+  "openIssues": 4,
+  "createdAt": "2025-12-23T23:05:06Z",
+  "updatedAt": "2026-08-21T02:30:49Z",
+  "pushedAt": "2026-08-21T02:30:53Z",
+  "topics": [
+    "agent",
+    "elixir",
+    "nx",
+    "rag"
+  ],
+  "summaryZh": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 66,
+  "totalScore": 84
+}
