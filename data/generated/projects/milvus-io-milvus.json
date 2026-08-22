@@ -1,6 +1,6 @@
 {
   "slug": "milvus-io-milvus",
-  "featuredDate": "2026-08-21",
+  "featuredDate": "2026-08-22",
   "fullName": "milvus-io/milvus",
   "name": "milvus",
   "owner": "milvus-io",
@@ -8,12 +8,12 @@
   "homepage": "https://milvus.io",
   "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
   "language": "Go",
-  "stars": 45718,
+  "stars": 45728,
   "forks": 4191,
   "openIssues": 1320,
   "createdAt": "2019-09-16T06:43:43Z",
-  "updatedAt": "2026-08-21T02:33:25Z",
-  "pushedAt": "2026-08-21T02:33:20Z",
+  "updatedAt": "2026-08-22T02:01:40Z",
+  "pushedAt": "2026-08-22T02:03:21Z",
   "topics": [
     "anns",
     "cloud-native",

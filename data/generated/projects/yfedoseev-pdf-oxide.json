@@ -1,6 +1,6 @@
 {
   "slug": "yfedoseev-pdf-oxide",
-  "featuredDate": "2026-07-26",
+  "featuredDate": "2026-08-22",
   "fullName": "yfedoseev/pdf_oxide",
   "name": "pdf_oxide",
   "owner": "yfedoseev",
@@ -8,12 +8,12 @@
   "homepage": "https://oxide.fyi",
   "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0.",
   "language": "Rust",
-  "stars": 908,
-  "forks": 112,
-  "openIssues": 64,
+  "stars": 967,
+  "forks": 122,
+  "openIssues": 123,
   "createdAt": "2025-11-05T22:56:26Z",
-  "updatedAt": "2026-07-26T04:17:41Z",
-  "pushedAt": "2026-07-26T04:17:22Z",
+  "updatedAt": "2026-08-22T02:09:33Z",
+  "pushedAt": "2026-08-22T01:21:46Z",
   "topics": [
     "data-extraction",
     "document-processing",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 69,
   "totalScore": 87
 }

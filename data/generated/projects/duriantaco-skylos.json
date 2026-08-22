@@ -1,6 +1,6 @@
 {
   "slug": "duriantaco-skylos",
-  "featuredDate": "2026-07-01",
+  "featuredDate": "2026-08-22",
   "fullName": "duriantaco/skylos",
   "name": "skylos",
   "owner": "duriantaco",
@@ -8,12 +8,12 @@
   "homepage": "https://skylos.dev/",
   "description": "Open source local-first PR scanner that finds dead code, security bugs, secrets, quality regressions, and AI-code mistakes before merge. For first timers refer to https://duriantaco.github.io/skylos/repo-map/",
   "language": "Python",
-  "stars": 462,
-  "forks": 24,
-  "openIssues": 3,
+  "stars": 542,
+  "forks": 29,
+  "openIssues": 15,
   "createdAt": "2025-04-28T14:41:35Z",
-  "updatedAt": "2026-07-01T05:31:30Z",
-  "pushedAt": "2026-07-01T05:31:45Z",
+  "updatedAt": "2026-08-22T02:09:29Z",
+  "pushedAt": "2026-08-22T02:09:39Z",
   "topics": [
     "ai-agents",
     "ai-code-review",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 62,
   "totalScore": 84
 }

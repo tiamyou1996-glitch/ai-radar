@@ -1,0 +1,38 @@
+{
+  "slug": "lean-dojo-leancopilot",
+  "featuredDate": "2026-08-22",
+  "fullName": "lean-dojo/LeanCopilot",
+  "name": "LeanCopilot",
+  "owner": "lean-dojo",
+  "repoUrl": "https://github.com/lean-dojo/LeanCopilot",
+  "homepage": "https://leandojo.org/leancopilot.html",
+  "description": "LLMs as Copilots for Theorem Proving in Lean",
+  "language": "C++",
+  "stars": 1313,
+  "forks": 127,
+  "openIssues": 0,
+  "createdAt": "2023-09-09T01:52:22Z",
+  "updatedAt": "2026-08-22T02:14:54Z",
+  "pushedAt": "2026-08-22T02:14:29Z",
+  "topics": [
+    "formal-mathematics",
+    "lean",
+    "lean4",
+    "llm",
+    "llm-inference",
+    "machine-learning",
+    "theorem-proving"
+  ],
+  "summaryZh": "LLMs as Copilots for Theorem Proving in Lean 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
