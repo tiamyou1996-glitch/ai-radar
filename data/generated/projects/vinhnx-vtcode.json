@@ -1,19 +1,19 @@
 {
   "slug": "vinhnx-vtcode",
-  "featuredDate": "2026-06-13",
+  "featuredDate": "2026-08-24",
   "fullName": "vinhnx/VTCode",
   "name": "VTCode",
   "owner": "vinhnx",
   "repoUrl": "https://github.com/vinhnx/VTCode",
-  "homepage": "https://vinhnx.github.io",
-  "description": "VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.",
+  "homepage": "https://github.com/vinhnx/VTCode/wiki",
+  "description": "VT Code is an open-source Rust terminal coding agent.",
   "language": "Rust",
-  "stars": 686,
-  "forks": 58,
-  "openIssues": 0,
+  "stars": 818,
+  "forks": 78,
+  "openIssues": 1,
   "createdAt": "2025-08-29T09:01:48Z",
-  "updatedAt": "2026-06-13T05:32:52Z",
-  "pushedAt": "2026-06-13T05:32:52Z",
+  "updatedAt": "2026-08-24T02:34:56Z",
+  "pushedAt": "2026-08-24T02:34:42Z",
   "topics": [
     "agent",
     "cargo",
@@ -25,17 +25,16 @@
     "terminal",
     "tui"
   ],
-  "summaryZh": "VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "VT Code is an open-source Rust terminal coding agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Coding",
-    "Model"
+    "Coding"
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 90,
-  "relevanceScore": 69,
-  "totalScore": 86
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 85
 }

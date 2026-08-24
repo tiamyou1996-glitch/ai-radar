@@ -1,6 +1,6 @@
 {
   "slug": "mixpeek-amux",
-  "featuredDate": "2026-08-12",
+  "featuredDate": "2026-08-24",
   "fullName": "mixpeek/amux",
   "name": "amux",
   "owner": "mixpeek",
@@ -8,12 +8,12 @@
   "homepage": "https://amux.io",
   "description": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
   "language": "HTML",
-  "stars": 339,
-  "forks": 37,
-  "openIssues": 19,
+  "stars": 365,
+  "forks": 39,
+  "openIssues": 18,
   "createdAt": "2026-02-18T14:30:56Z",
-  "updatedAt": "2026-08-12T03:22:37Z",
-  "pushedAt": "2026-08-12T03:22:28Z",
+  "updatedAt": "2026-08-24T02:22:25Z",
+  "pushedAt": "2026-08-24T02:21:53Z",
   "topics": [
     "agent-orchestration",
     "agentic-ai",
@@ -45,8 +45,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 86,
   "relevanceScore": 69,
-  "totalScore": 87
+  "totalScore": 85
 }
