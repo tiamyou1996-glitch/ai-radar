@@ -1,19 +1,19 @@
 {
   "slug": "hkuds-deeptutor",
-  "featuredDate": "2026-05-04",
+  "featuredDate": "2026-08-25",
   "fullName": "HKUDS/DeepTutor",
   "name": "DeepTutor",
   "owner": "HKUDS",
   "repoUrl": "https://github.com/HKUDS/DeepTutor",
   "homepage": "http://arxiv.org/abs/2604.26962",
-  "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
   "language": "Python",
-  "stars": 23133,
-  "forks": 3087,
-  "openIssues": 32,
+  "stars": 37409,
+  "forks": 4689,
+  "openIssues": 126,
   "createdAt": "2025-12-28T15:35:54Z",
-  "updatedAt": "2026-05-04T04:30:04Z",
-  "pushedAt": "2026-05-04T04:08:22Z",
+  "updatedAt": "2026-08-25T02:20:52Z",
+  "pushedAt": "2026-08-25T02:20:41Z",
   "topics": [
     "ai-agents",
     "ai-tutor",
@@ -25,7 +25,7 @@
     "multi-agent-systems",
     "rag"
   ],
-  "summaryZh": "\"DeepTutor: Agent-Native Personalized Learning Assistant\" 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -34,8 +34,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 93
+  "totalScore": 90
 }

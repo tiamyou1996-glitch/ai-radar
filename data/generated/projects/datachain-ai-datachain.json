@@ -1,6 +1,6 @@
 {
   "slug": "datachain-ai-datachain",
-  "featuredDate": "2026-08-23",
+  "featuredDate": "2026-08-25",
   "fullName": "datachain-ai/datachain",
   "name": "datachain",
   "owner": "datachain-ai",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 2810,
   "forks": 156,
-  "openIssues": 94,
+  "openIssues": 97,
   "createdAt": "2024-06-25T22:29:35Z",
-  "updatedAt": "2026-08-22T23:59:21Z",
-  "pushedAt": "2026-08-23T02:34:21Z",
+  "updatedAt": "2026-08-25T01:40:37Z",
+  "pushedAt": "2026-08-25T01:40:34Z",
   "topics": [
     "ai-agents",
     "claude-code",
