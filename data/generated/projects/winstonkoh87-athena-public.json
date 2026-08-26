@@ -1,19 +1,19 @@
 {
   "slug": "winstonkoh87-athena-public",
-  "featuredDate": "2026-03-19",
+  "featuredDate": "2026-08-26",
   "fullName": "winstonkoh87/Athena-Public",
   "name": "Athena-Public",
   "owner": "winstonkoh87",
   "repoUrl": "https://github.com/winstonkoh87/Athena-Public",
   "homepage": "https://winstonkoh87.com/athena/",
-  "description": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
+  "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context — persistent memory, structured reasoning, and governed AI agents that work across any LLM. Own the state. Rent the intelligence.",
   "language": "Python",
-  "stars": 433,
-  "forks": 58,
+  "stars": 583,
+  "forks": 77,
   "openIssues": 0,
   "createdAt": "2025-12-18T19:47:38Z",
-  "updatedAt": "2026-03-19T05:08:54Z",
-  "pushedAt": "2026-03-19T05:08:51Z",
+  "updatedAt": "2026-08-26T02:25:12Z",
+  "pushedAt": "2026-08-26T02:25:07Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -36,7 +36,7 @@
     "semantic-search",
     "vector-search"
   ],
-  "summaryZh": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Athena is a local-first agentic PKM that helps you make better decisions with your own context — persistent memory, structured reasoning, and governed AI agents that work across any LLM. Own the state. Rent the intelligence. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -45,8 +45,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 87,
+  "trendScore": 92,
+  "qualityScore": 89,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 87
 }
