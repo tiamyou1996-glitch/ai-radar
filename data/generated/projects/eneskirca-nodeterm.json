@@ -1,6 +1,6 @@
 {
   "slug": "eneskirca-nodeterm",
-  "featuredDate": "2026-08-15",
+  "featuredDate": "2026-08-27",
   "fullName": "eneskirca/nodeterm",
   "name": "nodeterm",
   "owner": "eneskirca",
@@ -8,12 +8,12 @@
   "homepage": "https://nodeterm.dev",
   "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
   "language": "TypeScript",
-  "stars": 589,
-  "forks": 72,
-  "openIssues": 26,
+  "stars": 1330,
+  "forks": 132,
+  "openIssues": 48,
   "createdAt": "2026-06-15T21:25:13Z",
-  "updatedAt": "2026-08-15T02:10:40Z",
-  "pushedAt": "2026-08-15T01:59:53Z",
+  "updatedAt": "2026-08-27T10:58:26Z",
+  "pushedAt": "2026-08-27T11:06:26Z",
   "topics": [
     "adhd",
     "agent-orchestration",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 94,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 91
 }

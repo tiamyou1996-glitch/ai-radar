@@ -1,6 +1,6 @@
 {
   "slug": "liliu-z-stashbase",
-  "featuredDate": "2026-08-24",
+  "featuredDate": "2026-08-27",
   "fullName": "liliu-z/stashbase",
   "name": "stashbase",
   "owner": "liliu-z",
@@ -8,12 +8,12 @@
   "homepage": "https://stashbase.ai",
   "description": "Turn local files into searchable context for AI agents.",
   "language": "TypeScript",
-  "stars": 426,
+  "stars": 454,
   "forks": 22,
-  "openIssues": 17,
+  "openIssues": 14,
   "createdAt": "2026-05-19T05:21:06Z",
-  "updatedAt": "2026-08-24T02:32:57Z",
-  "pushedAt": "2026-08-24T02:32:49Z",
+  "updatedAt": "2026-08-27T11:04:31Z",
+  "pushedAt": "2026-08-27T10:59:50Z",
   "topics": [
     "ai-agents",
     "document-search",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 66,
   "totalScore": 87
 }

@@ -1,0 +1,38 @@
+{
+  "slug": "rma-mun-ragnotebook",
+  "featuredDate": "2026-08-27",
+  "fullName": "RMA-MUN/RAGNotebook",
+  "name": "RAGNotebook",
+  "owner": "RMA-MUN",
+  "repoUrl": "https://github.com/RMA-MUN/RAGNotebook",
+  "homepage": null,
+  "description": "基于LangChain、FastAPI和React的RAG项目，主分支为基于RAG的智能笔记助手，base-rag分支为开箱即用的基础RAG项目供学习使用",
+  "language": "Python",
+  "stars": 432,
+  "forks": 81,
+  "openIssues": 1,
+  "createdAt": "2026-03-06T08:43:18Z",
+  "updatedAt": "2026-08-27T11:01:20Z",
+  "pushedAt": "2026-08-27T10:57:46Z",
+  "topics": [
+    "chromadb",
+    "fastapi",
+    "langchain",
+    "mysql",
+    "rag",
+    "react",
+    "sqlachemy",
+    "transformers"
+  ],
+  "summaryZh": "基于LangChain、FastAPI和React的RAG项目，主分支为基于RAG的智能笔记助手，base-rag分支为开箱即用的基础RAG项目供学习使用 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 84,
+  "relevanceScore": 55,
+  "totalScore": 83
+}
