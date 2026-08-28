@@ -1,6 +1,6 @@
 {
   "slug": "osmantic-ods",
-  "featuredDate": "2026-07-28",
+  "featuredDate": "2026-08-28",
   "fullName": "Osmantic/ODS",
   "name": "ODS",
   "owner": "Osmantic",
@@ -8,12 +8,12 @@
   "homepage": "https://discord.gg/qGVygYada3",
   "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
   "language": "Python",
-  "stars": 3766,
-  "forks": 545,
-  "openIssues": 252,
+  "stars": 4777,
+  "forks": 732,
+  "openIssues": 1274,
   "createdAt": "2026-02-09T13:14:58Z",
-  "updatedAt": "2026-07-28T04:06:46Z",
-  "pushedAt": "2026-07-28T04:09:19Z",
+  "updatedAt": "2026-08-28T12:41:13Z",
+  "pushedAt": "2026-08-28T12:16:39Z",
   "topics": [
     "ai-agents",
     "amd",
@@ -41,8 +41,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 93
+  "totalScore": 90
 }
