@@ -1,6 +1,6 @@
 {
   "slug": "unohee-openswarm",
-  "featuredDate": "2026-06-29",
+  "featuredDate": "2026-08-29",
   "fullName": "unohee/OpenSwarm",
   "name": "OpenSwarm",
   "owner": "unohee",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
   "language": "TypeScript",
-  "stars": 814,
-  "forks": 140,
+  "stars": 839,
+  "forks": 146,
   "openIssues": 0,
   "createdAt": "2026-02-23T07:14:58Z",
-  "updatedAt": "2026-06-29T05:58:56Z",
-  "pushedAt": "2026-06-29T05:58:56Z",
+  "updatedAt": "2026-08-29T07:47:03Z",
+  "pushedAt": "2026-08-29T07:46:40Z",
   "topics": [
     "ai-agents",
     "ai-coding",
@@ -39,8 +39,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 88,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 86
 }

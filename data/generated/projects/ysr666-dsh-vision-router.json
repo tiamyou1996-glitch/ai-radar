@@ -1,6 +1,6 @@
 {
   "slug": "ysr666-dsh-vision-router",
-  "featuredDate": "2026-08-26",
+  "featuredDate": "2026-08-29",
   "fullName": "ysr666/dsh-vision-router",
   "name": "dsh-vision-router",
   "owner": "ysr666",
@@ -8,12 +8,12 @@
   "homepage": "https://github.com/ysr666/dsh-vision-router",
   "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
   "language": "JavaScript",
-  "stars": 975,
+  "stars": 1019,
   "forks": 44,
   "openIssues": 2,
   "createdAt": "2026-08-13T18:57:47Z",
-  "updatedAt": "2026-08-26T01:37:18Z",
-  "pushedAt": "2026-08-26T02:21:40Z",
+  "updatedAt": "2026-08-29T07:47:51Z",
+  "pushedAt": "2026-08-29T07:48:07Z",
   "topics": [
     "deepseek-harness",
     "dsh",
