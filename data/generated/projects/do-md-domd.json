@@ -1,19 +1,19 @@
 {
   "slug": "do-md-domd",
-  "featuredDate": "2026-07-30",
+  "featuredDate": "2026-08-30",
   "fullName": "do-md/domd",
   "name": "domd",
   "owner": "do-md",
   "repoUrl": "https://github.com/do-md/domd",
   "homepage": "https://www.domd.app",
-  "description": "20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.",
+  "description": "30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.",
   "language": "TypeScript",
-  "stars": 445,
-  "forks": 19,
+  "stars": 564,
+  "forks": 38,
   "openIssues": 1,
   "createdAt": "2026-05-25T10:11:13Z",
-  "updatedAt": "2026-07-30T04:05:41Z",
-  "pushedAt": "2026-07-30T04:05:28Z",
+  "updatedAt": "2026-08-30T06:26:23Z",
+  "pushedAt": "2026-08-30T06:25:55Z",
   "topics": [
     "agent",
     "ai",
@@ -36,7 +36,7 @@
     "wysiwyg",
     "wysiwyg-editor"
   ],
-  "summaryZh": "20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

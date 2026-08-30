@@ -1,0 +1,42 @@
+{
+  "slug": "egoist-waku",
+  "featuredDate": "2026-08-30",
+  "fullName": "egoist/waku",
+  "name": "waku",
+  "owner": "egoist",
+  "repoUrl": "https://github.com/egoist/waku",
+  "homepage": "https://waku.sh",
+  "description": "⚡ A native app for all your coding agents.",
+  "language": "Rust",
+  "stars": 1283,
+  "forks": 144,
+  "openIssues": 127,
+  "createdAt": "2026-07-31T09:38:33Z",
+  "updatedAt": "2026-08-30T06:25:52Z",
+  "pushedAt": "2026-08-30T06:25:29Z",
+  "topics": [
+    "agent",
+    "amp",
+    "claude-code",
+    "codex",
+    "coding",
+    "cursor",
+    "gpui",
+    "grok",
+    "opencode",
+    "pi",
+    "rust"
+  ],
+  "summaryZh": "⚡ A native app for all your coding agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 93,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

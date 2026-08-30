@@ -1,6 +1,6 @@
 {
   "slug": "wecode-ai-wegent",
-  "featuredDate": "2026-08-22",
+  "featuredDate": "2026-08-30",
   "fullName": "wecode-ai/Wegent",
   "name": "Wegent",
   "owner": "wecode-ai",
@@ -8,19 +8,19 @@
   "homepage": "https://wecode-ai.github.io/wegent-docs",
   "description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
   "language": "TypeScript",
-  "stars": 712,
-  "forks": 125,
-  "openIssues": 58,
+  "stars": 744,
+  "forks": 127,
+  "openIssues": 63,
   "createdAt": "2026-01-10T15:42:57Z",
-  "updatedAt": "2026-08-22T02:11:05Z",
-  "pushedAt": "2026-08-22T02:10:56Z",
+  "updatedAt": "2026-08-30T06:29:04Z",
+  "pushedAt": "2026-08-30T06:28:43Z",
   "topics": [
     "agent",
     "ai",
     "chatbot",
     "claude-code",
     "codex",
-    "llm",
+    "deepseek-harness",
     "wework"
   ],
   "summaryZh": "An open-source AI-native operating system to define, organize, and run intelligent agent teams 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
@@ -28,12 +28,11 @@
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Coding",
-    "Model"
+    "Coding"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 90,
-  "relevanceScore": 69,
-  "totalScore": 86
+  "relevanceScore": 62,
+  "totalScore": 85
 }

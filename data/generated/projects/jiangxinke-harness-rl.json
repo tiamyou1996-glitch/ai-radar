@@ -1,0 +1,35 @@
+{
+  "slug": "jiangxinke-harness-rl",
+  "featuredDate": "2026-08-30",
+  "fullName": "jiangxinke/Harness-RL",
+  "name": "Harness-RL",
+  "owner": "jiangxinke",
+  "repoUrl": "https://github.com/jiangxinke/Harness-RL",
+  "homepage": null,
+  "description": "Agentic RAG R1 Framework via Reinforcement Learning",
+  "language": "Python",
+  "stars": 433,
+  "forks": 53,
+  "openIssues": 8,
+  "createdAt": "2025-03-17T06:06:15Z",
+  "updatedAt": "2026-08-30T06:15:23Z",
+  "pushedAt": "2026-08-30T06:15:14Z",
+  "topics": [
+    "agentic",
+    "grpo",
+    "rag",
+    "rl"
+  ],
+  "summaryZh": "Agentic RAG R1 Framework via Reinforcement Learning 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 84,
+  "relevanceScore": 66,
+  "totalScore": 83
+}

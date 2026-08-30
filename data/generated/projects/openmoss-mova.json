@@ -1,0 +1,36 @@
+{
+  "slug": "openmoss-mova",
+  "featuredDate": "2026-08-30",
+  "fullName": "OpenMOSS/MOVA",
+  "name": "MOVA",
+  "owner": "OpenMOSS",
+  "repoUrl": "https://github.com/OpenMOSS/MOVA",
+  "homepage": "https://mosi.cn/models/mova",
+  "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation",
+  "language": "Python",
+  "stars": 1105,
+  "forks": 91,
+  "openIssues": 32,
+  "createdAt": "2026-01-28T12:31:50Z",
+  "updatedAt": "2026-08-30T06:28:41Z",
+  "pushedAt": "2026-08-30T06:28:21Z",
+  "topics": [
+    "diffusion-models",
+    "multimodal",
+    "sglang",
+    "video-audio-generation"
+  ],
+  "summaryZh": "MOVA: Towards Scalable and Synchronized Video–Audio Generation 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Audio",
+    "Video"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 65,
+  "totalScore": 86
+}

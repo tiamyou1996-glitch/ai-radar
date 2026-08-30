@@ -1,6 +1,6 @@
 {
   "slug": "deepcoldy-botmux",
-  "featuredDate": "2026-08-13",
+  "featuredDate": "2026-08-30",
   "fullName": "deepcoldy/botmux",
   "name": "botmux",
   "owner": "deepcoldy",
@@ -8,12 +8,12 @@
   "homepage": "https://deepcoldy.github.io/botmux/",
   "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session",
   "language": "TypeScript",
-  "stars": 1056,
-  "forks": 204,
-  "openIssues": 68,
+  "stars": 1261,
+  "forks": 253,
+  "openIssues": 90,
   "createdAt": "2026-03-11T16:59:54Z",
-  "updatedAt": "2026-08-13T03:12:45Z",
-  "pushedAt": "2026-08-13T03:12:40Z",
+  "updatedAt": "2026-08-30T06:30:11Z",
+  "pushedAt": "2026-08-30T06:29:59Z",
   "topics": [
     "claude",
     "claude-code",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 51,
   "totalScore": 86
 }
