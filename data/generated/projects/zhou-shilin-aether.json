@@ -1,28 +1,31 @@
 {
   "slug": "zhou-shilin-aether",
-  "featuredDate": "2026-07-09",
+  "featuredDate": "2026-08-31",
   "fullName": "Zhou-Shilin/Aether",
   "name": "Aether",
   "owner": "Zhou-Shilin",
   "repoUrl": "https://github.com/Zhou-Shilin/Aether",
   "homepage": "https://aether.baimoqilin.com",
-  "description": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇",
+  "description": "A stunning, localized, general-purpose AI Agent for Android, iOS & Mac. | Aether 扶摇",
   "language": "Kotlin",
-  "stars": 327,
-  "forks": 16,
-  "openIssues": 3,
+  "stars": 591,
+  "forks": 46,
+  "openIssues": 7,
   "createdAt": "2026-04-25T13:22:24Z",
-  "updatedAt": "2026-07-09T04:57:02Z",
-  "pushedAt": "2026-07-09T04:56:58Z",
+  "updatedAt": "2026-08-31T06:52:53Z",
+  "pushedAt": "2026-08-31T06:51:21Z",
   "topics": [
+    "aether",
     "agent",
     "agents",
     "ai",
     "ai-agents",
     "android-application",
-    "llm"
+    "ios",
+    "llm",
+    "macos"
   ],
-  "summaryZh": "A stunning, localized, general-purpose AI Agent for Android. | Aether 扶摇 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "A stunning, localized, general-purpose AI Agent for Android, iOS & Mac. | Aether 扶摇 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -31,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

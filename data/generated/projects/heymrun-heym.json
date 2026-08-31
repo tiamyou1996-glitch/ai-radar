@@ -1,19 +1,19 @@
 {
   "slug": "heymrun-heym",
-  "featuredDate": "2026-07-09",
+  "featuredDate": "2026-08-31",
   "fullName": "heymrun/heym",
   "name": "heym",
   "owner": "heymrun",
   "repoUrl": "https://github.com/heymrun/heym",
   "homepage": "https://heym.run",
-  "description": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.",
+  "description": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.",
   "language": "Python",
-  "stars": 689,
-  "forks": 69,
-  "openIssues": 1,
+  "stars": 1062,
+  "forks": 91,
+  "openIssues": 0,
   "createdAt": "2026-03-28T08:08:49Z",
-  "updatedAt": "2026-07-09T04:56:19Z",
-  "pushedAt": "2026-07-09T04:58:38Z",
+  "updatedAt": "2026-08-31T06:52:32Z",
+  "pushedAt": "2026-08-31T06:51:49Z",
   "topics": [
     "ai-agents",
     "ai-agents-framework",
@@ -36,7 +36,7 @@
     "workflow-automation",
     "workflows"
   ],
-  "summaryZh": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 92,
   "relevanceScore": 73,
   "totalScore": 90
 }

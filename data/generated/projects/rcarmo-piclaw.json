@@ -1,19 +1,19 @@
 {
   "slug": "rcarmo-piclaw",
-  "featuredDate": "2026-05-11",
+  "featuredDate": "2026-08-31",
   "fullName": "rcarmo/piclaw",
   "name": "piclaw",
   "owner": "rcarmo",
   "repoUrl": "https://github.com/rcarmo/piclaw",
   "homepage": "https://rcarmo.github.io/projects/piclaw/",
-  "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+  "description": "pi coding agent in a technicolor web trenchcoat ",
   "language": "TypeScript",
-  "stars": 647,
-  "forks": 53,
-  "openIssues": 71,
+  "stars": 835,
+  "forks": 79,
+  "openIssues": 39,
   "createdAt": "2026-02-17T19:06:49Z",
-  "updatedAt": "2026-05-11T05:04:18Z",
-  "pushedAt": "2026-05-11T05:04:14Z",
+  "updatedAt": "2026-08-31T06:56:49Z",
+  "pushedAt": "2026-08-31T06:55:08Z",
   "topics": [
     "adaptive-cards",
     "ai-agent",
@@ -28,7 +28,7 @@
     "web-ui",
     "workspace"
   ],
-  "summaryZh": "I'm going to build my own OpenClaw, with blackjack... and bun! 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "pi coding agent in a technicolor web trenchcoat  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -37,8 +37,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 90,
+  "trendScore": 92,
+  "qualityScore": 91,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }
