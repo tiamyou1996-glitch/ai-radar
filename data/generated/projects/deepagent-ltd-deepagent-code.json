@@ -1,0 +1,35 @@
+{
+  "slug": "deepagent-ltd-deepagent-code",
+  "featuredDate": "2026-09-01",
+  "fullName": "deepagent-ltd/deepagent-code",
+  "name": "deepagent-code",
+  "owner": "deepagent-ltd",
+  "repoUrl": "https://github.com/deepagent-ltd/deepagent-code",
+  "homepage": "https://ai.deepagent.ltd/",
+  "description": "DeepAgent Code: AI coding agent with persistent memory and control plane",
+  "language": "TypeScript",
+  "stars": 434,
+  "forks": 3,
+  "openIssues": 3,
+  "createdAt": "2026-06-23T12:41:42Z",
+  "updatedAt": "2026-09-01T06:05:12Z",
+  "pushedAt": "2026-09-01T06:02:45Z",
+  "topics": [
+    "ai-agent",
+    "coding-agent",
+    "deepagent",
+    "open-source"
+  ],
+  "summaryZh": "DeepAgent Code: AI coding agent with persistent memory and control plane 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
