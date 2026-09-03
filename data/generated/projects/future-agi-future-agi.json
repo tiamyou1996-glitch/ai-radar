@@ -1,6 +1,6 @@
 {
   "slug": "future-agi-future-agi",
-  "featuredDate": "2026-08-07",
+  "featuredDate": "2026-09-03",
   "fullName": "future-agi/future-agi",
   "name": "future-agi",
   "owner": "future-agi",
@@ -8,12 +8,12 @@
   "homepage": "https://futureagi.com",
   "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
   "language": "Python",
-  "stars": 1617,
-  "forks": 460,
-  "openIssues": 637,
+  "stars": 1909,
+  "forks": 573,
+  "openIssues": 783,
   "createdAt": "2026-04-23T14:11:31Z",
-  "updatedAt": "2026-08-07T03:54:16Z",
-  "pushedAt": "2026-08-07T03:47:32Z",
+  "updatedAt": "2026-09-03T05:38:43Z",
+  "pushedAt": "2026-09-03T05:38:45Z",
   "topics": [
     "ai-agents",
     "ai-evals",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 77,
-  "totalScore": 92
+  "totalScore": 93
 }

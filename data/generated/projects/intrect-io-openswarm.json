@@ -1,6 +1,6 @@
 {
   "slug": "intrect-io-openswarm",
-  "featuredDate": "2026-09-02",
+  "featuredDate": "2026-09-03",
   "fullName": "Intrect-io/OpenSwarm",
   "name": "OpenSwarm",
   "owner": "Intrect-io",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 841,
   "forks": 146,
-  "openIssues": 0,
+  "openIssues": 1,
   "createdAt": "2026-02-23T07:14:58Z",
-  "updatedAt": "2026-09-02T05:41:40Z",
-  "pushedAt": "2026-09-02T05:40:59Z",
+  "updatedAt": "2026-09-03T05:40:43Z",
+  "pushedAt": "2026-09-03T05:40:24Z",
   "topics": [
     "ai-agents",
     "ai-coding",

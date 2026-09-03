@@ -1,6 +1,6 @@
 {
   "slug": "1ay1-agentty",
-  "featuredDate": "2026-08-29",
+  "featuredDate": "2026-09-03",
   "fullName": "1ay1/agentty",
   "name": "agentty",
   "owner": "1ay1",
@@ -8,12 +8,12 @@
   "homepage": "https://agentty.org",
   "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
   "language": "C++",
-  "stars": 597,
+  "stars": 600,
   "forks": 17,
   "openIssues": 0,
   "createdAt": "2026-04-17T12:44:40Z",
-  "updatedAt": "2026-08-29T07:44:46Z",
-  "pushedAt": "2026-08-29T07:44:38Z",
+  "updatedAt": "2026-09-03T05:22:04Z",
+  "pushedAt": "2026-09-03T05:21:51Z",
   "topics": [
     "agentic-coding",
     "ai-agent",

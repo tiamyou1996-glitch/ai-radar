@@ -1,0 +1,38 @@
+{
+  "slug": "sandai-org-magicompiler",
+  "featuredDate": "2026-09-03",
+  "fullName": "SandAI-org/MagiCompiler",
+  "name": "MagiCompiler",
+  "owner": "SandAI-org",
+  "repoUrl": "https://github.com/SandAI-org/MagiCompiler",
+  "homepage": null,
+  "description": "A plug-and-play compiler that delivers free-lunch optimizations for both inference and training.",
+  "language": "Python",
+  "stars": 332,
+  "forks": 28,
+  "openIssues": 10,
+  "createdAt": "2025-12-01T07:50:46Z",
+  "updatedAt": "2026-09-03T05:25:18Z",
+  "pushedAt": "2026-09-03T05:26:25Z",
+  "topics": [
+    "ai-compiler",
+    "inference",
+    "llm",
+    "multimodality",
+    "training",
+    "video-generation"
+  ],
+  "summaryZh": "A plug-and-play compiler that delivers free-lunch optimizations for both inference and training. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Video",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 83,
+  "relevanceScore": 65,
+  "totalScore": 83
+}
