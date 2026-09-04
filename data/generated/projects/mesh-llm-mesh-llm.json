@@ -1,19 +1,19 @@
 {
   "slug": "mesh-llm-mesh-llm",
-  "featuredDate": "2026-05-25",
+  "featuredDate": "2026-09-04",
   "fullName": "Mesh-LLM/mesh-llm",
   "name": "mesh-llm",
   "owner": "Mesh-LLM",
   "repoUrl": "https://github.com/Mesh-LLM/mesh-llm",
-  "homepage": "http://docs.anarchai.org/",
+  "homepage": "http://meshllm.cloud/",
   "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
   "language": "Rust",
-  "stars": 1064,
-  "forks": 132,
-  "openIssues": 41,
+  "stars": 3355,
+  "forks": 407,
+  "openIssues": 97,
   "createdAt": "2026-02-11T03:18:27Z",
-  "updatedAt": "2026-05-25T05:45:04Z",
-  "pushedAt": "2026-05-25T05:45:01Z",
+  "updatedAt": "2026-09-04T05:49:15Z",
+  "pushedAt": "2026-09-04T05:48:20Z",
   "topics": [
     "agents",
     "ai",
@@ -29,8 +29,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 92,
+  "trendScore": 92,
+  "qualityScore": 98,
   "relevanceScore": 62,
   "totalScore": 88
 }

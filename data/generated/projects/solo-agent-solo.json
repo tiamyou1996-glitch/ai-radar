@@ -1,6 +1,6 @@
 {
   "slug": "solo-agent-solo",
-  "featuredDate": "2026-08-21",
+  "featuredDate": "2026-09-04",
   "fullName": "solo-agent/solo",
   "name": "solo",
   "owner": "solo-agent",
@@ -8,12 +8,12 @@
   "homepage": "https://soloagent.team",
   "description": "Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory.",
   "language": "Go",
-  "stars": 531,
-  "forks": 44,
-  "openIssues": 8,
+  "stars": 545,
+  "forks": 46,
+  "openIssues": 11,
   "createdAt": "2026-06-12T01:13:02Z",
-  "updatedAt": "2026-08-21T02:20:41Z",
-  "pushedAt": "2026-08-21T02:20:21Z",
+  "updatedAt": "2026-09-04T05:31:43Z",
+  "pushedAt": "2026-09-04T05:31:31Z",
   "topics": [
     "agent-orchestration",
     "agent-workspace",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "onlyterp-opengrok",
+  "featuredDate": "2026-09-04",
+  "fullName": "OnlyTerp/opengrok",
+  "name": "opengrok",
+  "owner": "OnlyTerp",
+  "repoUrl": "https://github.com/OnlyTerp/opengrok",
+  "homepage": "https://github.com/OnlyTerp/opengrok#-quick-start",
+  "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+  "language": "JavaScript",
+  "stars": 417,
+  "forks": 51,
+  "openIssues": 0,
+  "createdAt": "2026-08-27T18:30:44Z",
+  "updatedAt": "2026-09-04T05:49:27Z",
+  "pushedAt": "2026-09-04T05:48:29Z",
+  "topics": [
+    "ai-agents",
+    "grok",
+    "llm",
+    "model-router",
+    "openai-compatible",
+    "windows"
+  ],
+  "summaryZh": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

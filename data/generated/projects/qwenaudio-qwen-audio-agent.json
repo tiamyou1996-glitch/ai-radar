@@ -1,19 +1,19 @@
 {
   "slug": "qwenaudio-qwen-audio-agent",
-  "featuredDate": "2026-08-28",
+  "featuredDate": "2026-09-04",
   "fullName": "QwenAudio/qwen-audio-agent",
   "name": "qwen-audio-agent",
   "owner": "QwenAudio",
   "repoUrl": "https://github.com/QwenAudio/qwen-audio-agent",
-  "homepage": null,
+  "homepage": "https://qwenaudio.github.io/qwen-audio-agent/",
   "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
   "language": "JavaScript",
-  "stars": 2280,
-  "forks": 192,
-  "openIssues": 15,
+  "stars": 2335,
+  "forks": 201,
+  "openIssues": 21,
   "createdAt": "2026-07-27T05:04:26Z",
-  "updatedAt": "2026-08-28T12:34:00Z",
-  "pushedAt": "2026-08-28T12:31:57Z",
+  "updatedAt": "2026-09-04T05:41:45Z",
+  "pushedAt": "2026-09-04T05:47:56Z",
   "topics": [
     "acp",
     "agent",
@@ -39,7 +39,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 94,
+  "qualityScore": 97,
   "relevanceScore": 69,
-  "totalScore": 90
+  "totalScore": 91
 }

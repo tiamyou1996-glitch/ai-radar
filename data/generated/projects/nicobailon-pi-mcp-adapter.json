@@ -1,0 +1,40 @@
+{
+  "slug": "nicobailon-pi-mcp-adapter",
+  "featuredDate": "2026-09-04",
+  "fullName": "nicobailon/pi-mcp-adapter",
+  "name": "pi-mcp-adapter",
+  "owner": "nicobailon",
+  "repoUrl": "https://github.com/nicobailon/pi-mcp-adapter",
+  "homepage": null,
+  "description": "Token-efficient MCP adapter for Pi coding agent",
+  "language": "TypeScript",
+  "stars": 1405,
+  "forks": 315,
+  "openIssues": 11,
+  "createdAt": "2026-01-19T23:23:58Z",
+  "updatedAt": "2026-09-04T05:46:27Z",
+  "pushedAt": "2026-09-04T05:48:30Z",
+  "topics": [
+    "ai",
+    "claude",
+    "coding-agent",
+    "extension",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "pi"
+  ],
+  "summaryZh": "Token-efficient MCP adapter for Pi coding agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 91,
+  "relevanceScore": 69,
+  "totalScore": 87
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "human-agent-society-reef",
+  "featuredDate": "2026-09-04",
+  "fullName": "Human-Agent-Society/reef",
+  "name": "reef",
+  "owner": "Human-Agent-Society",
+  "repoUrl": "https://github.com/Human-Agent-Society/reef",
+  "homepage": "https://reefinfra.ai/docs/",
+  "description": "Continual learning infra for self-improving agents",
+  "language": "Python",
+  "stars": 314,
+  "forks": 25,
+  "openIssues": 47,
+  "createdAt": "2026-08-31T01:39:18Z",
+  "updatedAt": "2026-09-04T05:46:49Z",
+  "pushedAt": "2026-09-04T05:15:47Z",
+  "topics": [
+    "agent-infrastructure",
+    "ai-agents",
+    "continual-learning",
+    "inference",
+    "llm",
+    "llm-training",
+    "reinforcement-learning",
+    "self-improving-agents"
+  ],
+  "summaryZh": "Continual learning infra for self-improving agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 73,
+  "totalScore": 88
+}
