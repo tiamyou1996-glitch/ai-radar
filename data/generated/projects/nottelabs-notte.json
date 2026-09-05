@@ -1,0 +1,40 @@
+{
+  "slug": "nottelabs-notte",
+  "featuredDate": "2026-09-05",
+  "fullName": "nottelabs/notte",
+  "name": "notte",
+  "owner": "nottelabs",
+  "repoUrl": "https://github.com/nottelabs/notte",
+  "homepage": "https://www.notte.cc/",
+  "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+  "language": "Python",
+  "stars": 2000,
+  "forks": 183,
+  "openIssues": 12,
+  "createdAt": "2024-12-08T02:06:30Z",
+  "updatedAt": "2026-09-05T05:36:01Z",
+  "pushedAt": "2026-09-05T05:35:58Z",
+  "topics": [
+    "agent",
+    "ai",
+    "anthropic",
+    "automation",
+    "browser",
+    "llm",
+    "openai",
+    "web"
+  ],
+  "summaryZh": "Cloud browser infrastructure and web automation platform for your AI and coding agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 73,
+  "totalScore": 89
+}

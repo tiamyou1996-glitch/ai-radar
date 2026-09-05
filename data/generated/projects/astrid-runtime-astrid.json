@@ -1,0 +1,42 @@
+{
+  "slug": "astrid-runtime-astrid",
+  "featuredDate": "2026-09-05",
+  "fullName": "astrid-runtime/astrid",
+  "name": "astrid",
+  "owner": "astrid-runtime",
+  "repoUrl": "https://github.com/astrid-runtime/astrid",
+  "homepage": null,
+  "description": "Astrid is a portable, capability-secure operating system for composable software.",
+  "language": "Rust",
+  "stars": 10278,
+  "forks": 136,
+  "openIssues": 215,
+  "createdAt": "2026-02-15T23:27:31Z",
+  "updatedAt": "2026-09-05T05:33:19Z",
+  "pushedAt": "2026-09-05T05:33:15Z",
+  "topics": [
+    "agent-runtime",
+    "ai-agents",
+    "capability-security",
+    "llm",
+    "mcp",
+    "microkernel",
+    "rust",
+    "sandbox",
+    "wasm",
+    "webassembly"
+  ],
+  "summaryZh": "Astrid is a portable, capability-secure operating system for composable software. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}
