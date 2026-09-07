@@ -1,6 +1,6 @@
 {
   "slug": "madappgang-claudish",
-  "featuredDate": "2026-04-17",
+  "featuredDate": "2026-09-07",
   "fullName": "MadAppGang/claudish",
   "name": "claudish",
   "owner": "MadAppGang",
@@ -8,12 +8,12 @@
   "homepage": "https://claudish.com",
   "description": "Claude Code. Any Model. The most powerful AI coding agent now speaks every language.",
   "language": "TypeScript",
-  "stars": 725,
-  "forks": 98,
-  "openIssues": 23,
+  "stars": 982,
+  "forks": 133,
+  "openIssues": 4,
   "createdAt": "2025-11-28T10:04:27Z",
-  "updatedAt": "2026-04-17T04:03:26Z",
-  "pushedAt": "2026-04-17T04:03:22Z",
+  "updatedAt": "2026-09-07T05:42:15Z",
+  "pushedAt": "2026-09-07T05:42:11Z",
   "topics": [
     "ai",
     "claude",
@@ -28,8 +28,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 90,
+  "trendScore": 92,
+  "qualityScore": 92,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

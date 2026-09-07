@@ -1,6 +1,6 @@
 {
   "slug": "teleai-uagi-telemem",
-  "featuredDate": "2026-08-02",
+  "featuredDate": "2026-09-07",
   "fullName": "TeleAI-UAGI/telemem",
   "name": "telemem",
   "owner": "TeleAI-UAGI",
@@ -8,12 +8,12 @@
   "homepage": "https://teleai-uagi.github.io/telemem/",
   "description": "TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.",
   "language": "Python",
-  "stars": 477,
+  "stars": 489,
   "forks": 35,
   "openIssues": 1,
   "createdAt": "2025-12-05T02:46:21Z",
-  "updatedAt": "2026-08-01T22:17:07Z",
-  "pushedAt": "2026-08-01T22:17:04Z",
+  "updatedAt": "2026-09-07T05:47:09Z",
+  "pushedAt": "2026-09-07T05:47:05Z",
   "topics": [
     "agent",
     "agent-memory",
