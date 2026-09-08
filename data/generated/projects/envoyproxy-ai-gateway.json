@@ -1,6 +1,6 @@
 {
   "slug": "envoyproxy-ai-gateway",
-  "featuredDate": "2026-05-12",
+  "featuredDate": "2026-09-08",
   "fullName": "envoyproxy/ai-gateway",
   "name": "ai-gateway",
   "owner": "envoyproxy",
@@ -8,12 +8,12 @@
   "homepage": "https://aigateway.envoyproxy.io",
   "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
   "language": "Go",
-  "stars": 1604,
-  "forks": 241,
-  "openIssues": 128,
+  "stars": 2004,
+  "forks": 363,
+  "openIssues": 281,
   "createdAt": "2024-10-21T02:59:59Z",
-  "updatedAt": "2026-05-12T04:39:57Z",
-  "pushedAt": "2026-05-12T02:22:11Z",
+  "updatedAt": "2026-09-08T05:32:15Z",
+  "pushedAt": "2026-09-08T05:31:59Z",
   "topics": [
     "ai",
     "ai-gateway",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }
