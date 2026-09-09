@@ -1,0 +1,37 @@
+{
+  "slug": "rome-os-rome",
+  "featuredDate": "2026-09-09",
+  "fullName": "rome-os/rome",
+  "name": "rome",
+  "owner": "rome-os",
+  "repoUrl": "https://github.com/rome-os/rome",
+  "homepage": "https://romeos.cc",
+  "description": "Rome is the agentic OS.",
+  "language": "TypeScript",
+  "stars": 484,
+  "forks": 35,
+  "openIssues": 47,
+  "createdAt": "2026-08-23T06:15:15Z",
+  "updatedAt": "2026-09-09T05:53:46Z",
+  "pushedAt": "2026-09-09T05:53:03Z",
+  "topics": [
+    "agent",
+    "agent-os",
+    "claude-code",
+    "codex",
+    "llm"
+  ],
+  "summaryZh": "Rome is the agentic OS. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 88
+}

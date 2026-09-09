@@ -1,6 +1,6 @@
 {
   "slug": "syrizelink-openfic",
-  "featuredDate": "2026-08-14",
+  "featuredDate": "2026-09-09",
   "fullName": "syrizelink/OpenFic",
   "name": "OpenFic",
   "owner": "syrizelink",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe Writing tool designed specifically for novel wrting.",
   "language": "Python",
-  "stars": 718,
-  "forks": 72,
+  "stars": 1043,
+  "forks": 116,
   "openIssues": 19,
   "createdAt": "2026-06-28T09:01:51Z",
-  "updatedAt": "2026-08-14T03:24:48Z",
-  "pushedAt": "2026-08-14T03:25:22Z",
+  "updatedAt": "2026-09-09T05:53:05Z",
+  "pushedAt": "2026-09-09T05:53:31Z",
   "topics": [
     "agent",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 89,
   "relevanceScore": 55,
   "totalScore": 85
 }
