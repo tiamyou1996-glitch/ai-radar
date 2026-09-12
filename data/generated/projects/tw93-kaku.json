@@ -1,6 +1,6 @@
 {
   "slug": "tw93-kaku",
-  "featuredDate": "2026-06-30",
+  "featuredDate": "2026-09-12",
   "fullName": "tw93/Kaku",
   "name": "Kaku",
   "owner": "tw93",
@@ -8,12 +8,12 @@
   "homepage": "https://kaku.fun",
   "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
   "language": "Rust",
-  "stars": 5488,
-  "forks": 277,
-  "openIssues": 0,
+  "stars": 5896,
+  "forks": 303,
+  "openIssues": 3,
   "createdAt": "2026-02-07T13:00:49Z",
-  "updatedAt": "2026-06-30T04:48:40Z",
-  "pushedAt": "2026-06-30T04:48:36Z",
+  "updatedAt": "2026-09-12T05:39:38Z",
+  "pushedAt": "2026-09-12T05:37:13Z",
   "topics": [
     "ai-coding",
     "macos",
@@ -31,8 +31,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 88
+  "totalScore": 85
 }

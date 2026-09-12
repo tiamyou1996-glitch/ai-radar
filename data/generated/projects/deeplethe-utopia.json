@@ -1,6 +1,6 @@
 {
   "slug": "deeplethe-utopia",
-  "featuredDate": "2026-09-04",
+  "featuredDate": "2026-09-12",
   "fullName": "deeplethe/utopia",
   "name": "utopia",
   "owner": "deeplethe",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "World's first open-source enterprise world model.",
   "language": "Rust",
-  "stars": 3921,
-  "forks": 333,
-  "openIssues": 12,
+  "stars": 6981,
+  "forks": 604,
+  "openIssues": 43,
   "createdAt": "2026-08-07T19:33:17Z",
-  "updatedAt": "2026-09-04T05:47:28Z",
-  "pushedAt": "2026-09-04T05:24:51Z",
+  "updatedAt": "2026-09-12T05:23:41Z",
+  "pushedAt": "2026-09-12T05:10:03Z",
   "topics": [
     "agent-memory",
     "bitemporal",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 92
+  "totalScore": 93
 }
