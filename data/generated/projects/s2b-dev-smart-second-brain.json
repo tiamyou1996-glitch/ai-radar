@@ -1,0 +1,39 @@
+{
+  "slug": "s2b-dev-smart-second-brain",
+  "featuredDate": "2026-09-14",
+  "fullName": "s2b-dev/smart-second-brain",
+  "name": "smart-second-brain",
+  "owner": "s2b-dev",
+  "repoUrl": "https://github.com/s2b-dev/smart-second-brain",
+  "homepage": "https://smartsecondbrain.dev",
+  "description": "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.",
+  "language": "TypeScript",
+  "stars": 1256,
+  "forks": 119,
+  "openIssues": 35,
+  "createdAt": "2023-10-02T12:57:54Z",
+  "updatedAt": "2026-09-14T06:06:24Z",
+  "pushedAt": "2026-09-14T06:06:22Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "local-first",
+    "obsidian",
+    "obsidian-md",
+    "obsidian-plugin",
+    "rag",
+    "semantic-search"
+  ],
+  "summaryZh": "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 93,
+  "relevanceScore": 66,
+  "totalScore": 87
+}

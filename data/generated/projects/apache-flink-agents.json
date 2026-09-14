@@ -1,6 +1,6 @@
 {
   "slug": "apache-flink-agents",
-  "featuredDate": "2026-08-31",
+  "featuredDate": "2026-09-14",
   "fullName": "apache/flink-agents",
   "name": "flink-agents",
   "owner": "apache",
@@ -8,12 +8,12 @@
   "homepage": "https://nightlies.apache.org/flink/flink-agents-docs-main/",
   "description": "Flink Agents is an Agentic AI framework based on Apache Flink",
   "language": "Java",
-  "stars": 450,
-  "forks": 160,
-  "openIssues": 62,
+  "stars": 452,
+  "forks": 167,
+  "openIssues": 70,
   "createdAt": "2025-06-08T11:45:47Z",
-  "updatedAt": "2026-08-31T06:52:46Z",
-  "pushedAt": "2026-08-31T06:50:56Z",
+  "updatedAt": "2026-09-14T06:00:58Z",
+  "pushedAt": "2026-09-14T06:00:52Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 55,
   "totalScore": 82
 }

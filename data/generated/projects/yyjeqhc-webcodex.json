@@ -1,6 +1,6 @@
 {
   "slug": "yyjeqhc-webcodex",
-  "featuredDate": "2026-09-08",
+  "featuredDate": "2026-09-14",
   "fullName": "yyjeqhc/webcodex",
   "name": "webcodex",
   "owner": "yyjeqhc",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Give cloud AI agents a real development environment on your own machines.",
   "language": "Rust",
-  "stars": 381,
-  "forks": 44,
-  "openIssues": 5,
+  "stars": 755,
+  "forks": 96,
+  "openIssues": 3,
   "createdAt": "2026-05-28T11:46:23Z",
-  "updatedAt": "2026-09-08T05:50:55Z",
-  "pushedAt": "2026-09-08T05:50:35Z",
+  "updatedAt": "2026-09-14T05:58:40Z",
+  "pushedAt": "2026-09-14T05:58:37Z",
   "topics": [
     "agent",
     "chatgpt",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 84,
+  "qualityScore": 87,
   "relevanceScore": 62,
-  "totalScore": 85
+  "totalScore": 86
 }
