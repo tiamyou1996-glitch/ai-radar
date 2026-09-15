@@ -1,6 +1,6 @@
 {
   "slug": "manojmallick-sigmap",
-  "featuredDate": "2026-09-14",
+  "featuredDate": "2026-09-15",
   "fullName": "manojmallick/sigmap",
   "name": "sigmap",
   "owner": "manojmallick",
@@ -9,11 +9,11 @@
   "description": "~97% token reduction for AI coding sessions — zero deps, 33 languages, MCP server",
   "language": "JavaScript",
   "stars": 635,
-  "forks": 45,
-  "openIssues": 10,
+  "forks": 46,
+  "openIssues": 5,
   "createdAt": "2026-03-31T20:17:51Z",
-  "updatedAt": "2026-09-14T05:51:58Z",
-  "pushedAt": "2026-09-14T05:52:15Z",
+  "updatedAt": "2026-09-15T05:43:40Z",
+  "pushedAt": "2026-09-15T05:52:02Z",
   "topics": [
     "ai",
     "ai-code-review",

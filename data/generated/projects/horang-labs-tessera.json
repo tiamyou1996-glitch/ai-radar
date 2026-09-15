@@ -1,0 +1,40 @@
+{
+  "slug": "horang-labs-tessera",
+  "featuredDate": "2026-09-15",
+  "fullName": "horang-labs/tessera",
+  "name": "tessera",
+  "owner": "horang-labs",
+  "repoUrl": "https://github.com/horang-labs/tessera",
+  "homepage": "https://github.com/horang-labs/tessera",
+  "description": "Tessera — a workspace for organizing AI coding sessions across projects, collections, tabs, panes, and Git worktrees",
+  "language": "TypeScript",
+  "stars": 305,
+  "forks": 28,
+  "openIssues": 6,
+  "createdAt": "2026-04-29T01:10:32Z",
+  "updatedAt": "2026-09-15T05:55:48Z",
+  "pushedAt": "2026-09-15T05:55:42Z",
+  "topics": [
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "electron",
+    "electron-app",
+    "opencode",
+    "self-hosted",
+    "tessera"
+  ],
+  "summaryZh": "Tessera — a workspace for organizing AI coding sessions across projects, collections, tabs, panes, and Git worktrees 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

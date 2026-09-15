@@ -1,6 +1,6 @@
 {
   "slug": "melgarafael-deskcommcrm",
-  "featuredDate": "2026-08-25",
+  "featuredDate": "2026-09-15",
   "fullName": "melgarafael/DeskcommCRM",
   "name": "DeskcommCRM",
   "owner": "melgarafael",
@@ -8,12 +8,12 @@
   "homepage": "https://deskcomm.com.br",
   "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
   "language": "TypeScript",
-  "stars": 610,
-  "forks": 294,
-  "openIssues": 20,
+  "stars": 2569,
+  "forks": 648,
+  "openIssues": 103,
   "createdAt": "2026-04-28T20:00:33Z",
-  "updatedAt": "2026-08-25T02:02:59Z",
-  "pushedAt": "2026-08-25T02:01:52Z",
+  "updatedAt": "2026-09-15T05:55:40Z",
+  "pushedAt": "2026-09-15T05:53:27Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 97,
   "relevanceScore": 66,
-  "totalScore": 88
+  "totalScore": 91
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "kubernetes-sigs-agent-sandbox",
+  "featuredDate": "2026-09-15",
+  "fullName": "kubernetes-sigs/agent-sandbox",
+  "name": "agent-sandbox",
+  "owner": "kubernetes-sigs",
+  "repoUrl": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "homepage": "https://agent-sandbox.sigs.k8s.io",
+  "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).",
+  "language": "Go",
+  "stars": 3855,
+  "forks": 508,
+  "openIssues": 212,
+  "createdAt": "2025-08-12T04:55:05Z",
+  "updatedAt": "2026-09-15T06:05:31Z",
+  "pushedAt": "2026-09-15T06:05:22Z",
+  "topics": [
+    "agent",
+    "ai",
+    "kubernetes",
+    "rl",
+    "sandbox"
+  ],
+  "summaryZh": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL). 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 66,
+  "totalScore": 88
+}
