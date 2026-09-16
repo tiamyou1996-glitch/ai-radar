@@ -1,6 +1,6 @@
 {
   "slug": "mixpeek-amux",
-  "featuredDate": "2026-09-13",
+  "featuredDate": "2026-09-16",
   "fullName": "mixpeek/amux",
   "name": "amux",
   "owner": "mixpeek",
@@ -8,12 +8,12 @@
   "homepage": "https://amux.io",
   "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
   "language": "Rust",
-  "stars": 446,
-  "forks": 50,
-  "openIssues": 12,
+  "stars": 455,
+  "forks": 51,
+  "openIssues": 14,
   "createdAt": "2026-02-18T14:30:56Z",
-  "updatedAt": "2026-09-13T05:42:24Z",
-  "pushedAt": "2026-09-13T05:42:20Z",
+  "updatedAt": "2026-09-16T05:42:57Z",
+  "pushedAt": "2026-09-16T05:42:53Z",
   "topics": [
     "agent-orchestration",
     "agentic-ai",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 69,
-  "totalScore": 85
+  "totalScore": 86
 }

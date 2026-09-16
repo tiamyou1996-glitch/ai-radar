@@ -1,0 +1,38 @@
+{
+  "slug": "sidiora-labs-layerx-network",
+  "featuredDate": "2026-09-16",
+  "fullName": "Sidiora-Labs/LayerX-Network",
+  "name": "LayerX-Network",
+  "owner": "Sidiora-Labs",
+  "repoUrl": "https://github.com/Sidiora-Labs/LayerX-Network",
+  "homepage": "https://layerxnet.ai",
+  "description": "LayerX Network is a deterministic execution and accounting network for autonomous agents.",
+  "language": "Go",
+  "stars": 381,
+  "forks": 71,
+  "openIssues": 35,
+  "createdAt": "2026-08-14T19:56:00Z",
+  "updatedAt": "2026-09-16T05:46:59Z",
+  "pushedAt": "2026-09-16T05:46:55Z",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "blockchain",
+    "model-context-protocol",
+    "monorepo",
+    "network"
+  ],
+  "summaryZh": "LayerX Network is a deterministic execution and accounting network for autonomous agents. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

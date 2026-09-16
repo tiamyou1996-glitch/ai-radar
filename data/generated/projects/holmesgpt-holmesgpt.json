@@ -1,6 +1,6 @@
 {
   "slug": "holmesgpt-holmesgpt",
-  "featuredDate": "2026-06-02",
+  "featuredDate": "2026-09-16",
   "fullName": "HolmesGPT/holmesgpt",
   "name": "holmesgpt",
   "owner": "HolmesGPT",
@@ -8,12 +8,12 @@
   "homepage": "https://holmesgpt.dev/",
   "description": "SRE Agent - CNCF Sandbox Project",
   "language": "Python",
-  "stars": 2544,
-  "forks": 359,
-  "openIssues": 260,
+  "stars": 3375,
+  "forks": 486,
+  "openIssues": 432,
   "createdAt": "2024-05-30T13:27:10Z",
-  "updatedAt": "2026-06-02T05:59:17Z",
-  "pushedAt": "2026-06-02T05:59:14Z",
+  "updatedAt": "2026-09-16T05:51:54Z",
+  "pushedAt": "2026-09-16T05:53:18Z",
   "topics": [
     "aiops",
     "chatbot",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }
