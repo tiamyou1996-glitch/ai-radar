@@ -1,6 +1,6 @@
 {
   "slug": "prism-shadow-penguin-harness",
-  "featuredDate": "2026-09-15",
+  "featuredDate": "2026-09-17",
   "fullName": "Prism-Shadow/penguin-harness",
   "name": "penguin-harness",
   "owner": "Prism-Shadow",
@@ -8,12 +8,12 @@
   "homepage": "https://penguin.ooo/",
   "description": "🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.",
   "language": "TypeScript",
-  "stars": 2183,
-  "forks": 230,
-  "openIssues": 61,
+  "stars": 2251,
+  "forks": 236,
+  "openIssues": 76,
   "createdAt": "2026-07-19T03:15:21Z",
-  "updatedAt": "2026-09-15T06:00:26Z",
-  "pushedAt": "2026-09-15T06:00:24Z",
+  "updatedAt": "2026-09-17T06:02:44Z",
+  "pushedAt": "2026-09-17T06:02:42Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 69,
   "totalScore": 91
 }

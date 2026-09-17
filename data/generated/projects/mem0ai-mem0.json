@@ -1,25 +1,25 @@
 {
   "slug": "mem0ai-mem0",
-  "featuredDate": "2026-08-28",
+  "featuredDate": "2026-09-17",
   "fullName": "mem0ai/mem0",
   "name": "mem0",
   "owner": "mem0ai",
   "repoUrl": "https://github.com/mem0ai/mem0",
   "homepage": "https://mem0.ai",
-  "description": "Universal memory layer for AI Agents",
+  "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
   "language": "Python",
-  "stars": 64247,
-  "forks": 7518,
-  "openIssues": 705,
+  "stars": 65461,
+  "forks": 7675,
+  "openIssues": 757,
   "createdAt": "2023-06-20T08:58:36Z",
-  "updatedAt": "2026-08-28T12:25:29Z",
-  "pushedAt": "2026-08-28T12:14:16Z",
+  "updatedAt": "2026-09-17T05:56:17Z",
+  "pushedAt": "2026-09-17T05:46:52Z",
   "topics": [
+    "agentic-memory",
+    "agentic-memory-system",
     "agents",
     "ai",
     "ai-agents",
-    "application",
-    "chatbots",
     "chatgpt",
     "genai",
     "llm",
@@ -30,17 +30,17 @@
     "rag",
     "state-management"
   ],
-  "summaryZh": "Universal memory layer for AI Agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
     "RAG",
-    "Model"
+    "Infra"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 98,
-  "relevanceScore": 73,
-  "totalScore": 90
+  "relevanceScore": 77,
+  "totalScore": 91
 }

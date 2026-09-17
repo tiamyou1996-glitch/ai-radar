@@ -1,6 +1,6 @@
 {
   "slug": "micro-mu",
-  "featuredDate": "2026-09-16",
+  "featuredDate": "2026-09-17",
   "fullName": "micro/mu",
   "name": "mu",
   "owner": "micro",
@@ -9,11 +9,11 @@
   "description": "A runtime for apps, agents and services",
   "language": "Go",
   "stars": 432,
-  "forks": 20,
-  "openIssues": 60,
+  "forks": 21,
+  "openIssues": 61,
   "createdAt": "2025-11-06T09:21:18Z",
-  "updatedAt": "2026-09-16T05:52:43Z",
-  "pushedAt": "2026-09-16T05:52:37Z",
+  "updatedAt": "2026-09-17T05:55:30Z",
+  "pushedAt": "2026-09-17T05:55:26Z",
   "topics": [
     "agent",
     "ai",

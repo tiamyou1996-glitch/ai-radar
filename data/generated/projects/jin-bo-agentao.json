@@ -1,0 +1,42 @@
+{
+  "slug": "jin-bo-agentao",
+  "featuredDate": "2026-09-17",
+  "fullName": "jin-bo/agentao",
+  "name": "agentao",
+  "owner": "jin-bo",
+  "repoUrl": "https://github.com/jin-bo/agentao",
+  "homepage": "https://agentao.cn",
+  "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+  "language": "Python",
+  "stars": 303,
+  "forks": 11,
+  "openIssues": 5,
+  "createdAt": "2026-02-10T01:30:42Z",
+  "updatedAt": "2026-09-17T06:02:15Z",
+  "pushedAt": "2026-09-17T06:02:12Z",
+  "topics": [
+    "acp",
+    "agent-framework",
+    "ai-agent",
+    "cli",
+    "llm",
+    "local-first",
+    "mcp",
+    "model-context-protocol",
+    "openai-compatible",
+    "python"
+  ],
+  "summaryZh": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 73,
+  "totalScore": 85
+}
