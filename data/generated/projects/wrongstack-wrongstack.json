@@ -1,0 +1,38 @@
+{
+  "slug": "wrongstack-wrongstack",
+  "featuredDate": "2026-09-18",
+  "fullName": "WrongStack/WrongStack",
+  "name": "WrongStack",
+  "owner": "WrongStack",
+  "repoUrl": "https://github.com/WrongStack/WrongStack",
+  "homepage": "https://wrongstack.com/",
+  "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission.",
+  "language": "TypeScript",
+  "stars": 327,
+  "forks": 36,
+  "openIssues": 10,
+  "createdAt": "2026-05-12T23:57:23Z",
+  "updatedAt": "2026-09-18T05:24:26Z",
+  "pushedAt": "2026-09-18T05:24:22Z",
+  "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-tools",
+    "code",
+    "code-generation",
+    "coding"
+  ],
+  "summaryZh": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 69,
+  "totalScore": 87
+}

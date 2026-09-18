@@ -1,19 +1,19 @@
 {
   "slug": "pinvou-pinvou-agent",
-  "featuredDate": "2026-08-13",
+  "featuredDate": "2026-09-18",
   "fullName": "Pinvou/pinvou-agent",
   "name": "pinvou-agent",
   "owner": "Pinvou",
   "repoUrl": "https://github.com/Pinvou/pinvou-agent",
   "homepage": "https://pinvou.com/",
   "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-  "language": "JavaScript",
-  "stars": 685,
-  "forks": 96,
-  "openIssues": 40,
+  "language": "Rust",
+  "stars": 1986,
+  "forks": 282,
+  "openIssues": 48,
   "createdAt": "2026-07-24T07:28:41Z",
-  "updatedAt": "2026-08-13T03:30:12Z",
-  "pushedAt": "2026-08-13T03:29:30Z",
+  "updatedAt": "2026-09-18T05:48:42Z",
+  "pushedAt": "2026-09-18T05:48:39Z",
   "topics": [
     "ai-agent",
     "automation",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 96,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 92
 }
