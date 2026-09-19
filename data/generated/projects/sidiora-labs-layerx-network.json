@@ -1,6 +1,6 @@
 {
   "slug": "sidiora-labs-layerx-network",
-  "featuredDate": "2026-09-16",
+  "featuredDate": "2026-09-19",
   "fullName": "Sidiora-Labs/LayerX-Network",
   "name": "LayerX-Network",
   "owner": "Sidiora-Labs",
@@ -8,12 +8,12 @@
   "homepage": "https://layerxnet.ai",
   "description": "LayerX Network is a deterministic execution and accounting network for autonomous agents.",
   "language": "Go",
-  "stars": 381,
-  "forks": 71,
-  "openIssues": 35,
+  "stars": 371,
+  "forks": 69,
+  "openIssues": 36,
   "createdAt": "2026-08-14T19:56:00Z",
-  "updatedAt": "2026-09-16T05:46:59Z",
-  "pushedAt": "2026-09-16T05:46:55Z",
+  "updatedAt": "2026-09-19T05:43:02Z",
+  "pushedAt": "2026-09-19T05:42:58Z",
   "topics": [
     "agent",
     "ai",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 86,
   "relevanceScore": 62,
   "totalScore": 86
 }

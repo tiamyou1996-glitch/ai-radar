@@ -1,6 +1,6 @@
 {
   "slug": "human-agent-society-reef",
-  "featuredDate": "2026-09-13",
+  "featuredDate": "2026-09-19",
   "fullName": "Human-Agent-Society/reef",
   "name": "reef",
   "owner": "Human-Agent-Society",
@@ -8,12 +8,12 @@
   "homepage": "reefinfra.ai",
   "description": "Continual learning infra for self-improving agents",
   "language": "Python",
-  "stars": 1157,
-  "forks": 70,
-  "openIssues": 59,
+  "stars": 3566,
+  "forks": 298,
+  "openIssues": 58,
   "createdAt": "2026-08-31T01:39:18Z",
-  "updatedAt": "2026-09-13T05:34:38Z",
-  "pushedAt": "2026-09-13T05:30:15Z",
+  "updatedAt": "2026-09-19T05:37:22Z",
+  "pushedAt": "2026-09-19T05:34:35Z",
   "topics": [
     "agent-infrastructure",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 91
+  "totalScore": 93
 }
