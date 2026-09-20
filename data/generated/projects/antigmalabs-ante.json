@@ -1,0 +1,38 @@
+{
+  "slug": "antigmalabs-ante",
+  "featuredDate": "2026-09-20",
+  "fullName": "AntigmaLabs/ante",
+  "name": "ante",
+  "owner": "AntigmaLabs",
+  "repoUrl": "https://github.com/AntigmaLabs/ante",
+  "homepage": "https://antigma.ai",
+  "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. ",
+  "language": "Rust",
+  "stars": 1963,
+  "forks": 65,
+  "openIssues": 11,
+  "createdAt": "2025-12-23T23:42:44Z",
+  "updatedAt": "2026-09-20T06:03:40Z",
+  "pushedAt": "2026-09-20T06:03:37Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai-agents",
+    "artifical-life",
+    "rust",
+    "terminal"
+  ],
+  "summaryZh": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 69,
+  "totalScore": 88
+}

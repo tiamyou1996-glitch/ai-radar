@@ -1,6 +1,6 @@
 {
   "slug": "oumi-ai-oumi",
-  "featuredDate": "2026-09-17",
+  "featuredDate": "2026-09-20",
   "fullName": "oumi-ai/oumi",
   "name": "oumi",
   "owner": "oumi-ai",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 9387,
   "forks": 790,
-  "openIssues": 35,
+  "openIssues": 34,
   "createdAt": "2024-05-07T17:45:15Z",
-  "updatedAt": "2026-09-17T05:48:44Z",
-  "pushedAt": "2026-09-17T05:48:42Z",
+  "updatedAt": "2026-09-20T05:45:38Z",
+  "pushedAt": "2026-09-20T05:45:37Z",
   "topics": [
     "dpo",
     "evaluation",
