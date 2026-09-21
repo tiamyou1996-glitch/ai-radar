@@ -1,6 +1,6 @@
 {
   "slug": "dappros-ethora",
-  "featuredDate": "2026-09-14",
+  "featuredDate": "2026-09-21",
   "fullName": "dappros/ethora",
   "name": "ethora",
   "owner": "dappros",
@@ -8,12 +8,12 @@
   "homepage": "https://ethora.com/",
   "description": "SDK monorepo for Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually or using ethora-setup. (3) Optionally configure app settings, deploy AI agents etc. Server: ethora.com cloud [free]. Dedicated server + SLA option for enterprise customers.",
   "language": "JavaScript",
-  "stars": 544,
+  "stars": 547,
   "forks": 111,
   "openIssues": 2,
   "createdAt": "2021-06-21T12:59:37Z",
-  "updatedAt": "2026-09-14T06:05:14Z",
-  "pushedAt": "2026-09-14T06:05:18Z",
+  "updatedAt": "2026-09-21T06:06:14Z",
+  "pushedAt": "2026-09-21T06:06:10Z",
   "topics": [
     "ai-chat",
     "chat",
