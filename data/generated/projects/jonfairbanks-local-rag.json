@@ -1,0 +1,37 @@
+{
+  "slug": "jonfairbanks-local-rag",
+  "featuredDate": "2026-09-22",
+  "fullName": "jonfairbanks/local-rag",
+  "name": "local-rag",
+  "owner": "jonfairbanks",
+  "repoUrl": "https://github.com/jonfairbanks/local-rag",
+  "homepage": null,
+  "description": "Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.",
+  "language": "Python",
+  "stars": 761,
+  "forks": 96,
+  "openIssues": 4,
+  "createdAt": "2024-02-15T07:28:30Z",
+  "updatedAt": "2026-09-22T05:59:37Z",
+  "pushedAt": "2026-09-22T05:59:33Z",
+  "topics": [
+    "large-language-models",
+    "llm",
+    "ollama",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "summaryZh": "Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 87,
+  "relevanceScore": 69,
+  "totalScore": 85
+}

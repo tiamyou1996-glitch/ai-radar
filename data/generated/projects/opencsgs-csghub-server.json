@@ -1,6 +1,6 @@
 {
   "slug": "opencsgs-csghub-server",
-  "featuredDate": "2026-04-09",
+  "featuredDate": "2026-09-22",
   "fullName": "OpenCSGs/csghub-server",
   "name": "csghub-server",
   "owner": "OpenCSGs",
@@ -8,12 +8,12 @@
   "homepage": "https://opencsg.com/models",
   "description": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
   "language": "Go",
-  "stars": 1376,
-  "forks": 367,
-  "openIssues": 26,
+  "stars": 1051,
+  "forks": 233,
+  "openIssues": 4,
   "createdAt": "2024-01-12T11:04:59Z",
-  "updatedAt": "2026-04-09T03:48:10Z",
-  "pushedAt": "2026-04-09T03:48:07Z",
+  "updatedAt": "2026-09-22T06:01:44Z",
+  "pushedAt": "2026-09-22T06:01:42Z",
   "topics": [
     "ai",
     "datasets",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 92,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 85
 }

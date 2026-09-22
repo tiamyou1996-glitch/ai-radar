@@ -1,0 +1,42 @@
+{
+  "slug": "mizorewww-laya-mlx",
+  "featuredDate": "2026-09-22",
+  "fullName": "mizorewww/laya-mlx",
+  "name": "laya-mlx",
+  "owner": "mizorewww",
+  "repoUrl": "https://github.com/mizorewww/laya-mlx",
+  "homepage": "https://pypi.org/project/laya-mlx/",
+  "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+  "language": "Python",
+  "stars": 4296,
+  "forks": 287,
+  "openIssues": 4,
+  "createdAt": "2026-09-19T13:50:26Z",
+  "updatedAt": "2026-09-22T06:04:41Z",
+  "pushedAt": "2026-09-22T05:34:51Z",
+  "topics": [
+    "apple-silicon",
+    "decision-model",
+    "inference",
+    "laya",
+    "local-ai",
+    "machine-learning",
+    "mlx",
+    "modernbert",
+    "system-one",
+    "typed-decisions"
+  ],
+  "summaryZh": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. 这是偏图像生成或图形工作流的项目，适合关注创作和视觉生产力。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Image",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 92
+}
