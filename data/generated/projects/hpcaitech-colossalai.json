@@ -1,0 +1,43 @@
+{
+  "slug": "hpcaitech-colossalai",
+  "featuredDate": "2026-09-23",
+  "fullName": "hpcaitech/ColossalAI",
+  "name": "ColossalAI",
+  "owner": "hpcaitech",
+  "repoUrl": "https://github.com/hpcaitech/ColossalAI",
+  "homepage": "https://www.colossalai.org",
+  "description": "Making large AI models cheaper, faster and more accessible",
+  "language": "Python",
+  "stars": 41440,
+  "forks": 4498,
+  "openIssues": 514,
+  "createdAt": "2021-10-28T16:19:44Z",
+  "updatedAt": "2026-09-23T05:43:45Z",
+  "pushedAt": "2026-09-23T05:43:20Z",
+  "topics": [
+    "ai",
+    "big-model",
+    "data-parallelism",
+    "deep-learning",
+    "distributed-computing",
+    "foundation-models",
+    "heterogeneous-training",
+    "hpc",
+    "inference",
+    "large-scale",
+    "model-parallelism",
+    "pipeline-parallelism"
+  ],
+  "summaryZh": "Making large AI models cheaper, faster and more accessible 它更偏底层推理和服务基础设施，适合关注性能、成本和部署效率。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

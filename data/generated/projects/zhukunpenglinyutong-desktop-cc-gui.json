@@ -1,0 +1,38 @@
+{
+  "slug": "zhukunpenglinyutong-desktop-cc-gui",
+  "featuredDate": "2026-09-23",
+  "fullName": "zhukunpenglinyutong/desktop-cc-gui",
+  "name": "desktop-cc-gui",
+  "owner": "zhukunpenglinyutong",
+  "repoUrl": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+  "homepage": "https://www.mossx.ai/download",
+  "description": "Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.",
+  "language": "TypeScript",
+  "stars": 4304,
+  "forks": 385,
+  "openIssues": 307,
+  "createdAt": "2026-02-03T15:08:25Z",
+  "updatedAt": "2026-09-23T05:42:25Z",
+  "pushedAt": "2026-09-23T05:39:50Z",
+  "topics": [
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "deepseek-harness",
+    "desktop-app",
+    "dsh",
+    "tauri",
+    "vibe-coding"
+  ],
+  "summaryZh": "Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 85
+}
