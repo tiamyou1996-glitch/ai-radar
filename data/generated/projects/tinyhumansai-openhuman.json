@@ -1,0 +1,43 @@
+{
+  "slug": "tinyhumansai-openhuman",
+  "featuredDate": "2026-09-24",
+  "fullName": "tinyhumansai/openhuman",
+  "name": "openhuman",
+  "owner": "tinyhumansai",
+  "repoUrl": "https://github.com/tinyhumansai/openhuman",
+  "homepage": "https://tinyhumans.ai/openhuman",
+  "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
+  "language": "Rust",
+  "stars": 40079,
+  "forks": 3951,
+  "openIssues": 253,
+  "createdAt": "2026-02-18T20:01:27Z",
+  "updatedAt": "2026-09-24T06:03:04Z",
+  "pushedAt": "2026-09-24T06:02:57Z",
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-assistant",
+    "desktop",
+    "llm",
+    "local-first",
+    "mcp",
+    "personal-ai",
+    "privacy",
+    "rust",
+    "second-brain",
+    "tauri"
+  ],
+  "summaryZh": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

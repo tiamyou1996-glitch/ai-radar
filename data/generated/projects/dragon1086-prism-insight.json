@@ -1,6 +1,6 @@
 {
   "slug": "dragon1086-prism-insight",
-  "featuredDate": "2026-07-07",
+  "featuredDate": "2026-09-24",
   "fullName": "dragon1086/prism-insight",
   "name": "prism-insight",
   "owner": "dragon1086",
@@ -8,12 +8,12 @@
   "homepage": "https://prism-insight-landing.vercel.app/",
   "description": "AI-based stock analysis and trading system",
   "language": "Python",
-  "stars": 675,
-  "forks": 235,
-  "openIssues": 4,
+  "stars": 768,
+  "forks": 262,
+  "openIssues": 8,
   "createdAt": "2025-08-15T07:32:09Z",
-  "updatedAt": "2026-07-07T05:02:26Z",
-  "pushedAt": "2026-07-07T05:02:20Z",
+  "updatedAt": "2026-09-24T06:03:03Z",
+  "pushedAt": "2026-09-24T06:03:00Z",
   "topics": [
     "ai",
     "llm",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 73,
   "totalScore": 87
 }

@@ -1,6 +1,6 @@
 {
   "slug": "repoprompt-repoprompt-ce",
-  "featuredDate": "2026-09-23",
+  "featuredDate": "2026-09-24",
   "fullName": "repoprompt/repoprompt-ce",
   "name": "repoprompt-ce",
   "owner": "repoprompt",
@@ -10,10 +10,10 @@
   "language": "Swift",
   "stars": 937,
   "forks": 125,
-  "openIssues": 185,
+  "openIssues": 178,
   "createdAt": "2026-05-12T19:44:16Z",
-  "updatedAt": "2026-09-23T05:50:04Z",
-  "pushedAt": "2026-09-23T05:49:59Z",
+  "updatedAt": "2026-09-24T05:58:15Z",
+  "pushedAt": "2026-09-24T05:58:08Z",
   "topics": [
     "ai-agents",
     "coding-agents",

@@ -1,0 +1,34 @@
+{
+  "slug": "epam-ai-dial-core",
+  "featuredDate": "2026-09-24",
+  "fullName": "epam/ai-dial-core",
+  "name": "ai-dial-core",
+  "owner": "epam",
+  "repoUrl": "https://github.com/epam/ai-dial-core",
+  "homepage": "https://dialx.ai",
+  "description": "The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications",
+  "language": "Java",
+  "stars": 658,
+  "forks": 41,
+  "openIssues": 126,
+  "createdAt": "2023-09-07T09:10:27Z",
+  "updatedAt": "2026-09-24T06:03:42Z",
+  "pushedAt": "2026-09-24T06:03:39Z",
+  "topics": [
+    "ai-dial",
+    "llm"
+  ],
+  "summaryZh": "The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 73,
+  "totalScore": 87
+}
