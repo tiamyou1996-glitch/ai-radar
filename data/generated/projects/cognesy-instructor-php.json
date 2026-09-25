@@ -1,0 +1,37 @@
+{
+  "slug": "cognesy-instructor-php",
+  "featuredDate": "2026-09-25",
+  "fullName": "cognesy/instructor-php",
+  "name": "instructor-php",
+  "owner": "cognesy",
+  "repoUrl": "https://github.com/cognesy/instructor-php",
+  "homepage": "https://instructorphp.com",
+  "description": "Unified LLM API, structured data outputs with LLMs, and agent SDK - in PHP",
+  "language": "PHP",
+  "stars": 327,
+  "forks": 27,
+  "openIssues": 2,
+  "createdAt": "2024-02-26T10:47:00Z",
+  "updatedAt": "2026-09-25T06:04:40Z",
+  "pushedAt": "2026-09-25T06:04:36Z",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "genai",
+    "llm",
+    "php"
+  ],
+  "summaryZh": "Unified LLM API, structured data outputs with LLMs, and agent SDK - in PHP 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 83
+}
