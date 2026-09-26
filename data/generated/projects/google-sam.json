@@ -1,0 +1,41 @@
+{
+  "slug": "google-sam",
+  "featuredDate": "2026-09-26",
+  "fullName": "google/sam",
+  "name": "sam",
+  "owner": "google",
+  "repoUrl": "https://github.com/google/sam",
+  "homepage": "https://sam-mesh.dev/",
+  "description": "SAM",
+  "language": "Go",
+  "stars": 939,
+  "forks": 142,
+  "openIssues": 18,
+  "createdAt": "2026-04-21T15:15:58Z",
+  "updatedAt": "2026-09-26T05:57:13Z",
+  "pushedAt": "2026-09-26T05:57:09Z",
+  "topics": [
+    "a2a",
+    "a2a-protocol",
+    "agentic-ai",
+    "inference",
+    "mcp",
+    "mesh",
+    "mesh-network",
+    "network-security",
+    "networking-ai",
+    "p2p-network"
+  ],
+  "summaryZh": "SAM 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 66,
+  "totalScore": 89
+}

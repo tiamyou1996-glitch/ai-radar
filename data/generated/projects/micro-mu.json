@@ -1,6 +1,6 @@
 {
   "slug": "micro-mu",
-  "featuredDate": "2026-09-22",
+  "featuredDate": "2026-09-26",
   "fullName": "micro/mu",
   "name": "mu",
   "owner": "micro",
@@ -10,10 +10,10 @@
   "language": "Go",
   "stars": 434,
   "forks": 21,
-  "openIssues": 61,
+  "openIssues": 63,
   "createdAt": "2025-11-06T09:21:18Z",
-  "updatedAt": "2026-09-22T06:01:47Z",
-  "pushedAt": "2026-09-22T06:01:43Z",
+  "updatedAt": "2026-09-26T06:02:01Z",
+  "pushedAt": "2026-09-26T06:05:16Z",
   "topics": [
     "agent",
     "ai",

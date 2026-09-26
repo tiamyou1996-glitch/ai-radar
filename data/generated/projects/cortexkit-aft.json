@@ -1,0 +1,41 @@
+{
+  "slug": "cortexkit-aft",
+  "featuredDate": "2026-09-26",
+  "fullName": "cortexkit/aft",
+  "name": "aft",
+  "owner": "cortexkit",
+  "repoUrl": "https://github.com/cortexkit/aft",
+  "homepage": "https://discord.gg/DSa65w8wuf",
+  "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.",
+  "language": "Rust",
+  "stars": 313,
+  "forks": 38,
+  "openIssues": 31,
+  "createdAt": "2026-03-15T14:10:55Z",
+  "updatedAt": "2026-09-26T06:01:28Z",
+  "pushedAt": "2026-09-26T06:01:47Z",
+  "topics": [
+    "agent-framework",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "opencode",
+    "pi",
+    "pi-coding-agent",
+    "rag",
+    "vector-search"
+  ],
+  "summaryZh": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 73,
+  "totalScore": 85
+}

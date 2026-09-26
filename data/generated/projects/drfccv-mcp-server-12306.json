@@ -1,0 +1,37 @@
+{
+  "slug": "drfccv-mcp-server-12306",
+  "featuredDate": "2026-09-26",
+  "fullName": "drfccv/mcp-server-12306",
+  "name": "mcp-server-12306",
+  "owner": "drfccv",
+  "repoUrl": "https://github.com/drfccv/mcp-server-12306",
+  "homepage": null,
+  "description": "12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。",
+  "language": "Python",
+  "stars": 394,
+  "forks": 58,
+  "openIssues": 1,
+  "createdAt": "2025-06-01T02:12:52Z",
+  "updatedAt": "2026-09-26T06:04:05Z",
+  "pushedAt": "2026-09-26T06:04:02Z",
+  "topics": [
+    "12306",
+    "agent",
+    "ai",
+    "mcp",
+    "mcp-servers",
+    "mcp-tools"
+  ],
+  "summaryZh": "12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 84,
+  "relevanceScore": 62,
+  "totalScore": 83
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "dicklesworthstone-ultimate-bug-scanner",
+  "featuredDate": "2026-09-26",
+  "fullName": "Dicklesworthstone/ultimate_bug_scanner",
+  "name": "ultimate_bug_scanner",
+  "owner": "Dicklesworthstone",
+  "repoUrl": "https://github.com/Dicklesworthstone/ultimate_bug_scanner",
+  "homepage": null,
+  "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails",
+  "language": "Python",
+  "stars": 303,
+  "forks": 43,
+  "openIssues": 4,
+  "createdAt": "2025-11-16T10:01:59Z",
+  "updatedAt": "2026-09-26T05:52:48Z",
+  "pushedAt": "2026-09-26T05:54:57Z",
+  "topics": [
+    "agent-tools",
+    "ai-agents",
+    "bash",
+    "bugs",
+    "cli",
+    "code-quality",
+    "developer-tools",
+    "linting",
+    "static-analysis"
+  ],
+  "summaryZh": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 82,
+  "relevanceScore": 62,
+  "totalScore": 82
+}
