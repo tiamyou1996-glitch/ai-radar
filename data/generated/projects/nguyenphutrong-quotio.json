@@ -1,6 +1,6 @@
 {
   "slug": "nguyenphutrong-quotio",
-  "featuredDate": "2026-04-23",
+  "featuredDate": "2026-09-27",
   "fullName": "nguyenphutrong/quotio",
   "name": "quotio",
   "owner": "nguyenphutrong",
@@ -8,12 +8,12 @@
   "homepage": "https://www.quotio.dev",
   "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
   "language": "Swift",
-  "stars": 4311,
-  "forks": 270,
-  "openIssues": 129,
+  "stars": 4874,
+  "forks": 324,
+  "openIssues": 136,
   "createdAt": "2025-12-24T14:42:00Z",
-  "updatedAt": "2026-04-23T03:53:14Z",
-  "pushedAt": "2026-04-23T03:53:10Z",
+  "updatedAt": "2026-09-27T06:31:54Z",
+  "pushedAt": "2026-09-27T06:31:48Z",
   "topics": [
     "ai-tools",
     "developer-tools",
@@ -27,8 +27,8 @@
     "Coding"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 88
+  "totalScore": 85
 }

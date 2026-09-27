@@ -1,0 +1,41 @@
+{
+  "slug": "xorbitsai-xagent",
+  "featuredDate": "2026-09-27",
+  "fullName": "xorbitsai/xagent",
+  "name": "xagent",
+  "owner": "xorbitsai",
+  "repoUrl": "https://github.com/xorbitsai/xagent",
+  "homepage": "https://docs.xagent.co",
+  "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+  "language": "Python",
+  "stars": 302,
+  "forks": 69,
+  "openIssues": 918,
+  "createdAt": "2026-02-15T15:01:02Z",
+  "updatedAt": "2026-09-27T06:18:47Z",
+  "pushedAt": "2026-09-27T06:18:44Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "claude",
+    "gemini",
+    "llm",
+    "no-code",
+    "openai",
+    "orchestration",
+    "xinference"
+  ],
+  "summaryZh": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 73,
+  "totalScore": 85
+}

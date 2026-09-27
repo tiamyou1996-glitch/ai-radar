@@ -1,6 +1,6 @@
 {
   "slug": "tractorjuice-arc-kit",
-  "featuredDate": "2026-08-14",
+  "featuredDate": "2026-09-27",
   "fullName": "tractorjuice/arc-kit",
   "name": "arc-kit",
   "owner": "tractorjuice",
@@ -8,12 +8,12 @@
   "homepage": "https://arckit.org/",
   "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
   "language": "JavaScript",
-  "stars": 2158,
-  "forks": 272,
-  "openIssues": 21,
+  "stars": 2247,
+  "forks": 282,
+  "openIssues": 18,
   "createdAt": "2025-10-14T10:25:11Z",
-  "updatedAt": "2026-08-14T03:02:12Z",
-  "pushedAt": "2026-08-14T03:02:03Z",
+  "updatedAt": "2026-09-27T06:15:04Z",
+  "pushedAt": "2026-09-27T06:15:31Z",
   "topics": [
     "ai-agents",
     "ai-governance",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 96,
+  "qualityScore": 97,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 89
 }

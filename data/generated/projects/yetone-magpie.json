@@ -1,6 +1,6 @@
 {
   "slug": "yetone-magpie",
-  "featuredDate": "2026-09-25",
+  "featuredDate": "2026-09-27",
   "fullName": "yetone/magpie",
   "name": "magpie",
   "owner": "yetone",
@@ -8,12 +8,12 @@
   "homepage": "https://usemagpie.ai",
   "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
   "language": "Go",
-  "stars": 696,
-  "forks": 38,
-  "openIssues": 9,
+  "stars": 1102,
+  "forks": 64,
+  "openIssues": 2,
   "createdAt": "2026-09-23T16:22:35Z",
-  "updatedAt": "2026-09-25T06:06:01Z",
-  "pushedAt": "2026-09-25T06:06:00Z",
+  "updatedAt": "2026-09-27T06:32:15Z",
+  "pushedAt": "2026-09-27T06:29:47Z",
   "topics": [
     "claude-code",
     "codex",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 93,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 90
 }
