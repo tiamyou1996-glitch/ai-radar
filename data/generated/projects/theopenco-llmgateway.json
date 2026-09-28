@@ -1,6 +1,6 @@
 {
   "slug": "theopenco-llmgateway",
-  "featuredDate": "2026-09-27",
+  "featuredDate": "2026-09-28",
   "fullName": "theopenco/llmgateway",
   "name": "llmgateway",
   "owner": "theopenco",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 1663,
   "forks": 190,
-  "openIssues": 75,
+  "openIssues": 76,
   "createdAt": "2025-04-12T18:37:18Z",
-  "updatedAt": "2026-09-27T06:22:43Z",
-  "pushedAt": "2026-09-27T06:22:39Z",
+  "updatedAt": "2026-09-28T06:41:20Z",
+  "pushedAt": "2026-09-28T06:42:55Z",
   "topics": [
     "ai",
     "ai-gateway",

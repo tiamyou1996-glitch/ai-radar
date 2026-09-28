@@ -1,6 +1,6 @@
 {
   "slug": "modeltc-lightllm",
-  "featuredDate": "2026-03-17",
+  "featuredDate": "2026-09-28",
   "fullName": "ModelTC/LightLLM",
   "name": "LightLLM",
   "owner": "ModelTC",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
   "language": "Python",
-  "stars": 3950,
-  "forks": 310,
-  "openIssues": 122,
+  "stars": 4303,
+  "forks": 368,
+  "openIssues": 152,
   "createdAt": "2023-07-22T08:11:15Z",
-  "updatedAt": "2026-03-17T00:25:03Z",
-  "pushedAt": "2026-03-16T11:03:04Z",
+  "updatedAt": "2026-09-28T06:41:25Z",
+  "pushedAt": "2026-09-28T06:41:21Z",
   "topics": [
     "deep-learning",
     "gpt",
@@ -31,8 +31,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 88,
+  "trendScore": 92,
   "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 87
 }

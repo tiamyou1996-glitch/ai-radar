@@ -1,0 +1,37 @@
+{
+  "slug": "tencentcloud-octop",
+  "featuredDate": "2026-09-28",
+  "fullName": "TencentCloud/Octop",
+  "name": "Octop",
+  "owner": "TencentCloud",
+  "repoUrl": "https://github.com/TencentCloud/Octop",
+  "homepage": "https://octop.cloud",
+  "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+  "language": "Python",
+  "stars": 5372,
+  "forks": 656,
+  "openIssues": 539,
+  "createdAt": "2026-07-08T12:54:20Z",
+  "updatedAt": "2026-09-28T06:42:52Z",
+  "pushedAt": "2026-09-28T06:40:33Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "local-first",
+    "long-term-memory"
+  ],
+  "summaryZh": "A smarter, self-hosted AI assistant — multi-user, multi-agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 55,
+  "totalScore": 89
+}
