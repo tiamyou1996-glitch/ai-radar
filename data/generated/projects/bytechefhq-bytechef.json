@@ -1,19 +1,19 @@
 {
   "slug": "bytechefhq-bytechef",
-  "featuredDate": "2026-05-20",
+  "featuredDate": "2026-09-29",
   "fullName": "bytechefhq/bytechef",
   "name": "bytechef",
   "owner": "bytechefhq",
   "repoUrl": "https://github.com/bytechefhq/bytechef",
   "homepage": "https://www.bytechef.io",
-  "description": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.",
+  "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
   "language": "Java",
-  "stars": 757,
-  "forks": 137,
-  "openIssues": 530,
+  "stars": 1006,
+  "forks": 172,
+  "openIssues": 484,
   "createdAt": "2021-09-30T03:39:20Z",
-  "updatedAt": "2026-05-20T05:13:21Z",
-  "pushedAt": "2026-05-20T05:13:18Z",
+  "updatedAt": "2026-09-29T06:47:34Z",
+  "pushedAt": "2026-09-29T06:47:31Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -36,7 +36,7 @@
     "workflow-automation",
     "zapier"
   ],
-  "summaryZh": "Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 90,
+  "qualityScore": 92,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }
