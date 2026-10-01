@@ -1,6 +1,6 @@
 {
   "slug": "nicobailon-pi-mcp-adapter",
-  "featuredDate": "2026-09-21",
+  "featuredDate": "2026-10-01",
   "fullName": "nicobailon/pi-mcp-adapter",
   "name": "pi-mcp-adapter",
   "owner": "nicobailon",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Token-efficient MCP adapter for Pi coding agent",
   "language": "TypeScript",
-  "stars": 1503,
-  "forks": 357,
+  "stars": 1570,
+  "forks": 382,
   "openIssues": 1,
   "createdAt": "2026-01-19T23:23:58Z",
-  "updatedAt": "2026-09-21T06:10:57Z",
-  "pushedAt": "2026-09-21T06:10:54Z",
+  "updatedAt": "2026-10-01T07:06:03Z",
+  "pushedAt": "2026-10-01T07:06:09Z",
   "topics": [
     "ai",
     "claude",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 69,
   "totalScore": 87
 }

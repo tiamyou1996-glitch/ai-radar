@@ -1,6 +1,6 @@
 {
   "slug": "nehanth-pooled",
-  "featuredDate": "2026-09-29",
+  "featuredDate": "2026-10-01",
   "fullName": "Nehanth/pooled",
   "name": "pooled",
   "owner": "Nehanth",
@@ -8,12 +8,12 @@
   "homepage": "https://pooled.run",
   "description": "Peer-to-peer LLM inference in the browser: pool your devices to run big open models, for chat and coding agents.",
   "language": "JavaScript",
-  "stars": 495,
-  "forks": 74,
-  "openIssues": 100,
+  "stars": 552,
+  "forks": 85,
+  "openIssues": 66,
   "createdAt": "2026-09-01T00:05:54Z",
-  "updatedAt": "2026-09-29T06:41:38Z",
-  "pushedAt": "2026-09-29T06:24:16Z",
+  "updatedAt": "2026-10-01T06:48:48Z",
+  "pushedAt": "2026-10-01T06:57:53Z",
   "topics": [
     "browser",
     "distributed-inference",
@@ -36,7 +36,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 73,
   "totalScore": 89
 }

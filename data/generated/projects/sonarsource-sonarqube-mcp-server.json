@@ -1,0 +1,39 @@
+{
+  "slug": "sonarsource-sonarqube-mcp-server",
+  "featuredDate": "2026-10-01",
+  "fullName": "SonarSource/sonarqube-mcp-server",
+  "name": "sonarqube-mcp-server",
+  "owner": "SonarSource",
+  "repoUrl": "https://github.com/SonarSource/sonarqube-mcp-server",
+  "homepage": "https://www.sonarsource.com/products/sonarqube/mcp-server/",
+  "description": "Official SonarQube MCP Server for code quality and security in AI agents",
+  "language": "Java",
+  "stars": 654,
+  "forks": 101,
+  "openIssues": 16,
+  "createdAt": "2025-04-30T09:09:08Z",
+  "updatedAt": "2026-10-01T07:04:06Z",
+  "pushedAt": "2026-10-01T07:05:22Z",
+  "topics": [
+    "agent",
+    "ai",
+    "code-quality",
+    "mcp",
+    "mcp-server",
+    "security",
+    "sonarqube",
+    "static-analysis"
+  ],
+  "summaryZh": "Official SonarQube MCP Server for code quality and security in AI agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

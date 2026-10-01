@@ -1,19 +1,19 @@
 {
   "slug": "ethanyoq-ai-novel-writer",
-  "featuredDate": "2026-08-30",
+  "featuredDate": "2026-10-01",
   "fullName": "EthanYoQ/AI-Novel-Writer",
   "name": "AI-Novel-Writer",
   "owner": "EthanYoQ",
   "repoUrl": "https://github.com/EthanYoQ/AI-Novel-Writer",
   "homepage": null,
-  "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+  "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
   "language": "TypeScript",
-  "stars": 491,
-  "forks": 70,
-  "openIssues": 2,
+  "stars": 1226,
+  "forks": 149,
+  "openIssues": 25,
   "createdAt": "2026-06-20T17:27:16Z",
-  "updatedAt": "2026-08-30T06:17:05Z",
-  "pushedAt": "2026-08-30T06:14:23Z",
+  "updatedAt": "2026-10-01T07:05:47Z",
+  "pushedAt": "2026-10-01T06:52:07Z",
   "topics": [
     "ai-writing",
     "creative-writing",
@@ -30,16 +30,17 @@
     "worldbuilding",
     "writing-assistant"
   ],
-  "summaryZh": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "RAG"
+    "RAG",
+    "Vision"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 85,
-  "relevanceScore": 66,
-  "totalScore": 86
+  "qualityScore": 90,
+  "relevanceScore": 73,
+  "totalScore": 90
 }

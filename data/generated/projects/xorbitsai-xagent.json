@@ -1,6 +1,6 @@
 {
   "slug": "xorbitsai-xagent",
-  "featuredDate": "2026-09-27",
+  "featuredDate": "2026-10-01",
   "fullName": "xorbitsai/xagent",
   "name": "xagent",
   "owner": "xorbitsai",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 302,
   "forks": 69,
-  "openIssues": 918,
+  "openIssues": 912,
   "createdAt": "2026-02-15T15:01:02Z",
-  "updatedAt": "2026-09-27T06:18:47Z",
-  "pushedAt": "2026-09-27T06:18:44Z",
+  "updatedAt": "2026-10-01T07:00:40Z",
+  "pushedAt": "2026-10-01T07:00:37Z",
   "topics": [
     "agent",
     "agentic-ai",

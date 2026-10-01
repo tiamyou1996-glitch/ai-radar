@@ -1,0 +1,34 @@
+{
+  "slug": "quarkiverse-quarkus-langchain4j",
+  "featuredDate": "2026-10-01",
+  "fullName": "quarkiverse/quarkus-langchain4j",
+  "name": "quarkus-langchain4j",
+  "owner": "quarkiverse",
+  "repoUrl": "https://github.com/quarkiverse/quarkus-langchain4j",
+  "homepage": "https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html",
+  "description": "Quarkus Langchain4j extension",
+  "language": "Java",
+  "stars": 321,
+  "forks": 248,
+  "openIssues": 254,
+  "createdAt": "2023-11-13T09:10:27Z",
+  "updatedAt": "2026-10-01T07:06:57Z",
+  "pushedAt": "2026-10-01T07:06:51Z",
+  "topics": [
+    "ai",
+    "langchain4j",
+    "llm",
+    "quarkus-extension"
+  ],
+  "summaryZh": "Quarkus Langchain4j extension 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 51,
+  "totalScore": 81
+}
