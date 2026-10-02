@@ -1,0 +1,42 @@
+{
+  "slug": "neuron-core-neuron-ai",
+  "featuredDate": "2026-10-02",
+  "fullName": "neuron-core/neuron-ai",
+  "name": "neuron-ai",
+  "owner": "neuron-core",
+  "repoUrl": "https://github.com/neuron-core/neuron-ai",
+  "homepage": "https://docs.neuron-ai.dev",
+  "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.",
+  "language": "PHP",
+  "stars": 2116,
+  "forks": 253,
+  "openIssues": 6,
+  "createdAt": "2025-03-02T15:35:21Z",
+  "updatedAt": "2026-10-02T06:49:20Z",
+  "pushedAt": "2026-10-02T06:49:22Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agents",
+    "ai",
+    "llm",
+    "llm-inference",
+    "llms",
+    "php",
+    "vector-database"
+  ],
+  "summaryZh": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 96,
+  "relevanceScore": 73,
+  "totalScore": 89
+}

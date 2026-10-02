@@ -1,6 +1,6 @@
 {
   "slug": "sgl-project-sglang-omni",
-  "featuredDate": "2026-09-30",
+  "featuredDate": "2026-10-02",
   "fullName": "sgl-project/sglang-omni",
   "name": "sglang-omni",
   "owner": "sgl-project",
@@ -8,12 +8,12 @@
   "homepage": "https://sgl-project.github.io/sglang-omni/",
   "description": "SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.",
   "language": "Python",
-  "stars": 1297,
-  "forks": 535,
-  "openIssues": 742,
+  "stars": 1305,
+  "forks": 544,
+  "openIssues": 762,
   "createdAt": "2026-01-07T06:58:29Z",
-  "updatedAt": "2026-09-30T06:30:27Z",
-  "pushedAt": "2026-09-30T06:30:20Z",
+  "updatedAt": "2026-10-02T06:20:37Z",
+  "pushedAt": "2026-10-02T06:20:32Z",
   "topics": [
     "asr",
     "audio-generation",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 93,
+  "qualityScore": 94,
   "relevanceScore": 65,
-  "totalScore": 86
+  "totalScore": 87
 }

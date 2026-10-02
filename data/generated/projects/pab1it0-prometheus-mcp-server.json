@@ -1,0 +1,37 @@
+{
+  "slug": "pab1it0-prometheus-mcp-server",
+  "featuredDate": "2026-10-02",
+  "fullName": "pab1it0/prometheus-mcp-server",
+  "name": "prometheus-mcp-server",
+  "owner": "pab1it0",
+  "repoUrl": "https://github.com/pab1it0/prometheus-mcp-server",
+  "homepage": null,
+  "description": "A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces.",
+  "language": "Python",
+  "stars": 517,
+  "forks": 103,
+  "openIssues": 6,
+  "createdAt": "2025-03-19T16:36:09Z",
+  "updatedAt": "2026-10-02T06:55:27Z",
+  "pushedAt": "2026-10-02T06:55:22Z",
+  "topics": [
+    "ai",
+    "devops",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "prometheus"
+  ],
+  "summaryZh": "A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 62,
+  "totalScore": 83
+}
