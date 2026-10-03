@@ -1,19 +1,19 @@
 {
   "slug": "zhongkaifu-tensorsharp",
-  "featuredDate": "2026-09-27",
+  "featuredDate": "2026-10-03",
   "fullName": "zhongkaifu/TensorSharp",
   "name": "TensorSharp",
   "owner": "zhongkaifu",
   "repoUrl": "https://github.com/zhongkaifu/TensorSharp",
   "homepage": "https://tensorsharp.ai",
-  "description": "A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU capability",
+  "description": "A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, iPhone App, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU capability",
   "language": "C#",
-  "stars": 488,
+  "stars": 508,
   "forks": 57,
-  "openIssues": 2,
+  "openIssues": 3,
   "createdAt": "2026-04-03T07:04:15Z",
-  "updatedAt": "2026-09-27T06:20:35Z",
-  "pushedAt": "2026-09-27T03:43:30Z",
+  "updatedAt": "2026-10-03T06:12:55Z",
+  "pushedAt": "2026-10-03T06:12:54Z",
   "topics": [
     "ai",
     "csharp",
@@ -36,17 +36,17 @@
     "qwen35",
     "transformers"
   ],
-  "summaryZh": "A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU capability 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "summaryZh": "A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, iPhone App, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU capability 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
+    "Agent",
     "Vision",
-    "Infra",
-    "Model"
+    "Infra"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 88,
-  "relevanceScore": 69,
-  "totalScore": 88
+  "relevanceScore": 73,
+  "totalScore": 86
 }

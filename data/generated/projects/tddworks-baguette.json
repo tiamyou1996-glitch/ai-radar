@@ -1,0 +1,38 @@
+{
+  "slug": "tddworks-baguette",
+  "featuredDate": "2026-10-03",
+  "fullName": "tddworks/baguette",
+  "name": "baguette",
+  "owner": "tddworks",
+  "repoUrl": "https://github.com/tddworks/baguette",
+  "homepage": "https://tddworks.github.io/baguette/",
+  "description": "Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm",
+  "language": "Swift",
+  "stars": 2147,
+  "forks": 120,
+  "openIssues": 6,
+  "createdAt": "2026-05-01T08:14:13Z",
+  "updatedAt": "2026-10-03T06:14:19Z",
+  "pushedAt": "2026-10-03T06:14:16Z",
+  "topics": [
+    "agent",
+    "cli",
+    "devicefarm",
+    "ios",
+    "simulator",
+    "simulatorkit",
+    "streaming"
+  ],
+  "summaryZh": "Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 96,
+  "relevanceScore": 62,
+  "totalScore": 89
+}
