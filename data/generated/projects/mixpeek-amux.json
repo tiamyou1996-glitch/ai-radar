@@ -1,6 +1,6 @@
 {
   "slug": "mixpeek-amux",
-  "featuredDate": "2026-10-02",
+  "featuredDate": "2026-10-04",
   "fullName": "mixpeek/amux",
   "name": "amux",
   "owner": "mixpeek",
@@ -12,8 +12,8 @@
   "forks": 62,
   "openIssues": 15,
   "createdAt": "2026-02-18T14:30:56Z",
-  "updatedAt": "2026-10-02T06:52:26Z",
-  "pushedAt": "2026-10-02T06:52:22Z",
+  "updatedAt": "2026-10-04T06:25:51Z",
+  "pushedAt": "2026-10-04T06:25:46Z",
   "topics": [
     "agent-orchestration",
     "agentic-ai",

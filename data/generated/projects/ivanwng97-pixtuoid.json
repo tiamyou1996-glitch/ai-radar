@@ -1,6 +1,6 @@
 {
   "slug": "ivanwng97-pixtuoid",
-  "featuredDate": "2026-10-01",
+  "featuredDate": "2026-10-04",
   "fullName": "IvanWng97/pixtuoid",
   "name": "pixtuoid",
   "owner": "IvanWng97",
@@ -10,10 +10,10 @@
   "language": "Rust",
   "stars": 485,
   "forks": 32,
-  "openIssues": 16,
+  "openIssues": 29,
   "createdAt": "2026-05-21T06:05:19Z",
-  "updatedAt": "2026-10-01T07:07:23Z",
-  "pushedAt": "2026-10-01T07:06:32Z",
+  "updatedAt": "2026-10-04T06:42:52Z",
+  "pushedAt": "2026-10-04T06:44:35Z",
   "topics": [
     "ai-agents",
     "claude",

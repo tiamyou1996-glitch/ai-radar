@@ -1,6 +1,6 @@
 {
   "slug": "memorax-ai-memorax-code",
-  "featuredDate": "2026-10-03",
+  "featuredDate": "2026-10-04",
   "fullName": "memorax-ai/memorax-code",
   "name": "memorax-code",
   "owner": "memorax-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://code.memorax.net/",
   "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
   "language": "JavaScript",
-  "stars": 2030,
+  "stars": 2041,
   "forks": 68,
   "openIssues": 16,
   "createdAt": "2026-08-01T02:13:37Z",
-  "updatedAt": "2026-10-03T06:20:16Z",
-  "pushedAt": "2026-10-03T06:20:07Z",
+  "updatedAt": "2026-10-04T06:34:43Z",
+  "pushedAt": "2026-10-04T06:33:59Z",
   "topics": [
     "ai-agents",
     "claude-code",

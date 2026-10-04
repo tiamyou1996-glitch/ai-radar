@@ -1,6 +1,6 @@
 {
   "slug": "smithersai-smithers",
-  "featuredDate": "2026-10-03",
+  "featuredDate": "2026-10-04",
   "fullName": "smithersai/smithers",
   "name": "smithers",
   "owner": "smithersai",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 428,
   "forks": 51,
-  "openIssues": 320,
+  "openIssues": 344,
   "createdAt": "2026-01-05T21:13:36Z",
-  "updatedAt": "2026-10-03T06:23:14Z",
-  "pushedAt": "2026-10-03T06:23:10Z",
+  "updatedAt": "2026-10-04T06:45:08Z",
+  "pushedAt": "2026-10-04T06:45:04Z",
   "topics": [
     "agent-orchestration",
     "ai-agents",
