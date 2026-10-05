@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-10-04",
+  "featuredDate": "2026-10-05",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -12,8 +12,8 @@
   "forks": 225,
   "openIssues": 29,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-10-04T03:49:58Z",
-  "pushedAt": "2026-10-04T03:49:54Z",
+  "updatedAt": "2026-10-05T06:13:35Z",
+  "pushedAt": "2026-10-05T06:13:31Z",
   "topics": [
     "agents",
     "ai",

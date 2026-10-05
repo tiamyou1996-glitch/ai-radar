@@ -1,6 +1,6 @@
 {
   "slug": "xr843-fojin",
-  "featuredDate": "2026-09-02",
+  "featuredDate": "2026-10-05",
   "fullName": "xr843/fojin",
   "name": "fojin",
   "owner": "xr843",
@@ -8,12 +8,12 @@
   "homepage": "https://fojin.app",
   "description": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
   "language": "Python",
-  "stars": 337,
-  "forks": 62,
-  "openIssues": 16,
+  "stars": 345,
+  "forks": 64,
+  "openIssues": 21,
   "createdAt": "2026-03-10T14:05:37Z",
-  "updatedAt": "2026-09-02T05:27:13Z",
-  "pushedAt": "2026-09-02T05:26:32Z",
+  "updatedAt": "2026-10-05T06:53:09Z",
+  "pushedAt": "2026-10-05T06:53:06Z",
   "topics": [
     "ai",
     "buddhism",
@@ -42,8 +42,8 @@
     "RAG"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 86,
   "relevanceScore": 55,
-  "totalScore": 84
+  "totalScore": 82
 }
