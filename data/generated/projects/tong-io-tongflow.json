@@ -1,6 +1,6 @@
 {
   "slug": "tong-io-tongflow",
-  "featuredDate": "2026-09-27",
+  "featuredDate": "2026-10-06",
   "fullName": "tong-io/tongflow",
   "name": "tongflow",
   "owner": "tong-io",
@@ -8,12 +8,12 @@
   "homepage": "https://tongflow.com",
   "description": "Modality-First GenAI Platform",
   "language": "TypeScript",
-  "stars": 1033,
-  "forks": 134,
+  "stars": 1039,
+  "forks": 136,
   "openIssues": 9,
   "createdAt": "2026-04-08T00:21:23Z",
-  "updatedAt": "2026-09-27T03:55:39Z",
-  "pushedAt": "2026-09-27T03:55:58Z",
+  "updatedAt": "2026-10-06T06:38:28Z",
+  "pushedAt": "2026-10-06T04:27:23Z",
   "topics": [
     "3d",
     "agent",
@@ -44,8 +44,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 92,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 87
 }

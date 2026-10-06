@@ -1,0 +1,37 @@
+{
+  "slug": "openeverest-openeverest",
+  "featuredDate": "2026-10-06",
+  "fullName": "openeverest/openeverest",
+  "name": "openeverest",
+  "owner": "openeverest",
+  "repoUrl": "https://github.com/openeverest/openeverest",
+  "homepage": "https://openeverest.io/",
+  "description": "OpenEverest is an open-source platform for automated database, storage and LLMs provisioning and management. It supports multiple technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises.",
+  "language": "TypeScript",
+  "stars": 939,
+  "forks": 218,
+  "openIssues": 360,
+  "createdAt": "2024-01-04T19:24:05Z",
+  "updatedAt": "2026-10-06T07:27:06Z",
+  "pushedAt": "2026-10-06T07:27:04Z",
+  "topics": [
+    "databases",
+    "kubernetes",
+    "llm",
+    "open-source",
+    "storage"
+  ],
+  "summaryZh": "OpenEverest is an open-source platform for automated database, storage and LLMs provisioning and management. It supports multiple technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "RAG",
+    "Vision",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 73,
+  "totalScore": 88
+}

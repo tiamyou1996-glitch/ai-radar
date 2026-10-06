@@ -1,6 +1,6 @@
 {
   "slug": "harnessrouter-harnessrouter",
-  "featuredDate": "2026-09-08",
+  "featuredDate": "2026-10-06",
   "fullName": "HarnessRouter/harnessrouter",
   "name": "harnessrouter",
   "owner": "HarnessRouter",
@@ -8,12 +8,12 @@
   "homepage": "https://harnessrouter.ai/",
   "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
   "language": "Python",
-  "stars": 670,
-  "forks": 67,
-  "openIssues": 4,
+  "stars": 2893,
+  "forks": 292,
+  "openIssues": 18,
   "createdAt": "2026-08-09T20:19:14Z",
-  "updatedAt": "2026-09-08T05:51:56Z",
-  "pushedAt": "2026-09-08T05:51:26Z",
+  "updatedAt": "2026-10-06T07:26:46Z",
+  "pushedAt": "2026-10-06T07:26:41Z",
   "topics": [
     "agent-api",
     "agent-framework",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 93
 }

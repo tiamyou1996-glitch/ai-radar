@@ -1,6 +1,6 @@
 {
   "slug": "furongjun-1999-dsh-memory",
-  "featuredDate": "2026-10-03",
+  "featuredDate": "2026-10-06",
   "fullName": "FuRongJun-1999/dsh-memory",
   "name": "dsh-memory",
   "owner": "FuRongJun-1999",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
   "language": "Python",
-  "stars": 312,
-  "forks": 23,
+  "stars": 324,
+  "forks": 24,
   "openIssues": 3,
   "createdAt": "2026-08-14T13:28:26Z",
-  "updatedAt": "2026-10-03T06:22:34Z",
-  "pushedAt": "2026-10-03T06:22:23Z",
+  "updatedAt": "2026-10-06T07:10:10Z",
+  "pushedAt": "2026-10-06T07:10:06Z",
   "topics": [
     "agent-safety",
     "agentic-ai",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 82,
+  "qualityScore": 83,
   "relevanceScore": 73,
   "totalScore": 87
 }

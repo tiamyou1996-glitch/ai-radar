@@ -1,0 +1,42 @@
+{
+  "slug": "sidiora-labs-paxeer-x-network",
+  "featuredDate": "2026-10-06",
+  "fullName": "Sidiora-Labs/Paxeer-X-Network",
+  "name": "Paxeer-X-Network",
+  "owner": "Sidiora-Labs",
+  "repoUrl": "https://github.com/Sidiora-Labs/Paxeer-X-Network",
+  "homepage": "https://paxeer.network",
+  "description": "Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them. ",
+  "language": "Rust",
+  "stars": 574,
+  "forks": 90,
+  "openIssues": 57,
+  "createdAt": "2026-08-14T19:56:00Z",
+  "updatedAt": "2026-10-06T07:24:33Z",
+  "pushedAt": "2026-10-06T07:24:28Z",
+  "topics": [
+    "agent",
+    "agent-client-protocol",
+    "ai",
+    "ai-agents",
+    "blockchain",
+    "machine-learning",
+    "model-context-protocol",
+    "monorepo",
+    "network",
+    "web"
+  ],
+  "summaryZh": "Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them.  这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 89,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
