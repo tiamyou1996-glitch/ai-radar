@@ -1,0 +1,38 @@
+{
+  "slug": "mayneyao-eidos",
+  "featuredDate": "2026-10-07",
+  "fullName": "mayneyao/eidos",
+  "name": "eidos",
+  "owner": "mayneyao",
+  "repoUrl": "https://github.com/mayneyao/eidos",
+  "homepage": "https://eidos.space",
+  "description": "A single-file relational spreadsheet for you and your agent.",
+  "language": "TypeScript",
+  "stars": 3193,
+  "forks": 139,
+  "openIssues": 7,
+  "createdAt": "2023-06-08T16:49:09Z",
+  "updatedAt": "2026-10-07T07:08:38Z",
+  "pushedAt": "2026-10-07T07:08:34Z",
+  "topics": [
+    "database",
+    "editor",
+    "llm",
+    "local-first",
+    "notion-alternative",
+    "offline",
+    "sqlite"
+  ],
+  "summaryZh": "A single-file relational spreadsheet for you and your agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

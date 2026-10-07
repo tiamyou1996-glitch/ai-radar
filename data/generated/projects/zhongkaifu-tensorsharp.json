@@ -1,6 +1,6 @@
 {
   "slug": "zhongkaifu-tensorsharp",
-  "featuredDate": "2026-10-04",
+  "featuredDate": "2026-10-07",
   "fullName": "zhongkaifu/TensorSharp",
   "name": "TensorSharp",
   "owner": "zhongkaifu",
@@ -8,12 +8,12 @@
   "homepage": "https://tensorsharp.ai",
   "description": "A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, iPhone App, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/iOS/Linux with full GPU capability",
   "language": "C#",
-  "stars": 526,
+  "stars": 553,
   "forks": 59,
-  "openIssues": 2,
+  "openIssues": 4,
   "createdAt": "2026-04-03T07:04:15Z",
-  "updatedAt": "2026-10-04T06:32:49Z",
-  "pushedAt": "2026-10-04T04:08:22Z",
+  "updatedAt": "2026-10-07T06:42:08Z",
+  "pushedAt": "2026-10-07T06:42:06Z",
   "topics": [
     "ai",
     "csharp",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 88,
+  "qualityScore": 89,
   "relevanceScore": 73,
-  "totalScore": 86
+  "totalScore": 87
 }

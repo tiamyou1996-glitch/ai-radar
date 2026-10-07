@@ -1,6 +1,6 @@
 {
   "slug": "fim-ai-fim-one",
-  "featuredDate": "2026-09-16",
+  "featuredDate": "2026-10-07",
   "fullName": "fim-ai/fim-one",
   "name": "fim-one",
   "owner": "fim-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://one.fim.ai",
   "description": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
   "language": "Python",
-  "stars": 1510,
-  "forks": 170,
+  "stars": 1569,
+  "forks": 178,
   "openIssues": 1,
   "createdAt": "2026-02-22T15:26:03Z",
-  "updatedAt": "2026-09-16T05:43:26Z",
-  "pushedAt": "2026-09-16T05:43:21Z",
+  "updatedAt": "2026-10-07T07:06:20Z",
+  "pushedAt": "2026-10-07T07:06:14Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 95,
   "relevanceScore": 73,
   "totalScore": 89
 }
