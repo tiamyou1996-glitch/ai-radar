@@ -1,0 +1,42 @@
+{
+  "slug": "ebony-vinyl-dsh-our-free-model",
+  "featuredDate": "2026-10-08",
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "name": "dsh-our-free-model",
+  "owner": "Ebony-Vinyl",
+  "repoUrl": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+  "homepage": null,
+  "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+  "language": "JavaScript",
+  "stars": 3761,
+  "forks": 69,
+  "openIssues": 58,
+  "createdAt": "2026-09-24T16:17:19Z",
+  "updatedAt": "2026-10-08T07:15:22Z",
+  "pushedAt": "2026-10-08T07:15:17Z",
+  "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "free-model",
+    "llm",
+    "model-provider",
+    "openai-compatible"
+  ],
+  "summaryZh": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 96,
+  "relevanceScore": 69,
+  "totalScore": 91
+}

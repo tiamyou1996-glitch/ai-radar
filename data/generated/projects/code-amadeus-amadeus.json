@@ -1,0 +1,43 @@
+{
+  "slug": "code-amadeus-amadeus",
+  "featuredDate": "2026-10-08",
+  "fullName": "Code-Amadeus/Amadeus",
+  "name": "Amadeus",
+  "owner": "Code-Amadeus",
+  "repoUrl": "https://github.com/Code-Amadeus/Amadeus",
+  "homepage": null,
+  "description": "Real-time multimodal desktop agent evolving toward a persistent AI OS interface (0.15 α).",
+  "language": "Python",
+  "stars": 302,
+  "forks": 29,
+  "openIssues": 23,
+  "createdAt": "2026-07-26T04:14:18Z",
+  "updatedAt": "2026-10-08T05:52:02Z",
+  "pushedAt": "2026-10-08T05:03:26Z",
+  "topics": [
+    "ai-agent",
+    "auip",
+    "cuda",
+    "desktop-agent",
+    "desktop-companion",
+    "electron",
+    "gpt-sovits",
+    "local-ai",
+    "multimodal",
+    "python",
+    "voice-assistant"
+  ],
+  "summaryZh": "Real-time multimodal desktop agent evolving toward a persistent AI OS interface (0.15 α). 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Vision"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 82,
+  "relevanceScore": 69,
+  "totalScore": 86
+}
