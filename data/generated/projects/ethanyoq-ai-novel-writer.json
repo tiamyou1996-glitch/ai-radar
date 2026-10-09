@@ -1,6 +1,6 @@
 {
   "slug": "ethanyoq-ai-novel-writer",
-  "featuredDate": "2026-10-01",
+  "featuredDate": "2026-10-09",
   "fullName": "EthanYoQ/AI-Novel-Writer",
   "name": "AI-Novel-Writer",
   "owner": "EthanYoQ",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
   "language": "TypeScript",
-  "stars": 1226,
-  "forks": 149,
-  "openIssues": 25,
+  "stars": 1369,
+  "forks": 160,
+  "openIssues": 37,
   "createdAt": "2026-06-20T17:27:16Z",
-  "updatedAt": "2026-10-01T07:05:47Z",
-  "pushedAt": "2026-10-01T06:52:07Z",
+  "updatedAt": "2026-10-09T07:16:20Z",
+  "pushedAt": "2026-10-09T07:14:31Z",
   "topics": [
     "ai-writing",
     "creative-writing",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 73,
   "totalScore": 90
 }

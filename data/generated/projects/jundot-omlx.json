@@ -1,6 +1,6 @@
 {
   "slug": "jundot-omlx",
-  "featuredDate": "2026-08-04",
+  "featuredDate": "2026-10-09",
   "fullName": "jundot/omlx",
   "name": "omlx",
   "owner": "jundot",
@@ -8,12 +8,12 @@
   "homepage": "https://omlx.ai",
   "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
   "language": "Python",
-  "stars": 18416,
-  "forks": 1581,
-  "openIssues": 780,
+  "stars": 22649,
+  "forks": 1987,
+  "openIssues": 614,
   "createdAt": "2026-02-13T14:13:27Z",
-  "updatedAt": "2026-08-04T04:18:35Z",
-  "pushedAt": "2026-08-04T04:18:17Z",
+  "updatedAt": "2026-10-09T07:18:30Z",
+  "pushedAt": "2026-10-09T07:18:25Z",
   "topics": [
     "apple-silicon",
     "inference-server",
@@ -30,8 +30,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 90
+  "totalScore": 88
 }

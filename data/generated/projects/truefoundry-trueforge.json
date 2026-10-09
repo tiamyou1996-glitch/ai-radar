@@ -1,6 +1,6 @@
 {
   "slug": "truefoundry-trueforge",
-  "featuredDate": "2026-10-08",
+  "featuredDate": "2026-10-09",
   "fullName": "truefoundry/trueforge",
   "name": "trueforge",
   "owner": "truefoundry",
@@ -8,12 +8,12 @@
   "homepage": "https://trueforge.dev",
   "description": "The open-source agent harness - the runtime layer that turns an LLM into a working agent.",
   "language": "TypeScript",
-  "stars": 6081,
+  "stars": 6085,
   "forks": 494,
   "openIssues": 95,
   "createdAt": "2026-07-23T09:16:13Z",
-  "updatedAt": "2026-10-08T07:13:29Z",
-  "pushedAt": "2026-10-08T07:13:25Z",
+  "updatedAt": "2026-10-09T07:18:58Z",
+  "pushedAt": "2026-10-09T07:18:53Z",
   "topics": [
     "agent",
     "agentic-ai",

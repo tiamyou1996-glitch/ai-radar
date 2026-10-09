@@ -1,0 +1,30 @@
+{
+  "slug": "trevaintdead-ai-game-modding-guides",
+  "featuredDate": "2026-10-09",
+  "fullName": "trevaintdead/ai-game-modding-guides",
+  "name": "ai-game-modding-guides",
+  "owner": "trevaintdead",
+  "repoUrl": "https://github.com/trevaintdead/ai-game-modding-guides",
+  "homepage": null,
+  "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+  "language": null,
+  "stars": 377,
+  "forks": 35,
+  "openIssues": 0,
+  "createdAt": "2026-10-03T11:48:59Z",
+  "updatedAt": "2026-10-09T07:18:16Z",
+  "pushedAt": "2026-10-09T07:18:12Z",
+  "topics": [],
+  "summaryZh": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 83,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

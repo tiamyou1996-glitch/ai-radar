@@ -1,6 +1,6 @@
 {
   "slug": "oomol-lab-wiki-graph",
-  "featuredDate": "2026-09-03",
+  "featuredDate": "2026-10-09",
   "fullName": "oomol-lab/wiki-graph",
   "name": "wiki-graph",
   "owner": "oomol-lab",
@@ -8,12 +8,12 @@
   "homepage": "https://inkora.oomol.com/download/sdpub",
   "description": "distill any book down to its spine",
   "language": "TypeScript",
-  "stars": 380,
-  "forks": 35,
-  "openIssues": 5,
+  "stars": 401,
+  "forks": 36,
+  "openIssues": 4,
   "createdAt": "2026-04-09T02:44:01Z",
-  "updatedAt": "2026-09-03T05:40:26Z",
-  "pushedAt": "2026-09-03T05:39:51Z",
+  "updatedAt": "2026-10-09T07:17:53Z",
+  "pushedAt": "2026-10-09T07:17:50Z",
   "topics": [
     "ai-agents",
     "cli",
@@ -33,8 +33,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 87,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 86
 }
