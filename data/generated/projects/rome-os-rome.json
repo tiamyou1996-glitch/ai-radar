@@ -1,6 +1,6 @@
 {
   "slug": "rome-os-rome",
-  "featuredDate": "2026-10-04",
+  "featuredDate": "2026-10-11",
   "fullName": "rome-os/rome",
   "name": "rome",
   "owner": "rome-os",
@@ -8,12 +8,12 @@
   "homepage": "https://romeos.cc",
   "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
   "language": "TypeScript",
-  "stars": 686,
+  "stars": 748,
   "forks": 59,
   "openIssues": 99,
   "createdAt": "2026-08-23T06:15:15Z",
-  "updatedAt": "2026-10-04T06:45:42Z",
-  "pushedAt": "2026-10-04T06:46:11Z",
+  "updatedAt": "2026-10-11T07:01:48Z",
+  "pushedAt": "2026-10-11T07:01:45Z",
   "topics": [
     "agent",
     "agent-os",

@@ -1,6 +1,6 @@
 {
   "slug": "shawnpana-phone-harness",
-  "featuredDate": "2026-08-18",
+  "featuredDate": "2026-10-11",
   "fullName": "ShawnPana/phone-harness",
   "name": "phone-harness",
   "owner": "ShawnPana",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "let your agent control your phone",
   "language": "Python",
-  "stars": 1891,
-  "forks": 179,
-  "openIssues": 24,
+  "stars": 3222,
+  "forks": 331,
+  "openIssues": 56,
   "createdAt": "2026-08-07T22:28:53Z",
-  "updatedAt": "2026-08-18T02:18:42Z",
-  "pushedAt": "2026-08-18T02:17:34Z",
+  "updatedAt": "2026-10-11T07:01:58Z",
+  "pushedAt": "2026-10-11T07:01:58Z",
   "topics": [
     "agent",
     "ai",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 96,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }

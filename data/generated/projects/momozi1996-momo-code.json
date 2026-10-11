@@ -1,0 +1,39 @@
+{
+  "slug": "momozi1996-momo-code",
+  "featuredDate": "2026-10-11",
+  "fullName": "momozi1996/momo-code",
+  "name": "momo-code",
+  "owner": "momozi1996",
+  "repoUrl": "https://github.com/momozi1996/momo-code",
+  "homepage": "https://momozi.cc",
+  "description": "MOMO CODE — AI coding agent that evolves with you",
+  "language": "TypeScript",
+  "stars": 1064,
+  "forks": 5,
+  "openIssues": 0,
+  "createdAt": "2026-06-16T14:40:52Z",
+  "updatedAt": "2026-10-11T06:57:52Z",
+  "pushedAt": "2026-10-11T06:57:49Z",
+  "topics": [
+    "agent",
+    "ai",
+    "cli",
+    "code-agent",
+    "coding",
+    "coding-agent",
+    "llm"
+  ],
+  "summaryZh": "MOMO CODE — AI coding agent that evolves with you 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 69,
+  "totalScore": 89
+}
