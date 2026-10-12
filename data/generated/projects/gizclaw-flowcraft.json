@@ -1,6 +1,6 @@
 {
   "slug": "gizclaw-flowcraft",
-  "featuredDate": "2026-08-31",
+  "featuredDate": "2026-10-12",
   "fullName": "GizClaw/flowcraft",
   "name": "flowcraft",
   "owner": "GizClaw",
@@ -8,12 +8,12 @@
   "homepage": "https://gizclaw.github.io/flowcraft/",
   "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a library, a daemon, or a real-time pipeline.",
   "language": "Go",
-  "stars": 415,
-  "forks": 9,
-  "openIssues": 1,
+  "stars": 417,
+  "forks": 11,
+  "openIssues": 7,
   "createdAt": "2026-04-14T07:49:44Z",
-  "updatedAt": "2026-08-31T06:55:13Z",
-  "pushedAt": "2026-08-31T06:53:12Z",
+  "updatedAt": "2026-10-12T07:14:03Z",
+  "pushedAt": "2026-10-12T07:14:01Z",
   "topics": [
     "agent-framework",
     "agent-runtime",
@@ -40,8 +40,8 @@
     "Audio"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 87,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 86
 }

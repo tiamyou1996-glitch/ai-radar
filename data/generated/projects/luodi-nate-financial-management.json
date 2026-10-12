@@ -1,0 +1,41 @@
+{
+  "slug": "luodi-nate-financial-management",
+  "featuredDate": "2026-10-12",
+  "fullName": "LuoDi-Nate/financial-management",
+  "name": "financial-management",
+  "owner": "LuoDi-Nate",
+  "repoUrl": "https://github.com/LuoDi-Nate/financial-management",
+  "homepage": "https://beta.dixi-token.top",
+  "description": "  自托管家庭资产管理 · 每月10分钟,全家资产全局图 + 真实年化(XIRR/TWR)+ AI 资产体检 · 数据自托管, 不泄密",
+  "language": "Java",
+  "stars": 362,
+  "forks": 43,
+  "openIssues": 4,
+  "createdAt": "2026-05-11T15:45:46Z",
+  "updatedAt": "2026-10-12T07:15:51Z",
+  "pushedAt": "2026-10-12T07:15:47Z",
+  "topics": [
+    "family",
+    "family-finance",
+    "finance",
+    "fire",
+    "llm",
+    "personal-finance",
+    "pwa",
+    "selfhosted",
+    "spring-boot",
+    "wealth-management",
+    "xirr"
+  ],
+  "summaryZh": "自托管家庭资产管理 · 每月10分钟,全家资产全局图 + 真实年化(XIRR/TWR)+ AI 资产体检 · 数据自托管, 不泄密 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 51,
+  "totalScore": 83
+}

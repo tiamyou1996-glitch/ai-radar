@@ -1,6 +1,6 @@
 {
   "slug": "redai-studio-relax",
-  "featuredDate": "2026-10-08",
+  "featuredDate": "2026-10-12",
   "fullName": "redai-studio/Relax",
   "name": "Relax",
   "owner": "redai-studio",
@@ -8,12 +8,12 @@
   "homepage": "https://redai-studio.github.io/Relax",
   "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale",
   "language": "Python",
-  "stars": 640,
-  "forks": 175,
-  "openIssues": 114,
+  "stars": 641,
+  "forks": 177,
+  "openIssues": 106,
   "createdAt": "2026-04-13T02:39:35Z",
-  "updatedAt": "2026-10-08T06:20:10Z",
-  "pushedAt": "2026-10-08T05:46:18Z",
+  "updatedAt": "2026-10-12T06:04:19Z",
+  "pushedAt": "2026-10-12T06:04:09Z",
   "topics": [
     "agentic-rl",
     "distributed-training",
@@ -33,8 +33,8 @@
     "Vision"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 89,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 84
 }
