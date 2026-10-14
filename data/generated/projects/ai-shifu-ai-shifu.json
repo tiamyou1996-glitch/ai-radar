@@ -1,6 +1,6 @@
 {
   "slug": "ai-shifu-ai-shifu",
-  "featuredDate": "2026-10-12",
+  "featuredDate": "2026-10-14",
   "fullName": "ai-shifu/ai-shifu",
   "name": "ai-shifu",
   "owner": "ai-shifu",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 325,
   "forks": 126,
-  "openIssues": 9,
+  "openIssues": 12,
   "createdAt": "2024-07-23T08:55:10Z",
-  "updatedAt": "2026-10-12T07:15:58Z",
-  "pushedAt": "2026-10-12T07:15:55Z",
+  "updatedAt": "2026-10-14T06:01:51Z",
+  "pushedAt": "2026-10-14T06:01:47Z",
   "topics": [
     "agent",
     "ai",

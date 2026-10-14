@@ -1,6 +1,6 @@
 {
   "slug": "ddalcu-mlx-serve",
-  "featuredDate": "2026-10-10",
+  "featuredDate": "2026-10-14",
   "fullName": "ddalcu/mlx-serve",
   "name": "mlx-serve",
   "owner": "ddalcu",
@@ -8,12 +8,12 @@
   "homepage": "https://mlxserve.com/",
   "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
   "language": "Zig",
-  "stars": 1819,
-  "forks": 182,
-  "openIssues": 38,
+  "stars": 1905,
+  "forks": 193,
+  "openIssues": 51,
   "createdAt": "2026-02-17T01:55:20Z",
-  "updatedAt": "2026-10-10T06:44:24Z",
-  "pushedAt": "2026-10-10T06:56:29Z",
+  "updatedAt": "2026-10-14T05:51:27Z",
+  "pushedAt": "2026-10-14T05:34:49Z",
   "topics": [
     "agent",
     "anthropic-api",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 69,
   "totalScore": 88
 }

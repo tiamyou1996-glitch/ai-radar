@@ -1,6 +1,6 @@
 {
   "slug": "gizclaw-flowcraft",
-  "featuredDate": "2026-10-12",
+  "featuredDate": "2026-10-14",
   "fullName": "GizClaw/flowcraft",
   "name": "flowcraft",
   "owner": "GizClaw",
@@ -10,10 +10,10 @@
   "language": "Go",
   "stars": 417,
   "forks": 11,
-  "openIssues": 7,
+  "openIssues": 3,
   "createdAt": "2026-04-14T07:49:44Z",
-  "updatedAt": "2026-10-12T07:14:03Z",
-  "pushedAt": "2026-10-12T07:14:01Z",
+  "updatedAt": "2026-10-14T06:02:12Z",
+  "pushedAt": "2026-10-14T06:02:09Z",
   "topics": [
     "agent-framework",
     "agent-runtime",

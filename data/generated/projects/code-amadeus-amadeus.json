@@ -1,6 +1,6 @@
 {
   "slug": "code-amadeus-amadeus",
-  "featuredDate": "2026-10-11",
+  "featuredDate": "2026-10-14",
   "fullName": "Code-Amadeus/Amadeus",
   "name": "Amadeus",
   "owner": "Code-Amadeus",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Real-time multimodal desktop agent evolving toward a persistent AI OS interface (0.16 α).",
   "language": "Python",
-  "stars": 343,
-  "forks": 32,
-  "openIssues": 17,
+  "stars": 390,
+  "forks": 34,
+  "openIssues": 31,
   "createdAt": "2026-07-26T04:14:18Z",
-  "updatedAt": "2026-10-11T06:57:53Z",
-  "pushedAt": "2026-10-11T05:44:08Z",
+  "updatedAt": "2026-10-14T05:33:12Z",
+  "pushedAt": "2026-10-14T05:46:52Z",
   "topics": [
     "ai-agent",
     "auip",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 69,
-  "totalScore": 86
+  "totalScore": 87
 }

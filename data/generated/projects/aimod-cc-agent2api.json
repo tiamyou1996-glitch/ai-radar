@@ -1,0 +1,40 @@
+{
+  "slug": "aimod-cc-agent2api",
+  "featuredDate": "2026-10-14",
+  "fullName": "aimod-cc/agent2api",
+  "name": "agent2api",
+  "owner": "aimod-cc",
+  "repoUrl": "https://github.com/aimod-cc/agent2api",
+  "homepage": "https://github.com/aimod-cc/agent2api",
+  "description": "本地反向代理 + OpenAI 兼容 AI 网关：复用桌面客户端登录态，一个 base_url 调用十余家模型额度 · Local OpenAI-compatible gateway for AI coding clients — WorkBuddy, Raccoon, CatPaw, AutoClaw, Qoder, Cline, Accio, ZCode, CodeArts, Trae and more.",
+  "language": "Rust",
+  "stars": 842,
+  "forks": 190,
+  "openIssues": 51,
+  "createdAt": "2026-09-11T07:42:14Z",
+  "updatedAt": "2026-10-14T05:59:07Z",
+  "pushedAt": "2026-10-14T05:54:09Z",
+  "topics": [
+    "accio",
+    "autoclaw",
+    "catpaw",
+    "cline",
+    "docker",
+    "local-proxy",
+    "openai-compatible",
+    "qoder",
+    "trae"
+  ],
+  "summaryZh": "本地反向代理 + OpenAI 兼容 AI 网关：复用桌面客户端登录态，一个 base_url 调用十余家模型额度 · Local OpenAI-compatible gateway for AI coding clients — WorkBuddy, Raccoon, CatPaw, AutoClaw, Qoder, Cline, Accio, ZCode, CodeArts, Trae and more. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 88
+}
