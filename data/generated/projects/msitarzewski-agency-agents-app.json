@@ -1,0 +1,30 @@
+{
+  "slug": "msitarzewski-agency-agents-app",
+  "featuredDate": "2026-10-15",
+  "fullName": "msitarzewski/agency-agents-app",
+  "name": "agency-agents-app",
+  "owner": "msitarzewski",
+  "repoUrl": "https://github.com/msitarzewski/agency-agents-app",
+  "homepage": "https://agencyagents.app",
+  "description": "Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use.",
+  "language": "TypeScript",
+  "stars": 729,
+  "forks": 191,
+  "openIssues": 18,
+  "createdAt": "2026-06-08T12:12:44Z",
+  "updatedAt": "2026-10-15T05:19:49Z",
+  "pushedAt": "2026-10-15T05:20:38Z",
+  "topics": [],
+  "summaryZh": "Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 87
+}

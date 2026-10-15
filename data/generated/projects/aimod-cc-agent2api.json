@@ -1,6 +1,6 @@
 {
   "slug": "aimod-cc-agent2api",
-  "featuredDate": "2026-10-14",
+  "featuredDate": "2026-10-15",
   "fullName": "aimod-cc/agent2api",
   "name": "agent2api",
   "owner": "aimod-cc",
@@ -8,12 +8,12 @@
   "homepage": "https://github.com/aimod-cc/agent2api",
   "description": "本地反向代理 + OpenAI 兼容 AI 网关：复用桌面客户端登录态，一个 base_url 调用十余家模型额度 · Local OpenAI-compatible gateway for AI coding clients — WorkBuddy, Raccoon, CatPaw, AutoClaw, Qoder, Cline, Accio, ZCode, CodeArts, Trae and more.",
   "language": "Rust",
-  "stars": 842,
-  "forks": 190,
-  "openIssues": 51,
+  "stars": 929,
+  "forks": 209,
+  "openIssues": 61,
   "createdAt": "2026-09-11T07:42:14Z",
-  "updatedAt": "2026-10-14T05:59:07Z",
-  "pushedAt": "2026-10-14T05:54:09Z",
+  "updatedAt": "2026-10-15T05:50:01Z",
+  "pushedAt": "2026-10-15T05:35:01Z",
   "topics": [
     "accio",
     "autoclaw",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 91,
+  "qualityScore": 92,
   "relevanceScore": 62,
   "totalScore": 88
 }
