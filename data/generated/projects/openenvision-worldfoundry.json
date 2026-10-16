@@ -1,0 +1,42 @@
+{
+  "slug": "openenvision-worldfoundry",
+  "featuredDate": "2026-10-16",
+  "fullName": "OpenEnvision/WorldFoundry",
+  "name": "WorldFoundry",
+  "owner": "OpenEnvision",
+  "repoUrl": "https://github.com/OpenEnvision/WorldFoundry",
+  "homepage": "https://openenvision.org/WorldFoundry",
+  "description": "Unified World Model Inference & Evaluation Infrastructure",
+  "language": "Python",
+  "stars": 321,
+  "forks": 23,
+  "openIssues": 1,
+  "createdAt": "2026-07-09T10:48:10Z",
+  "updatedAt": "2026-10-16T05:11:53Z",
+  "pushedAt": "2026-10-16T05:11:48Z",
+  "topics": [
+    "3d",
+    "4d",
+    "benchmark",
+    "evaluation",
+    "inference",
+    "infrastructure",
+    "video-generation",
+    "vla",
+    "wam",
+    "world-model"
+  ],
+  "summaryZh": "Unified World Model Inference & Evaluation Infrastructure 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Video",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 65,
+  "totalScore": 86
+}

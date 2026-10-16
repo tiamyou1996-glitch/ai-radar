@@ -1,0 +1,43 @@
+{
+  "slug": "paperless-ngx-paperless-ngx",
+  "featuredDate": "2026-10-16",
+  "fullName": "paperless-ngx/paperless-ngx",
+  "name": "paperless-ngx",
+  "owner": "paperless-ngx",
+  "repoUrl": "https://github.com/paperless-ngx/paperless-ngx",
+  "homepage": "http://docs.paperless-ngx.com/",
+  "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+  "language": "Python",
+  "stars": 46737,
+  "forks": 3245,
+  "openIssues": 18,
+  "createdAt": "2022-02-12T21:56:52Z",
+  "updatedAt": "2026-10-16T05:45:47Z",
+  "pushedAt": "2026-10-16T05:45:21Z",
+  "topics": [
+    "ai",
+    "angular",
+    "archiving",
+    "django",
+    "dms",
+    "document-management",
+    "document-management-system",
+    "llm",
+    "machine-learning",
+    "ocr",
+    "optical-character-recognition",
+    "pdf"
+  ],
+  "summaryZh": "A community-supported supercharged document management system: scan, index and archive all your documents 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 58,
+  "totalScore": 87
+}

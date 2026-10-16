@@ -1,6 +1,6 @@
 {
   "slug": "poco-ai-agentero",
-  "featuredDate": "2026-10-15",
+  "featuredDate": "2026-10-16",
   "fullName": "poco-ai/Agentero",
   "name": "Agentero",
   "owner": "poco-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://agentero.app",
   "description": "为人与 Agent 协作而生的一站式科研工作台",
   "language": "TypeScript",
-  "stars": 955,
+  "stars": 961,
   "forks": 73,
-  "openIssues": 49,
+  "openIssues": 46,
   "createdAt": "2026-07-07T06:55:12Z",
-  "updatedAt": "2026-10-15T05:47:22Z",
-  "pushedAt": "2026-10-15T05:47:16Z",
+  "updatedAt": "2026-10-16T05:42:53Z",
+  "pushedAt": "2026-10-16T05:42:49Z",
   "topics": [
     "agent",
     "research"

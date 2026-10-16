@@ -1,6 +1,6 @@
 {
   "slug": "qingchencloud-clawpanel",
-  "featuredDate": "2026-07-06",
+  "featuredDate": "2026-10-16",
   "fullName": "qingchencloud/clawpanel",
   "name": "clawpanel",
   "owner": "qingchencloud",
@@ -8,12 +8,12 @@
   "homepage": "https://claw.qt.cool",
   "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
   "language": "JavaScript",
-  "stars": 2881,
-  "forks": 355,
-  "openIssues": 113,
+  "stars": 2933,
+  "forks": 367,
+  "openIssues": 127,
   "createdAt": "2026-02-26T13:37:07Z",
-  "updatedAt": "2026-07-06T05:20:34Z",
-  "pushedAt": "2026-07-06T05:20:30Z",
+  "updatedAt": "2026-10-16T05:45:35Z",
+  "pushedAt": "2026-10-16T05:45:31Z",
   "topics": [
     "admin-panel",
     "ai-agent",
@@ -44,8 +44,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 90
+  "totalScore": 88
 }
