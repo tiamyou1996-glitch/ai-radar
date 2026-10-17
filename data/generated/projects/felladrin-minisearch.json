@@ -1,6 +1,6 @@
 {
   "slug": "felladrin-minisearch",
-  "featuredDate": "2026-09-29",
+  "featuredDate": "2026-10-17",
   "fullName": "felladrin/MiniSearch",
   "name": "MiniSearch",
   "owner": "felladrin",
@@ -8,12 +8,12 @@
   "homepage": "https://felladrin-minisearch.hf.space",
   "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
   "language": "TypeScript",
-  "stars": 596,
+  "stars": 600,
   "forks": 74,
   "openIssues": 0,
   "createdAt": "2023-10-14T12:23:56Z",
-  "updatedAt": "2026-09-29T06:43:46Z",
-  "pushedAt": "2026-09-29T06:43:42Z",
+  "updatedAt": "2026-10-17T05:09:33Z",
+  "pushedAt": "2026-10-17T05:09:30Z",
   "topics": [
     "ai",
     "ai-search-engine",

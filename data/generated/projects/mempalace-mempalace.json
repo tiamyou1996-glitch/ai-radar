@@ -1,6 +1,6 @@
 {
   "slug": "mempalace-mempalace",
-  "featuredDate": "2026-05-09",
+  "featuredDate": "2026-10-17",
   "fullName": "MemPalace/mempalace",
   "name": "mempalace",
   "owner": "MemPalace",
@@ -8,12 +8,12 @@
   "homepage": "http://mempalaceofficial.com/",
   "description": "The best-benchmarked open-source AI memory system. And it's free.",
   "language": "Python",
-  "stars": 51655,
-  "forks": 6804,
-  "openIssues": 501,
+  "stars": 59601,
+  "forks": 7562,
+  "openIssues": 820,
   "createdAt": "2026-04-05T01:12:07Z",
-  "updatedAt": "2026-05-09T04:31:17Z",
-  "pushedAt": "2026-05-09T04:31:05Z",
+  "updatedAt": "2026-10-17T05:30:09Z",
+  "pushedAt": "2026-10-17T05:30:05Z",
   "topics": [
     "ai",
     "chromadb",
@@ -29,8 +29,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 88
+  "totalScore": 85
 }
