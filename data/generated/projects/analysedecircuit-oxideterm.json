@@ -1,19 +1,19 @@
 {
   "slug": "analysedecircuit-oxideterm",
-  "featuredDate": "2026-09-11",
+  "featuredDate": "2026-10-18",
   "fullName": "AnalyseDeCircuit/oxideterm",
   "name": "oxideterm",
   "owner": "AnalyseDeCircuit",
   "repoUrl": "https://github.com/AnalyseDeCircuit/oxideterm",
   "homepage": "https://oxideterm.app",
-  "description": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.",
+  "description": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI",
   "language": "Rust",
-  "stars": 1529,
-  "forks": 112,
-  "openIssues": 25,
+  "stars": 1683,
+  "forks": 135,
+  "openIssues": 39,
   "createdAt": "2026-01-21T07:30:14Z",
-  "updatedAt": "2026-09-11T05:36:44Z",
-  "pushedAt": "2026-09-11T05:36:39Z",
+  "updatedAt": "2026-10-18T05:38:11Z",
+  "pushedAt": "2026-10-18T05:38:05Z",
   "topics": [
     "agent",
     "ai-terminal",
@@ -35,7 +35,7 @@
     "terminal-emulator",
     "tool-calling"
   ],
-  "summaryZh": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 95,
   "relevanceScore": 66,
   "totalScore": 87
 }

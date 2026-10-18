@@ -1,6 +1,6 @@
 {
   "slug": "team-reflect-reflect-open",
-  "featuredDate": "2026-10-17",
+  "featuredDate": "2026-10-18",
   "fullName": "team-reflect/reflect-open",
   "name": "reflect-open",
   "owner": "team-reflect",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 1583,
   "forks": 133,
-  "openIssues": 105,
+  "openIssues": 100,
   "createdAt": "2026-06-09T02:23:15Z",
-  "updatedAt": "2026-10-17T05:28:17Z",
-  "pushedAt": "2026-10-17T05:31:24Z",
+  "updatedAt": "2026-10-18T05:39:22Z",
+  "pushedAt": "2026-10-18T05:40:04Z",
   "topics": [
     "agent",
     "markdown",

@@ -1,6 +1,6 @@
 {
   "slug": "px0-ai-px0",
-  "featuredDate": "2026-09-29",
+  "featuredDate": "2026-10-18",
   "fullName": "px0-ai/px0",
   "name": "px0",
   "owner": "px0-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://px0.ai/",
   "description": "px0 is an IDE built for reviewing AI-generated code, optimized for speed. It turns your browser into a zero-latency console with native Git and GitHub integrations, instant search across massive codebases, and seamless handoff to local AI coding harnesses.",
   "language": "Go",
-  "stars": 1697,
-  "forks": 213,
-  "openIssues": 138,
+  "stars": 1875,
+  "forks": 254,
+  "openIssues": 146,
   "createdAt": "2026-06-24T13:03:11Z",
-  "updatedAt": "2026-09-29T06:33:44Z",
-  "pushedAt": "2026-09-29T06:33:40Z",
+  "updatedAt": "2026-10-18T05:43:24Z",
+  "pushedAt": "2026-10-18T05:43:20Z",
   "topics": [
     "code-viewer",
     "developer-tools",
@@ -29,7 +29,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 51,
   "totalScore": 87
 }

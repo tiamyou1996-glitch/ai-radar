@@ -1,6 +1,6 @@
 {
   "slug": "esengine-deepseek-reasonix",
-  "featuredDate": "2026-10-15",
+  "featuredDate": "2026-10-18",
   "fullName": "esengine/DeepSeek-Reasonix",
   "name": "DeepSeek-Reasonix",
   "owner": "esengine",
@@ -8,12 +8,12 @@
   "homepage": "http://reasonix.io/",
   "description": "A reliable coding agent for complex software engineering tasks.",
   "language": "Go",
-  "stars": 35803,
-  "forks": 2454,
-  "openIssues": 343,
+  "stars": 35837,
+  "forks": 2461,
+  "openIssues": 378,
   "createdAt": "2026-04-21T08:27:02Z",
-  "updatedAt": "2026-10-15T05:48:38Z",
-  "pushedAt": "2026-10-15T05:48:35Z",
+  "updatedAt": "2026-10-18T05:45:45Z",
+  "pushedAt": "2026-10-18T05:45:42Z",
   "topics": [
     "agent",
     "agent-framework",
@@ -43,8 +43,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 92
+  "totalScore": 89
 }
