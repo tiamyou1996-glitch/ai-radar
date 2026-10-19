@@ -1,19 +1,19 @@
 {
   "slug": "manojmallick-sigmap",
-  "featuredDate": "2026-09-25",
+  "featuredDate": "2026-10-19",
   "fullName": "manojmallick/sigmap",
   "name": "sigmap",
   "owner": "manojmallick",
   "repoUrl": "https://github.com/manojmallick/sigmap",
   "homepage": "https://sigmap.io/",
-  "description": "~97% token reduction for AI coding sessions — zero deps, 33 languages, MCP server",
+  "description": "~97% token reduction for AI coding sessions — zero deps, 38 languages, MCP server",
   "language": "JavaScript",
-  "stars": 637,
-  "forks": 49,
-  "openIssues": 49,
+  "stars": 646,
+  "forks": 53,
+  "openIssues": 43,
   "createdAt": "2026-03-31T20:17:51Z",
-  "updatedAt": "2026-09-25T06:02:09Z",
-  "pushedAt": "2026-09-25T06:02:31Z",
+  "updatedAt": "2026-10-19T06:00:43Z",
+  "pushedAt": "2026-10-19T06:00:49Z",
   "topics": [
     "ai",
     "ai-code-review",
@@ -36,7 +36,7 @@
     "verifiable-ai",
     "zero-dependencies"
   ],
-  "summaryZh": "~97% token reduction for AI coding sessions — zero deps, 33 languages, MCP server 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "summaryZh": "~97% token reduction for AI coding sessions — zero deps, 38 languages, MCP server 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
   "tags": [
@@ -45,8 +45,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 89,
+  "trendScore": 92,
+  "qualityScore": 90,
   "relevanceScore": 69,
-  "totalScore": 88
+  "totalScore": 86
 }

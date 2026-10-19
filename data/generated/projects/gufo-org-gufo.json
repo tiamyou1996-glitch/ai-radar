@@ -1,0 +1,35 @@
+{
+  "slug": "gufo-org-gufo",
+  "featuredDate": "2026-10-19",
+  "fullName": "gufo-org/gufo",
+  "name": "gufo",
+  "owner": "gufo-org",
+  "repoUrl": "https://github.com/gufo-org/gufo",
+  "homepage": "https://gufo.blog",
+  "description": "The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2",
+  "language": "C++",
+  "stars": 803,
+  "forks": 118,
+  "openIssues": 47,
+  "createdAt": "2026-08-11T17:49:45Z",
+  "updatedAt": "2026-10-19T06:02:36Z",
+  "pushedAt": "2026-10-19T06:02:56Z",
+  "topics": [
+    "amd",
+    "gfx1151",
+    "llm",
+    "ryzen-ai",
+    "strix-halo"
+  ],
+  "summaryZh": "The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 51,
+  "totalScore": 85
+}

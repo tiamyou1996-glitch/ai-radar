@@ -1,6 +1,6 @@
 {
   "slug": "google-agentmesh",
-  "featuredDate": "2026-10-15",
+  "featuredDate": "2026-10-19",
   "fullName": "google/agentmesh",
   "name": "agentmesh",
   "owner": "google",
@@ -8,12 +8,12 @@
   "homepage": "https://google.github.io/agentmesh/",
   "description": "Agent Mesh",
   "language": "Go",
-  "stars": 1067,
-  "forks": 174,
-  "openIssues": 23,
+  "stars": 1116,
+  "forks": 184,
+  "openIssues": 24,
   "createdAt": "2026-04-21T15:15:58Z",
-  "updatedAt": "2026-10-15T05:49:05Z",
-  "pushedAt": "2026-10-15T05:48:59Z",
+  "updatedAt": "2026-10-19T05:24:07Z",
+  "pushedAt": "2026-10-19T05:24:01Z",
   "topics": [
     "a2a",
     "a2a-protocol",
@@ -35,8 +35,8 @@
     "Infra"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 92,
+  "trendScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 66,
-  "totalScore": 89
+  "totalScore": 87
 }
