@@ -1,6 +1,6 @@
 {
   "slug": "sidiora-labs-paxeer-x-network",
-  "featuredDate": "2026-10-19",
+  "featuredDate": "2026-10-20",
   "fullName": "Sidiora-Labs/Paxeer-X-Network",
   "name": "Paxeer-X-Network",
   "owner": "Sidiora-Labs",
@@ -10,10 +10,10 @@
   "language": "Go",
   "stars": 570,
   "forks": 87,
-  "openIssues": 68,
+  "openIssues": 85,
   "createdAt": "2026-08-14T19:56:00Z",
-  "updatedAt": "2026-10-19T06:01:47Z",
-  "pushedAt": "2026-10-19T06:01:41Z",
+  "updatedAt": "2026-10-20T05:55:57Z",
+  "pushedAt": "2026-10-20T05:55:53Z",
   "topics": [
     "agent",
     "agent-client-protocol",

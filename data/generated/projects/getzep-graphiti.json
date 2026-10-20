@@ -1,0 +1,36 @@
+{
+  "slug": "getzep-graphiti",
+  "featuredDate": "2026-10-20",
+  "fullName": "getzep/graphiti",
+  "name": "graphiti",
+  "owner": "getzep",
+  "repoUrl": "https://github.com/getzep/graphiti",
+  "homepage": "https://help.getzep.com/graphiti",
+  "description": "Build Real-Time Knowledge Graphs for AI Agents",
+  "language": "Python",
+  "stars": 32058,
+  "forks": 3295,
+  "openIssues": 488,
+  "createdAt": "2024-08-08T22:08:30Z",
+  "updatedAt": "2026-10-20T05:55:19Z",
+  "pushedAt": "2026-10-20T05:55:03Z",
+  "topics": [
+    "agents",
+    "graph",
+    "llms",
+    "rag"
+  ],
+  "summaryZh": "Build Real-Time Knowledge Graphs for AI Agents 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 73,
+  "totalScore": 90
+}
