@@ -1,6 +1,6 @@
 {
   "slug": "holoviz-lumen",
-  "featuredDate": "2026-09-02",
+  "featuredDate": "2026-10-22",
   "fullName": "holoviz/lumen",
   "name": "lumen",
   "owner": "holoviz",
@@ -8,12 +8,12 @@
   "homepage": "https://lumen.holoviz.org",
   "description": "Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports.",
   "language": "Python",
-  "stars": 310,
-  "forks": 45,
-  "openIssues": 178,
+  "stars": 318,
+  "forks": 59,
+  "openIssues": 208,
   "createdAt": "2020-05-06T17:25:16Z",
-  "updatedAt": "2026-09-02T05:39:33Z",
-  "pushedAt": "2026-09-02T05:39:02Z",
+  "updatedAt": "2026-10-22T06:01:36Z",
+  "pushedAt": "2026-10-22T06:01:31Z",
   "topics": [
     "ai-agents",
     "conversational-ai",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 85,
+  "qualityScore": 86,
   "relevanceScore": 73,
-  "totalScore": 85
+  "totalScore": 86
 }

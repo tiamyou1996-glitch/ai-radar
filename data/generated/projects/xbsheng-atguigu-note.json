@@ -1,0 +1,39 @@
+{
+  "slug": "xbsheng-atguigu-note",
+  "featuredDate": "2026-10-22",
+  "fullName": "xbsheng/atguigu-note",
+  "name": "atguigu-note",
+  "owner": "xbsheng",
+  "repoUrl": "https://github.com/xbsheng/atguigu-note",
+  "homepage": "https://xbsheng.github.io/atguigu-note/",
+  "description": "AI 课程笔记：langchain / langgraph / python / vibe coding",
+  "language": "Jupyter Notebook",
+  "stars": 489,
+  "forks": 215,
+  "openIssues": 0,
+  "createdAt": "2026-07-31T22:44:26Z",
+  "updatedAt": "2026-10-22T06:01:27Z",
+  "pushedAt": "2026-10-22T06:01:23Z",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "atguigu",
+    "langchain",
+    "langgraph",
+    "python",
+    "vibe-coding"
+  ],
+  "summaryZh": "AI 课程笔记：langchain / langgraph / python / vibe coding 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 62,
+  "totalScore": 86
+}

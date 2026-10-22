@@ -1,6 +1,6 @@
 {
   "slug": "pixeltable-pixeltable",
-  "featuredDate": "2026-10-16",
+  "featuredDate": "2026-10-22",
   "fullName": "pixeltable/pixeltable",
   "name": "pixeltable",
   "owner": "pixeltable",
@@ -9,11 +9,11 @@
   "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
   "language": "Python",
   "stars": 1640,
-  "forks": 227,
-  "openIssues": 31,
+  "forks": 231,
+  "openIssues": 33,
   "createdAt": "2023-05-10T18:03:02Z",
-  "updatedAt": "2026-10-16T02:27:32Z",
-  "pushedAt": "2026-10-16T05:14:04Z",
+  "updatedAt": "2026-10-22T04:39:38Z",
+  "pushedAt": "2026-10-22T05:37:08Z",
   "topics": [
     "agents",
     "ai",
