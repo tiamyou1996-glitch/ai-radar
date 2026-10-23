@@ -1,0 +1,40 @@
+{
+  "slug": "swayingleaves-novanova-studio",
+  "featuredDate": "2026-10-23",
+  "fullName": "Swayingleaves/novanova-studio",
+  "name": "novanova-studio",
+  "owner": "Swayingleaves",
+  "repoUrl": "https://github.com/Swayingleaves/novanova-studio",
+  "homepage": "https://www.novanovastudio.cn/",
+  "description": "NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。",
+  "language": "Java",
+  "stars": 460,
+  "forks": 57,
+  "openIssues": 0,
+  "createdAt": "2026-07-22T10:28:58Z",
+  "updatedAt": "2026-10-23T05:56:08Z",
+  "pushedAt": "2026-10-23T05:56:03Z",
+  "topics": [
+    "agent",
+    "agentscope-java",
+    "image-generation-ai",
+    "infinite-canvas",
+    "open-source",
+    "springboot",
+    "video-generation",
+    "workflow"
+  ],
+  "summaryZh": "NovaNova Studio 是一个 Agent 驱动的 AI 创作工作台，集图片生成、视频生成、无限画布与多模型 API 、漫剧短剧生成于一体，为独立创作者和视觉团队打造更智能、更高效的创作体验。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Video",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 88
+}

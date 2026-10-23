@@ -1,6 +1,6 @@
 {
   "slug": "uzairansaruzi-hermex",
-  "featuredDate": "2026-07-04",
+  "featuredDate": "2026-10-23",
   "fullName": "uzairansaruzi/hermex",
   "name": "hermex",
   "owner": "uzairansaruzi",
@@ -8,12 +8,12 @@
   "homepage": "https://hermexapp.com/",
   "description": "Native iPhone app for your Hermes agent",
   "language": "Swift",
-  "stars": 460,
-  "forks": 52,
-  "openIssues": 33,
+  "stars": 1549,
+  "forks": 240,
+  "openIssues": 103,
   "createdAt": "2026-07-02T12:47:31Z",
-  "updatedAt": "2026-07-04T04:43:41Z",
-  "pushedAt": "2026-07-04T04:43:16Z",
+  "updatedAt": "2026-10-23T05:57:03Z",
+  "pushedAt": "2026-10-23T05:57:00Z",
   "topics": [
     "hermes",
     "hermes-agent",
@@ -33,7 +33,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 88,
+  "qualityScore": 94,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 89
 }
