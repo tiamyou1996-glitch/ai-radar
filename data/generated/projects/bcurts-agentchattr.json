@@ -1,0 +1,30 @@
+{
+  "slug": "bcurts-agentchattr",
+  "featuredDate": "2026-10-24",
+  "fullName": "bcurts/agentchattr",
+  "name": "agentchattr",
+  "owner": "bcurts",
+  "repoUrl": "https://github.com/bcurts/agentchattr",
+  "homepage": null,
+  "description": "Free, local chat where AI coding agents can tag each other, talk, and coordinate with you.",
+  "language": "Python",
+  "stars": 1558,
+  "forks": 239,
+  "openIssues": 15,
+  "createdAt": "2026-02-26T19:03:35Z",
+  "updatedAt": "2026-10-24T05:20:02Z",
+  "pushedAt": "2026-10-24T05:19:59Z",
+  "topics": [],
+  "summaryZh": "Free, local chat where AI coding agents can tag each other, talk, and coordinate with you. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

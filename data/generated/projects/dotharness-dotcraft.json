@@ -1,6 +1,6 @@
 {
   "slug": "dotharness-dotcraft",
-  "featuredDate": "2026-10-18",
+  "featuredDate": "2026-10-24",
   "fullName": "DotHarness/dotcraft",
   "name": "dotcraft",
   "owner": "DotHarness",
@@ -8,12 +8,12 @@
   "homepage": "https://www.dotcraft.net/",
   "description": "The agent harness for .NET: embeddable, extensible, remotely controllable and ready to use.",
   "language": "C#",
-  "stars": 404,
+  "stars": 406,
   "forks": 20,
   "openIssues": 4,
   "createdAt": "2026-05-28T12:24:06Z",
-  "updatedAt": "2026-10-18T05:40:35Z",
-  "pushedAt": "2026-10-18T05:40:35Z",
+  "updatedAt": "2026-10-24T05:40:08Z",
+  "pushedAt": "2026-10-24T05:40:04Z",
   "topics": [
     "agent",
     "coding-agents",

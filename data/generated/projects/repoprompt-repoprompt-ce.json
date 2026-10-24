@@ -1,6 +1,6 @@
 {
   "slug": "repoprompt-repoprompt-ce",
-  "featuredDate": "2026-10-16",
+  "featuredDate": "2026-10-24",
   "fullName": "repoprompt/repoprompt-ce",
   "name": "repoprompt-ce",
   "owner": "repoprompt",
@@ -8,12 +8,12 @@
   "homepage": "https://repoprompt.com",
   "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
   "language": "Swift",
-  "stars": 959,
+  "stars": 966,
   "forks": 131,
   "openIssues": 202,
   "createdAt": "2026-05-12T19:44:16Z",
-  "updatedAt": "2026-10-16T05:37:30Z",
-  "pushedAt": "2026-10-16T05:37:25Z",
+  "updatedAt": "2026-10-24T05:35:32Z",
+  "pushedAt": "2026-10-24T05:35:27Z",
   "topics": [
     "ai-agents",
     "coding-agents",
