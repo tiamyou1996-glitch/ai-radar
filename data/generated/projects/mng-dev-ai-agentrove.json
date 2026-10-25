@@ -1,0 +1,42 @@
+{
+  "slug": "mng-dev-ai-agentrove",
+  "featuredDate": "2026-10-25",
+  "fullName": "Mng-dev-ai/agentrove",
+  "name": "agentrove",
+  "owner": "Mng-dev-ai",
+  "repoUrl": "https://github.com/Mng-dev-ai/agentrove",
+  "homepage": null,
+  "description": "Self-hosted AI coding workspace to run and orchestrate Claude Code, Codex, Copilot, Cursor, Grok and OpenCode agents — multi-agent workflows, personas, and ACP-powered sandboxes",
+  "language": "TypeScript",
+  "stars": 340,
+  "forks": 65,
+  "openIssues": 0,
+  "createdAt": "2025-12-15T00:46:56Z",
+  "updatedAt": "2026-10-25T05:41:01Z",
+  "pushedAt": "2026-10-25T05:40:56Z",
+  "topics": [
+    "acp",
+    "agent",
+    "claude-code",
+    "codex",
+    "copilot",
+    "cursor",
+    "git",
+    "grok",
+    "opencode",
+    "sandbox",
+    "workspace"
+  ],
+  "summaryZh": "Self-hosted AI coding workspace to run and orchestrate Claude Code, Codex, Copilot, Cursor, Grok and OpenCode agents — multi-agent workflows, personas, and ACP-powered sandboxes 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 83,
+  "relevanceScore": 62,
+  "totalScore": 82
+}

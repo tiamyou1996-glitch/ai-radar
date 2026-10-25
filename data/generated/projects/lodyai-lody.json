@@ -1,6 +1,6 @@
 {
   "slug": "lodyai-lody",
-  "featuredDate": "2026-10-01",
+  "featuredDate": "2026-10-25",
   "fullName": "LodyAI/Lody",
   "name": "Lody",
   "owner": "LodyAI",
@@ -8,12 +8,12 @@
   "homepage": "https://lody.ai",
   "description": "Share coding agents with your team on phone and desktop",
   "language": "TypeScript",
-  "stars": 1160,
-  "forks": 133,
-  "openIssues": 150,
+  "stars": 1558,
+  "forks": 160,
+  "openIssues": 248,
   "createdAt": "2026-08-07T02:09:16Z",
-  "updatedAt": "2026-10-01T07:03:29Z",
-  "pushedAt": "2026-10-01T07:03:27Z",
+  "updatedAt": "2026-10-25T05:55:45Z",
+  "pushedAt": "2026-10-25T05:55:11Z",
   "topics": [
     "agent",
     "agentic-workflow",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 93,
+  "qualityScore": 95,
   "relevanceScore": 62,
-  "totalScore": 88
+  "totalScore": 89
 }

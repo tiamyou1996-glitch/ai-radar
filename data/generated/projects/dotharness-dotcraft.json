@@ -1,6 +1,6 @@
 {
   "slug": "dotharness-dotcraft",
-  "featuredDate": "2026-10-24",
+  "featuredDate": "2026-10-25",
   "fullName": "DotHarness/dotcraft",
   "name": "dotcraft",
   "owner": "DotHarness",
@@ -12,8 +12,8 @@
   "forks": 20,
   "openIssues": 4,
   "createdAt": "2026-05-28T12:24:06Z",
-  "updatedAt": "2026-10-24T05:40:08Z",
-  "pushedAt": "2026-10-24T05:40:04Z",
+  "updatedAt": "2026-10-25T05:55:55Z",
+  "pushedAt": "2026-10-25T05:55:52Z",
   "topics": [
     "agent",
     "coding-agents",

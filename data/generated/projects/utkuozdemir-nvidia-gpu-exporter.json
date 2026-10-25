@@ -1,6 +1,6 @@
 {
   "slug": "utkuozdemir-nvidia-gpu-exporter",
-  "featuredDate": "2026-10-22",
+  "featuredDate": "2026-10-25",
   "fullName": "utkuozdemir/nvidia_gpu_exporter",
   "name": "nvidia_gpu_exporter",
   "owner": "utkuozdemir",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML",
   "language": "Go",
-  "stars": 1570,
+  "stars": 1572,
   "forks": 155,
   "openIssues": 8,
   "createdAt": "2021-06-08T22:42:30Z",
-  "updatedAt": "2026-10-22T06:01:45Z",
-  "pushedAt": "2026-10-22T06:01:41Z",
+  "updatedAt": "2026-10-25T05:26:28Z",
+  "pushedAt": "2026-10-25T05:26:46Z",
   "topics": [
     "ai",
     "cryptocurrency",

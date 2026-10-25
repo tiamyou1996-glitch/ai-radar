@@ -1,0 +1,39 @@
+{
+  "slug": "godiao-dreamcoder",
+  "featuredDate": "2026-10-25",
+  "fullName": "GoDiao/dreamcoder",
+  "name": "dreamcoder",
+  "owner": "GoDiao",
+  "repoUrl": "https://github.com/GoDiao/dreamcoder",
+  "homepage": "https://godiao.github.io/dreamcoder/",
+  "description": "A locally run, multi-provider AI coding workspace · 本地运行、支持多家模型服务商的 AI 编程工作台",
+  "language": "TypeScript",
+  "stars": 501,
+  "forks": 64,
+  "openIssues": 34,
+  "createdAt": "2026-05-26T15:26:35Z",
+  "updatedAt": "2026-10-25T05:45:45Z",
+  "pushedAt": "2026-10-25T05:45:47Z",
+  "topics": [
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "desktop-app",
+    "llm",
+    "tauri"
+  ],
+  "summaryZh": "A locally run, multi-provider AI coding workspace · 本地运行、支持多家模型服务商的 AI 编程工作台 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 88
+}
