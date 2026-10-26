@@ -1,6 +1,6 @@
 {
   "slug": "xllm-ai-xllm",
-  "featuredDate": "2026-10-25",
+  "featuredDate": "2026-10-26",
   "fullName": "xLLM-AI/xllm",
   "name": "xllm",
   "owner": "xLLM-AI",
@@ -9,11 +9,11 @@
   "description": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
   "language": "C++",
   "stars": 1604,
-  "forks": 316,
-  "openIssues": 226,
+  "forks": 317,
+  "openIssues": 229,
   "createdAt": "2025-08-12T13:16:07Z",
-  "updatedAt": "2026-10-25T04:43:56Z",
-  "pushedAt": "2026-10-25T04:43:52Z",
+  "updatedAt": "2026-10-26T05:37:58Z",
+  "pushedAt": "2026-10-26T05:37:53Z",
   "topics": [
     "deepseek",
     "glm",
