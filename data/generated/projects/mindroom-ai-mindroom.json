@@ -1,0 +1,39 @@
+{
+  "slug": "mindroom-ai-mindroom",
+  "featuredDate": "2026-10-27",
+  "fullName": "mindroom-ai/mindroom",
+  "name": "mindroom",
+  "owner": "mindroom-ai",
+  "repoUrl": "https://github.com/mindroom-ai/mindroom",
+  "homepage": "https://mindroom.chat",
+  "description": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
+  "language": "Python",
+  "stars": 351,
+  "forks": 23,
+  "openIssues": 61,
+  "createdAt": "2026-01-19T23:06:18Z",
+  "updatedAt": "2026-10-27T06:10:14Z",
+  "pushedAt": "2026-10-27T06:10:11Z",
+  "topics": [
+    "ai-agents",
+    "assistant",
+    "chat",
+    "llm",
+    "local-llm",
+    "matrix",
+    "mcp",
+    "self-hosted"
+  ],
+  "summaryZh": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 86,
+  "relevanceScore": 62,
+  "totalScore": 83
+}

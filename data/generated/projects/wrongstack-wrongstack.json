@@ -1,6 +1,6 @@
 {
   "slug": "wrongstack-wrongstack",
-  "featuredDate": "2026-10-16",
+  "featuredDate": "2026-10-27",
   "fullName": "WrongStack/WrongStack",
   "name": "WrongStack",
   "owner": "WrongStack",
@@ -8,12 +8,12 @@
   "homepage": "https://wrongstack.com/",
   "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission.",
   "language": "TypeScript",
-  "stars": 376,
-  "forks": 40,
-  "openIssues": 9,
+  "stars": 393,
+  "forks": 43,
+  "openIssues": 2,
   "createdAt": "2026-05-12T23:57:23Z",
-  "updatedAt": "2026-10-16T05:35:27Z",
-  "pushedAt": "2026-10-16T05:35:22Z",
+  "updatedAt": "2026-10-27T05:59:16Z",
+  "pushedAt": "2026-10-27T05:59:11Z",
   "topics": [
     "agentic-ai",
     "ai-agents",
@@ -32,7 +32,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
+  "qualityScore": 87,
   "relevanceScore": 69,
-  "totalScore": 87
+  "totalScore": 88
 }
