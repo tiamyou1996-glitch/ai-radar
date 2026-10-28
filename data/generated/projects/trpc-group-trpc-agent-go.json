@@ -1,6 +1,6 @@
 {
   "slug": "trpc-group-trpc-agent-go",
-  "featuredDate": "2026-08-20",
+  "featuredDate": "2026-10-28",
   "fullName": "trpc-group/trpc-agent-go",
   "name": "trpc-agent-go",
   "owner": "trpc-group",
@@ -8,12 +8,12 @@
   "homepage": "https://trpc-group.github.io/trpc-agent-go/",
   "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
   "language": "Go",
-  "stars": 1707,
-  "forks": 292,
-  "openIssues": 95,
+  "stars": 1879,
+  "forks": 331,
+  "openIssues": 173,
   "createdAt": "2025-05-14T13:51:35Z",
-  "updatedAt": "2026-08-20T02:11:20Z",
-  "pushedAt": "2026-08-20T02:10:58Z",
+  "updatedAt": "2026-10-28T06:41:58Z",
+  "pushedAt": "2026-10-28T06:41:52Z",
   "topics": [
     "a2a",
     "a2a-protocol",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 73,
   "totalScore": 89
 }

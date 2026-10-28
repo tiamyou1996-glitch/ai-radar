@@ -1,19 +1,19 @@
 {
   "slug": "chrisryugj-kordoc",
-  "featuredDate": "2026-10-14",
+  "featuredDate": "2026-10-28",
   "fullName": "chrisryugj/kordoc",
   "name": "kordoc",
   "owner": "chrisryugj",
   "repoUrl": "https://github.com/chrisryugj/kordoc",
-  "homepage": "https://www.npmjs.com/package/kordoc",
+  "homepage": "https://pubax.org/kordoc/",
   "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 | Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
   "language": "TypeScript",
-  "stars": 2440,
-  "forks": 450,
+  "stars": 2818,
+  "forks": 505,
   "openIssues": 1,
   "createdAt": "2026-03-28T08:33:25Z",
-  "updatedAt": "2026-10-14T05:59:09Z",
-  "pushedAt": "2026-10-14T05:59:05Z",
+  "updatedAt": "2026-10-28T06:36:15Z",
+  "pushedAt": "2026-10-28T06:36:10Z",
   "topics": [
     "cli",
     "document-conversion",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 87
+  "totalScore": 88
 }

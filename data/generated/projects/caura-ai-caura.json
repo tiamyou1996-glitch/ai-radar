@@ -1,6 +1,6 @@
 {
   "slug": "caura-ai-caura",
-  "featuredDate": "2026-10-06",
+  "featuredDate": "2026-10-28",
   "fullName": "caura-ai/caura",
   "name": "caura",
   "owner": "caura-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://caura.ai",
   "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
   "language": "Python",
-  "stars": 543,
-  "forks": 89,
-  "openIssues": 60,
+  "stars": 512,
+  "forks": 108,
+  "openIssues": 45,
   "createdAt": "2026-04-27T15:02:58Z",
-  "updatedAt": "2026-10-06T07:22:08Z",
-  "pushedAt": "2026-10-06T07:24:39Z",
+  "updatedAt": "2026-10-28T06:47:14Z",
+  "pushedAt": "2026-10-28T06:47:31Z",
   "topics": [
     "agent-memory",
     "agentic-ai",
@@ -40,8 +40,8 @@
     "Infra"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 89,
+  "trendScore": 92,
+  "qualityScore": 88,
   "relevanceScore": 77,
-  "totalScore": 90
+  "totalScore": 87
 }

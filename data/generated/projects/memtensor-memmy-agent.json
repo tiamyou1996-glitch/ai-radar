@@ -1,6 +1,6 @@
 {
   "slug": "memtensor-memmy-agent",
-  "featuredDate": "2026-08-17",
+  "featuredDate": "2026-10-28",
   "fullName": "MemTensor/memmy-agent",
   "name": "memmy-agent",
   "owner": "MemTensor",
@@ -8,16 +8,15 @@
   "homepage": "https://memmy.bot",
   "description": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
   "language": "TypeScript",
-  "stars": 669,
-  "forks": 74,
-  "openIssues": 2,
+  "stars": 2150,
+  "forks": 212,
+  "openIssues": 55,
   "createdAt": "2026-07-16T07:57:45Z",
-  "updatedAt": "2026-08-17T02:16:25Z",
-  "pushedAt": "2026-08-17T02:16:11Z",
+  "updatedAt": "2026-10-28T06:46:24Z",
+  "pushedAt": "2026-10-28T06:46:19Z",
   "topics": [
     "agent",
     "agentic-ai",
-    "ai",
     "ai-agents",
     "chatgpt",
     "claude-code",
@@ -26,6 +25,7 @@
     "cursor",
     "desktop-app",
     "desktop-pet",
+    "dsh-plugin",
     "hermes-agent",
     "llm",
     "long-term-memory",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 96,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 91
 }
