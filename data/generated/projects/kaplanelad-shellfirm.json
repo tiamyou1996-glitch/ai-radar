@@ -1,0 +1,42 @@
+{
+  "slug": "kaplanelad-shellfirm",
+  "featuredDate": "2026-10-29",
+  "fullName": "kaplanelad/shellfirm",
+  "name": "shellfirm",
+  "owner": "kaplanelad",
+  "repoUrl": "https://github.com/kaplanelad/shellfirm",
+  "homepage": "https://shellfirm.vercel.app/",
+  "description": "Safety guardrails for ai coding agents and human terminal commands",
+  "language": "Rust",
+  "stars": 950,
+  "forks": 33,
+  "openIssues": 1,
+  "createdAt": "2021-12-24T19:00:12Z",
+  "updatedAt": "2026-10-29T06:54:34Z",
+  "pushedAt": "2026-10-29T06:56:02Z",
+  "topics": [
+    "agent",
+    "ai",
+    "captcha",
+    "devops",
+    "devops-tools",
+    "mcp",
+    "prompt",
+    "rust",
+    "shell",
+    "terminal",
+    "zsh"
+  ],
+  "summaryZh": "Safety guardrails for ai coding agents and human terminal commands 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

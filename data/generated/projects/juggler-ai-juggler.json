@@ -1,0 +1,36 @@
+{
+  "slug": "juggler-ai-juggler",
+  "featuredDate": "2026-10-29",
+  "fullName": "juggler-ai/juggler",
+  "name": "juggler",
+  "owner": "juggler-ai",
+  "repoUrl": "https://github.com/juggler-ai/juggler",
+  "homepage": "https://juggler.studio",
+  "description": "The Juggler Code Agent",
+  "language": "JavaScript",
+  "stars": 812,
+  "forks": 55,
+  "openIssues": 10,
+  "createdAt": "2026-06-19T08:33:59Z",
+  "updatedAt": "2026-10-29T06:56:55Z",
+  "pushedAt": "2026-10-29T06:56:48Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "coding-assistant"
+  ],
+  "summaryZh": "The Juggler Code Agent 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 91,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

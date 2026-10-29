@@ -1,6 +1,6 @@
 {
   "slug": "liliu-z-stashbase",
-  "featuredDate": "2026-10-12",
+  "featuredDate": "2026-10-29",
   "fullName": "liliu-z/stashbase",
   "name": "stashbase",
   "owner": "liliu-z",
@@ -8,12 +8,12 @@
   "homepage": "https://stashbase.ai",
   "description": "An open-source, local-first writing workspace where you can write with Claude Code and Codex, drawing on your own sources and past work.",
   "language": "TypeScript",
-  "stars": 987,
-  "forks": 31,
-  "openIssues": 8,
+  "stars": 1186,
+  "forks": 36,
+  "openIssues": 4,
   "createdAt": "2026-05-19T05:21:06Z",
-  "updatedAt": "2026-10-12T07:14:40Z",
-  "pushedAt": "2026-10-12T07:14:45Z",
+  "updatedAt": "2026-10-29T06:43:34Z",
+  "pushedAt": "2026-10-29T06:43:30Z",
   "topics": [
     "ai-agents",
     "document-search",
@@ -38,7 +38,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 91
 }
