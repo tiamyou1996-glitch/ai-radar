@@ -1,6 +1,6 @@
 {
   "slug": "spec-kitty-spec-kitty",
-  "featuredDate": "2026-10-29",
+  "featuredDate": "2026-10-30",
   "fullName": "spec-kitty/spec-kitty",
   "name": "spec-kitty",
   "owner": "spec-kitty",
@@ -9,11 +9,11 @@
   "description": "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering standards across AI coding agents and harnesses.",
   "language": "Python",
   "stars": 1709,
-  "forks": 190,
-  "openIssues": 1058,
+  "forks": 191,
+  "openIssues": 1043,
   "createdAt": "2025-10-09T12:29:47Z",
-  "updatedAt": "2026-10-29T06:52:28Z",
-  "pushedAt": "2026-10-29T06:53:53Z",
+  "updatedAt": "2026-10-30T06:58:14Z",
+  "pushedAt": "2026-10-30T06:59:23Z",
   "topics": [
     "agentic-coding",
     "ai-agents",

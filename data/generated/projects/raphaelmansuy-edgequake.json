@@ -1,6 +1,6 @@
 {
   "slug": "raphaelmansuy-edgequake",
-  "featuredDate": "2026-06-09",
+  "featuredDate": "2026-10-30",
   "fullName": "raphaelmansuy/edgequake",
   "name": "edgequake",
   "owner": "raphaelmansuy",
@@ -8,12 +8,12 @@
   "homepage": "https://edgequake.com",
   "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
   "language": "Rust",
-  "stars": 2000,
-  "forks": 229,
-  "openIssues": 14,
+  "stars": 2291,
+  "forks": 274,
+  "openIssues": 33,
   "createdAt": "2025-12-21T11:19:52Z",
-  "updatedAt": "2026-06-09T05:06:14Z",
-  "pushedAt": "2026-06-09T05:06:11Z",
+  "updatedAt": "2026-10-30T06:48:57Z",
+  "pushedAt": "2026-10-30T06:48:51Z",
   "topics": [
     "graphrag",
     "knowledge-graph",
@@ -28,8 +28,8 @@
     "Image"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 96,
+  "trendScore": 92,
+  "qualityScore": 97,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 87
 }
