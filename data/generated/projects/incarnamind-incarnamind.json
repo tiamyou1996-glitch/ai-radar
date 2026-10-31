@@ -1,6 +1,6 @@
 {
   "slug": "incarnamind-incarnamind",
-  "featuredDate": "2026-10-27",
+  "featuredDate": "2026-10-31",
   "fullName": "IncarnaMind/IncarnaMind",
   "name": "IncarnaMind",
   "owner": "IncarnaMind",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 847,
   "forks": 60,
-  "openIssues": 332,
+  "openIssues": 289,
   "createdAt": "2023-08-25T14:13:15Z",
-  "updatedAt": "2026-10-27T06:05:43Z",
-  "pushedAt": "2026-10-27T06:07:56Z",
+  "updatedAt": "2026-10-31T06:43:20Z",
+  "pushedAt": "2026-10-31T06:47:05Z",
   "topics": [
     "ai-assistant",
     "chat-with-pdf",

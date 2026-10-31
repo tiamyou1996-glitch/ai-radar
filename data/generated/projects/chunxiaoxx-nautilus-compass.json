@@ -1,6 +1,6 @@
 {
   "slug": "chunxiaoxx-nautilus-compass",
-  "featuredDate": "2026-10-30",
+  "featuredDate": "2026-10-31",
   "fullName": "chunxiaoxx/nautilus-compass",
   "name": "nautilus-compass",
   "owner": "chunxiaoxx",
@@ -12,8 +12,8 @@
   "forks": 35,
   "openIssues": 33,
   "createdAt": "2026-04-27T18:20:31Z",
-  "updatedAt": "2026-10-30T06:56:35Z",
-  "pushedAt": "2026-10-30T06:56:30Z",
+  "updatedAt": "2026-10-31T06:54:57Z",
+  "pushedAt": "2026-10-31T06:54:53Z",
   "topics": [
     "a2a",
     "agent-memory",

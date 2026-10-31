@@ -1,6 +1,6 @@
 {
   "slug": "elie222-rakazo",
-  "featuredDate": "2026-09-04",
+  "featuredDate": "2026-10-31",
   "fullName": "elie222/rakazo",
   "name": "rakazo",
   "owner": "elie222",
@@ -8,12 +8,12 @@
   "homepage": "https://rakazo.com",
   "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
   "language": "TypeScript",
-  "stars": 1884,
-  "forks": 320,
-  "openIssues": 57,
+  "stars": 6390,
+  "forks": 1132,
+  "openIssues": 78,
   "createdAt": "2026-08-13T06:28:56Z",
-  "updatedAt": "2026-09-04T05:47:07Z",
-  "pushedAt": "2026-09-04T05:49:05Z",
+  "updatedAt": "2026-10-31T06:53:50Z",
+  "pushedAt": "2026-10-31T06:53:45Z",
   "topics": [
     "ai-agents",
     "chatgpt",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 62,
-  "totalScore": 89
+  "totalScore": 90
 }

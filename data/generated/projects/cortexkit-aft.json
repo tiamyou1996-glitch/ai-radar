@@ -1,6 +1,6 @@
 {
   "slug": "cortexkit-aft",
-  "featuredDate": "2026-10-27",
+  "featuredDate": "2026-10-31",
   "fullName": "cortexkit/aft",
   "name": "aft",
   "owner": "cortexkit",
@@ -9,11 +9,11 @@
   "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.",
   "language": "Rust",
   "stars": 333,
-  "forks": 44,
-  "openIssues": 91,
+  "forks": 45,
+  "openIssues": 61,
   "createdAt": "2026-03-15T14:10:55Z",
-  "updatedAt": "2026-10-27T06:03:31Z",
-  "pushedAt": "2026-10-27T06:10:55Z",
+  "updatedAt": "2026-10-31T06:54:29Z",
+  "pushedAt": "2026-10-31T06:54:26Z",
   "topics": [
     "agent-framework",
     "ai",

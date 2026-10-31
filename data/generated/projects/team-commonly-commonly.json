@@ -1,19 +1,19 @@
 {
   "slug": "team-commonly-commonly",
-  "featuredDate": "2026-07-04",
+  "featuredDate": "2026-10-31",
   "fullName": "Team-Commonly/commonly",
   "name": "commonly",
   "owner": "Team-Commonly",
   "repoUrl": "https://github.com/Team-Commonly/commonly",
   "homepage": "https://commonly.me",
-  "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees.",
+  "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable.",
   "language": "TypeScript",
-  "stars": 1023,
-  "forks": 149,
-  "openIssues": 33,
+  "stars": 1374,
+  "forks": 189,
+  "openIssues": 209,
   "createdAt": "2025-02-03T02:13:30Z",
-  "updatedAt": "2026-07-04T04:37:29Z",
-  "pushedAt": "2026-07-04T04:37:26Z",
+  "updatedAt": "2026-10-31T06:54:17Z",
+  "pushedAt": "2026-10-31T06:54:14Z",
   "topics": [
     "agent-framework",
     "agent-harness",
@@ -35,17 +35,17 @@
     "openclaw",
     "self-hosted"
   ],
-  "summaryZh": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source (Apache-2.0), self-hostable. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
     "Coding",
-    "Infra"
+    "Model"
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 92,
-  "relevanceScore": 73,
+  "qualityScore": 94,
+  "relevanceScore": 69,
   "totalScore": 88
 }
