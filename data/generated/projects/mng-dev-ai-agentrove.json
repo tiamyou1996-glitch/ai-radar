@@ -1,6 +1,6 @@
 {
   "slug": "mng-dev-ai-agentrove",
-  "featuredDate": "2026-10-25",
+  "featuredDate": "2026-11-01",
   "fullName": "Mng-dev-ai/agentrove",
   "name": "agentrove",
   "owner": "Mng-dev-ai",
@@ -9,11 +9,11 @@
   "description": "Self-hosted AI coding workspace to run and orchestrate Claude Code, Codex, Copilot, Cursor, Grok and OpenCode agents — multi-agent workflows, personas, and ACP-powered sandboxes",
   "language": "TypeScript",
   "stars": 340,
-  "forks": 65,
-  "openIssues": 0,
+  "forks": 66,
+  "openIssues": 1,
   "createdAt": "2025-12-15T00:46:56Z",
-  "updatedAt": "2026-10-25T05:41:01Z",
-  "pushedAt": "2026-10-25T05:40:56Z",
+  "updatedAt": "2026-11-01T07:15:53Z",
+  "pushedAt": "2026-11-01T07:15:49Z",
   "topics": [
     "acp",
     "agent",

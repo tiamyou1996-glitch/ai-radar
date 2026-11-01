@@ -1,0 +1,41 @@
+{
+  "slug": "afiaka87-clip-guided-diffusion",
+  "featuredDate": "2026-11-01",
+  "fullName": "afiaka87/clip-guided-diffusion",
+  "name": "clip-guided-diffusion",
+  "owner": "afiaka87",
+  "repoUrl": "https://github.com/afiaka87/clip-guided-diffusion",
+  "homepage": null,
+  "description": "A CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI.",
+  "language": "Python",
+  "stars": 459,
+  "forks": 61,
+  "openIssues": 10,
+  "createdAt": "2021-07-21T02:04:09Z",
+  "updatedAt": "2026-11-01T05:20:34Z",
+  "pushedAt": "2026-11-01T05:20:29Z",
+  "topics": [
+    "artificial-intelligence",
+    "deep-learning",
+    "diffusion",
+    "image-generation",
+    "multimodal",
+    "multimodality",
+    "openai",
+    "openai-clip",
+    "text-to-image",
+    "text-to-image-synthesis"
+  ],
+  "summaryZh": "A CLI tool/python module for generating images from text using guided diffusion and CLIP from OpenAI. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
+  "tags": [
+    "Vision",
+    "Image"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 85,
+  "relevanceScore": 58,
+  "totalScore": 82
+}
