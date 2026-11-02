@@ -1,6 +1,6 @@
 {
   "slug": "bytechefhq-bytechef",
-  "featuredDate": "2026-10-31",
+  "featuredDate": "2026-11-02",
   "fullName": "bytechefhq/bytechef",
   "name": "bytechef",
   "owner": "bytechefhq",
@@ -9,11 +9,11 @@
   "description": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
   "language": "Java",
   "stars": 1052,
-  "forks": 181,
-  "openIssues": 532,
+  "forks": 179,
+  "openIssues": 525,
   "createdAt": "2021-09-30T03:39:20Z",
-  "updatedAt": "2026-10-31T06:53:41Z",
-  "pushedAt": "2026-10-31T06:53:39Z",
+  "updatedAt": "2026-11-02T07:36:02Z",
+  "pushedAt": "2026-11-02T07:36:00Z",
   "topics": [
     "ai",
     "ai-agents",

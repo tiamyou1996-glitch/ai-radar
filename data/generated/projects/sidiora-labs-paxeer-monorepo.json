@@ -1,6 +1,6 @@
 {
   "slug": "sidiora-labs-paxeer-monorepo",
-  "featuredDate": "2026-11-01",
+  "featuredDate": "2026-11-02",
   "fullName": "Sidiora-Labs/paxeer-monorepo",
   "name": "paxeer-monorepo",
   "owner": "Sidiora-Labs",
@@ -9,11 +9,11 @@
   "description": "Paxeer X is a Distributed HyperState Machine for payments, code execution and intent routing. Designed for Machines and the Users operating them. ",
   "language": "Go",
   "stars": 544,
-  "forks": 84,
-  "openIssues": 203,
+  "forks": 85,
+  "openIssues": 116,
   "createdAt": "2026-08-14T19:56:00Z",
-  "updatedAt": "2026-11-01T07:22:54Z",
-  "pushedAt": "2026-11-01T07:22:50Z",
+  "updatedAt": "2026-11-02T07:34:22Z",
+  "pushedAt": "2026-11-02T07:36:28Z",
   "topics": [
     "agent",
     "agent-client-protocol",

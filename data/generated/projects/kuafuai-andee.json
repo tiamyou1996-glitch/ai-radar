@@ -1,0 +1,39 @@
+{
+  "slug": "kuafuai-andee",
+  "featuredDate": "2026-11-02",
+  "fullName": "kuafuai/andee",
+  "name": "andee",
+  "owner": "kuafuai",
+  "repoUrl": "https://github.com/kuafuai/andee",
+  "homepage": "https://heyandee.com",
+  "description": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。",
+  "language": "Kotlin",
+  "stars": 3410,
+  "forks": 221,
+  "openIssues": 13,
+  "createdAt": "2026-09-17T13:20:59Z",
+  "updatedAt": "2026-11-02T07:36:22Z",
+  "pushedAt": "2026-11-02T07:36:17Z",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "android-automation",
+    "mobile-agents",
+    "personal-agent",
+    "personal-ai",
+    "phone-automation"
+  ],
+  "summaryZh": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 90
+}
