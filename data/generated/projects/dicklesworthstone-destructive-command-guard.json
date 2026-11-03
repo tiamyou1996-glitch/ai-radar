@@ -1,0 +1,37 @@
+{
+  "slug": "dicklesworthstone-destructive-command-guard",
+  "featuredDate": "2026-11-03",
+  "fullName": "Dicklesworthstone/destructive_command_guard",
+  "name": "destructive_command_guard",
+  "owner": "Dicklesworthstone",
+  "repoUrl": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "homepage": null,
+  "description": "A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inline-script scanning, CI scan mode, and explain mode; works with Claude Code, Codex, Gemini, Copilot, Cursor, and more.",
+  "language": "Rust",
+  "stars": 6241,
+  "forks": 264,
+  "openIssues": 41,
+  "createdAt": "2026-01-07T22:27:34Z",
+  "updatedAt": "2026-11-03T07:34:37Z",
+  "pushedAt": "2026-11-03T07:34:34Z",
+  "topics": [
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "git",
+    "rust",
+    "safety"
+  ],
+  "summaryZh": "A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inline-script scanning, CI scan mode, and explain mode; works with Claude Code, Codex, Gemini, Copilot, Cursor, and more. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

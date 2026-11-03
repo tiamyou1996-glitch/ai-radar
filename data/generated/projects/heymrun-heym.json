@@ -1,6 +1,6 @@
 {
   "slug": "heymrun-heym",
-  "featuredDate": "2026-10-07",
+  "featuredDate": "2026-11-03",
   "fullName": "heymrun/heym",
   "name": "heym",
   "owner": "heymrun",
@@ -8,20 +8,21 @@
   "homepage": "https://heym.run",
   "description": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.",
   "language": "Python",
-  "stars": 1404,
-  "forks": 92,
-  "openIssues": 4,
+  "stars": 1282,
+  "forks": 99,
+  "openIssues": 2,
   "createdAt": "2026-03-28T08:08:49Z",
-  "updatedAt": "2026-10-07T07:07:16Z",
-  "pushedAt": "2026-10-07T07:07:10Z",
+  "updatedAt": "2026-11-03T07:38:18Z",
+  "pushedAt": "2026-11-03T07:38:14Z",
   "topics": [
+    "a2a",
+    "a2a-mcp",
+    "a2a-server",
     "agentic-ai",
     "ai-agents",
     "ai-agents-framework",
     "ai-assistant",
     "automation",
-    "automation-tool",
-    "autonomous-agents",
     "coding-agent",
     "evals",
     "human-in-the-loop",
@@ -33,8 +34,7 @@
     "no-code-automation",
     "rag",
     "self-hosted",
-    "workflow-automation",
-    "workflows"
+    "workflow-automation"
   ],
   "summaryZh": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 93,
   "relevanceScore": 73,
-  "totalScore": 89
+  "totalScore": 88
 }

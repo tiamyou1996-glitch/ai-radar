@@ -1,6 +1,6 @@
 {
   "slug": "yifanfeng97-hyper-extract",
-  "featuredDate": "2026-06-19",
+  "featuredDate": "2026-11-03",
   "fullName": "yifanfeng97/Hyper-Extract",
   "name": "Hyper-Extract",
   "owner": "yifanfeng97",
@@ -8,12 +8,12 @@
   "homepage": "https://yifanfeng97.github.io/Hyper-Extract/",
   "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
   "language": "Python",
-  "stars": 1869,
-  "forks": 210,
-  "openIssues": 1,
+  "stars": 4210,
+  "forks": 483,
+  "openIssues": 7,
   "createdAt": "2026-01-07T09:44:41Z",
-  "updatedAt": "2026-06-19T06:16:45Z",
-  "pushedAt": "2026-06-19T06:08:23Z",
+  "updatedAt": "2026-11-03T07:47:51Z",
+  "pushedAt": "2026-11-03T07:47:46Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,8 +35,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 96,
+  "trendScore": 92,
+  "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 92
+  "totalScore": 90
 }
