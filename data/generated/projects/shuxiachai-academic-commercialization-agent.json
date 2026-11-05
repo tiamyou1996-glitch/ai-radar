@@ -1,6 +1,6 @@
 {
   "slug": "shuxiachai-academic-commercialization-agent",
-  "featuredDate": "2026-10-21",
+  "featuredDate": "2026-11-05",
   "fullName": "shuxiachai/academic-commercialization-agent",
   "name": "academic-commercialization-agent",
   "owner": "shuxiachai",
@@ -8,12 +8,12 @@
   "homepage": "https://academic-commercialization-agent.up.railway.app",
   "description": "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark.",
   "language": "Python",
-  "stars": 647,
-  "forks": 85,
-  "openIssues": 6,
+  "stars": 808,
+  "forks": 97,
+  "openIssues": 7,
   "createdAt": "2026-06-25T07:43:09Z",
-  "updatedAt": "2026-10-21T05:48:33Z",
-  "pushedAt": "2026-10-21T05:48:32Z",
+  "updatedAt": "2026-11-05T07:42:06Z",
+  "pushedAt": "2026-11-05T07:51:55Z",
   "topics": [
     "academic-research",
     "ai-agent",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 91,
   "relevanceScore": 73,
   "totalScore": 90
 }

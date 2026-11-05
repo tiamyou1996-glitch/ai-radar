@@ -1,0 +1,39 @@
+{
+  "slug": "vladimirrott-mojo-dllm",
+  "featuredDate": "2026-11-05",
+  "fullName": "vladimirrott/mojo-dllm",
+  "name": "mojo-dllm",
+  "owner": "vladimirrott",
+  "repoUrl": "https://github.com/vladimirrott/mojo-dllm",
+  "homepage": "https://vladimirrott.github.io/mojo-dllm/",
+  "description": "Local inference for diffusion language models (LLaDA, Dream), written in Mojo",
+  "language": "Mojo",
+  "stars": 308,
+  "forks": 5,
+  "openIssues": 95,
+  "createdAt": "2026-10-04T00:51:39Z",
+  "updatedAt": "2026-11-05T07:44:16Z",
+  "pushedAt": "2026-11-05T07:49:34Z",
+  "topics": [
+    "cpu",
+    "diffusion-models",
+    "gguf",
+    "inference",
+    "llada",
+    "llm",
+    "mojo"
+  ],
+  "summaryZh": "Local inference for diffusion language models (LLaDA, Dream), written in Mojo 这是偏图像生成或图形工作流的项目，适合关注创作和视觉生产力。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Image",
+    "Infra",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 69,
+  "totalScore": 87
+}
