@@ -1,6 +1,6 @@
 {
   "slug": "probelabs-probe",
-  "featuredDate": "2026-06-03",
+  "featuredDate": "2026-11-06",
   "fullName": "probelabs/probe",
   "name": "probe",
   "owner": "probelabs",
@@ -8,12 +8,12 @@
   "homepage": "https://probelabs.com/probe",
   "description": "AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.",
   "language": "Rust",
-  "stars": 626,
+  "stars": 736,
   "forks": 63,
-  "openIssues": 14,
+  "openIssues": 27,
   "createdAt": "2025-03-05T16:09:15Z",
-  "updatedAt": "2026-06-03T06:06:30Z",
-  "pushedAt": "2026-06-03T06:06:42Z",
+  "updatedAt": "2026-11-06T07:45:22Z",
+  "pushedAt": "2026-11-06T07:45:23Z",
   "topics": [
     "ai",
     "ai-coder",
@@ -37,7 +37,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 62,
-  "totalScore": 84
+  "totalScore": 85
 }

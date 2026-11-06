@@ -1,6 +1,6 @@
 {
   "slug": "flashml-org-freevideo",
-  "featuredDate": "2026-10-07",
+  "featuredDate": "2026-11-06",
   "fullName": "FlashML-org/FreeVideo",
   "name": "FreeVideo",
   "owner": "FlashML-org",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
   "language": "Python",
-  "stars": 1146,
-  "forks": 107,
-  "openIssues": 25,
+  "stars": 2801,
+  "forks": 335,
+  "openIssues": 469,
   "createdAt": "2026-09-13T21:25:08Z",
-  "updatedAt": "2026-10-07T07:07:20Z",
-  "pushedAt": "2026-10-07T07:03:50Z",
+  "updatedAt": "2026-11-06T07:50:11Z",
+  "pushedAt": "2026-11-06T07:50:01Z",
   "topics": [
     "diffusion-models",
     "inference",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 90,
+  "qualityScore": 95,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 91
 }

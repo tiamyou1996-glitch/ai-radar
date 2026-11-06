@@ -1,0 +1,30 @@
+{
+  "slug": "hiroppy-tmux-agent-sidebar",
+  "featuredDate": "2026-11-06",
+  "fullName": "hiroppy/tmux-agent-sidebar",
+  "name": "tmux-agent-sidebar",
+  "owner": "hiroppy",
+  "repoUrl": "https://github.com/hiroppy/tmux-agent-sidebar",
+  "homepage": "https://hiroppy.github.io/tmux-agent-sidebar/",
+  "description": "A tmux sidebar that monitors AI coding agents across all windows and sessions in real-time",
+  "language": "Rust",
+  "stars": 563,
+  "forks": 90,
+  "openIssues": 57,
+  "createdAt": "2026-04-05T00:59:09Z",
+  "updatedAt": "2026-11-06T07:44:16Z",
+  "pushedAt": "2026-11-06T07:44:13Z",
+  "topics": [],
+  "summaryZh": "A tmux sidebar that monitors AI coding agents across all windows and sessions in real-time 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 89,
+  "relevanceScore": 62,
+  "totalScore": 84
+}

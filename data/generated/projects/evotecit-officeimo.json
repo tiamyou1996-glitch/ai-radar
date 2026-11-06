@@ -1,6 +1,6 @@
 {
   "slug": "evotecit-officeimo",
-  "featuredDate": "2026-09-22",
+  "featuredDate": "2026-11-06",
   "fullName": "EvotecIT/OfficeIMO",
   "name": "OfficeIMO",
   "owner": "EvotecIT",
@@ -8,12 +8,12 @@
   "homepage": "https://officeimo.com/",
   "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.",
   "language": "C#",
-  "stars": 555,
-  "forks": 75,
-  "openIssues": 8,
+  "stars": 661,
+  "forks": 82,
+  "openIssues": 3,
   "createdAt": "2021-12-22T07:54:02Z",
-  "updatedAt": "2026-09-22T05:41:18Z",
-  "pushedAt": "2026-09-22T05:52:16Z",
+  "updatedAt": "2026-11-06T07:48:36Z",
+  "pushedAt": "2026-11-06T07:48:31Z",
   "topics": [
     "aspose-alternative",
     "c-sharp",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 62,
-  "totalScore": 84
+  "totalScore": 85
 }
