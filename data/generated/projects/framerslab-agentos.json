@@ -1,6 +1,6 @@
 {
   "slug": "framerslab-agentos",
-  "featuredDate": "2026-11-03",
+  "featuredDate": "2026-11-07",
   "fullName": "framerslab/agentos",
   "name": "agentos",
   "owner": "framerslab",
@@ -9,11 +9,11 @@
   "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
   "language": "TypeScript",
   "stars": 684,
-  "forks": 101,
-  "openIssues": 12,
+  "forks": 103,
+  "openIssues": 13,
   "createdAt": "2025-10-28T04:35:14Z",
-  "updatedAt": "2026-11-03T07:47:47Z",
-  "pushedAt": "2026-11-03T07:49:24Z",
+  "updatedAt": "2026-11-07T06:58:01Z",
+  "pushedAt": "2026-11-07T06:59:34Z",
   "topics": [
     "agent-framework",
     "agent-memory",

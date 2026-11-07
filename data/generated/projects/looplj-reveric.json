@@ -1,0 +1,37 @@
+{
+  "slug": "looplj-reveric",
+  "featuredDate": "2026-11-07",
+  "fullName": "looplj/reveric",
+  "name": "reveric",
+  "owner": "looplj",
+  "repoUrl": "https://github.com/looplj/reveric",
+  "homepage": "https://reveric.app/",
+  "description": "Agent Native 一站式 AI 小说，短剧桌面创作工作台",
+  "language": "Dart",
+  "stars": 707,
+  "forks": 173,
+  "openIssues": 4,
+  "createdAt": "2026-10-22T16:20:15Z",
+  "updatedAt": "2026-11-07T06:59:06Z",
+  "pushedAt": "2026-11-07T06:59:04Z",
+  "topics": [
+    "agent",
+    "infinite-canvas",
+    "minimax-h3",
+    "novel",
+    "novel-writing",
+    "seedance",
+    "short-drama"
+  ],
+  "summaryZh": "Agent Native 一站式 AI 小说，短剧桌面创作工作台 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 90,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

@@ -1,6 +1,6 @@
 {
   "slug": "poco-ai-agentero",
-  "featuredDate": "2026-11-03",
+  "featuredDate": "2026-11-07",
   "fullName": "poco-ai/Agentero",
   "name": "Agentero",
   "owner": "poco-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://agentero.app",
   "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
   "language": "TypeScript",
-  "stars": 1074,
-  "forks": 83,
-  "openIssues": 69,
+  "stars": 1714,
+  "forks": 112,
+  "openIssues": 46,
   "createdAt": "2026-07-07T06:55:12Z",
-  "updatedAt": "2026-11-03T07:45:48Z",
-  "pushedAt": "2026-11-03T07:45:43Z",
+  "updatedAt": "2026-11-07T06:59:49Z",
+  "pushedAt": "2026-11-07T06:55:15Z",
   "topics": [
     "academic",
     "ai-agents",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 95,
   "relevanceScore": 73,
-  "totalScore": 90
+  "totalScore": 91
 }
