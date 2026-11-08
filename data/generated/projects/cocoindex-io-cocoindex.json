@@ -1,6 +1,6 @@
 {
   "slug": "cocoindex-io-cocoindex",
-  "featuredDate": "2026-11-07",
+  "featuredDate": "2026-11-08",
   "fullName": "cocoindex-io/cocoindex",
   "name": "cocoindex",
   "owner": "cocoindex-io",
@@ -9,11 +9,11 @@
   "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
   "language": "Rust",
   "stars": 11832,
-  "forks": 928,
-  "openIssues": 99,
+  "forks": 929,
+  "openIssues": 105,
   "createdAt": "2025-03-03T23:03:09Z",
-  "updatedAt": "2026-11-07T06:58:26Z",
-  "pushedAt": "2026-11-07T06:58:39Z",
+  "updatedAt": "2026-11-08T07:04:56Z",
+  "pushedAt": "2026-11-08T07:10:31Z",
   "topics": [
     "agentic-data-framework",
     "ai",

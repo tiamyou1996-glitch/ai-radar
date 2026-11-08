@@ -1,6 +1,6 @@
 {
   "slug": "xllm-ai-xllm",
-  "featuredDate": "2026-11-07",
+  "featuredDate": "2026-11-08",
   "fullName": "xLLM-AI/xllm",
   "name": "xllm",
   "owner": "xLLM-AI",
@@ -12,8 +12,8 @@
   "forks": 330,
   "openIssues": 246,
   "createdAt": "2025-08-12T13:16:07Z",
-  "updatedAt": "2026-11-07T06:41:28Z",
-  "pushedAt": "2026-11-07T06:41:23Z",
+  "updatedAt": "2026-11-08T05:33:16Z",
+  "pushedAt": "2026-11-08T05:33:11Z",
   "topics": [
     "deepseek",
     "glm",

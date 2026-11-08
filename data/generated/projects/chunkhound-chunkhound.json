@@ -1,0 +1,38 @@
+{
+  "slug": "chunkhound-chunkhound",
+  "featuredDate": "2026-11-08",
+  "fullName": "chunkhound/chunkhound",
+  "name": "chunkhound",
+  "owner": "chunkhound",
+  "repoUrl": "https://github.com/chunkhound/chunkhound",
+  "homepage": "https://chunkhound.ai",
+  "description": "Your entire engineering context, deeply understood",
+  "language": "Python",
+  "stars": 1460,
+  "forks": 157,
+  "openIssues": 113,
+  "createdAt": "2025-06-04T07:41:58Z",
+  "updatedAt": "2026-11-08T07:10:47Z",
+  "pushedAt": "2026-11-08T07:10:44Z",
+  "topics": [
+    "agent",
+    "ai",
+    "duckdb",
+    "mcp-server",
+    "rag",
+    "semantic-search",
+    "tree-sitter"
+  ],
+  "summaryZh": "Your entire engineering context, deeply understood 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "RAG"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 94,
+  "relevanceScore": 66,
+  "totalScore": 87
+}

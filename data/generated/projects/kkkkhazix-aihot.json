@@ -1,0 +1,42 @@
+{
+  "slug": "kkkkhazix-aihot",
+  "featuredDate": "2026-11-08",
+  "fullName": "KKKKhazix/AIHOT",
+  "name": "AIHOT",
+  "owner": "KKKKhazix",
+  "repoUrl": "https://github.com/KKKKhazix/AIHOT",
+  "homepage": "https://aihot.news",
+  "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+  "language": "TypeScript",
+  "stars": 9735,
+  "forks": 2282,
+  "openIssues": 0,
+  "createdAt": "2026-09-28T23:40:05Z",
+  "updatedAt": "2026-11-08T07:12:25Z",
+  "pushedAt": "2026-11-08T07:12:14Z",
+  "topics": [
+    "ai",
+    "chinese",
+    "content-curation",
+    "daily-digest",
+    "docker-compose",
+    "llm",
+    "mcp",
+    "news-aggregator",
+    "postgresql",
+    "rss",
+    "self-hosted",
+    "typescript"
+  ],
+  "summaryZh": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 51,
+  "totalScore": 88
+}

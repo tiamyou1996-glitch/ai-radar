@@ -1,6 +1,6 @@
 {
   "slug": "cbcoutinho-nextcloud-mcp-server",
-  "featuredDate": "2026-09-17",
+  "featuredDate": "2026-11-08",
   "fullName": "cbcoutinho/nextcloud-mcp-server",
   "name": "nextcloud-mcp-server",
   "owner": "cbcoutinho",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Nextcloud MCP Server",
   "language": "Python",
-  "stars": 359,
-  "forks": 73,
-  "openIssues": 69,
+  "stars": 406,
+  "forks": 95,
+  "openIssues": 100,
   "createdAt": "2025-05-04T21:25:13Z",
-  "updatedAt": "2026-09-17T05:50:49Z",
-  "pushedAt": "2026-09-17T05:50:47Z",
+  "updatedAt": "2026-11-08T07:07:17Z",
+  "pushedAt": "2026-11-08T07:07:14Z",
   "topics": [
     "mcp-server",
     "model-context-protocol",
@@ -31,7 +31,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 83,
+  "qualityScore": 84,
   "relevanceScore": 62,
-  "totalScore": 82
+  "totalScore": 83
 }
