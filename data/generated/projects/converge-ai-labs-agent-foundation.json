@@ -1,19 +1,19 @@
 {
   "slug": "converge-ai-labs-agent-foundation",
-  "featuredDate": "2026-11-03",
+  "featuredDate": "2026-11-09",
   "fullName": "converge-ai-labs/agent-foundation",
   "name": "agent-foundation",
   "owner": "converge-ai-labs",
   "repoUrl": "https://github.com/converge-ai-labs/agent-foundation",
   "homepage": "https://a13n.dev",
-  "description": "a13n - An open-source library and self-hosted platform for building and running your own agent systems—with managed agents, memory, sandboxes, computer use, and durable execution. Commercial Friendly. Built With Love 💜 @converge-ai-labs.",
+  "description": "a13n - Build, run, and manage AI agents at scale on your own infrastructure. Open source, with a built-in harness, durable execution, multi-provider support, and a management console. Built With Love 💜 @converge-ai-labs",
   "language": "Python",
-  "stars": 326,
-  "forks": 31,
-  "openIssues": 36,
+  "stars": 910,
+  "forks": 32,
+  "openIssues": 34,
   "createdAt": "2026-08-18T12:44:56Z",
-  "updatedAt": "2026-11-03T07:49:21Z",
-  "pushedAt": "2026-11-03T07:49:30Z",
+  "updatedAt": "2026-11-09T07:51:36Z",
+  "pushedAt": "2026-11-09T07:51:32Z",
   "topics": [
     "a13n",
     "agent",
@@ -21,15 +21,16 @@
     "managed-agents",
     "sign-in-with-chatgpt"
   ],
-  "summaryZh": "a13n - An open-source library and self-hosted platform for building and running your own agent systems—with managed agents, memory, sandboxes, computer use, and durable execution. Commercial Friendly. Built With Love 💜 @converge-ai-labs. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "a13n - Build, run, and manage AI agents at scale on your own infrastructure. Open source, with a built-in harness, durable execution, multi-provider support, and a management console. Built With Love 💜 @converge-ai-labs 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
-    "Agent"
+    "Agent",
+    "Infra"
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 86,
-  "relevanceScore": 55,
-  "totalScore": 84
+  "qualityScore": 91,
+  "relevanceScore": 66,
+  "totalScore": 88
 }

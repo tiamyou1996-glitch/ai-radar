@@ -1,0 +1,42 @@
+{
+  "slug": "wiziscool-oh-my-cpa",
+  "featuredDate": "2026-11-09",
+  "fullName": "WizisCool/oh-my-cpa",
+  "name": "oh-my-cpa",
+  "owner": "WizisCool",
+  "repoUrl": "https://github.com/WizisCool/oh-my-cpa",
+  "homepage": "https://omc-demo.junze.dev",
+  "description": "Self-hosted control plane & usage observability console for CLIProxyAPI (CPA) — AI providers, client keys, streaming telemetry, and model cost snapshots.",
+  "language": "Go",
+  "stars": 348,
+  "forks": 37,
+  "openIssues": 3,
+  "createdAt": "2026-09-12T10:27:41Z",
+  "updatedAt": "2026-11-09T07:50:52Z",
+  "pushedAt": "2026-11-09T07:50:49Z",
+  "topics": [
+    "ai-gateway",
+    "cliproxyapi",
+    "cpa",
+    "dashboard",
+    "golang",
+    "llm",
+    "observability",
+    "proxy",
+    "react",
+    "self-hosted",
+    "sqlite",
+    "telemetry"
+  ],
+  "summaryZh": "Self-hosted control plane & usage observability console for CLIProxyAPI (CPA) — AI providers, client keys, streaming telemetry, and model cost snapshots. 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 51,
+  "totalScore": 83
+}

@@ -1,6 +1,6 @@
 {
   "slug": "spec-kitty-spec-kitty",
-  "featuredDate": "2026-11-08",
+  "featuredDate": "2026-11-09",
   "fullName": "spec-kitty/spec-kitty",
   "name": "spec-kitty",
   "owner": "spec-kitty",
@@ -10,10 +10,10 @@
   "language": "Python",
   "stars": 1717,
   "forks": 194,
-  "openIssues": 1096,
+  "openIssues": 869,
   "createdAt": "2025-10-09T12:29:47Z",
-  "updatedAt": "2026-11-08T06:52:04Z",
-  "pushedAt": "2026-11-08T07:12:47Z",
+  "updatedAt": "2026-11-09T07:27:59Z",
+  "pushedAt": "2026-11-09T07:27:54Z",
   "topics": [
     "agentic-coding",
     "ai-agents",

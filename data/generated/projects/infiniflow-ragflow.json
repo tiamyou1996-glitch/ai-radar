@@ -1,6 +1,6 @@
 {
   "slug": "infiniflow-ragflow",
-  "featuredDate": "2026-11-04",
+  "featuredDate": "2026-11-09",
   "fullName": "infiniflow/ragflow",
   "name": "ragflow",
   "owner": "infiniflow",
@@ -8,12 +8,12 @@
   "homepage": "https://ragflow.io",
   "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
   "language": "Go",
-  "stars": 93467,
-  "forks": 11214,
-  "openIssues": 1305,
+  "stars": 93809,
+  "forks": 11268,
+  "openIssues": 1337,
   "createdAt": "2023-12-12T06:13:13Z",
-  "updatedAt": "2026-11-04T07:26:30Z",
-  "pushedAt": "2026-11-04T07:23:33Z",
+  "updatedAt": "2026-11-09T07:43:19Z",
+  "pushedAt": "2026-11-09T07:40:12Z",
   "topics": [
     "agent-harness",
     "agent-native-database",
@@ -29,6 +29,7 @@
     "knowledge-compilation",
     "rag",
     "retrieval-augmented-generation",
+    "retrieval-harness",
     "search-harness"
   ],
   "summaryZh": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",

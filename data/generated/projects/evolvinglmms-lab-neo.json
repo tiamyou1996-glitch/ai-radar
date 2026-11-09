@@ -1,6 +1,6 @@
 {
   "slug": "evolvinglmms-lab-neo",
-  "featuredDate": "2026-05-28",
+  "featuredDate": "2026-11-09",
   "fullName": "EvolvingLMMs-Lab/NEO",
   "name": "NEO",
   "owner": "EvolvingLMMs-Lab",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "NEO Series: Native Vision-Language Models from First Principles",
   "language": "Python",
-  "stars": 759,
-  "forks": 27,
-  "openIssues": 0,
+  "stars": 923,
+  "forks": 33,
+  "openIssues": 5,
   "createdAt": "2025-10-16T16:03:07Z",
-  "updatedAt": "2026-05-28T04:44:39Z",
-  "pushedAt": "2026-05-28T01:51:52Z",
+  "updatedAt": "2026-11-09T06:32:21Z",
+  "pushedAt": "2026-11-09T06:32:17Z",
   "topics": [
     "agi",
     "encoder-free-vlm",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 89,
   "relevanceScore": 65,
-  "totalScore": 84
+  "totalScore": 85
 }

@@ -1,6 +1,6 @@
 {
   "slug": "crmne-ruby-llm",
-  "featuredDate": "2026-11-08",
+  "featuredDate": "2026-11-09",
   "fullName": "crmne/ruby_llm",
   "name": "ruby_llm",
   "owner": "crmne",
@@ -10,10 +10,10 @@
   "language": "Ruby",
   "stars": 4498,
   "forks": 534,
-  "openIssues": 4,
+  "openIssues": 5,
   "createdAt": "2025-01-30T08:58:19Z",
-  "updatedAt": "2026-11-08T05:47:33Z",
-  "pushedAt": "2026-11-08T07:07:18Z",
+  "updatedAt": "2026-11-09T06:00:29Z",
+  "pushedAt": "2026-11-09T06:00:25Z",
   "topics": [
     "agent-framework",
     "agentic-ai",
