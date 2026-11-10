@@ -1,0 +1,42 @@
+{
+  "slug": "fainir-most-capable-agent-system-prompt",
+  "featuredDate": "2026-11-10",
+  "fullName": "fainir/most-capable-agent-system-prompt",
+  "name": "most-capable-agent-system-prompt",
+  "owner": "fainir",
+  "repoUrl": "https://github.com/fainir/most-capable-agent-system-prompt",
+  "homepage": null,
+  "description": "A copy-paste system prompt that has your coding agent (Claude Code, Codex, Cursor) build a self-improving agent system for any computer work.",
+  "language": null,
+  "stars": 885,
+  "forks": 129,
+  "openIssues": 0,
+  "createdAt": "2026-03-28T15:40:10Z",
+  "updatedAt": "2026-11-10T08:18:13Z",
+  "pushedAt": "2026-11-10T08:18:08Z",
+  "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "llm",
+    "prompt-engineering",
+    "self-improving-ai",
+    "system-prompt"
+  ],
+  "summaryZh": "A copy-paste system prompt that has your coding agent (Claude Code, Codex, Cursor) build a self-improving agent system for any computer work. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 88,
+  "relevanceScore": 69,
+  "totalScore": 86
+}

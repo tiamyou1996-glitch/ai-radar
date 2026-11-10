@@ -1,6 +1,6 @@
 {
   "slug": "sidiora-labs-paxeer-monorepo",
-  "featuredDate": "2026-11-09",
+  "featuredDate": "2026-11-10",
   "fullName": "Sidiora-Labs/paxeer-monorepo",
   "name": "paxeer-monorepo",
   "owner": "Sidiora-Labs",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 540,
   "forks": 82,
-  "openIssues": 284,
+  "openIssues": 206,
   "createdAt": "2026-08-14T19:56:00Z",
-  "updatedAt": "2026-11-09T07:51:26Z",
-  "pushedAt": "2026-11-09T07:52:56Z",
+  "updatedAt": "2026-11-10T08:18:00Z",
+  "pushedAt": "2026-11-10T08:17:53Z",
   "topics": [
     "agent",
     "agent-client-protocol",

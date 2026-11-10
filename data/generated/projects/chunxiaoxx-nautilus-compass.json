@@ -1,6 +1,6 @@
 {
   "slug": "chunxiaoxx-nautilus-compass",
-  "featuredDate": "2026-11-06",
+  "featuredDate": "2026-11-10",
   "fullName": "chunxiaoxx/nautilus-compass",
   "name": "nautilus-compass",
   "owner": "chunxiaoxx",
@@ -8,12 +8,12 @@
   "homepage": "https://compass.nautilus.social",
   "description": "Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchmark, preregistered criteria) — by Nautilus Platform",
   "language": "Python",
-  "stars": 1256,
+  "stars": 1257,
   "forks": 35,
   "openIssues": 33,
   "createdAt": "2026-04-27T18:20:31Z",
-  "updatedAt": "2026-11-06T07:51:46Z",
-  "pushedAt": "2026-11-06T07:51:42Z",
+  "updatedAt": "2026-11-10T08:12:17Z",
+  "pushedAt": "2026-11-10T08:12:11Z",
   "topics": [
     "a2a",
     "agent-memory",
