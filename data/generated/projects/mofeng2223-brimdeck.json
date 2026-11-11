@@ -1,0 +1,34 @@
+{
+  "slug": "mofeng2223-brimdeck",
+  "featuredDate": "2026-11-11",
+  "fullName": "MoFeng2223/BrimDeck",
+  "name": "BrimDeck",
+  "owner": "MoFeng2223",
+  "repoUrl": "https://github.com/MoFeng2223/BrimDeck",
+  "homepage": null,
+  "description": "A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.",
+  "language": "C#",
+  "stars": 562,
+  "forks": 50,
+  "openIssues": 35,
+  "createdAt": "2026-09-03T07:58:39Z",
+  "updatedAt": "2026-11-11T07:24:44Z",
+  "pushedAt": "2026-11-11T07:34:52Z",
+  "topics": [
+    "dynamic-island",
+    "media-controls",
+    "usage-tracking",
+    "windows11"
+  ],
+  "summaryZh": "A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more. 它主要面向代码场景，适合做 AI 编程助手、代码生成或自动修复。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做 AI Coding、代码审核、开发提效产品的团队。",
+  "tags": [
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 51,
+  "totalScore": 83
+}

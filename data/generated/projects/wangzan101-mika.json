@@ -1,0 +1,39 @@
+{
+  "slug": "wangzan101-mika",
+  "featuredDate": "2026-11-11",
+  "fullName": "wangzan101/Mika",
+  "name": "Mika",
+  "owner": "wangzan101",
+  "repoUrl": "https://github.com/wangzan101/Mika",
+  "homepage": "https://mikaphone.com",
+  "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+  "language": "Kotlin",
+  "stars": 8133,
+  "forks": 1855,
+  "openIssues": 140,
+  "createdAt": "2026-10-29T14:34:07Z",
+  "updatedAt": "2026-11-11T07:40:19Z",
+  "pushedAt": "2026-11-11T07:39:57Z",
+  "topics": [
+    "accessibility",
+    "ai-agent",
+    "android",
+    "automation",
+    "jetpack-compose",
+    "kotlin",
+    "llm",
+    "mobile-agent"
+  ],
+  "summaryZh": "An on-device AI agent for Android that operates apps and the web to get things done for you. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 90
+}
