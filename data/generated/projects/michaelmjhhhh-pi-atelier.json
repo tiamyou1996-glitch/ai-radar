@@ -1,0 +1,43 @@
+{
+  "slug": "michaelmjhhhh-pi-atelier",
+  "featuredDate": "2026-11-13",
+  "fullName": "michaelmjhhhh/pi-atelier",
+  "name": "pi-atelier",
+  "owner": "michaelmjhhhh",
+  "repoUrl": "https://github.com/michaelmjhhhh/pi-atelier",
+  "homepage": "https://pi.dev/packages/pi-atelier",
+  "description": "An elegant, information-rich status, menu, and side bar for Pi Agent.",
+  "language": "TypeScript",
+  "stars": 386,
+  "forks": 35,
+  "openIssues": 7,
+  "createdAt": "2026-07-15T12:03:30Z",
+  "updatedAt": "2026-11-11T07:20:58Z",
+  "pushedAt": "2026-11-13T07:49:22Z",
+  "topics": [
+    "agent",
+    "cli",
+    "cli-tool",
+    "extension",
+    "ghostty",
+    "mit-license",
+    "pi-agent",
+    "pi-agent-extension",
+    "terminal",
+    "terminal-ui",
+    "typescript",
+    "vibe-coding"
+  ],
+  "summaryZh": "An elegant, information-rich status, menu, and side bar for Pi Agent. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
