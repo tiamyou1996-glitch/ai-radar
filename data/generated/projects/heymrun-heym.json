@@ -1,6 +1,6 @@
 {
   "slug": "heymrun-heym",
-  "featuredDate": "2026-11-03",
+  "featuredDate": "2026-11-14",
   "fullName": "heymrun/heym",
   "name": "heym",
   "owner": "heymrun",
@@ -8,12 +8,12 @@
   "homepage": "https://heym.run",
   "description": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every execution, and keep humans in control. Deploy Heym on your own infrastructure.",
   "language": "Python",
-  "stars": 1282,
-  "forks": 99,
-  "openIssues": 2,
+  "stars": 1636,
+  "forks": 126,
+  "openIssues": 4,
   "createdAt": "2026-03-28T08:08:49Z",
-  "updatedAt": "2026-11-03T07:38:18Z",
-  "pushedAt": "2026-11-03T07:38:14Z",
+  "updatedAt": "2026-11-14T07:24:14Z",
+  "pushedAt": "2026-11-14T07:29:22Z",
   "topics": [
     "a2a",
     "a2a-mcp",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 93,
+  "qualityScore": 95,
   "relevanceScore": 73,
-  "totalScore": 88
+  "totalScore": 89
 }
