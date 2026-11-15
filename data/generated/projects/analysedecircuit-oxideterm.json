@@ -1,19 +1,19 @@
 {
   "slug": "analysedecircuit-oxideterm",
-  "featuredDate": "2026-11-07",
+  "featuredDate": "2026-11-15",
   "fullName": "AnalyseDeCircuit/oxideterm",
   "name": "oxideterm",
   "owner": "AnalyseDeCircuit",
   "repoUrl": "https://github.com/AnalyseDeCircuit/oxideterm",
   "homepage": "https://oxideterm.app",
-  "description": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI",
+  "description": "AI-native workspace for local shells and remote machines in Rust+GPUI. Combines split-pane SSH, SFTP, remote file editing, and MCP tools with the semantic coloring and free-type input ergonomics familiar from WindTerm. Zero WebView, zero OpenSSL, zero telemetry, and no app subscription.",
   "language": "Rust",
-  "stars": 1790,
-  "forks": 154,
-  "openIssues": 30,
+  "stars": 1867,
+  "forks": 161,
+  "openIssues": 38,
   "createdAt": "2026-01-21T07:30:14Z",
-  "updatedAt": "2026-11-07T07:00:32Z",
-  "pushedAt": "2026-11-07T07:00:26Z",
+  "updatedAt": "2026-11-15T05:00:35Z",
+  "pushedAt": "2026-11-15T07:12:56Z",
   "topics": [
     "agent",
     "ai-terminal",
@@ -35,7 +35,7 @@
     "terminal-emulator",
     "tool-calling"
   ],
-  "summaryZh": "AI-native workspace for local shells and remote machines.Zero Webview, zero OpenSSL, zero telemetry, and no app subscription.Written in Rust+GPUI 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "AI-native workspace for local shells and remote machines in Rust+GPUI. Combines split-pane SSH, SFTP, remote file editing, and MCP tools with the semantic coloring and free-type input ergonomics familiar from WindTerm. Zero WebView, zero OpenSSL, zero telemetry, and no app subscription. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 66,
-  "totalScore": 87
+  "totalScore": 88
 }
