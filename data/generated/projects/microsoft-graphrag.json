@@ -1,0 +1,39 @@
+{
+  "slug": "microsoft-graphrag",
+  "featuredDate": "2026-11-16",
+  "fullName": "microsoft/graphrag",
+  "name": "graphrag",
+  "owner": "microsoft",
+  "repoUrl": "https://github.com/microsoft/graphrag",
+  "homepage": "https://microsoft.github.io/graphrag/",
+  "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+  "language": "Python",
+  "stars": 36652,
+  "forks": 3889,
+  "openIssues": 69,
+  "createdAt": "2024-03-27T17:57:52Z",
+  "updatedAt": "2026-11-16T07:34:49Z",
+  "pushedAt": "2026-11-16T07:27:30Z",
+  "topics": [
+    "gpt",
+    "gpt-4",
+    "gpt4",
+    "graphrag",
+    "llm",
+    "llms",
+    "rag"
+  ],
+  "summaryZh": "A modular graph-based Retrieval-Augmented Generation (RAG) system 它更偏数据接入和知识增强，适合做企业检索、问答和私有数据助手。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做知识库问答、企业搜索和私有数据助手的产品团队。",
+  "tags": [
+    "RAG",
+    "Image",
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

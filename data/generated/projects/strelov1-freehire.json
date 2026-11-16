@@ -1,6 +1,6 @@
 {
   "slug": "strelov1-freehire",
-  "featuredDate": "2026-09-07",
+  "featuredDate": "2026-11-16",
   "fullName": "strelov1/freehire",
   "name": "freehire",
   "owner": "strelov1",
@@ -8,12 +8,12 @@
   "homepage": "https://freehire.me",
   "description": "freehire — the open-source search engine for job seekers",
   "language": "Go",
-  "stars": 614,
-  "forks": 106,
-  "openIssues": 60,
+  "stars": 3545,
+  "forks": 385,
+  "openIssues": 42,
   "createdAt": "2026-06-07T03:20:31Z",
-  "updatedAt": "2026-09-07T05:59:02Z",
-  "pushedAt": "2026-09-07T05:58:55Z",
+  "updatedAt": "2026-11-16T07:52:53Z",
+  "pushedAt": "2026-11-16T07:50:52Z",
   "topics": [
     "ats",
     "career",
@@ -44,7 +44,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 84
+  "totalScore": 88
 }
