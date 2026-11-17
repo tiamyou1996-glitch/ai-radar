@@ -1,6 +1,6 @@
 {
   "slug": "wici-ai-inferssd",
-  "featuredDate": "2026-11-11",
+  "featuredDate": "2026-11-17",
   "fullName": "wici-ai/inferssd",
   "name": "inferssd",
   "owner": "wici-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://wici.ai/inferssd",
   "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
   "language": "C++",
-  "stars": 387,
-  "forks": 67,
-  "openIssues": 23,
+  "stars": 1215,
+  "forks": 105,
+  "openIssues": 29,
   "createdAt": "2026-10-22T10:40:45Z",
-  "updatedAt": "2026-11-11T07:18:41Z",
-  "pushedAt": "2026-11-11T07:41:49Z",
+  "updatedAt": "2026-11-17T08:54:41Z",
+  "pushedAt": "2026-11-17T09:03:47Z",
   "topics": [
     "apple-silicon",
     "cuda",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 93,
   "relevanceScore": 62,
-  "totalScore": 86
+  "totalScore": 88
 }
