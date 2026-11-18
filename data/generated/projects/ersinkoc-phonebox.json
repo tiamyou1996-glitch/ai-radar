@@ -1,6 +1,6 @@
 {
   "slug": "ersinkoc-phonebox",
-  "featuredDate": "2026-11-17",
+  "featuredDate": "2026-11-18",
   "fullName": "ersinkoc/phonebox",
   "name": "phonebox",
   "owner": "ersinkoc",
@@ -8,12 +8,12 @@
   "homepage": "https://ersinkoc.github.io/phonebox/",
   "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
   "language": "C#",
-  "stars": 2151,
-  "forks": 289,
-  "openIssues": 14,
+  "stars": 2852,
+  "forks": 401,
+  "openIssues": 18,
   "createdAt": "2026-11-07T16:45:16Z",
-  "updatedAt": "2026-11-17T09:05:51Z",
-  "pushedAt": "2026-11-17T09:05:49Z",
+  "updatedAt": "2026-11-18T08:27:16Z",
+  "pushedAt": "2026-11-18T08:28:12Z",
   "topics": [
     "android",
     "claude-code",
@@ -40,7 +40,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 96,
+  "qualityScore": 98,
   "relevanceScore": 51,
-  "totalScore": 87
+  "totalScore": 88
 }

@@ -1,6 +1,6 @@
 {
   "slug": "microsoft-intelligent-terminal",
-  "featuredDate": "2026-10-20",
+  "featuredDate": "2026-11-18",
   "fullName": "microsoft/intelligent-terminal",
   "name": "intelligent-terminal",
   "owner": "microsoft",
@@ -8,12 +8,12 @@
   "homepage": "https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/",
   "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
   "language": "C++",
-  "stars": 2065,
-  "forks": 166,
-  "openIssues": 159,
+  "stars": 2239,
+  "forks": 182,
+  "openIssues": 150,
   "createdAt": "2026-05-18T10:57:07Z",
-  "updatedAt": "2026-10-20T05:50:45Z",
-  "pushedAt": "2026-10-20T05:50:40Z",
+  "updatedAt": "2026-11-18T07:24:25Z",
+  "pushedAt": "2026-11-18T08:27:57Z",
   "topics": [
     "acp",
     "agent",
@@ -35,8 +35,8 @@
     "Agent"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 96,
+  "trendScore": 92,
+  "qualityScore": 97,
   "relevanceScore": 55,
-  "totalScore": 88
+  "totalScore": 86
 }

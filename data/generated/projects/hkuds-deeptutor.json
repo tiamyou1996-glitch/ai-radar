@@ -1,6 +1,6 @@
 {
   "slug": "hkuds-deeptutor",
-  "featuredDate": "2026-09-14",
+  "featuredDate": "2026-11-18",
   "fullName": "HKUDS/DeepTutor",
   "name": "DeepTutor",
   "owner": "HKUDS",
@@ -8,20 +8,20 @@
   "homepage": "http://arxiv.org/abs/2604.26962",
   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
   "language": "Python",
-  "stars": 39539,
-  "forks": 4962,
-  "openIssues": 218,
+  "stars": 60226,
+  "forks": 7292,
+  "openIssues": 340,
   "createdAt": "2025-12-28T15:35:54Z",
-  "updatedAt": "2026-09-14T06:05:31Z",
-  "pushedAt": "2026-09-14T05:51:30Z",
+  "updatedAt": "2026-11-18T08:24:35Z",
+  "pushedAt": "2026-11-18T08:16:21Z",
   "topics": [
     "ai-agents",
     "ai-tutor",
-    "clawdbot",
+    "clawbot",
     "cli-tool",
     "deepresearch",
     "interactive-learning",
-    "large-language-models",
+    "learning",
     "multi-agent-systems",
     "rag"
   ],
@@ -31,7 +31,7 @@
   "tags": [
     "Agent",
     "RAG",
-    "Model"
+    "Research"
   ],
   "source": "github",
   "trendScore": 92,
