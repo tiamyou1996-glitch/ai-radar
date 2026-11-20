@@ -1,19 +1,19 @@
 {
   "slug": "horizonwind2004-reconstruction-alignment",
-  "featuredDate": "2026-09-11",
+  "featuredDate": "2026-11-20",
   "fullName": "HorizonWind2004/reconstruction-alignment",
   "name": "reconstruction-alignment",
   "owner": "HorizonWind2004",
   "repoUrl": "https://github.com/HorizonWind2004/reconstruction-alignment",
   "homepage": "https://reconstruction-alignment.github.io/",
-  "description": "[ICLR 2026] RecA: Self-supervised post-training for unified multimodal models, improving image generation through visual understanding.",
+  "description": "[ICLR 2026] RecA: visual understanding help generation through self-supervised learning",
   "language": "Python",
-  "stars": 414,
-  "forks": 18,
+  "stars": 420,
+  "forks": 19,
   "openIssues": 5,
   "createdAt": "2025-09-10T02:15:41Z",
-  "updatedAt": "2026-09-11T03:10:35Z",
-  "pushedAt": "2026-09-11T03:10:31Z",
+  "updatedAt": "2026-11-17T15:25:04Z",
+  "pushedAt": "2026-11-20T07:13:37Z",
   "topics": [
     "aigc",
     "bagel",
@@ -28,17 +28,16 @@
     "understanding",
     "unified"
   ],
-  "summaryZh": "[ICLR 2026] RecA: Self-supervised post-training for unified multimodal models, improving image generation through visual understanding. 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
+  "summaryZh": "[ICLR 2026] RecA: visual understanding help generation through self-supervised learning 这是偏视觉和多模态方向的项目，适合关注图像理解与感知交互。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合做多模态体验、视觉应用和创作工具的团队。",
   "tags": [
     "Vision",
-    "Image",
-    "Model"
+    "Image"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 87,
-  "relevanceScore": 65,
-  "totalScore": 84
+  "relevanceScore": 58,
+  "totalScore": 83
 }

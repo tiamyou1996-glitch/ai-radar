@@ -1,6 +1,6 @@
 {
   "slug": "omnijev-flide",
-  "featuredDate": "2026-11-11",
+  "featuredDate": "2026-11-20",
   "fullName": "OmniJev/Flide",
   "name": "Flide",
   "owner": "OmniJev",
@@ -8,12 +8,12 @@
   "homepage": "https://flide.org",
   "description": "🔥🔥 The extremely fast inference engine for decision model",
   "language": "Python",
-  "stars": 401,
-  "forks": 25,
-  "openIssues": 6,
+  "stars": 546,
+  "forks": 37,
+  "openIssues": 5,
   "createdAt": "2026-10-24T12:34:07Z",
-  "updatedAt": "2026-11-11T07:26:15Z",
-  "pushedAt": "2026-11-11T05:15:57Z",
+  "updatedAt": "2026-11-20T08:05:39Z",
+  "pushedAt": "2026-11-20T07:05:17Z",
   "topics": [
     "ai-agents",
     "cuda",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 89,
   "relevanceScore": 73,
   "totalScore": 89
 }
