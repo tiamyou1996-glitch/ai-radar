@@ -1,6 +1,6 @@
 {
   "slug": "sgl-project-sglang-omni",
-  "featuredDate": "2026-11-20",
+  "featuredDate": "2026-11-21",
   "fullName": "sgl-project/sglang-omni",
   "name": "sglang-omni",
   "owner": "sgl-project",
@@ -8,12 +8,12 @@
   "homepage": "https://sgl-project.github.io/sglang-omni/",
   "description": "High Performance Serving Runtime For Interactive Super Intelligence System",
   "language": "Python",
-  "stars": 1851,
-  "forks": 772,
-  "openIssues": 1220,
+  "stars": 1877,
+  "forks": 780,
+  "openIssues": 1259,
   "createdAt": "2026-01-07T06:58:29Z",
-  "updatedAt": "2026-11-20T08:11:12Z",
-  "pushedAt": "2026-11-20T07:20:34Z",
+  "updatedAt": "2026-11-21T06:02:48Z",
+  "pushedAt": "2026-11-21T07:41:49Z",
   "topics": [
     "asr",
     "audio-generation",
@@ -42,7 +42,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 65,
-  "totalScore": 87
+  "totalScore": 88
 }
