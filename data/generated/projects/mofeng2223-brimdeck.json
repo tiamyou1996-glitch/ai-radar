@@ -1,6 +1,6 @@
 {
   "slug": "mofeng2223-brimdeck",
-  "featuredDate": "2026-11-16",
+  "featuredDate": "2026-11-22",
   "fullName": "MoFeng2223/BrimDeck",
   "name": "BrimDeck",
   "owner": "MoFeng2223",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.",
   "language": "C#",
-  "stars": 748,
-  "forks": 72,
-  "openIssues": 49,
+  "stars": 864,
+  "forks": 90,
+  "openIssues": 46,
   "createdAt": "2026-09-03T07:58:39Z",
-  "updatedAt": "2026-11-16T07:53:24Z",
-  "pushedAt": "2026-11-16T07:21:48Z",
+  "updatedAt": "2026-11-22T07:27:36Z",
+  "pushedAt": "2026-11-22T07:39:30Z",
   "topics": [
     "dynamic-island",
     "media-controls",
@@ -28,7 +28,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 51,
   "totalScore": 84
 }

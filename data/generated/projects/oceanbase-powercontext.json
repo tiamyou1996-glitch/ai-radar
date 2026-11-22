@@ -1,6 +1,6 @@
 {
   "slug": "oceanbase-powercontext",
-  "featuredDate": "2026-11-02",
+  "featuredDate": "2026-11-22",
   "fullName": "oceanbase/powercontext",
   "name": "powercontext",
   "owner": "oceanbase",
@@ -8,12 +8,12 @@
   "homepage": "https://powercontext.oceanbase.io",
   "description": "Agent memory: long-term memory & agent memory handoff. Claude Code & Codex.",
   "language": "Python",
-  "stars": 1483,
-  "forks": 566,
-  "openIssues": 134,
+  "stars": 1779,
+  "forks": 682,
+  "openIssues": 159,
   "createdAt": "2025-11-10T02:46:06Z",
-  "updatedAt": "2026-11-02T07:35:47Z",
-  "pushedAt": "2026-11-02T07:35:41Z",
+  "updatedAt": "2026-11-22T07:54:00Z",
+  "pushedAt": "2026-11-22T07:37:50Z",
   "topics": [
     "agent",
     "agent-context",
@@ -41,7 +41,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 94,
+  "qualityScore": 95,
   "relevanceScore": 73,
   "totalScore": 89
 }

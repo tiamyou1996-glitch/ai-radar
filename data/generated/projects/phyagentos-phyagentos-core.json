@@ -1,0 +1,37 @@
+{
+  "slug": "phyagentos-phyagentos-core",
+  "featuredDate": "2026-11-22",
+  "fullName": "PhyAgentOS/PhyAgentOS-core",
+  "name": "PhyAgentOS-core",
+  "owner": "PhyAgentOS",
+  "repoUrl": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+  "homepage": "https://phy-agent-os.x-era.com/",
+  "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
+  "language": "Python",
+  "stars": 3013,
+  "forks": 140,
+  "openIssues": 8,
+  "createdAt": "2026-03-12T05:12:10Z",
+  "updatedAt": "2026-11-21T10:13:20Z",
+  "pushedAt": "2026-11-22T07:43:54Z",
+  "topics": [
+    "agent",
+    "claw",
+    "embodied-agent",
+    "embodied-ai",
+    "harness",
+    "rsi",
+    "self-evolution"
+  ],
+  "summaryZh": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 55,
+  "totalScore": 86
+}

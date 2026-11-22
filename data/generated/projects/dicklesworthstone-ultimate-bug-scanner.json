@@ -1,6 +1,6 @@
 {
   "slug": "dicklesworthstone-ultimate-bug-scanner",
-  "featuredDate": "2026-10-01",
+  "featuredDate": "2026-11-22",
   "fullName": "Dicklesworthstone/ultimate_bug_scanner",
   "name": "ultimate_bug_scanner",
   "owner": "Dicklesworthstone",
@@ -8,12 +8,12 @@
   "homepage": null,
   "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails",
   "language": "Python",
-  "stars": 304,
+  "stars": 319,
   "forks": 44,
-  "openIssues": 4,
+  "openIssues": 29,
   "createdAt": "2025-11-16T10:01:59Z",
-  "updatedAt": "2026-10-01T06:55:40Z",
-  "pushedAt": "2026-10-01T06:55:36Z",
+  "updatedAt": "2026-11-21T02:32:39Z",
+  "pushedAt": "2026-11-22T07:24:10Z",
   "topics": [
     "agent-tools",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 82,
+  "qualityScore": 83,
   "relevanceScore": 62,
   "totalScore": 82
 }
