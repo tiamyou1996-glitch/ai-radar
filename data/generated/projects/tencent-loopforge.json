@@ -1,6 +1,6 @@
 {
   "slug": "tencent-loopforge",
-  "featuredDate": "2026-11-17",
+  "featuredDate": "2026-11-23",
   "fullName": "Tencent/LoopForge",
   "name": "LoopForge",
   "owner": "Tencent",
@@ -8,12 +8,12 @@
   "homepage": "https://loopforge.cn",
   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
   "language": "Go",
-  "stars": 2558,
-  "forks": 386,
-  "openIssues": 168,
+  "stars": 5789,
+  "forks": 808,
+  "openIssues": 333,
   "createdAt": "2026-07-28T03:51:01Z",
-  "updatedAt": "2026-11-17T09:05:51Z",
-  "pushedAt": "2026-11-17T09:05:39Z",
+  "updatedAt": "2026-11-23T08:53:18Z",
+  "pushedAt": "2026-11-23T08:53:13Z",
   "topics": [
     "agent-orchestration",
     "agentic-workflow",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 91
+  "totalScore": 92
 }

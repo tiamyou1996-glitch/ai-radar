@@ -1,0 +1,40 @@
+{
+  "slug": "wangrongding-superhive",
+  "featuredDate": "2026-11-23",
+  "fullName": "wangrongding/SuperHive",
+  "name": "SuperHive",
+  "owner": "wangrongding",
+  "repoUrl": "https://github.com/wangrongding/SuperHive",
+  "homepage": "https://wangrongding.github.io/SuperHive/",
+  "description": "An open-source shared workspace for humans and AI coding agents. Run it on your own computer or a cloud server and open it in the browser.",
+  "language": "TypeScript",
+  "stars": 713,
+  "forks": 31,
+  "openIssues": 0,
+  "createdAt": "2023-09-07T05:52:37Z",
+  "updatedAt": "2026-11-23T08:54:24Z",
+  "pushedAt": "2026-11-23T08:52:27Z",
+  "topics": [
+    "agent-collaboration",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "collaboration",
+    "mcp",
+    "multi-agent",
+    "self-hosted",
+    "typescript"
+  ],
+  "summaryZh": "An open-source shared workspace for humans and AI coding agents. Run it on your own computer or a cloud server and open it in the browser. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 90,
+  "relevanceScore": 62,
+  "totalScore": 85
+}

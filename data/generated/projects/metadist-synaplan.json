@@ -1,6 +1,6 @@
 {
   "slug": "metadist-synaplan",
-  "featuredDate": "2026-11-20",
+  "featuredDate": "2026-11-23",
   "fullName": "metadist/synaplan",
   "name": "synaplan",
   "owner": "metadist",
@@ -8,12 +8,12 @@
   "homepage": "https://www.synaplan.com",
   "description": "Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.",
   "language": "PHP",
-  "stars": 978,
-  "forks": 118,
-  "openIssues": 14,
+  "stars": 1137,
+  "forks": 126,
+  "openIssues": 12,
   "createdAt": "2025-03-30T18:33:30Z",
-  "updatedAt": "2026-11-20T08:15:32Z",
-  "pushedAt": "2026-11-20T08:14:49Z",
+  "updatedAt": "2026-11-23T07:54:12Z",
+  "pushedAt": "2026-11-23T08:44:44Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 73,
   "totalScore": 88
 }
