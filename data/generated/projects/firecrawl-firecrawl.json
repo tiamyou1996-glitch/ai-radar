@@ -1,19 +1,19 @@
 {
   "slug": "firecrawl-firecrawl",
-  "featuredDate": "2026-08-27",
+  "featuredDate": "2026-11-24",
   "fullName": "firecrawl/firecrawl",
   "name": "firecrawl",
   "owner": "firecrawl",
   "repoUrl": "https://github.com/firecrawl/firecrawl",
   "homepage": "https://firecrawl.dev",
-  "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
   "language": "TypeScript",
-  "stars": 173025,
-  "forks": 9543,
-  "openIssues": 555,
+  "stars": 208353,
+  "forks": 10886,
+  "openIssues": 924,
   "createdAt": "2024-04-15T21:02:29Z",
-  "updatedAt": "2026-08-27T11:08:08Z",
-  "pushedAt": "2026-08-27T11:03:37Z",
+  "updatedAt": "2026-11-24T10:48:04Z",
+  "pushedAt": "2026-11-24T10:46:53Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,16 +35,17 @@
     "web-search",
     "webscraping"
   ],
-  "summaryZh": "The context API to search, scrape, and interact with the web at scale. 🔥 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
-  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
   "tags": [
     "Agent",
-    "Model"
+    "RAG",
+    "Infra"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 98,
-  "relevanceScore": 62,
-  "totalScore": 88
+  "relevanceScore": 77,
+  "totalScore": 91
 }

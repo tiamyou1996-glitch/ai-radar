@@ -1,6 +1,6 @@
 {
   "slug": "mdiri-ai-soduwork",
-  "featuredDate": "2026-11-18",
+  "featuredDate": "2026-11-24",
   "fullName": "mdiri-ai/SoduWork",
   "name": "SoduWork",
   "owner": "mdiri-ai",
@@ -8,12 +8,12 @@
   "homepage": "https://www.soduwork.ai",
   "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
   "language": "JavaScript",
-  "stars": 2294,
-  "forks": 272,
-  "openIssues": 91,
+  "stars": 7495,
+  "forks": 647,
+  "openIssues": 235,
   "createdAt": "2026-10-29T02:43:14Z",
-  "updatedAt": "2026-11-18T08:27:45Z",
-  "pushedAt": "2026-11-18T08:22:37Z",
+  "updatedAt": "2026-11-24T10:50:24Z",
+  "pushedAt": "2026-11-24T10:47:00Z",
   "topics": [
     "agent-harness",
     "agent-orchestration",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 97,
+  "qualityScore": 98,
   "relevanceScore": 69,
-  "totalScore": 91
+  "totalScore": 92
 }

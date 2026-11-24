@@ -1,0 +1,37 @@
+{
+  "slug": "tauricresearch-tradingagents",
+  "featuredDate": "2026-11-24",
+  "fullName": "TauricResearch/TradingAgents",
+  "name": "TradingAgents",
+  "owner": "TauricResearch",
+  "repoUrl": "https://github.com/TauricResearch/TradingAgents",
+  "homepage": "https://tauric.ai",
+  "description": "TradingAgents: Towards Agentic Finance Research",
+  "language": "Python",
+  "stars": 123655,
+  "forks": 23683,
+  "openIssues": 162,
+  "createdAt": "2024-12-28T03:31:08Z",
+  "updatedAt": "2026-11-24T10:17:56Z",
+  "pushedAt": "2026-11-24T10:50:08Z",
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "summaryZh": "TradingAgents: Towards Agentic Finance Research 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Model",
+    "Research"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 69,
+  "totalScore": 89
+}

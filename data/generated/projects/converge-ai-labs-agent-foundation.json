@@ -1,6 +1,6 @@
 {
   "slug": "converge-ai-labs-agent-foundation",
-  "featuredDate": "2026-11-11",
+  "featuredDate": "2026-11-24",
   "fullName": "converge-ai-labs/agent-foundation",
   "name": "agent-foundation",
   "owner": "converge-ai-labs",
@@ -8,12 +8,12 @@
   "homepage": "https://a13n.dev",
   "description": "a13n - Build, run, and manage AI agents at scale on your own infrastructure. Open source, with a built-in harness, durable execution, multi-provider support, and a management console. Built With Love 💜 @converge-ai-labs",
   "language": "Python",
-  "stars": 1043,
-  "forks": 32,
+  "stars": 1552,
+  "forks": 40,
   "openIssues": 36,
   "createdAt": "2026-08-18T12:44:56Z",
-  "updatedAt": "2026-11-11T07:39:29Z",
-  "pushedAt": "2026-11-11T07:35:20Z",
+  "updatedAt": "2026-11-24T10:48:56Z",
+  "pushedAt": "2026-11-24T10:46:16Z",
   "topics": [
     "a13n",
     "agent",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 94,
   "relevanceScore": 66,
-  "totalScore": 89
+  "totalScore": 90
 }
