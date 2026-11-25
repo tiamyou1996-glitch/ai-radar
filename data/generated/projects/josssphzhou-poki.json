@@ -1,6 +1,6 @@
 {
   "slug": "josssphzhou-poki",
-  "featuredDate": "2026-11-22",
+  "featuredDate": "2026-11-25",
   "fullName": "JosssphZhou/poki",
   "name": "poki",
   "owner": "JosssphZhou",
@@ -8,12 +8,12 @@
   "homepage": "https://poki.bot",
   "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
   "language": "Swift",
-  "stars": 1770,
-  "forks": 271,
-  "openIssues": 161,
+  "stars": 1970,
+  "forks": 289,
+  "openIssues": 171,
   "createdAt": "2026-11-05T15:04:31Z",
-  "updatedAt": "2026-11-22T07:56:01Z",
-  "pushedAt": "2026-11-22T07:49:19Z",
+  "updatedAt": "2026-11-25T09:44:33Z",
+  "pushedAt": "2026-11-25T09:40:33Z",
   "topics": [
     "ai-agents",
     "ai-assistant",
@@ -43,7 +43,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 95,
+  "qualityScore": 96,
   "relevanceScore": 69,
   "totalScore": 91
 }

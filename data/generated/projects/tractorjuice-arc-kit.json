@@ -1,19 +1,19 @@
 {
   "slug": "tractorjuice-arc-kit",
-  "featuredDate": "2026-11-07",
+  "featuredDate": "2026-11-25",
   "fullName": "tractorjuice/arc-kit",
   "name": "arc-kit",
   "owner": "tractorjuice",
   "repoUrl": "https://github.com/tractorjuice/arc-kit",
   "homepage": "https://arckit.org/",
-  "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
+  "description": "Enterprise architecture governance for Claude Code and other AI coding assistants. 76 commands draft requirements, business cases and design reviews.",
   "language": "JavaScript",
-  "stars": 2274,
-  "forks": 286,
-  "openIssues": 12,
+  "stars": 2291,
+  "forks": 285,
+  "openIssues": 14,
   "createdAt": "2025-10-14T10:25:11Z",
-  "updatedAt": "2026-11-07T06:42:35Z",
-  "pushedAt": "2026-11-07T06:42:32Z",
+  "updatedAt": "2026-11-24T19:58:43Z",
+  "pushedAt": "2026-11-25T09:22:07Z",
   "topics": [
     "ai-agents",
     "ai-governance",
@@ -21,6 +21,7 @@
     "architecture-governance",
     "arckit",
     "claude-code",
+    "claude-code-plugin",
     "codex-cli",
     "compliance",
     "enterprise-architecture",
@@ -28,7 +29,6 @@
     "github-copilot",
     "govtech",
     "mcp",
-    "model-context-protocol",
     "opencode",
     "procurement",
     "public-sector",
@@ -36,17 +36,16 @@
     "software-architecture",
     "traceability"
   ],
-  "summaryZh": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "summaryZh": "Enterprise architecture governance for Claude Code and other AI coding assistants. 76 commands draft requirements, business cases and design reviews. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
   "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
   "tags": [
     "Agent",
-    "Coding",
-    "Model"
+    "Coding"
   ],
   "source": "github",
   "trendScore": 92,
   "qualityScore": 97,
-  "relevanceScore": 69,
-  "totalScore": 89
+  "relevanceScore": 62,
+  "totalScore": 87
 }
