@@ -1,0 +1,30 @@
+{
+  "slug": "multica-ai-multica",
+  "featuredDate": "2026-11-26",
+  "fullName": "multica-ai/multica",
+  "name": "multica",
+  "owner": "multica-ai",
+  "repoUrl": "https://github.com/multica-ai/multica",
+  "homepage": "https://multica.ai",
+  "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
+  "language": "Go",
+  "stars": 58025,
+  "forks": 7631,
+  "openIssues": 2088,
+  "createdAt": "2026-01-13T17:59:46Z",
+  "updatedAt": "2026-11-26T09:14:50Z",
+  "pushedAt": "2026-11-26T08:59:41Z",
+  "topics": [],
+  "summaryZh": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 92,
+  "qualityScore": 98,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

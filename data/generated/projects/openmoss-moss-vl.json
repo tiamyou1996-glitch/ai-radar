@@ -1,19 +1,19 @@
 {
   "slug": "openmoss-moss-vl",
-  "featuredDate": "2026-09-22",
+  "featuredDate": "2026-11-26",
   "fullName": "OpenMOSS/MOSS-VL",
   "name": "MOSS-VL",
   "owner": "OpenMOSS",
   "repoUrl": "https://github.com/OpenMOSS/MOSS-VL",
-  "homepage": "https://openmoss.ai/MOSS-VL/",
+  "homepage": "https://www.moss-ai.com/models/moss-vl-realtime",
   "description": "An open-weight 11B model series for long-form and real-time video understanding",
-  "language": "HTML",
-  "stars": 723,
-  "forks": 34,
-  "openIssues": 8,
+  "language": "C++",
+  "stars": 840,
+  "forks": 46,
+  "openIssues": 9,
   "createdAt": "2026-04-08T10:54:13Z",
-  "updatedAt": "2026-09-22T03:40:05Z",
-  "pushedAt": "2026-09-22T03:40:01Z",
+  "updatedAt": "2026-11-26T09:00:51Z",
+  "pushedAt": "2026-11-26T09:00:48Z",
   "topics": [
     "llms",
     "long-video-understanding",
@@ -40,8 +40,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
-  "qualityScore": 90,
+  "trendScore": 92,
+  "qualityScore": 91,
   "relevanceScore": 65,
-  "totalScore": 88
+  "totalScore": 86
 }

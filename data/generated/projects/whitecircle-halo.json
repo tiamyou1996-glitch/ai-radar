@@ -1,6 +1,6 @@
 {
   "slug": "whitecircle-halo",
-  "featuredDate": "2026-11-25",
+  "featuredDate": "2026-11-26",
   "fullName": "whitecircle/halo",
   "name": "halo",
   "owner": "whitecircle",
@@ -8,12 +8,12 @@
   "homepage": "https://whitecircle.com/halo",
   "description": "Halo is an open-source framework built by White Circle for training large language and multimodal models",
   "language": "Python",
-  "stars": 1062,
-  "forks": 63,
-  "openIssues": 22,
+  "stars": 1171,
+  "forks": 77,
+  "openIssues": 36,
   "createdAt": "2026-08-26T13:49:24Z",
-  "updatedAt": "2026-11-25T09:45:09Z",
-  "pushedAt": "2026-11-25T08:11:18Z",
+  "updatedAt": "2026-11-26T08:20:49Z",
+  "pushedAt": "2026-11-26T09:02:42Z",
   "topics": [
     "agent",
     "async-rl",
@@ -46,7 +46,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 92,
+  "qualityScore": 93,
   "relevanceScore": 69,
-  "totalScore": 89
+  "totalScore": 90
 }

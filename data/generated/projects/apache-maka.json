@@ -1,19 +1,19 @@
 {
   "slug": "apache-maka",
-  "featuredDate": "2026-09-28",
+  "featuredDate": "2026-11-26",
   "fullName": "apache/maka",
   "name": "maka",
   "owner": "apache",
   "repoUrl": "https://github.com/apache/maka",
   "homepage": null,
   "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-  "language": "TypeScript",
-  "stars": 5668,
-  "forks": 533,
-  "openIssues": 426,
+  "language": "Rust",
+  "stars": 6009,
+  "forks": 582,
+  "openIssues": 398,
   "createdAt": "2026-05-27T15:46:05Z",
-  "updatedAt": "2026-09-28T06:42:48Z",
-  "pushedAt": "2026-09-28T06:42:43Z",
+  "updatedAt": "2026-11-26T05:00:26Z",
+  "pushedAt": "2026-11-26T09:18:53Z",
   "topics": [
     "agent-runtime",
     "ai",
@@ -21,14 +21,14 @@
     "apache",
     "cli",
     "desktop",
-    "electron",
     "event-sourcing",
     "incubator",
     "llm",
     "local-first",
     "maka",
+    "rust",
     "tool-use",
-    "typescript"
+    "tui"
   ],
   "summaryZh": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
   "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
@@ -39,8 +39,8 @@
     "Model"
   ],
   "source": "github",
-  "trendScore": 98,
+  "trendScore": 92,
   "qualityScore": 98,
   "relevanceScore": 73,
-  "totalScore": 93
+  "totalScore": 90
 }

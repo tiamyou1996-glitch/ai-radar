@@ -1,0 +1,30 @@
+{
+  "slug": "missuo-tokens",
+  "featuredDate": "2026-11-26",
+  "fullName": "missuo/tokens",
+  "name": "tokens",
+  "owner": "missuo",
+  "repoUrl": "https://github.com/missuo/tokens",
+  "homepage": "https://tokens.ci",
+  "description": "Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.",
+  "language": "Rust",
+  "stars": 421,
+  "forks": 35,
+  "openIssues": 5,
+  "createdAt": "2026-05-31T11:09:47Z",
+  "updatedAt": "2026-11-26T09:01:51Z",
+  "pushedAt": "2026-11-26T09:24:15Z",
+  "topics": [],
+  "summaryZh": "Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 87,
+  "relevanceScore": 62,
+  "totalScore": 86
+}
