@@ -1,6 +1,6 @@
 {
   "slug": "llm-d-llm-d-router",
-  "featuredDate": "2026-11-04",
+  "featuredDate": "2026-11-27",
   "fullName": "llm-d/llm-d-router",
   "name": "llm-d-router",
   "owner": "llm-d",
@@ -8,12 +8,12 @@
   "homepage": "https://llm-d.ai/docs/architecture/core/router",
   "description": "llm-d Router: The intelligent entry point for inference requests",
   "language": "Go",
-  "stars": 449,
-  "forks": 507,
-  "openIssues": 382,
+  "stars": 489,
+  "forks": 584,
+  "openIssues": 489,
   "createdAt": "2025-05-05T12:45:33Z",
-  "updatedAt": "2026-11-04T07:09:30Z",
-  "pushedAt": "2026-11-04T07:09:27Z",
+  "updatedAt": "2026-11-27T07:45:10Z",
+  "pushedAt": "2026-11-27T09:32:40Z",
   "topics": [
     "ai",
     "gateway-api",
@@ -30,7 +30,7 @@
   ],
   "source": "github",
   "trendScore": 92,
-  "qualityScore": 87,
+  "qualityScore": 88,
   "relevanceScore": 62,
   "totalScore": 84
 }

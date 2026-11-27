@@ -1,0 +1,40 @@
+{
+  "slug": "luqman-v1-9router-go",
+  "featuredDate": "2026-11-27",
+  "fullName": "luqman-v1/9router-go",
+  "name": "9router-go",
+  "owner": "luqman-v1",
+  "repoUrl": "https://github.com/luqman-v1/9router-go",
+  "homepage": "https://luqman-v1.github.io/9router-go/",
+  "description": "High-performance Go proxy gateway for 9Router LLM routing — 32K RPS, 42MB RAM, CGO-free",
+  "language": "Go",
+  "stars": 309,
+  "forks": 136,
+  "openIssues": 24,
+  "createdAt": "2026-07-18T08:30:15Z",
+  "updatedAt": "2026-11-26T10:01:50Z",
+  "pushedAt": "2026-11-27T09:31:59Z",
+  "topics": [
+    "9router",
+    "api-gateway",
+    "claude",
+    "deepseek",
+    "gpt",
+    "llm",
+    "openai",
+    "proxy",
+    "sqlite",
+    "sse"
+  ],
+  "summaryZh": "High-performance Go proxy gateway for 9Router LLM routing — 32K RPS, 42MB RAM, CGO-free 这是偏模型能力或模型封装的项目，适合作为能力底座持续观察。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合在持续跟踪 AI 开源趋势时作为重点观察对象。",
+  "tags": [
+    "Model"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 85,
+  "relevanceScore": 51,
+  "totalScore": 83
+}

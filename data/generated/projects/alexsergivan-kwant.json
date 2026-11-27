@@ -1,6 +1,6 @@
 {
   "slug": "alexsergivan-kwant",
-  "featuredDate": "2026-11-16",
+  "featuredDate": "2026-11-27",
   "fullName": "alexsergivan/kwant",
   "name": "kwant",
   "owner": "alexsergivan",
@@ -8,12 +8,12 @@
   "homepage": "https://kwant.si",
   "description": "Your own team of AI bots in one self-hosted binary: spaces, every account you have, handoffs, approvals and routines. Open-source, self-hosted alternative to Grok Bot, Claude Duet and OpenAI dots. Rust + React.",
   "language": "Rust",
-  "stars": 635,
-  "forks": 62,
-  "openIssues": 31,
+  "stars": 716,
+  "forks": 72,
+  "openIssues": 150,
   "createdAt": "2026-10-22T18:41:24Z",
-  "updatedAt": "2026-11-16T07:49:09Z",
-  "pushedAt": "2026-11-16T07:49:35Z",
+  "updatedAt": "2026-11-27T07:23:22Z",
+  "pushedAt": "2026-11-27T09:34:56Z",
   "topics": [
     "ai-agents",
     "ai-assistant",
@@ -45,7 +45,7 @@
   ],
   "source": "github",
   "trendScore": 98,
-  "qualityScore": 89,
+  "qualityScore": 90,
   "relevanceScore": 62,
   "totalScore": 87
 }

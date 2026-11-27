@@ -1,6 +1,6 @@
 {
   "slug": "sonarsource-sonarqube-cli",
-  "featuredDate": "2026-11-25",
+  "featuredDate": "2026-11-27",
   "fullName": "SonarSource/sonarqube-cli",
   "name": "sonarqube-cli",
   "owner": "SonarSource",
@@ -10,10 +10,10 @@
   "language": "TypeScript",
   "stars": 306,
   "forks": 22,
-  "openIssues": 58,
+  "openIssues": 50,
   "createdAt": "2026-02-05T13:43:51Z",
   "updatedAt": "2026-11-24T10:19:12Z",
-  "pushedAt": "2026-11-25T09:45:43Z",
+  "pushedAt": "2026-11-27T09:22:54Z",
   "topics": [
     "agent",
     "ai",
