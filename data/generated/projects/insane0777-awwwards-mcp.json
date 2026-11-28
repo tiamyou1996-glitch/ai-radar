@@ -1,0 +1,42 @@
+{
+  "slug": "insane0777-awwwards-mcp",
+  "featuredDate": "2026-11-28",
+  "fullName": "INSANE0777/Awwwards-mcp",
+  "name": "Awwwards-mcp",
+  "owner": "INSANE0777",
+  "repoUrl": "https://github.com/INSANE0777/Awwwards-mcp",
+  "homepage": "https://www.npmjs.com/package/awwwards-mcp",
+  "description": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key.",
+  "language": "TypeScript",
+  "stars": 976,
+  "forks": 66,
+  "openIssues": 9,
+  "createdAt": "2026-09-18T10:57:09Z",
+  "updatedAt": "2026-11-28T05:01:27Z",
+  "pushedAt": "2026-11-28T08:30:51Z",
+  "topics": [
+    "ai-agents",
+    "awwwards",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "design-inspiration",
+    "mcp",
+    "mcp-server",
+    "opencode",
+    "web-design"
+  ],
+  "summaryZh": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合想做自动化助手、多 Agent 编排和企业工作流的团队。",
+  "tags": [
+    "Agent",
+    "Coding"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 92,
+  "relevanceScore": 62,
+  "totalScore": 88
+}

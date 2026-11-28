@@ -1,0 +1,37 @@
+{
+  "slug": "0xfe-project-eta",
+  "featuredDate": "2026-11-28",
+  "fullName": "0xfe-project/eta",
+  "name": "eta",
+  "owner": "0xfe-project",
+  "repoUrl": "https://github.com/0xfe-project/eta",
+  "homepage": "https://eta.0xfe.tech",
+  "description": "Eta is a self-contained 0-vendor multi-agent all-in-one endomorphic agent loop/runtime/harness/app.",
+  "language": "TypeScript",
+  "stars": 365,
+  "forks": 24,
+  "openIssues": 26,
+  "createdAt": "2026-10-06T12:55:08Z",
+  "updatedAt": "2026-11-28T08:46:51Z",
+  "pushedAt": "2026-11-28T08:33:20Z",
+  "topics": [
+    "agent",
+    "claude-code",
+    "grok-bot",
+    "harness",
+    "muse"
+  ],
+  "summaryZh": "Eta is a self-contained 0-vendor multi-agent all-in-one endomorphic agent loop/runtime/harness/app. 这类项目更偏执行与编排，适合搭自动化工作流或多代理系统。",
+  "whyItMatters": "最近仍在高频更新，仓库成熟度和社区基础都不错。",
+  "fitFor": "适合做推理服务、模型部署、性能优化的工程团队。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Infra"
+  ],
+  "source": "github",
+  "trendScore": 98,
+  "qualityScore": 86,
+  "relevanceScore": 73,
+  "totalScore": 88
+}
